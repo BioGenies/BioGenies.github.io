@@ -1,0 +1,280 @@
+### Prion Structure and Biology
+```{=html}
+<div class="image-description">
+  <div class="image">
+    <img src="figures/k2.jpg" alt="keynote0" width="150" height="150" class="rounded-image">
+  </div>
+  <div class="description">
+    <strong style="font-size: larger;">Jan Bieschke</strong><br>
+    <em>MRC Prion Unit and Institute of Prion diseases</em><br>
+    London, United Kingdom<br>
+    <div class="touchdevice-additional-text" style="color: #0299ce;">
+        <p>Click to know more</p>
+    </div>
+  </div>
+</div>
+
+<div id="popup1" class="popup">
+    <div class="popup-background"></div>
+  <div class="popup-content">
+    <span class="close">&times;</span>
+    <div class="popup-image-description">
+        <img src="figures/k2.jpg" alt="keynote0" width="200" height="200" class="rounded-image">
+    <div class="description">
+        <strong style="font-size: larger;">Jan Bieschke</strong>
+    </div>
+    </div>
+           <div class="popup_descr">The key aim of Dr Bieschke’s research is to understand the central problem in the prion mechanism; what is the change in shape that distinguishes normal prion protein PrPC from its rogue form PrPSc and how does it come about? Specifically, his lab explores the structural causes are for becoming a prion, what the common drivers are for prion replication, what are the mechanistic pathways for prion protein misfolding and self-assembly, and whether the same principles underlie other diseases, both inside the central nervous system and in the rest of the body.<br>His lab combines biophysical techniques with nanoscopic imaging to study the structure, folding and dynamics of prions, both in isolation and with likely binding partners, in order to develop new strategies against prion diseases. He previously pursued his research at the Max-Planck-Institute for Biophysical Chemistry, LMU Munich, The Scripps Research Institute, the Max-Delbrück Center for Molecular Medicine and Washington University in St Louis. Since 2018, Dr Bieschke serves as Associate Professor at the Faculty of Brain Sciences of UCL as well as MRC Investigator and Program Lead at the MRC Prion Unit at UCL.</div>
+  </div>
+</div>
+```
+### Prion Diseases in Animals
+```{=html}
+<!-- Speaker 1 -->
+<div class="image-description">
+  <div class="image">
+    <img src="figures/k3.jpg" alt="keynote0" width="150" height="150" class="rounded-image">
+  </div>
+  <div class="description">
+    <strong style="font-size: larger;">Alicia Otero</strong><br>
+    <em>Centro de Encefalopatias y Enfermedades Transmisibles Emergentes </em><br>
+    University of Zaragoza, Spain<br>
+    <div class="touchdevice-additional-text" style="color: #0299ce;">
+        <p>Click to know more</p>
+    </div>
+  </div>
+</div>
+<div id="popup2" class="popup">
+    <div class="popup-background"></div>
+  <div class="popup-content">
+    <span class="close">&times;</span>
+    <div class="popup-image-description">
+        <img src="figures/k3.jpg" alt="keynote0" width="200" height="200" class="rounded-image">
+    <div class="description">
+        <strong style="font-size: larger;">Alicia Otero</strong>
+    </div>
+    </div>
+        <div class="popup_descr">Alicia Otero is a Professor at the Department of Animal Pathology of the University of Zaragoza and a researcher at Centro de Encefalopatías y Enfermedades Transmisibles Emergentes. Her research focuses on pathogenesis, transmission barrier, biomarkers, and new therapeutic approaches for animal prion diseases. She specializes in the pathology of scrapie, bovine spongiform encephalopathy and chronic wasting disease in natural models and transgenic mouse lines.</div>
+  </div>
+</div>
+```
+### Prion & Prion-like Diseases in Humans
+```{=html}
+<!-- Speaker 2 -->
+<div class="image-description">
+  <div class="image">
+    <img src="figures/k1.jpg" alt="keynote0" width="150" height="150" class="rounded-image">
+  </div>
+  <div class="description">
+    <strong style="font-size: larger;">Inga Zerr</strong><br>
+    <em>German Center for Neurodegenerative Diseases</em><br>
+    Georg-August-Universität, Göttingen, Germany<br>
+    <div class="touchdevice-additional-text" style="color: #0299ce;">
+        <p>Click to know more</p>
+    </div>
+  </div>
+</div>
+
+<div id="popup3" class="popup">
+    <div class="popup-background"></div>
+  <div class="popup-content">
+    <span class="close">&times;</span>
+    <div class="popup-image-description">
+        <img src="figures/k1.jpg" alt="keynote0" width="200" height="200" class="rounded-image">
+        <div class="description">
+        <strong style="font-size: larger;">Inga Zerr</strong>
+        </div>
+    </div>
+        <div class="popup_descr">Inga Zerr is neurologist and Professor at the Department of Neurology, University Medical Center, Georg-August University Göttingen and Head of the Neurochemistry Laboratory at the institution. She is Director of the National Reference Center for Human Transmissible Encephalopathies in Germany. Her research focusses on biomarker development and on clinical and therapeutic trials in prion diseases and other dementia.</div>
+  </div>
+</div>
+```
+
+### Prion Frontiers
+```{=html}
+<!-- Speaker 1 -->
+<div class="image-description">
+  <div class="image">
+    <img src="figures/kck.jpg" alt="keynote0" width="150" height="150" class="rounded-image">
+  </div>
+  <div class="description">
+    <strong style="font-size: larger;">Carsten Korth</strong><br>
+    <em>Institute of Neuropathology</em><br>
+    Heinrich Heine University in Düsseldorf, Germany<br>
+    <div class="touchdevice-additional-text" style="color: #0299ce;">
+        <p>Click to know more</p>
+    </div>
+  </div>
+</div>
+
+<div id="popup4" class="popup">
+    <div class="popup-background"></div>
+  <div class="popup-content">
+    <span class="close">&times;</span>
+    <div class="popup-image-description">
+        <img src="figures/kck.jpg" alt="keynote0" width="200" height="200" class="rounded-image">
+    <div class="description">
+        <strong style="font-size: larger;">Carsten Korth</strong>
+    </div>
+    </div>
+        <div class="popup_descr">Carsten Korth studies aberrant proteostasis as a cause of brain diseases at the Heinrich Heine University in Düsseldorf. The misassembly, misfolding or misprocessing of proteins in brain diseases and the development of pharmacotherapies to interfere with or prevent these protein pathologies in neurodegenerative diseases and chronic mental illnesses such as schizophrenia or recurrent affective disorders.</div>
+  </div>
+</div>
+
+<style>
+  .popup-background {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.4); 
+    z-index: 1;
+  }
+  .popup {
+    display: none; 
+    position: fixed;
+    z-index: 2; 
+    padding-top: 100px; 
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    max-width: 1000px;
+    margin: auto;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: transparent;
+  }
+  .popup-content {
+    position : relative;
+    background-color: #fefefe;
+    margin: auto;
+    z-index : 2;
+    padding: 20px;
+    border: 1px solid #999;
+    border-radius: 15px; 
+    width: 80%;
+  }
+  .close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .image {
+    flex: 1;
+    padding: 0px;
+    text-align: left;
+  }
+  .description {
+    flex: 5;
+    padding: 10px;
+    text-align: left;
+  }
+  .popup_descr {
+    text-align: justify;
+  }
+  .image-description {
+    cursor: pointer;
+    max-width: 1000px;
+    display: flex;
+    align-items: center;
+  }
+  .image-description:hover{
+    background-color: #daeaf4;
+    border-radius: 30px;
+  }
+  .touchdevice-additional-text {
+    display : none;
+  }
+  .popup-image-description {
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+  }
+
+  .rounded-image {
+    border-radius: 20%;
+  }
+  @media (max-width: 600px) {
+    .image-description {
+        flex-direction: column;
+    }
+    .description {
+        text-align: center;
+    }
+    .image {
+      margin-top: 7px;
+    }
+  }
+  @media (pointer: coarse) {
+    .touchdevice-additional-text {
+      display: block;
+    }
+    .image-description{
+      background-color: #0299ce05;
+      border-radius: 30px;
+      box-shadow: 2px 2px 5px rgb(0 125 169 / 35%);
+    }
+    .image {
+      margin-top: 7px;
+    }
+  }
+
+
+</style>
+```
+
+```{=html}
+<script>
+  // Get all elements with class="image-description" (outside the popups) and attach the click event
+  var descriptions = document.getElementsByClassName("image-description");
+  for (let i = 0; i < descriptions.length; i++) {
+    descriptions[i].onclick = function() {
+      // Open the corresponding popup
+      var popup = document.getElementById("popup" + (i + 1));
+      popup.style.display = "block";
+    }
+  }
+
+  // Get all elements with class="close" and attach the click event
+  var closes = document.getElementsByClassName("close");
+  for (let i = 0; i < closes.length; i++) {
+    closes[i].onclick = function() {
+      // Close the corresponding popup
+      var popup = document.getElementById("popup" + (i + 1));
+      popup.style.display = "none";
+    }
+  }
+  
+  // Get all elements with class="popup-background" and attach the click event
+  var backgrounds = document.getElementsByClassName("popup-background");
+  for (let i = 0; i < backgrounds.length; i++) {
+    backgrounds[i].onclick = function() {
+      // Close the corresponding popup
+      var popup = document.getElementById("popup" + (i + 1));
+      popup.style.display = "none";
+    }
+  }
+  // Move all popups to the body element
+  var popups = Array.from(document.getElementsByClassName("popup"));
+  for (var i = 0; i < popups.length; i++) {
+    document.body.appendChild(popups[i]);
+  }
+
+  // When the user clicks anywhere outside of a popup, close it
+  window.onclick = function(event) {
+    if (event.target.className == "popup") {
+      event.target.style.display = "none";
+    }
+  }
+</script>
+```

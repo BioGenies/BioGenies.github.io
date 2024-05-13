@@ -1,0 +1,15 @@
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: white;
+$link-color: #80c0cf;
+$navbar-bg: #0299ce;
+
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+// Navbar link styles
+.navbar a:active {
+    color: white; 
+    background-color: #2099ce;
+}
+
