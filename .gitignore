@@ -2,10 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+
 /.quarto/
-prion-website2024.Rproj
-.Rdata
-.httr-oauth
-.DS_Store
-.quarto
-prioncongress2024.Rproj

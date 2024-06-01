@@ -1,0 +1,11 @@
+## Grzybowce, Podlaskie Voivodeship, Poland 15.01.2023 - 15.01.2023
+
+```{r message=FALSE, echo=FALSE}
+library(slickR)
+library(tidyverse)
+
+mushroom <- list.files(path = "fig/", full.names = TRUE)
+
+slickR(obj = mushroom, height = 500) + 
+  settings(dots = TRUE)
+```
