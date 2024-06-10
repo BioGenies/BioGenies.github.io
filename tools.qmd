@@ -22,5 +22,5 @@ title: "Tools"
 
 :::
 
-Table with github link and who worked on it
-linked to CV
+<!-- Table with github link and who worked on it -->
+<!-- linked to CV -->

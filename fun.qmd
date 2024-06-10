@@ -2,10 +2,20 @@
 title: "BioGenies having fun"
 ---
 
-![](fig/20240131_144914.jpg)
-![](fig/IMG_1174.jpeg)
-![](fig/20240221_124958.jpg)
-![](fig/20240306_195149.jpg)
-![](fig/20240117_200548.jpg)
-![](fig/DSC_3041.jpeg)
-![](fig/20230804_160927.jpg)
+```{r message=FALSE, echo=FALSE}
+library(slickR)
+library(tidyverse)
+
+mushroom <- list.files(path = "fig/random/", full.names = TRUE)
+
+slickR(obj = mushroom, height = 500) + 
+  settings(dots = TRUE)
+```
+
+<!-- ![](fig/random/20240131_144914.jpg) -->
+<!-- ![](fig/random/IMG_1174.jpeg) -->
+<!-- ![](fig/random/20240221_124958.jpg) -->
+<!-- ![](fig/random/20240306_195149.jpg) -->
+<!-- ![](fig/random/20240117_200548.jpg) -->
+<!-- ![](fig/random/DSC_3041.jpeg) -->
+<!-- ![](fig/random/20230804_160927.jpg) -->

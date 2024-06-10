@@ -11,19 +11,19 @@ website:
     pinned: true
     hoverable: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - href: about.qmd
       - href: projects.qmd
       - href: tools.qmd
       - href: seminars.qmd
-      - href: publications.qmd
-      - href: conferences.qmd
+      # - href: publications.qmd
+      # - href: conferences.qmd
       # menu: 
       #   - future
       #   - past
-      - href: core.qmd
-      - href: retreats.qmd
+      # - href: core.qmd
+      # - href: retreats.qmd
       - href: fun.qmd
       - href: hobby.qmd
     tools:
@@ -33,14 +33,15 @@ website:
         href: https://github.com/BioGenies
   sidebar:
     logo: fig/bg_logo.png
+    style: "floating"
+    search: false
     center-tools: true
     tool-size: large
-
 format:
   html:
     css: ['navbar_hover.css', 'sidebar_mods.css']
     page-layout: full
-    theme: 
+    theme:
       light: [united, quarto_palette.scss]
       dark: darkly
     toc: true
@@ -51,4 +52,4 @@ format:
       body-width: 1200px
       margin-width: 250px
       gutter-width: 1.5rem
-    logo: fig/bg_logo.png
+    # logo: fig/bg_logo.png

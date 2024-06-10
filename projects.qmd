@@ -17,7 +17,7 @@ AmyloGraph
 ## HaDeX
 HaDeX
 
-## Anti Microbial Peptides (AMPs)
+## Antimicrobial Peptides (AMPs)
 AmpGram
 
 ## Benchmarks
