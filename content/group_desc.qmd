@@ -1,9 +1,0 @@
-BioGenies is an innovative collective of budding scientists dispersed across Europe, united by a shared passion for groundbreaking research. Anchored at the [Laboratory of Bioinformatics and Multiomics Analysis]() within the Clinical Research Centre at the ([Medical University of Białystok](https://www.umb.edu.pl/en/index.php), Poland, our core team operates from the dynamic hub of [Centrum Futuri]((https://www.google.com/maps/place//data=!4m2!3m1!1s0x471ffd0030895721:0xa07505c8604cd77e?sa=X&ved=1t:8290&ictx=111)) (entrances D and E).
-
-We are a dynamic team of passionate individuals driven by a collective vision of advancing scientific discovery. With diverse backgrounds and interests, we form a vibrant community dedicated to exploring a vast array of topics spanning the realms of molecular biology, amyloids, antimicrobial peptides, predictive models, database construction, and cutting-edge advancements in machine learning and artificial intelligence. Our collaborative efforts blend expertise from various disciplines, fostering innovative approaches and breakthroughs at the intersection of science and technology.
-
-Our team's interdisciplinary nature enriches our exploration, allowing us to tackle complex challenges from multiple perspectives and drive progress in diverse fields. Whether unraveling the mysteries of molecular interactions or harnessing the power of AI for predictive modeling, we are united by a shared commitment to pushing the boundaries of knowledge and fostering scientific excellence.
-
-If you're curious about our ongoing projects, you can explore them [here](projects.qmd).
-
-<!-- map of collaborators + parse them from bib file? -->

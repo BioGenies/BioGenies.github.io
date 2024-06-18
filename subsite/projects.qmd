@@ -1,0 +1,28 @@
+---
+title: "Projects"
+---
+
+## Missing data imputatioon
+imputomics 1.0 (metabolomics data)
+
+## Amyloids
+AmyloGram
+AmyloGraph
+
+## Intrinsically disordered proteins (IDPs)
+
+
+## Liquid-liquid phase separation
+
+## HaDeX
+HaDeX
+
+## Antimicrobial Peptides (AMPs)
+AmpGram
+
+## Benchmarks
+
+## Other topics
+CancerGram
+PlastoGram
+countfitteR

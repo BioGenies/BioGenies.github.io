@@ -1,0 +1,53 @@
+---
+title: "Tools and repos"
+---
+
+```{r, echo=FALSE, message=FALSE}
+library("fontawesome")
+```
+
+## `r fontawesome::fa("laptop-code", prefer_type = "solid", fill = "pink", height = "1.5em")` **web servers**
+
+::: {layout-ncol=4}
+[![AmyloGraph](fig/tools/amylograph.png){width=250}](https://amylograph.com/)
+
+[![imputomics](fig/tools/imputomics.png){height=200}](http://biogenies.info/imputomics-ws)
+
+[![HaDeX](fig/tools/hadex.png){height=200}](http://mslab-ibb.pl/shiny/HaDeX/)
+
+[![countfitteR](fig/tools/countfitter.png){height=200}](http://biongram.biotech.uni.wroc.pl/countfitter/)
+
+[![AmyloGram](fig/tools/amylogram.png){width=250}](http://biongram.biotech.uni.wroc.pl/AmyloGram)
+
+[![PlastoGram](fig/tools/plastogram.png){width=250}](http://biongram.biotech.uni.wroc.pl/PlastoGram)
+
+[![AmpGram](fig/tools/ampgram.png){width=250}](http://biongram.biotech.uni.wroc.pl/AmpGram)
+
+[![CancerGram](fig/tools/cancergram.png){width=250}](http://biongram.biotech.uni.wroc.pl/CancerGram)
+
+:::
+
+## `r fontawesome::fa("github", fill = "#24292e", height = "1.5em")` **code repositories**
+
+::: {layout-ncol=4}
+[![AmyloGraph](fig/tools/amylograph.png){width=250}](https://github.com/KotulskaLab/AmyloGraph)
+
+[![imputomics](fig/tools/imputomics.png){height=200}](https://github.com/BioGenies/imputomics)
+
+[![HaDeX](fig/tools/hadex.png){height=200}](https://github.com/hadexversum/HaDeX)
+
+[![countfitteR](fig/tools/countfitter.png){height=200}](https://github.com/BioGenies/countfitteR)
+
+[![AmyloGram](fig/tools/amylogram.png){width=250}](https://github.com/michbur/AmyloGram)
+
+[![PlastoGram](fig/tools/plastogram.png){width=250}](https://github.com/BioGenies/PlastoGram)
+
+[![PlastoGram-analysis](fig/tools/plastogram.png){width=250}](https://github.com/BioGenies/PlastoGram-analysis)
+
+[![AmpGram](fig/tools/ampgram.png){width=250}](https://github.com/michbur/AmpGram)
+
+[![CancerGram](fig/tools/cancergram.png){width=250}](https://github.com/BioGenies/CancerGram)
+
+[![Negative Datasets](fig/github.png){width=250}](https://github.com/BioGenies/NegativeDatasets)
+
+:::

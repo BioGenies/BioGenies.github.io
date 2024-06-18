@@ -3,7 +3,7 @@ title: ""
 ---
 
 ## Our group
-{{< include content/group_desc.qmd >}}
+{{< include subsite/content/group_desc.qmd >}}
 
 ## Announcements
-{{< include content/news.qmd >}}
+{{< include subsite/content/news.qmd >}}

@@ -1,8 +1,0 @@
----
-title: "Attended conferences"
----
-
-#### 2ND ML4NGP MEETING ON MACHINE LEARNING AND NON-GLOBULAR PROTEINS
-![](fig/conference/ml4ngp.jpeg)
-
-<!-- csv with conferences, who was on it what he had and title -->

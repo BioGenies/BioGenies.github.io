@@ -13,26 +13,26 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - href: about.qmd
-      - href: projects.qmd
-      - href: tools.qmd
-      - href: seminars.qmd
-      # - href: publications.qmd
-      # - href: conferences.qmd
-      # menu: 
+      - href: subsite/team.qmd
+      # - href: subsite/projects.qmd
+      - href: subsite/tools.qmd
+      - href: subsite/seminars.qmd
+      # - href: subsite/publications.qmd
+      # - href: subsite/conferences.qmd
+      # menu:
       #   - future
       #   - past
-      # - href: core.qmd
-      # - href: retreats.qmd
-      - href: fun.qmd
-      - href: hobby.qmd
+      # - href: subsite/core.qmd
+      # - href: subsite/retreats.qmd
+      # - href: subsite/fun.qmd
+      # - href: subsite/hobby.qmd
     tools:
-      - icon: twitter-x
-        href: https://twitter.com/burdukiewicz
+      # - icon: twitter-x
+      #   href: https://twitter.com/burdukiewicz
       - icon: github
         href: https://github.com/BioGenies
   sidebar:
-    logo: fig/bg_logo.png
+    logo: bg_logo.png
     style: "floating"
     search: false
     center-tools: true

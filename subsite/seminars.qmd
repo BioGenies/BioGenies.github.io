@@ -1,0 +1,13 @@
+---
+title: "Seminars"
+---
+
+**Are you interested to join our seminars or particular seminar? Just email us.**
+
+```{r, results='asis', echo=FALSE}
+library(RCurl)
+URL <- "https://raw.githubusercontent.com/BioGenies/seminar/master/README.md"
+x <- getURL(URL)
+cat(x)
+``` 
+
