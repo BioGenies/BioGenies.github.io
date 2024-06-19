@@ -7,3 +7,13 @@ title: ""
 
 ## Announcements
 {{< include subsite/content/news.qmd >}}
+
+
+```{r echo=FALSE, message=FALSE}
+#| column: page
+
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lat=53.12324, lng=23.15935, popup="The BIOgenies headquarters")
+```

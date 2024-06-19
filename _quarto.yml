@@ -13,19 +13,22 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - href: subsite/team.qmd
-      # - href: subsite/projects.qmd
+      - text: "Team"
+        menu: 
+          - subsite/team.qmd
+          - subsite/alumni.qmd
+          - subsite/retreats.qmd
+          # - subsite/hobby.qmd
+          # - subsite/fun.qmd
+      - href: subsite/projects.qmd
       - href: subsite/tools.qmd
       - href: subsite/seminars.qmd
       # - href: subsite/publications.qmd
       # - href: subsite/conferences.qmd
       # menu:
-      #   - future
-      #   - past
+      #   - future.qmd
+      #   - past.qmd
       # - href: subsite/core.qmd
-      # - href: subsite/retreats.qmd
-      # - href: subsite/fun.qmd
-      # - href: subsite/hobby.qmd
     tools:
       # - icon: twitter-x
       #   href: https://twitter.com/burdukiewicz

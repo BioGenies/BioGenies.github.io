@@ -6,4 +6,6 @@ Our team's interdisciplinary nature enriches our exploration, allowing us to tac
 
 If you're curious about our ongoing projects, you can explore them [here](projects.qmd).
 
-<!-- map of collaborators + parse them from bib file? -->
+## About Białystok
+
+Its a city with approx. 300k population.

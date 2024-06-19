@@ -1,0 +1,12 @@
+---
+title: "Retreats"
+---
+
+
+{{< include content/2023.qmd >}}
+
+{{< include content/2022.qmd >}}
+
+{{< include content/2021.qmd >}}
+
+{{< include content/2020.qmd >}}
