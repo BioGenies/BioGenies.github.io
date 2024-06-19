@@ -20,14 +20,17 @@ website:
           - subsite/retreats.qmd
           # - subsite/hobby.qmd
           # - subsite/fun.qmd
-      - href: subsite/projects.qmd
+      - text: "Projects" 
+        menu: 
+          - subsite/projects.qmd
       - href: subsite/tools.qmd
       - href: subsite/seminars.qmd
       # - href: subsite/publications.qmd
-      # - href: subsite/conferences.qmd
-      # menu:
-      #   - future.qmd
-      #   - past.qmd
+      - text: "Conferences"
+        menu: 
+          # - we are going
+          - subsite/conferences.qmd #past conferences
+          # - organized conferences
       # - href: subsite/core.qmd
     tools:
       # - icon: twitter-x
