@@ -35,12 +35,3 @@ title: "Our Team"
 
 [![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){width=200}]()
 :::
-
-### Other collaborators
-::: {layout-ncol=5}
-[![Katarzyna (Kasia) Sidorczuk](fig/github.png "Katarzyna (Kasia) Sidorczuk"){width=200}]()
-
-[![Anna Lassota](fig/github.png "Anna Lassota"){width=200}]()
-
-[![Dominika Kozakiewicz](fig/github.png "Dominika Kozakiewicz"){width=200}]()
-:::

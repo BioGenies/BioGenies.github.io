@@ -1,0 +1,39 @@
+---
+title: "Publications"
+---
+
+```{r, echo=FALSE, message=FALSE}
+
+library(bib2df)
+library(tidyverse)
+library(DT)
+
+bib_dat <- bib2df("BIOgenies.bib", separate_names = TRUE)
+
+test1 <- bib_dat %>% 
+  select(BIBTEXKEY, AUTHOR, JOURNAL, TITLE, YEAR, DOI, PUBLISHER)
+  
+authors <- lapply(test1$AUTHOR, function(x){
+  x$full_name %>% str_flatten(collapse = ", ") %>% rbind()
+}) %>%  
+  tibble(authors = .) 
+
+new_df <- cbind(authors, test1)
+
+
+new_df$authors <- new_df$authors %>% 
+  str_remove_all(., "[{}]")
+
+new_df$TITLE <- new_df$TITLE %>% 
+  str_remove_all(., "[{}]")
+
+new_df %>% 
+  mutate(journal = if_else(is.na(JOURNAL), PUBLISHER, JOURNAL),
+         title = TITLE,
+         doi = DOI,
+         year = YEAR) %>% 
+  arrange(desc(year)) %>% 
+  select(title, authors, doi, year, journal) %>% 
+  datatable()
+
+```

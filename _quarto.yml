@@ -22,15 +22,16 @@ website:
           # - subsite/fun.qmd
       - text: "Projects" 
         menu: 
-          - subsite/projects.qmd
+          - subsite/projects/projects.qmd
+          - subsite/projects/amyloids.qmd
       - href: subsite/tools.qmd
       - href: subsite/seminars.qmd
-      # - href: subsite/publications.qmd
+      - href: subsite/publications.qmd
       - text: "Conferences"
         menu: 
           # - we are going
-          - subsite/conferences.qmd #past conferences
-          # - organized conferences
+          - subsite/conference/past_conf.qmd #past conferences
+          - subsite/conference/organized.qmd
       # - href: subsite/core.qmd
     tools:
       # - icon: twitter-x

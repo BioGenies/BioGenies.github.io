@@ -2,17 +2,13 @@
 title: "Former Team Members"
 ---
 
-### Other
 ::: {layout-ncol=5}
 [![Katarzyna (Kasia) Sidorczuk](fig/github.png "Katarzyna (Kasia) Sidorczuk"){width=200}]()
 
 [![Anna Lassota](fig/github.png "Anna Lassota"){width=200}]()
 
 [![Dominika Kozakiewicz](fig/github.png "Dominika Kozakiewicz"){width=200}]()
-:::
 
-## Alumni
-::: {layout-ncol=5}
 [![Dominik Rafacz](fig/github.png "Dominik Rafacz"){width=200}]()
 
 [![Laura Bąkała](fig/github.png "Laura Bąkała"){width=200}]()

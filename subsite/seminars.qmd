@@ -4,10 +4,18 @@ title: "Seminars"
 
 **Are you interested to join our seminars or particular seminar? Just email us.**
 
-```{r, results='asis', echo=FALSE}
+```{r, results='asis', echo=FALSE, message=FALSE}
 library(RCurl)
+library(tidyverse)
+
 URL <- "https://raw.githubusercontent.com/BioGenies/seminar/master/README.md"
-x <- getURL(URL)
+x <- getURL(URL) %>% str_remove(., "## Seminars\n")
+
 cat(x)
+
+# sem_df <- x %>% str_split(., "\n[0-9]+. ") %>% tibble() %>% unnest() %>% rename("id" = ".") %>% separate(., col = 'id', into = c("date", "title"), sep = ": ")
+
+# sem_df %>% DT::datatable()
+
 ``` 
 

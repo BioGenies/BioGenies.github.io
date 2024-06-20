@@ -2,12 +2,11 @@
 title: ""
 ---
 
-## Our group
-{{< include subsite/content/group_desc.qmd >}}
-
 ## Announcements
 {{< include subsite/content/news.qmd >}}
 
+## Our group
+{{< include subsite/content/group_desc.qmd >}}
 
 ```{r echo=FALSE, message=FALSE}
 #| column: page
@@ -17,3 +16,7 @@ leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addMarkers(lat=53.12324, lng=23.15935, popup="The BIOgenies headquarters")
 ```
+
+## About Białystok
+
+Its a city with approx. 300k population.

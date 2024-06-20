@@ -12,7 +12,7 @@ library("fontawesome")
 
 [![**imputomics** - missing data imputation tool](fig/tools/imputomics.png){height=200}](http://biogenies.info/imputomics-ws)
 
-[**AMPBenchmark** - benchmarking of models for antimicrobial (AMP) peptide prediction](http://li1810-97.members.linode.com/AMPBenchmark/)
+[![**AMPBenchmark** - benchmarking of models for antimicrobial (AMP) peptide prediction](fig/tools/ampbenchmark.png){width=200}](http://li1810-97.members.linode.com/AMPBenchmark/)
 
 [![**HaDeX** - HDX-MS data processing tool](fig/tools/hadex.png){height=200}](http://mslab-ibb.pl/shiny/HaDeX/)
 
@@ -26,7 +26,7 @@ library("fontawesome")
 
 [![**CancerGram** - anticancer peptide predictor](fig/tools/cancergram.png){width=250}](http://biongram.biotech.uni.wroc.pl/CancerGram)
 
-[**MethanoGram** - methanogens culture conditions predictor](http://www.smorfland.uni.wroc.pl/shiny/mgp/)
+[![**MethanoGram** - methanogens culture conditions predictor](fig/tools/methanogram.png){height=200}](http://www.smorfland.uni.wroc.pl/shiny/mgp/)
 
 :::
 
@@ -35,7 +35,7 @@ library("fontawesome")
 
 [![**AmyloGraph** - amyloid-amyloid interaction database](fig/tools/amylograph.png){width=250}](https://amylograph.com/)
 
-[**Curated list of peer-reviewed peptide function predictors**](http://li1810-97.members.linode.com/AMPBenchmark/)
+[![**Curated list of peer-reviewed peptide function predictors**](fig/tools/landscape.png){height=200}](http://li1810-97.members.linode.com/AMPBenchmark/)
 
 :::
 
@@ -44,7 +44,7 @@ library("fontawesome")
 
 [![**tidysq** - tidy R package for analysis and manipulation of biological sequences ](fig/tools/tidysq.png){height=200}](https://biogenies.info/tidysq/articles/quick-start.html)
 
-[**biogram** - R package  for extraction and analysis of n-grams from biological sequences](https://biogenies.info/tidysq/articles/quick-start.html)
+[![**biogram** - R package  for extraction and analysis of n-grams from biological sequences](fig/tools/biogram.png){height=200}](https://biogenies.info/tidysq/articles/quick-start.html)
 
 [![**seqR** - R package for fast k-mer counting ](fig/tools/seqr.png){height=200}](https://github.com/michbur/seqR)
 
@@ -72,15 +72,13 @@ library("fontawesome")
 
 [![**CancerGram**](fig/tools/cancergram.png){width=250}](https://github.com/BioGenies/CancerGram)
 
-<!-- [**Negative Datasets**](https://github.com/BioGenies/NegativeDatasets) -->
-
-[**PhyMet2** - ](https://github.com/michbur/PhyMet2_supplements)
+[![**PhyMet2** - database and toolkit for phylogenetic and metabolic analyses of methanogens](fig/tools/phymet2.png){height=200}](https://github.com/michbur/PhyMet2_supplements)
 
 [![**signalHsmm**](fig/tools/signalhsmm.png){width=250}](https://github.com/michbur/signalHsmm)
 
-[**AMPBenchmark**](https://github.com/BioGenies/AMPBenchmark)
+[![**AMPBenchmark** - benchmarking of models for antimicrobial (AMP) peptide prediction](fig/tools/ampbenchmark.png){width=200}](https://github.com/BioGenies/AMPBenchmark)
 
-[**Curated list of peer-reviewed peptide function predictors**](https://github.com/BioGenies/peptide-prediction-list)
+[![**Curated list of peer-reviewed peptide function predictors**](fig/tools/landscape.png){height=200}](https://github.com/BioGenies/peptide-prediction-list)
 
 [![**dpcR** - tool for analysis, visualisation and simulation of digital PCR experiments](fig/tools/dpcr.png){width=250}](https://github.com/michbur/dpcR)
 
