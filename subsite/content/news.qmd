@@ -1,3 +1,9 @@
+---
+title: "Announcements"
+---
+
+## Announcements
+
 **Join the exciting journey of discovery with BioGenies!**
 
 Are you passionate about unraveling the mysteries of science? Eager to explore the frontiers of machine learning, delve into the complexities of amyloids, or pioneer advancements in antimicrobial peptides (AMPs)? Look no further!

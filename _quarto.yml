@@ -24,6 +24,9 @@ website:
         menu: 
           - subsite/projects/projects.qmd
           - subsite/projects/amyloids.qmd
+          - subsite/projects/llps.qmd
+          - subsite/projects/amp.qmd
+          - subsite/projects/mvi.qmd
       - href: subsite/tools.qmd
       - href: subsite/seminars.qmd
       - href: subsite/publications.qmd

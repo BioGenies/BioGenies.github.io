@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "All projects"
 ---
 
 ## Missing data imputatioon

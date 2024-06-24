@@ -6,7 +6,7 @@ title: "Software"
 library("fontawesome")
 ```
 
-## `r fontawesome::fa("laptop-code", prefer_type = "solid", fill = "pink", height = "1.5em")` **Web servers**
+## `r fontawesome::fa("laptop-code", prefer_type = "solid", fill = "black", height = "1.5em")` **Web servers**
 
 ::: {layout-ncol=4}
 
@@ -30,7 +30,7 @@ library("fontawesome")
 
 :::
 
-## Databases
+## `r fontawesome::fa("database", prefer_type = "solid", fill = "black", height = "1.5em")` **Databases**
 ::: {layout-ncol=4}
 
 [![**AmyloGraph** - amyloid-amyloid interaction database](fig/tools/amylograph.png){width=250}](https://amylograph.com/)
@@ -39,7 +39,7 @@ library("fontawesome")
 
 :::
 
-## Tools
+## `r fontawesome::fa("toolbox", prefer_type = "solid", fill = "black", height = "1.5em")` **Tools**
 ::: {layout-ncol=4}
 
 [![**tidysq** - tidy R package for analysis and manipulation of biological sequences ](fig/tools/tidysq.png){height=200}](https://biogenies.info/tidysq/articles/quick-start.html)
