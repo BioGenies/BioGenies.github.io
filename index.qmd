@@ -1,18 +1,23 @@
 ---
-title: ""
+title: "BioGenies news"
+listing:
+  contents: subsite/posts
+  sort: "date desc"
+  type: grid
+  categories: true
 ---
 
-{{< include subsite/content/group_desc.qmd >}}
+<!-- {{< include subsite/content/group_desc.qmd >}} -->
 
-```{r echo=FALSE, message=FALSE}
-#| column: page-inset-right-left
+<!-- ```{r echo=FALSE, message=FALSE} -->
+<!-- #| column: page-inset-right-left -->
 
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lat=53.12324, lng=23.15935, popup="The BIOgenies headquarters")
-```
+<!-- library(leaflet) -->
+<!-- leaflet() %>% -->
+<!--   addTiles() %>%  # Add default OpenStreetMap map tiles -->
+<!--   addMarkers(lat=53.12324, lng=23.15935, popup="The BIOgenies headquarters") -->
+<!-- ``` -->
 
-{{< include subsite/content/city_hq.qmd >}}
+<!-- {{< include subsite/content/city_hq.qmd >}} -->
 
-{{< include subsite/content/news.qmd >}}
+<!-- {{< include subsite/content/news.qmd >}} -->

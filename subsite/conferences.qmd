@@ -1,0 +1,20 @@
+---
+title: "Conferences"
+---
+
+```{r, echo=FALSE, message=FALSE}
+
+library(bib2df)
+library(tidyverse)
+library(DT)
+
+conf <- read_csv("CV/data/conferences.csv", col_types = "cccfffc")
+
+conf %>% mutate(dates = paste0(start_date, " - ", end_date),
+                year = start_date) 
+# %>% 
+#                   str_split_1(., "[.]") %>% 
+#                   last() %>% 
+#                   as.numeric())
+
+```

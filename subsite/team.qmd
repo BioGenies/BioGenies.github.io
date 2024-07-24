@@ -26,12 +26,3 @@ title: "Our Team"
 ::: {layout-ncol=5}
 [![Weronika Puchała](fig/ppl/wp.png "Weronika Puchała with Lusia"){width=200}]()
 :::
-
-### Autonomous University of Barcelona, Bellaterra, Barcelona, Spain
-::: {layout-ncol=5}
-[![Carlos Pintado-Grima](fig/ppl/cp.png "Carlos Pintado-Grima"){width=200}]()
-
-[![Oriol Bárcenas](fig/ppl/ob.png "Oriol Bárcenas"){width=200}]()
-
-[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){width=200}]()
-:::

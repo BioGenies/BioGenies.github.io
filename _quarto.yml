@@ -2,7 +2,10 @@ project:
   type: website
 
 website:
-  title: "BIOgenies"
+  favicon: bg_logo.png
+  open-graph: true
+  twitter-card: true
+  title: "BioGenies"
   reader-mode: true
   page-footer: "&copy; 2024 Website developed by BioGenies team."
   navbar:
@@ -15,7 +18,9 @@ website:
         href: index.qmd
       - text: "Team"
         menu: 
+          - subsite/about.qmd
           - subsite/team.qmd
+          - subsite/colab.qmd
           - subsite/alumni.qmd
           - subsite/retreats.qmd
           # - subsite/hobby.qmd
@@ -29,13 +34,11 @@ website:
           - subsite/projects/mvi.qmd
       - href: subsite/tools.qmd
       - href: subsite/seminars.qmd
+      # - href: subsite/publications.qmd
+      # - text: "Achievements"
+      #   menu: 
       - href: subsite/publications.qmd
-      - text: "Conferences"
-        menu: 
-          # - we are going
-          - subsite/conference/past_conf.qmd #past conferences
-          - subsite/conference/organized.qmd
-      # - href: subsite/core.qmd
+      - href: subsite/conferences.qmd
     tools:
       # - icon: twitter-x
       #   href: https://twitter.com/burdukiewicz

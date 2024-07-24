@@ -1,0 +1,456 @@
+---
+title: "Jarosław (Jarek) Chilimoniuk"
+sidebar: false
+format:
+  html:
+    grid:
+      sidebar-width: 0px
+      body-width: 1500px
+      margin-width: 300px
+      gutter-width: 1.5rem
+---
+
+```{r, echo=FALSE, message=FALSE}
+# library(devtools)
+# install_github("mitchelloharawild/icons")
+# icons::download_academicons()
+# icons::download_bioicons()
+# icons::download_fontawesome()
+# icons::download_google_material()
+library("icons")
+library("fontawesome")
+```
+
+### Contact Info {#contact}
+
+------------------------------------------------------------------------
+
+[`r fontawesome::fa("envelope", prefer_type = "regular", fill = "pink", height = "3em")`](jaroslaw.chilimoniuk@gmail.com)
+[`r fontawesome::fa("github", fill = "#24292e", height = "3em")`](https://github.com/jarochi)
+[`r fontawesome::fa("orcid", fill = "#A6CE39", height = "3em")`](https://orcid.org/0000-0001-5467-018X)
+[`r fontawesome::fa("facebook", fill = "#304f85", height = "3em")`](https://github.com/jarochi)
+[`r fontawesome::fa("linkedin", fill = "#0077b5", height = "3em")`](https://github.com/jarochi)
+[`r fontawesome::fa("twitter", fill = "#15a7ff", height = "3em")`](https://github.com/jarochi)
+[`r fontawesome::fa("steam", fill = "#2f4f4f", height = "3em")`](https://github.com/jarochi)
+[`r fontawesome::fa("playstation", fill = "#4739aa", height = "3em")`](https://github.com/jarochi)
+
+<!-- [`r icons::icon_style(fontawesome(name = "envelope", style = "regular"), fill = "pink", scale = 5)`](jaroslaw.chilimoniuk@gmail.com) -->
+<!-- [`r icons::icon_style(fontawesome("github"), fill = "black", scale = 5)`]()  -->
+
+
+contact info + keyword graph 2 plots - education + employment + internships and publications eei on left or right sidebar skills conferences (researchgate or orcid or scholar?) + map publications grants
+
+------------------------------------------------------------------------
+
+::: {.panel-tabset}
+
+## Mobility
+
+```{r echo=FALSE, message=FALSE}
+library(tidyverse)
+library(hrbrthemes)
+library(ggalt)
+library(ggbeeswarm)
+
+edu <- read_csv("data/edu.csv") %>% 
+                mutate(type = "education")
+con <- read_csv("data/conferences.csv") %>% 
+                mutate(type = "conferences")
+int <- read_csv("data/internships.csv") %>% 
+                mutate(type = "internships")
+emp <- read_csv("data/experience.csv") %>% 
+                mutate(type = "employment")
+
+full_df <- full_join(con, int) %>% 
+  full_join(., edu) %>%
+  full_join(., emp) %>% 
+  mutate(start_date = as.Date(start_date, "%d.%m.%Y"),
+         start_date = if_else(is.na(start_date), today(), start_date),
+         end_date = as.Date(end_date, "%d.%m.%Y"),
+         end_date = if_else(is.na(end_date), today(), end_date),) %>% 
+  arrange(desc(end_date))
+
+full_df %>% group_by(place) %>% 
+  ggplot(., aes(x = start_date, xend = end_date, y = place, fill = type, color = type, linewidth = 4)) +
+  # scale_x_date(date_breaks = "6 month", date_labels = "%M") +
+  geom_dumbbell(colour_x = "#a3c4dc", colour_xend = "#0e668b")
+
+full_df %>% 
+  ggplot(., aes(x = start_date, xend = end_date, y = place, fill = type, color = type)) +
+  # scale_x_date(date_breaks = "6 month", date_labels = "%M") +
+  geom_dumbbell(size = 3)
+
+full_df %>% 
+  ggplot(., aes(x = start_date, y = place, colour = subtype)) +
+  geom_segment(aes(xend = end_date, yend = place), colour = "black") +
+  geom_point(size = 3) +
+  geom_point(aes(x = end_date), size = 3) +
+  theme_bw() +
+  theme(legend.position = "bottom") +
+  scale_x_date()
+
+```
+
+## Publications
+
+```{r echo=FALSE, message=FALSE}
+library(ggplot2)
+library(hrbrthemes)
+# Transparency
+ggplot(iris, aes(x=Sepal.Length, y=Sepal.Width, alpha=Species)) + 
+    geom_point(size=6, color="#69b3a2") +
+    ggtitle("Transparency") +
+    theme_ipsum()
+```
+
+## Conferences
+
+```{r}
+library(ggplot2)
+library(hrbrthemes)
+# Size
+ggplot(iris, aes(x=Sepal.Length, y=Sepal.Width, size=Petal.Width)) + 
+    geom_point(color="darkred") +
+    ggtitle("Size") +
+    theme_ipsum()
+```
+
+## Tools
+
+```{r}
+library(ggplot2)
+library(hrbrthemes)
+# Shape
+ggplot(iris, aes(x=Sepal.Length, y=Sepal.Width, shape=Species)) + 
+    geom_point(size=6, color="lightblue") +
+    ggtitle("Shape") +
+    theme_ipsum()
+```
+
+## Other activities
+
+:::
+
+# `r fontawesome::fa("space-shuttle", prefer_type = "solid", fill = "pink", height = "1.5em")` **Internships**
+
+### Institute of Biotechnology and Biomedicine
+
+Universitat Autònoma de Barcelona
+
+Barcelona, Spain
+
+16.01.2023-23.01.2023 \| 04.06.2023-26.06.2023
+
+### Department of Biothermodynamics and Drug Design
+
+Institute of Biotechnology, Vilnius University
+
+Vilnius, Lithuania
+
+05.12.2022-24.12.2022 \| 02.11.2018-09.11.2018 \| 07.01.2018-26.01.2018
+
+### Image Based Assays
+
+Institute of Biotechnology, Brandenburg University of Technology Cottbus - Senftenberg
+
+Senftenberg, Germany
+
+01.04.2018-30.09.2018
+
+### Multiparameter Diagnostic
+
+Institute of Biotechnology, Brandenburg University of Technology Cottbus - Senftenberg
+
+Senftenberg, Germany
+
+01.11.2021-26.12.2021 \| 01.10.2020-30.09.2021 \| 01.03.2020-29.05.2020 \| 01.07.2019-16.12.2019 \| 15.04.2019-31.05.2019 \| 04.02.2019-15.02.2019
+
+### MI<sup>2</sup> DataLab
+
+Warsaw University of Technology
+
+Warsaw, Poland
+
+13.02.2020-18.02.2020 \| 01.07.2019-15.07.2019
+
+------------------------------------------------------------------------
+
+# `r fontawesome::fa("flask", prefer_type = "solid", fill = "pink", height = "1.5em")` **Experience**
+
+### Senior Technician \| Bioinformatican 
+
+Metabolomics Laboratory, Clinical Research Centre, Medical University of Białystok [ `r fontawesome::fa("calendar-days", prefer_type = "regular", fill = "blue", height = "1em")` 01.2023 - ongoing ]{style="float:right;"}<br>
+[ `r fontawesome::fa("location-dot", fill = "blue", height = "1em")` Białystok, Poland ]{style="float:right;"}
+
+### Bioinformatican \| Experimentalist
+
+Department of Bioinformatics and Genomics, University of Wrocław [ 10.2017 - 07.2023 ]{style="float:right;"}<br>
+[ `r fontawesome::fa("location-dot", fill = "blue", height = "1em")` Wrocław, Poland ]{style="float:right;"}
+
+### Research Assistant
+
+Laboratory of Environmental Pollution Analysis, Faculty of Biology, University of Warsaw [2013 - 2015 ]{style="float:right;"}<br>
+[ `r fontawesome::fa("location-dot", fill = "blue", height = "1em")` Warsaw, Poland ]{style="float:right;"}
+
+### Research Assistant
+
+Mossakowski Medical Research Centre Polish Academy of Sciences and Institute of Genetics and Biotechnology [ 2012 - 2013 ]{style="float:right;"}<br>
+[ `r fontawesome::fa("location-dot", fill = "blue", height = "1em")` Warsaw, Poland ]{style="float:right;"}
+
+------------------------------------------------------------------------
+
+# `r fontawesome::fa("graduation-cap", prefer_type = "solid", fill = "pink", height = "1.5em")` **Education**
+
+### ![](UWr_logo.png){width="50"} University of Wrocław
+
+#### BioTechNan - Program of Interdisciplinary Environmental PhD Studies KNOW in the area of Biotechnology and Nanotechnology [ 10.2017 - 07.2023 ]{style="float:right;"}
+
+Thesis: **Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB** [ `r fontawesome::fa("location-dot", fill = "blue", height = "1em")` Wrocław, Poland ]{style="float:right;"}
+
+### ![](BTU_logo.png){width="50"} BTU Cottbus-Senftenberg
+
+#### Exchange studies, German Academic Exchange Service scholarship, Biotechnology [ 10.2020 - 09.2021 ]{style="float:right;"}
+
+[ `r fontawesome::fa("location-dot", fill = "blue", height = "1em")` Senftenberg, Germany ]{style="float:right;"}
+
+### ![](UW_logo.png){width="50"} University of Warsaw
+
+#### M.Sc. in Biotechnology, specialization in Molecular Biology [ 2013 - 2015 ]{style="float:right;"}
+
+Thesis: **Disposal of hardly biodegradable feedstock wastes in methane fermentation process** [ `r fontawesome::fa("location-dot", fill = "blue", height = "1em")` Warsaw, Poland ]{style="float:right;"}
+
+### ![](UW_logo.png){width="50"} University of Warsaw 
+
+#### B.Sc. in Biotechnology, specialization in Molecular Biology [ 2010 - 2013 ]{style="float:right;"}
+
+Thesis: **Localization of hSUV3 protein and γ-tubulin at different developmental stages of the human umbilical cord blood-derived neural stem cell line (HUCB-NSC)** [ `r fontawesome::fa("location-dot", fill = "blue", height = "1em")`  Warsaw, Poland ]{style="float:right;"}
+
+------------------------------------------------------------------------
+
+# `r fontawesome::fa("laptop-code", prefer_type = "solid", fill = "pink", height = "1.5em")` **Bioinformatic tools**
+
+### imputomics - tool to simulate and impute missing values for omics data
+
+### countfitteR - tool for automated distribution model selection
+
+### AmyloGraph - amyloid interactions database
+
+### PhyMet2 - database and toolkit for phylogenetic and metabolic analyses of methanogens
+
+------------------------------------------------------------------------
+
+# `r fontawesome::fa("newspaper", prefer_type = "regular", fill = "pink", height = "1.5em")` **Publications**
+
+### imputomics: web server and R package for missing values imputation in metabolomics data
+
+Bioinformatics
+
+2024
+
+**Jarosław Chilimoniuk** (MUB), Krystyna Grzesiak, Jakub Kała, Dominik Nowakowski, Adam Krętowski, Rafał Kolenda, Michał Ciborowski, Michał Burdukiewicz
+
+### AmyloGraph: a comprehensive database of amyloid-amyloid interactions
+
+Nucleic Acids Research, Volume 51, Issue D1, 6 January 2023, Pages D352–D357, https://doi.org/10.1093/nar/gkac882
+
+2023
+
+Michał Burdukiewicz, Dominik Rafacz, Agnieszka Barbach, Katarzyna Hubicka, Laura Bąkała, Anna Lassota, Jakub Stecko, Natalia Szymańska, Jakub W Wojciechowski, Dominika Kozakiewicz, Natalia Szulc, **Jarosław Chilimoniuk**, Izabela Jęśkowiak, Marlena Gąsior-Głogowska, Małgorzata Kotulska
+
+### Adhesion of Enteropathogenic, Enterotoxigenic, and Commensal Escherichia coli to the Major Zymogen Granule Membrane Glycoprotein 2
+
+Appl Environ Microbiol. 2022 Mar 8;88(5):e0227921. https://doi.org/10.1128/aem.02279-21
+
+2022
+
+Christin Bartlitz, Rafał Kolenda, **Jarosław Chilimoniuk**, Krzysztof Grzymajło, Stefan Rödiger, Rolf Bauerfeind, Aamir Ali, Veronika Tchesnokova, Dirk Roggenbuck, Peter Schierack.
+
+### Bioinformatics methods for identification of amyloidogenic peptides show robustness to misannotated training data
+
+Scientific Reports 11, 8934 (2021). https://doi.org/10.1038/s41598-021-86530-6
+
+2021
+
+Natalia Szulc, Michał Burdukiewicz, Marlena Gąsior‑Głogowska, Jakub W. Wojciechowski, **Jarosław Chilimoniuk**, Paweł Mackiewicz, Tomas Šneideris, Vytautas Smirnovas & Malgorzata Kotulska
+
+### countfitteR: efficient selection of count distributions to assess DNA damage
+
+Annals of Translational Medicine 2021;9(7):528. https://doi.org/10.21037/atm-20-6363
+
+2021
+
+**Jarosław Chilimoniuk**, Alicja Gosiewska, Jadwiga Słowik, Romano Weiss, P. Markus Deckert, Stefan Rödiger, Michał Burdukiewicz
+
+### Proteomic Screening for Prediction and Design of Antimicrobial Peptides with AmpGram
+
+International Journal of Molecular Sciences, 21:12, 2020. https://doi.org/10.3390/ijms21124310
+
+2020
+
+Michał Burdukiewicz, Katarzyna Sidorczuk, Dominik Rafacz, Filip Pietluch, **Jarosław Chilimoniuk**, Stefan Rödiger, Przemysław Gagat
+
+### Prediction of Signal Peptides in Proteins from Malaria Parasites
+
+International Journal of Molecular Sciences 19(12), 3709, 2018. https://doi.org/10.3390/ijms19123709
+
+2018
+
+Burdukiewicz M., Sobczyk P., **Chilimoniuk J.**, Gagat P., Mackiewicz P.
+
+### PhyMet2: a database and toolkit for phylogenetic and metabolic analyses of methanogens
+
+Environmental microbiology reports 10(3):378-382, 2018. https://doi.org/10.1111/1758-2229.12648
+
+N/A
+
+2018
+
+Michał Burdukiewicz, Przemysław Gagat, Sławomir Jabłoński, **Jarosław Chilimoniuk**, Michał Gaworski, Paweł Mackiewicz, Marcin Łukaszewicz
+
+------------------------------------------------------------------------
+
+# `r fontawesome::fa("microphone-lines", prefer_type = "solid", fill = "pink", height = "1.5em")` **Conference talks**
+
+### Imputomics: comprehensive R package for missing data imputation in metabolomics data
+
+International Biotech Innovation Days 2023 (IBID)
+
+Senftenberg, Germany
+
+2023
+
+**Jaroslaw Chilimoniuk**, Krystyna Grzesiak, Jakub Kała, Dominik Nowakowski, Adam Krętowski, Rafał Kolenda, Michał Ciborowski, Michał Burdukiewicz
+
+### Imputomics: imputation of missing values for "Omics" data
+
+Metabolomics Circle
+
+Wrocław, Poland
+
+2023
+
+**Jaroslaw Chilimoniuk** (MUB), Krystyna Grzesiak, Dominik Nowakowski, Adam Krętowski, Michał Ciborowski, Michał Burdukiewicz
+
+### countfitteR: count data analysis for precision medicine
+
+International Biotech Innovation Days 2020 (IBID)
+
+Senftenberg, Germany
+
+2020
+
+**Jaroslaw Chilimoniuk**, Alicja Gosiewska, Jadwiga Slowik, Romano Weiss, P. Markus Deckert, Stefan Rödiger, Michal Burdukiewicz
+
+### Count data analysis with countfitteR
+
+Why R? 2020
+
+Warsaw, Poland
+
+2020
+
+**Jaroslaw Chilimoniuk**, Alicja Gosiewska, Jadwiga Slowik, Romano Weiss, P. Markus Deckert, Stefan Rödiger, Michal Burdukiewicz
+
+### AmyloGram: the R package and a Shiny server for amyloid prediction
+
+Talk for Why R? 2019 Conference
+
+Warsaw, Poland
+
+2019
+
+**Jaroslaw Chilimoniuk**, Michal Burdukiewicz, Piotr Sobczyk, Stefan Rödiger, Malgorzata Kotulska and Pawel Mackiewicz
+
+### AmyloGram: prediction of amyloid sequences in R
+
+satRday 2019
+
+Gdańsk, Poland
+
+2019
+
+**Jaroslaw Chilimoniuk**, Michal Burdukiewicz, Piotr Sobczyk, Stefan Rödiger, Malgorzata Kotulska and Pawel Mackiewicz
+
+### PhyMet2: a database and toolkit for phylogenetic and metabolic analyses of methanogens
+
+PTBI: Polish Bioinformatics Society 2018
+
+Wrocław, Poland
+
+2018
+
+**Jaroslaw Chilimoniuk**, Michał Burdukiewicz, Przemysław Gagat, Sławomir Jabłoński, Michał Gaworski, Paweł Mackiewicz, Marcin Łukaszewicz.
+
+------------------------------------------------------------------------
+
+# `r fontawesome::fa("person-chalkboard", prefer_type = "solid", fill = "pink", height = "1.5em")` **Conference posters**
+
+### AmpGram – a novel tool for prediction of antimicrobial peptides
+
+Poster for 6th Joint Conference of the DGHM & VAAM
+
+Leipzig, Germany
+
+2020
+
+**Jaroslaw Chilimoniuk**, M. Burdukiewicz, K. Sidorczuk, F. Pietluch, D. Rafacz, S. Rödiger, P. Gagat
+
+### AmyloGram: prediction of amyloid sequences in R
+
+EuPA: XIII. Annual Congress of the European Proteomics Association: From Genes via Proteins and their Interactions to Functions 2019
+
+Potsdam, Germany
+
+2019
+
+**Jaroslaw Chilimoniuk**, Michał Burdukiewicz, Piotr Sobczyk, Stefan Rödiger, Małgorzata Kotulska and Paweł Mackiewicz
+
+### CsgA, CsgB and CsgC - evolutionary interplay in curli biogenesis
+
+VAAM: Jahrestagung 2019 der Vereinigung für Allgemeine und Angewandte Mikrobiologie 2019
+
+Mainz, Germany
+
+2019
+
+**Jaroslaw Chilimoniuk**, Michał Burdukiewicz, Paweł Mackiewicz
+
+### AmyloGram: prediction of amyloid sequences in R
+
+Poster for PL in ML: Polish View on Machine Learning 2018
+
+Warsaw, Poland
+
+2018
+
+**Jaroslaw Chilimoniuk**, Michał Burdukiewicz, Piotr Sobczyk, Stefan Rödiger, Anna Duda-Madej, Marlena Gąsior-Głogowska, Małgorzata Kotulska and Paweł Mackiewicz
+
+### CsgA and CsgC - evolutionary interplay in curli biogenesis
+
+8th ASM Conference on Biofilms, 2018
+
+Washington, DC, USA
+
+2018
+
+**Jaroslaw Chilimoniuk**, Michał Burdukiewicz, Paweł Mackiewicz
+
+### PhyMet2: database and algorithm predicting culturing conditions of methanogens
+
+IBID: International Biotech Innovation Days, 2018
+
+Senftenberg, Germany
+
+2018
+
+**Jaroslaw Chilimoniuk**, Michał Burdukiewicz, Przemysław Gagat, Sławomir Jabłoński, Michał Gaworski, Paweł Mackiewicz, Marcin Łukaszewicz
+
+------------------------------------------------------------------------
+
+# `r fontawesome::fa("users", prefer_type = "solid", fill = "pink", height = "1.5em")` **Other activities**
+
+#### Association of Wrocław R Users (STWUR) meetings co-organizer - R language workshops.
+
+#### Co-organizer of WhyR? 2019 Conference in Warsaw.
+
+#### Co-organizer of WhyR? 2018 Conference in Wrocław.
