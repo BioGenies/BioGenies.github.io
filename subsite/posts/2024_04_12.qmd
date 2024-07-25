@@ -1,0 +1,13 @@
+---
+title: "Krysias internship in Montpellier"
+description: "6 march 2024 Krysia went to Montpellier on an internship"
+# author: "Fizz McPhee"
+date: "4/13/2024"
+categories:
+  - internship
+---
+
+
+Our team members went to a conference. Michał also.
+
+![](../fig/random/20240306_195149.jpg)

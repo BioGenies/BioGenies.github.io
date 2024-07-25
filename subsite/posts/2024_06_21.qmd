@@ -1,0 +1,13 @@
+---
+title: "Metabolomics conference"
+description: "Krysia went on Metabolomics 2024 conference"
+# author: "Fizz McPhee"
+date: "6/21/2024"
+categories:
+  - conference
+---
+
+
+Our team members went to a conference.
+
+![](../fig/random/20240306_195149.jpg)

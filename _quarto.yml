@@ -27,7 +27,6 @@ website:
           # - subsite/fun.qmd
       - text: "Projects" 
         menu: 
-          - subsite/projects/projects.qmd
           - subsite/projects/amyloids.qmd
           - subsite/projects/llps.qmd
           - subsite/projects/amp.qmd

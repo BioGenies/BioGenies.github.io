@@ -1,0 +1,14 @@
+---
+title: "2nd ML4NGP Meeting 2024"
+description: "Michał, Valen and Jarek went on a conference"
+date: "5/18/2024"
+categories:
+  - conference
+  # - code
+  # - analysis
+---
+
+
+Our team members went to a conference.
+
+![](../fig/conference/ml4ngp.jpeg)

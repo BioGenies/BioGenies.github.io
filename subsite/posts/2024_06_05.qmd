@@ -1,0 +1,14 @@
+---
+title: "Trip to our colaborators at Vilnius University"
+description: "asdf"
+date: "6/5/2024"
+categories:
+  # - news
+  # - code
+  # - analysis
+---
+
+
+Our team members went to a conference.
+
+![](../fig/random/20240221_124958.jpg)
