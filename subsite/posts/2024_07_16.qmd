@@ -1,0 +1,12 @@
+---
+title: "Eva's MSc defence"
+description: ""
+date: "7/16/2024"
+categories:
+  - grants
+---
+
+
+Our team members went to a conference.
+
+![](../fig/random/20240306_195149.jpg)

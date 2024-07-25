@@ -4,7 +4,8 @@ listing:
   contents: subsite/posts
   sort: "date desc"
   type: grid
-  categories: true
+  categories: cloud
+  
 ---
 
 <!-- {{< include subsite/content/group_desc.qmd >}} -->
