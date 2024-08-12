@@ -37,6 +37,10 @@ library("fontawesome")
 
 [![**Curated list of peer-reviewed peptide function predictors**](fig/tools/landscape.png){height=200}](http://li1810-97.members.linode.com/AMPBenchmark/)
 
+[![**Curated list of peer-reviewed amyloid databases**](fig/tools/amyloid_db.png){height=200}](https://biogenies.info/amyloid-database-list/)
+
+[![**Curated list of peer-reviewed amyloid databases**](fig/tools/asynpepdb.png){height=200}](https://asynpepdb.ppmclab.com/)
+
 :::
 
 ## `r fontawesome::fa("toolbox", prefer_type = "solid", fill = "black", height = "1.5em")` **Tools**
@@ -82,4 +86,8 @@ library("fontawesome")
 
 [![**dpcR** - tool for analysis, visualisation and simulation of digital PCR experiments](fig/tools/dpcr.png){width=250}](https://github.com/michbur/dpcR)
 
+[![**Curated list of peer-reviewed amyloid databases**](fig/tools/amyloid_db.png){height=200}](https://github.com/BioGenies/amyloid-database-list)
+
 :::
+
+Some logos were created by Copilots Designer AI

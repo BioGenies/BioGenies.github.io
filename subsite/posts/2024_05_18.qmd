@@ -1,14 +1,16 @@
 ---
-title: "2nd ML4NGP Meeting 2024"
-description: "Michał, Valen and Jarek went on a conference"
+title: "2nd Machine Learning 4 Non-Globular Proteins Meeting 2024"
+description: "Michał, Valen and Jarek went on a conference 🏛🔱🌊🇬🇷"
 date: "5/18/2024"
 categories:
   - conference
-  # - code
-  # - analysis
+  - ML4NGP
+  - COST Actions
+  - Greece
 ---
 
+We're excited to share that our team members Michał, Valen, and Jarek have embarked on an incredible journey to Thessaloniki, Greece, to attend the 2nd Machine Learning for Non-Globular Proteins conference! 🤖🧬
 
-Our team members went to a conference.
+This conference brings together leading experts and innovators to explore the latest advancements in applying machine learning techniques to understand and predict the behavior of non-globular proteins. It's a fantastic opportunity for BioGenies to connect with global researchers, exchange ideas, and bring back cutting-edge knowledge to enhance our ongoing projects.
 
-![](../fig/conference/ml4ngp.jpeg)
+![](../fig/conference/ml4ngp.jpeg) 

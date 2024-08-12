@@ -6,9 +6,11 @@ editor:
 ---
 
 ## Beyond the basics
+
 Antimicrobial peptides (AMPs) are a diverse group of small, naturally occurring molecules that play a crucial role in the innate immune response by targeting a wide range of pathogens, including bacteria, fungi, viruses, and even cancer cells. These peptides are found across all domains of life, from humans to plants and microorganisms, and are recognized for their broad-spectrum antimicrobial properties and their potential as therapeutic agents.
 
-### 1. Mechanisms of AMP Action
+### Mechanisms of AMP Action
+
 AMPs exert their antimicrobial effects through various mechanisms, primarily targeting microbial membranes but also affecting intracellular processes. Key mechanisms include:
 
 Membrane Disruption: AMPs can insert into microbial membranes, forming pores or disrupting membrane integrity, leading to cell lysis.
@@ -19,40 +21,21 @@ Factors influencing AMP activity include:
 Sequence and Structure: The amino acid composition, charge, hydrophobicity, and secondary structure (e.g., alpha-helices, beta-sheets) determine AMP activity and specificity.
 Environmental Conditions: Factors such as pH, ionic strength, and presence of serum proteins can affect AMP stability and activity.
 
-### 2. Biological Functions of AMPs
+### Biological Functions of AMPs
+
 AMPs are integral to the defense mechanisms of organisms, providing a first line of defense against infections. They are involved in:
 
 Direct Antimicrobial Action: Killing or inhibiting the growth of pathogens.
 Immune System Modulation: Enhancing the immune response by promoting the activation and recruitment of immune cells.
 Wound Healing: Facilitating tissue repair and regeneration by promoting cell migration and angiogenesis.
 
-### 3. Implications of AMPs in Health and Disease
+### Implications of AMPs in Health and Disease
+
 AMPs have significant potential in clinical applications due to their broad-spectrum activity and unique mechanisms of action. They are being explored for their therapeutic potential in:
 
 Infectious Diseases: As alternatives to traditional antibiotics, particularly in the face of rising antibiotic resistance.
 Cancer Therapy: Some AMPs have demonstrated anti-cancer properties by selectively targeting cancer cells.
 Inflammatory Diseases: AMPs can modulate inflammatory responses, offering potential treatments for conditions like sepsis and chronic inflammatory diseases.
-
-### 4. Schematics
-Below are simplified schematics illustrating key concepts of AMPs:
-
-Mechanisms of AMP Action:
-
-Schematic illustrating membrane disruption, intracellular targeting, and immunomodulation by AMPs.
-
-Structure-Activity Relationship:
-
-Depiction of how the sequence and structure of AMPs influence their antimicrobial activity.
-
-AMPs in Immune Defense:
-
-Diagram showing the role of AMPs in direct antimicrobial action, immune modulation, and wound healing.
-
-Therapeutic Applications of AMPs:
-
-Illustration of the potential applications of AMPs in treating infectious diseases, cancer, and inflammatory conditions.
-
-Through our research, we aim to advance the understanding of AMPs, uncovering new insights into their roles in immune defense and their potential as therapeutic agents. Our ultimate goal is to harness the power of AMPs to develop innovative treatments for a range of infectious and inflammatory diseases.
 
 ## Our aims
 

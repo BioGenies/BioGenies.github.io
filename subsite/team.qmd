@@ -2,27 +2,32 @@
 title: "Our Team"
 ---
 
-### Medical University of Białystok, Białystok, Poland
+### BioGenies
 ::: {layout-ncol=5}
-[![Michał Burdukiewicz](fig/ppl/mb.jpeg "Michał Burdukiewicz"){width=200}]()
+[![Filip Gaj](fig/github.png "Filip Gaj"){width=200}]()
+
+[![Jakub Kołodziejczyk](fig/ppl/jk.png "Jakub Kołodziejczyk"){width=200}]()
 
 [![Jarosław (Jarek) Chilimoniuk](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk"){width=200}]()
 
-[![Valentín Iglesias](fig/ppl/vi.png "Valentín Iglesias"){width=200}]()
-
-[![Jakub Kołodziejczyk](fig/ppl/jk.png "Jakub Kołodziejczyk"){width=200}]()
-:::
-
-### Wrocław University, Wrocław, Poland
-::: {layout-ncol=5}
-[![Krystyna (Krysia) Grzesiak](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){width=200}]()
-
 [![Joanna Pokora](fig/github.png "Joanna Pokora"){width=200}]()
 
-[![Filip Gaj](fig/github.png "Filip Gaj"){width=200}]()
+[![Krystyna (Krysia) Grzesiak](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){width=200}]()
+
+[![Michał Burdukiewicz](fig/ppl/mb.jpeg "Michał Burdukiewicz"){width=200}]()
+
+[![Weronika Puchała](fig/ppl/wp.png "Weronika Puchała with Lusia"){width=200}]()
+
+[![Valentín Iglesias](fig/ppl/vi.png "Valentín Iglesias"){width=200}]()
 :::
 
-### Institute of Biochemistry and Biophysics of the Polish Academy of Sciences, Warsaw, Poland
+### Our doggos and cattos
 ::: {layout-ncol=5}
-[![Weronika Puchała](fig/ppl/wp.png "Weronika Puchała with Lusia"){width=200}]()
+[![Czarek](fig/ppl/Czarson.jpeg "Climbing dog"){height=250}]()
+
+[![Delma](fig/ppl/Delma.jpeg "Cuddly dog"){height=250}]()
+
+[![Lusia](fig/ppl/Lusia.jpeg "Sleepy dog"){height=250}]()
+
+[![Piksel](fig/ppl/piksel.jpeg "Hot dog"){height=250}]()
 :::

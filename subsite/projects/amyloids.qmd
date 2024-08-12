@@ -7,7 +7,8 @@ editor:
 
 Amyloids are highly structured, fibrous protein aggregates that are associated with a variety of physiological and pathological processes. These protein assemblies are characterized by their beta-sheet-rich structure, which allows them to form long, unbranched fibrils. Amyloid fibrils can accumulate in tissues and organs, leading to a range of diseases known as amyloidoses. However, not all amyloids are harmful; some play functional roles in normal cellular processes.
 
-### 1. Mechanisms of Amyloid Formation
+### Mechanisms of Amyloid Formation
+
 Amyloid formation, or amyloidogenesis, involves the misfolding of normally soluble proteins into insoluble, fibrillar structures. Key steps in this process include:
 
 Nucleation: The initial and rate-limiting step where a few misfolded protein molecules aggregate to form a stable nucleus.
@@ -19,7 +20,8 @@ Protein Concentration: Higher concentrations of amyloidogenic proteins increase 
 Mutations: Genetic mutations can make proteins more prone to misfolding and aggregation.
 Environmental Conditions: pH, temperature, and ionic strength can affect protein stability and aggregation propensity.
 
-### 2. Biological Functions of Amyloids
+### Biological Functions of Amyloids
+
 While amyloids are often associated with disease, some serve functional roles in normal biology. Examples of functional amyloids include:
 
 Pmel17: Involved in the formation of melanin in pigment cells.
@@ -34,32 +36,14 @@ Sup35: A yeast prion protein that influences translation termination.
   * Islet Amyloid Polypeptide (IAPP): involved in type 2 diabetes. 
   * Transthyretin (TTR): associated with familial amyloidotic polyneuropathy (FAP) and senile systemic amyloidosis
 
-### 3. Implications of Amyloids in Health and Disease
+### Implications of Amyloids in Health and Disease
+
 Pathological amyloids are implicated in a variety of diseases, collectively known as amyloidoses. These include:
 
 Neurodegenerative Diseases: Amyloid-beta plaques in Alzheimer's disease, tau tangles in Alzheimer's and other tauopathies, alpha-synuclein aggregates in Parkinson's disease, and huntingtin fibrils in Huntington's disease.
 Systemic Amyloidosis: Deposition of amyloid fibrils in organs and tissues, leading to conditions such as primary amyloidosis (AL), secondary amyloidosis (AA), and familial amyloid polyneuropathy (FAP).
 
-### 4. Schematics
-Below are simplified schematics illustrating key concepts of amyloids:
-
-Amyloid Formation Process:
-
-Schematic illustrating the transition from soluble protein to amyloid fibrils.
-
-Functional and Pathological Amyloids:
-
-Depiction of various amyloids, highlighting both functional and pathological types.
-
-Factors Influencing Amyloidogenesis:
-
-Diagram showing how protein concentration, mutations, and environmental conditions drive amyloid formation.
-
-Amyloids in Disease:
-
-Illustration of how amyloid fibrils contribute to neurodegenerative diseases and systemic amyloidosis.
-
-### 5. Diagnostic techniques: 
+### Diagnostic techniques: 
 
 * Congo red staining and thioflavin-T (ThT) fluorescence are used to detect amyloid deposits. 
 * ThT is used for measuring aggregation kinetics.
@@ -73,4 +57,12 @@ Remember that while amyloids are often associated with diseases, they also play 
 
 #### AmyloGraph
 
+website
+publication
+github
+
 #### AmyloGram
+
+website
+publication
+github

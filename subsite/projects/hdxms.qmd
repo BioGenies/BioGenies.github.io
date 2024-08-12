@@ -1,0 +1,34 @@
+---
+title: "HDX-MS"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Hydrogen-Deuterium Exchange Mass Spectrometry (HDX-MS) is a powerful analytical technique used to study the structural dynamics and interactions of proteins. By measuring the exchange of hydrogen atoms with deuterium in a protein's backbone, HDX-MS provides detailed insights into protein folding, conformational changes, and binding events. This method is invaluable for understanding the mechanisms of protein function, interactions with other molecules, and the effects of mutations or environmental conditions on protein stability.
+
+### Mechanisms of HDX-MS
+HDX-MS involves several key steps to probe protein structure and dynamics:
+
+1. Deuterium incorporation: When a protein is exposed to deuterated water (D2O), the amide hydrogens in the protein's backbone gradually exchange with deuterium. The rate of this exchange depends on the local structural environment of the protein, such as whether regions are solvent-exposed or buried within the protein core.
+2. Quenching: To capture the extent of deuterium incorporation at specific time points, the exchange reaction is quenched by rapidly lowering the temperature and pH, which slows the exchange process.
+3. Proteolysis: The protein is digested into smaller peptides, typically using proteases such as pepsin, which are active under the acidic conditions of the quenching step.
+4. Mass spectrometry analysis: The resulting peptides are analyzed using mass spectrometry to determine the increase in mass due to deuterium incorporation. This data provides information about the regions of the protein that are more flexible or solvent-accessible.
+
+### Functions of HDX-MS
+
+HDX-MS is widely used in biological research to gain insights into:
+
+ * Protein Folding and Stability: Monitoring the folding process and identifying regions of the protein that are particularly stable or prone to unfolding.
+ * Protein-Ligand Interactions: Mapping the binding sites and conformational changes in proteins upon interaction with ligands, drugs, or other macromolecules.
+ * Protein-Protein Interactions: Characterizing the interfaces and dynamics of protein complexes, providing critical information on how proteins interact in cellular pathways.
+
+## Our aims
+
+## Projects
+
+#### HaDeX
+
+website
+publication
+github

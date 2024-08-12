@@ -1,14 +1,18 @@
 ---
-title: "Trip to our colaborators at Vilnius University"
-description: "asdf"
+title: "BioGenies visit to our colleagues from the Group of Amyloid Research at Vilnius University"
+description: "🌍 🇱🇹 BioGenies on the move: Visiting Vilnius University and Trakai Island Castle!"
 date: "6/5/2024"
 categories:
-  # - news
-  # - code
-  # - analysis
+  - news
+  - amyloid
+  - prion
+  - Lithuania
+  - trip
 ---
 
+BioGenies (Michał, Jarek and Valen) recently had an inspiring visit to Vilnius, where they connected with our esteemed colleagues from the Group of Amyloid Research at Vilnius University. 🧬🤝 
 
-Our team members went to a conference.
+This visit was a fantastic opportunity to exchange ideas, explore new collaborations, and dive deep into the latest advancements in amyloid research.
 
-![](../fig/random/20240221_124958.jpg)
+But the adventure didn’t stop there! On the way back, the team took some time to explore the historic Trakai Island Castle, soaking in the rich history and breathtaking views. 🏰
+

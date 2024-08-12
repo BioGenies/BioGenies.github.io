@@ -4,14 +4,26 @@ title: "Conferences"
 
 ```{r, echo=FALSE, message=FALSE}
 
-library(bib2df)
 library(tidyverse)
 library(DT)
+library(stringr)
+library(googlesheets4)
 
-conf <- read_csv("CV/data/conferences.csv", col_types = "cccfffc")
+# conf <- read_csv("CV/data/conferences.csv", col_types = "cccfffc")
+
+conf <- read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?usp=sharing",sheet = "conferences")
 
 conf %>% mutate(dates = paste0(start_date, " - ", end_date),
-                year = start_date) 
+                year = str_split_i(start_date, "[.]", i = 3),
+                place = paste0(city, ", ", country),
+                conference = conference %>% as.factor(),
+                type = type %>% as.factor(),
+                presenting = presenting %>% as.factor(),
+                start_date = start_date %>% as.Date(., format = "%d.%m.%Y"),
+                end_date = end_date %>% as.Date(., format = "%d.%m.%Y")) %>%
+  arrange(desc(end_date)) %>% 
+  select(conference, year, dates, place, type, title, presenting) %>% 
+  DT::datatable()
 # %>% 
 #                   str_split_1(., "[.]") %>% 
 #                   last() %>% 

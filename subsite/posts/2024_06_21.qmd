@@ -1,13 +1,14 @@
 ---
-title: "Metabolomics conference"
-description: "Krysia went on Metabolomics 2024 conference"
-# author: "Fizz McPhee"
+title: "BioGenies went to Japan on a conference"
+description: "Krysia attends Metabolomics 2024 in Osaka, Japan! 🌏🇯🇵"
 date: "6/21/2024"
 categories:
   - conference
+  - Metabolomics
+  - Japan
 ---
 
+We’re excited to share that Krysia from our BioGenies team has traveled to Osaka, Japan to participate in the Metabolomics 2024 conference! 🧪✨ 
+This event is a gathering of leading minds in the field of metabolomics, offering a platform to explore the latest research, tools, and technologies that are shaping the future of metabolic studies.
 
-Our team members went to a conference.
-
-![](../fig/random/20240306_195149.jpg)
+Krysia will be engaging with global experts, presenting our team's work (imputomics), and bringing back invaluable insights to push our research forward.

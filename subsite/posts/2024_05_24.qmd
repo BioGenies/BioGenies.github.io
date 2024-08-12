@@ -1,12 +1,19 @@
 ---
-title: "Michał got NCN Sonata 19 grant"
-description: ""
+title: "🎉 Exciting news: Michał awarded NCN Sonata 19 Grant! 🎉"
+description: "Results of the Sonata 19 grant contest organized by the National Science Center Poland were announced today!"
 date: "5/24/2024"
 categories:
   - grants
+  - NCN
+  - Sonata
+  - news
 ---
 
 
-Our team members went to a conference.
+We are proud to announce that Michał has been awarded the prestigious NCN Sonata 19 grant for his  project titled "Taming aggregation with AmyloGraph 2.0: a database and prediction models of amyloid self-assembly modulators" 🧬✨
 
-![](../fig/random/20240306_195149.jpg)
+This innovative research will focus on expanding AmyloGraph, a comprehensive amyloid interactions database aimed at understanding and controlling the self-assembly of amyloid proteins. Michał's work promises to make significant contributions to the field of protein aggregation, with potential implications for tackling diseases linked to amyloid formation.
+
+We have planned three new positions for the project. Stay tuned for the announcement at the end of summer vacation!
+
+![](../fig/ncn_logo.png)

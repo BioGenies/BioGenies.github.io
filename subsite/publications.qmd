@@ -37,3 +37,19 @@ new_df %>%
   datatable()
 
 ```
+
+
+
+```{r, echo=FALSE, message=FALSE}
+
+library(openalexR)
+library(tidyverse)
+library(DT)
+
+pub <- openalexR::oa_fetch(entity ="works",
+                    authorships.institutions.id = "I146122375",
+                    output = "list",
+                    from_publication_date = "2024-01-01")
+
+```
+

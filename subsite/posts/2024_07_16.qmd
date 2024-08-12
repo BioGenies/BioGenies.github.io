@@ -1,12 +1,13 @@
 ---
-title: "Eva's MSc defence"
-description: ""
-date: "7/16/2024"
+title: "BioGenies went to Canada for a conference"
+description: "Krysia and Weronika at Intelligent Systems for Molecular Biology (ISMB) conference"
+date: "7/17/2024"
 categories:
-  - grants
+  - conference
+  - ISBM
+  - Canada
 ---
 
+We’re excited to announce that Krysia and Weronika from our BioGenies team went to Montreal, Canada for Intelligent Systems for Molecular Biology (ISMB) 2024 conference! 🧬🤖
 
-Our team members went to a conference.
-
-![](../fig/random/20240306_195149.jpg)
+At this leading event, they’re diving into the latest advancements in computational biology and intelligent systems, engaging with top experts, and exploring innovative research methods that push the boundaries of molecular biology.

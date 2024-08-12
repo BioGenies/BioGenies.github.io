@@ -7,18 +7,3 @@ listing:
   categories: cloud
   
 ---
-
-<!-- {{< include subsite/content/group_desc.qmd >}} -->
-
-<!-- ```{r echo=FALSE, message=FALSE} -->
-<!-- #| column: page-inset-right-left -->
-
-<!-- library(leaflet) -->
-<!-- leaflet() %>% -->
-<!--   addTiles() %>%  # Add default OpenStreetMap map tiles -->
-<!--   addMarkers(lat=53.12324, lng=23.15935, popup="The BIOgenies headquarters") -->
-<!-- ``` -->
-
-<!-- {{< include subsite/content/city_hq.qmd >}} -->
-
-<!-- {{< include subsite/content/news.qmd >}} -->

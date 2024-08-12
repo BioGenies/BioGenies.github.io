@@ -1,0 +1,14 @@
+---
+title: "🎓 Celebrating Eva’s MSc Defense! 🎓"
+description: "We are thrilled to announce that Eva has successfully defended her MSc thesis! 🏆📚"
+date: "7/12/2024"
+categories:
+  - MSc
+  - defence
+---
+
+Eva’s presentation was a showcase of her hard work, dedication, and the impressive research she’s conducted. 
+
+This milestone marks a significant achievement and the culmination of her journey in advancing our understanding in her field.
+
+Congratulations, Eva, on this incredible accomplishment! We’re proud of your achievements and excited to see where your expertise and passion will take you next.
