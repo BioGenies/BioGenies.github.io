@@ -4,15 +4,22 @@ description: "🌍 🇱🇹 BioGenies on the move: Visiting Vilnius University a
 date: "6/5/2024"
 categories:
   - news
-  - amyloid
-  - prion
   - Lithuania
   - trip
 ---
 
 BioGenies (Michał, Jarek and Valen) recently had an inspiring visit to Vilnius, where they connected with our esteemed colleagues from the Group of Amyloid Research at Vilnius University. 🧬🤝 
 
+![](../fig/posts/2024_06_05/IMG_3191.jpeg) 
+
 This visit was a fantastic opportunity to exchange ideas, explore new collaborations, and dive deep into the latest advancements in amyloid research.
 
 But the adventure didn’t stop there! On the way back, the team took some time to explore the historic Trakai Island Castle, soaking in the rich history and breathtaking views. 🏰
+
+![](../fig/posts/2024_06_05/DSC_3361.JPG)
+
+And of course it was eaten, Lithuanian kolduny and potato pancake :)
+
+![](../fig/posts/2024_06_05/DSC_3371.jpeg)
+
 

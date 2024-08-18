@@ -13,4 +13,8 @@ We're excited to share that our team members Michał, Valen, and Jarek have emba
 
 This conference brings together leading experts and innovators to explore the latest advancements in applying machine learning techniques to understand and predict the behavior of non-globular proteins. It's a fantastic opportunity for BioGenies to connect with global researchers, exchange ideas, and bring back cutting-edge knowledge to enhance our ongoing projects.
 
-![](../fig/conference/ml4ngp.jpeg) 
+![](../fig/posts/2024_05_18/ml4ngp.jpeg) 
+
+During the conference we tried some Greek food.
+
+![](../fig/posts/2024_05_18/DSC_3292.jpeg)

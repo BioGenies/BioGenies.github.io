@@ -1,0 +1,7 @@
+---
+title: "Big annoucement!"
+description: "We are looking for two students and a post-doc for AmyloGraph 2.0"
+date: "8/19/2024"
+categories:
+  - news
+---

@@ -1,12 +1,18 @@
 ---
-title: "Krysia, Jarek and colleagues at via ferratas in Dolomiti"
-description: ""
-date: "8/12/2024"
+title: "🎓 Celebrating Eva’s MSc Defense! 🎓"
+description: "We are thrilled to announce that Eva has successfully defended her MSc thesis! 🏆📚"
+date: "7/12/2024"
 categories:
-  - trip
-  - holidays
-  - Italy
-  - Dolomiti
-  - Monte Civetta
+  - MSc
+  - defence
 ---
 
+Eva’s presentation was a showcase of her hard work, dedication, and the impressive research she’s conducted. 
+
+This milestone marks a significant achievement and the culmination of her journey in advancing our understanding in her field.
+
+![](../fig/posts/2024_07_12/450320768_1143782756896018_2989709330534214847_n.jpg)
+
+Congratulations, Eva, on this incredible accomplishment! We’re proud of your achievements and excited to see where your expertise and passion will take you next.
+
+![](../fig/posts/2024_07_12/450499919_8055589464483749_3723161269954608248_n.jpg)

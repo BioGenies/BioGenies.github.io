@@ -1,14 +1,27 @@
 ---
-title: "🎓 Celebrating Eva’s MSc Defense! 🎓"
-description: "We are thrilled to announce that Eva has successfully defended her MSc thesis! 🏆📚"
-date: "7/12/2024"
+title: "BioGenies on adventure"
+description: "Jarek and Krysia conquer the Dolomites on their short summer vacations!"
+date: "8/12/2024"
 categories:
-  - MSc
-  - defence
+  - trip
+  - holidays
+  - Italy
+  - Dolomites
+  - via ferrata
 ---
 
-Eva’s presentation was a showcase of her hard work, dedication, and the impressive research she’s conducted. 
+This summer, Jarek and Krysia from our BioGenies team took their holiday spirit to new heights by tackling the thrilling via ferrata routes in the Dolomites, near the iconic Mount Civetta! 🧗‍♂️⛰️
 
-This milestone marks a significant achievement and the culmination of her journey in advancing our understanding in her field.
+![](../fig/posts/2024_08_12/DSC_3464.jpeg)
 
-Congratulations, Eva, on this incredible accomplishment! We’re proud of your achievements and excited to see where your expertise and passion will take you next.
+Amidst breathtaking views and rugged terrain, they embraced the challenge and adventure of these exhilarating mountain trails. It was a perfect blend of adrenaline and nature, offering a well-deserved break from the lab while exploring one of the most stunning landscapes in the world.
+
+![](../fig/posts/2024_08_12/DSC_3442.jpeg)
+![](../fig/posts/2024_08_12/DSC_3441.jpeg)
+![](../fig/posts/2024_08_12/20240806_162831_Original.jpeg)
+![](../fig/posts/2024_08_12/IMG_6390.jpeg)
+
+![](../fig/posts/2024_08_12/IMG_6346.jpeg)
+
+We didn't forgot to try Italian pizza!
+![](../fig/posts/2024_08_12/DSC_3526.jpeg)

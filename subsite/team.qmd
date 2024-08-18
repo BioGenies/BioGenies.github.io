@@ -6,7 +6,7 @@ title: "Our Team"
 ::: {layout-ncol=5}
 [![Filip Gaj](fig/github.png "Filip Gaj"){width=200}]()
 
-[![Jakub Kołodziejczyk](fig/ppl/jk.png "Jakub Kołodziejczyk"){width=200}]()
+[![Jakub Kołodziejczyk](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){width=200}]()
 
 [![Jarosław (Jarek) Chilimoniuk](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk"){width=200}]()
 
