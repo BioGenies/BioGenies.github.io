@@ -5,3 +5,5 @@ date: "8/19/2024"
 categories:
   - news
 ---
+
+![](../fig/posts/2024_08_19/ag2.jpeg)
