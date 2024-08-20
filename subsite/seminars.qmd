@@ -6,12 +6,13 @@ title: "Seminars"
 
 ```{r, results='asis', echo=FALSE, message=FALSE}
 library(RCurl)
-library(tidyverse)
 
 URL <- "https://raw.githubusercontent.com/BioGenies/seminar/master/README.md"
-x <- getURL(URL) %>% str_remove(., "## Seminars\n")
+#all_lines <- iconv(strsplit(getURL(URL), "\n")[[1]], from = "UTF-8", to = "UTF-8")
+all_lines <- strsplit(getURL(URL, .encoding = "UTF-8"), "\n")[[1]]
 
-cat(x)
+
+cat(all_lines[-c(1, 2)], sep = "\n")
 
 # sem_df <- x %>% str_split(., "\n[0-9]+. ") %>% tibble() %>% unnest() %>% rename("id" = ".") %>% separate(., col = 'id', into = c("date", "title"), sep = ": ")
 

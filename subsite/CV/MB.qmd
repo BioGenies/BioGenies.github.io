@@ -11,16 +11,17 @@ format:
 
 # Personal Information
 
-**Name:** Your Name  
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
-**Phone:** (123) 456-7890  
-**Website:** [yourwebsite.com](https://yourwebsite.com)  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**GitHub:** [github.com/yourprofile](https://github.com/yourprofile)
+**Name:** Michał Burdukiewicz
+**Email:** [michalburdukiewicz@gmail.com](mailto:michalburdukiewicz@gmail.com)  
+**Website:** [biogenies.info](https://biogenies.info)  
+**LinkedIn:** [linkedin.com/in/michal-burdukiewicz/](https://www.linkedin.com/in/michal-burdukiewicz/)  
+**GitHub:** [@michbur](https://github.com/michbur)
 
 # Summary
 
-A brief summary about yourself. Describe your professional background, skills, and career aspirations in a few sentences.
+Hi! My name is Michał Burdukiewicz<a href="https://orcid.org/0000-0001-8926-582X"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a> and I am passionate about bioinformatics and R.
+
+I am currently leading the Laboratory of Bioinformatics and Multi-omics Analysis at the Medical University of Białystok. Contact me if you want to collaborate with us!
 
 # Experience
 
@@ -52,9 +53,7 @@ A brief summary about yourself. Describe your professional background, skills, a
 
 # Skills
 
-- **Programming Languages:** Python, R, JavaScript, etc.
-- **Tools & Technologies:** Git, Docker, AWS, etc.
-- **Soft Skills:** Leadership, Communication, Teamwork, etc.
+- **Programming Languages:** R.
 
 # Projects
 
@@ -84,4 +83,3 @@ A brief summary about yourself. Describe your professional background, skills, a
 
 # References
 
-Available upon request.
