@@ -4,21 +4,22 @@ title: "Our Team"
 
 ### BioGenies
 ::: {layout-ncol=5}
-[![Filip Gaj](fig/github.png "Filip Gaj"){width=200}]()
-
-[![Jakub Kołodziejczyk](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){width=200}]()
+[![Michał Burdukiewicz](fig/ppl/mb.jpeg "Michał Burdukiewicz"){width=200}]()
 
 [![Jarosław (Jarek) Chilimoniuk](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk"){width=200}]()
 
-[![Joanna Pokora](fig/github.png "Joanna Pokora"){width=200}]()
+[![Filip Gaj](fig/github.png "Filip Gaj"){width=200}]()
 
 [![Krystyna (Krysia) Grzesiak](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){width=200}]()
 
-[![Michał Burdukiewicz](fig/ppl/mb.jpeg "Michał Burdukiewicz"){width=200}]()
+[![Valentín Iglesias](fig/ppl/vi.png "Valentín Iglesias"){width=200}]()
+
+[![Jakub Kołodziejczyk](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){width=200}]()
+
+[![Joanna Pokora](fig/github.png "Joanna Pokora"){width=200}]()
 
 [![Weronika Puchała](fig/ppl/wp.png "Weronika Puchała with Lusia"){width=200}]()
 
-[![Valentín Iglesias](fig/ppl/vi.png "Valentín Iglesias"){width=200}]()
 :::
 
 ### Our doggos and cattos

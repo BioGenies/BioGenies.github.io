@@ -4,9 +4,22 @@ title: "Our collaborators"
 
 ### Autonomous University of Barcelona, Bellaterra, Barcelona, Spain
 ::: {layout-ncol=5}
-[![Carlos Pintado-Grima](fig/ppl/cp.png "Carlos Pintado-Grima"){width=200}]()
+[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){width=200}]()
 
 [![Oriol Bárcenas](fig/ppl/ob.png "Oriol Bárcenas"){width=200}]()
 
-[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){width=200}]()
+[![Carlos Pintado-Grima](fig/ppl/cp.png "Carlos Pintado-Grima"){width=200}]()
+:::
+
+### Quadram Institute, Norwich, United Kingdom
+::: {layout-ncol=5}
+[![Rafał Kolenda](fig/github.png "Rafał Kolenda"){width=200}]()
+
+[![Katarzyna (Kasia) Sidorczuk](fig/github.png "Katarzyna (Kasia) Sidorczuk"){width=200}]()
+:::
+
+### Brandenburg University of Technology Cottbus -Senftenberg, Bellaterra, Senftenberg, Germany
+::: {layout-ncol=5}
+[![Stefan Rödiger](fig/github.png "Stefan Rödiger"){width=200}]()
+
 :::

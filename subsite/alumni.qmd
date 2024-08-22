@@ -3,23 +3,22 @@ title: "Former Team Members"
 ---
 
 ::: {layout-ncol=5}
-[![Katarzyna (Kasia) Sidorczuk](fig/github.png "Katarzyna (Kasia) Sidorczuk"){width=200}]()
-
-[![Anna Lassota](fig/github.png "Anna Lassota"){width=200}]()
-
-[![Dominika Kozakiewicz](fig/github.png "Dominika Kozakiewicz"){width=200}]()
-
-[![Dominik Rafacz](fig/github.png "Dominik Rafacz"){width=200}]()
+[![Agnieszka Barbach](fig/github.png "Agnieszka Barbach"){width=200}]()
 
 [![Laura Bąkała](fig/github.png "Laura Bąkała"){width=200}]()
 
-[![Jadwiga Słowik](fig/github.png "Jadwiga Słowik"){width=200}]()
-
-[![Agnieszka Barbach](fig/github.png "Agnieszka Barbach"){width=200}]()
-
 [![Katarzyna Hubicka](fig/github.png "Katarzyna Hubicka"){width=200}]()
+
+[![Dominika Kozakiewicz](fig/github.png "Dominika Kozakiewicz"){width=200}]()
+
+[![Anna Lassota](fig/github.png "Anna Lassota"){width=200}]()
 
 [![Filip Pietluch](fig/github.png "Filip Pietluch"){width=200}]()
 
+[![Dominik Rafacz](fig/github.png "Dominik Rafacz"){width=200}]()
+
 [![Joanna Sikorska](fig/github.png "Joanna Sikorska"){width=200}]()
+
+[![Jadwiga Słowik](fig/github.png "Jadwiga Słowik"){width=200}]()
+
 :::
