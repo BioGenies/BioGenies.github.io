@@ -1,0 +1,5 @@
+            - name: Quarto Render
+  # You may pin to the exact commit or the version.
+  # uses: pommevilla/quarto-render@bf2ebf623fa0e0055b3d978171b6870e15087154
+  uses: pommevilla/quarto-render@v0.3.11
+          
