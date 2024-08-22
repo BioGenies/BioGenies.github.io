@@ -1,3 +1,4 @@
+name: render website
 - name: Render Quarto Project
   uses: quarto-dev/quarto-actions/render@v2
   env:
