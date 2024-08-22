@@ -10,5 +10,5 @@ We are a dynamic team of passionate individuals driven by a collective vision of
 
 Our team's interdisciplinary nature enriches our exploration, allowing us to tackle complex challenges from multiple perspectives and drive progress in diverse fields. Whether unraveling the mysteries of molecular interactions or harnessing the power of AI for predictive modeling, we are united by a shared commitment to pushing the boundaries of knowledge and fostering scientific excellence.
 
-If you're curious about our ongoing projects, you can explore them [here](projects.qmd).
+If you're curious about our ongoing projects, you can explore them in the Project tab.
 
