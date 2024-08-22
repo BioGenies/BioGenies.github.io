@@ -1,7 +1,14 @@
-name: 'render website'
-- name: Render Quarto Project
-  uses: quarto-dev/quarto-actions/render@v2
-  env:
-    QUARTO_PROFILE: preview
-  with:
-    to: html
+on:
+  push:
+    branches: main
+
+name: quarto render
+
+jobs:
+  steps:
+  - name: Render Quarto Project
+    uses: quarto-dev/quarto-actions/render@v2
+    env:
+      QUARTO_PROFILE: preview
+    with:
+      to: html
