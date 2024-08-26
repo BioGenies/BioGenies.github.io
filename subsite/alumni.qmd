@@ -2,7 +2,7 @@
 title: "Former Team Members"
 ---
 
-::: {layout-ncol=4}
+::: {layout-ncol=7}
 [![Agnieszka Barbach](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
 
 [![Laura Bąkała](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
