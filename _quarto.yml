@@ -67,3 +67,5 @@ format:
       margin-width: 250px
       gutter-width: 1.5rem
     # logo: fig/bg_logo.png
+execute:  
+  freeze: auto
