@@ -2,24 +2,24 @@
 title: "Our collaborators"
 ---
 
-### Autonomous University of Barcelona, Bellaterra, Barcelona, Spain
+### ![](fig/logo/UAB_logo.png){width="10%"} Autonomous University of Barcelona
 ::: {layout-ncol=5}
-[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){width=200}]()
+[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){width="100%"}]()
 
-[![Oriol Bárcenas](fig/ppl/ob.png "Oriol Bárcenas"){width=200}]()
+[![Oriol Bárcenas](fig/ppl/ob.png "Oriol Bárcenas"){width="100%"}]()
 
-[![Carlos Pintado-Grima](fig/ppl/cp.png "Carlos Pintado-Grima"){width=200}]()
+[![Carlos Pintado-Grima](fig/ppl/cp.png "Carlos Pintado-Grima"){width="100%"}]()
 :::
 
-### Quadram Institute, Norwich, United Kingdom
+### ![](fig/logo/QI_logo.png){width="10%"} Quadram Institute
 ::: {layout-ncol=5}
-[![Rafał Kolenda](fig/github.png "Rafał Kolenda"){width=200}]()
+[![Rafał Kolenda](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
 
-[![Katarzyna (Kasia) Sidorczuk](fig/github.png "Katarzyna (Kasia) Sidorczuk"){width=200}]()
+[![Katarzyna (Kasia) Sidorczuk](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
 :::
 
-### Brandenburg University of Technology Cottbus -Senftenberg, Bellaterra, Senftenberg, Germany
+### ![](fig/logo/BTU_logo.png){width="10%"} Brandenburg University of Technology Cottbus-Senftenberg
 ::: {layout-ncol=5}
-[![Stefan Rödiger](fig/github.png "Stefan Rödiger"){width=200}]()
+[![Stefan Rödiger](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
 
 :::

@@ -3,32 +3,32 @@ title: "Our Team"
 ---
 
 ### BioGenies
-::: {layout-ncol=5}
-[![Michał Burdukiewicz](fig/ppl/mb.jpeg "Michał Burdukiewicz"){width=200}]()
+::: {layout-ncol=4}
+[![Michał Burdukiewicz](fig/ppl/mb.jpeg "Michał Burdukiewicz"){width="100%"}]()
 
-[![Jarosław (Jarek) Chilimoniuk](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk"){width=200}]()
+[![Jarosław (Jarek) Chilimoniuk](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk"){width="100%"}]()
 
-[![Filip Gaj](fig/github.png "Filip Gaj"){width=200}]()
+[![Filip Gaj](fig/ppl/fg.jpeg "Filip Gaj"){width="100%"}]()
 
-[![Krystyna (Krysia) Grzesiak](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){width=200}]()
+[![Krystyna (Krysia) Grzesiak](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){width="100%"}]()
 
-[![Valentín Iglesias](fig/ppl/vi.png "Valentín Iglesias"){width=200}]()
+[![Valentín Iglesias](fig/ppl/vi.png "Valentín Iglesias"){width="100%"}]()
 
-[![Jakub Kołodziejczyk](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){width=200}]()
+[![Jakub Kołodziejczyk](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){width="100%"}]()
 
-[![Joanna Pokora](fig/github.png "Joanna Pokora"){width=200}]()
+[![Joanna Pokora](fig/ppl/jp.jpeg "Joanna Pokora"){width="100%"}]()
 
-[![Weronika Puchała](fig/ppl/wp.png "Weronika Puchała with Lusia"){width=200}]()
+[![Weronika Puchała](fig/ppl/wp.png "Weronika Puchała with Lusia"){width="100%"}]()
 
 :::
 
 ### Our doggos and cattos
-::: {layout-ncol=5}
-[![Czarek](fig/ppl/Czarson.jpeg "Climbing dog"){height=250}]()
+::: {layout-ncol=4}
+[![Czarek](fig/ppl/Czarson.jpeg "Climbing dog"){width="100%"}]()
 
-[![Delma](fig/ppl/Delma.jpeg "Cuddly dog"){height=250}]()
+[![Delma](fig/ppl/Delma.jpeg "Cuddly dog"){width="100%"}]()
 
-[![Lusia](fig/ppl/Lusia.jpeg "Sleepy dog"){height=250}]()
+[![Lusia](fig/ppl/Lusia.jpeg "Sleepy dog"){width="100%"}]()
 
-[![Piksel](fig/ppl/piksel.jpeg "Hot dog"){height=250}]()
+[![Piksel](fig/ppl/piksel.jpeg "Hot dog"){width="100%"}]()
 :::
