@@ -1,0 +1,19 @@
+{
+  "hash": "0cc2f18b70f9c3b8b7c767b526840e0e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"BioGenies having fun\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div id=\"htmlwidget-9d1224e7100cce1c5838\" style=\"width:95%;height:480px;\" class=\"slickR html-widget\"></div>\n<script type=\"application/json\" data-for=\"htmlwidget-9d1224e7100cce1c5838\">{\"x\":[{\"obj\":\"<div class=\\\"baseDiv_bump_687106882454827\\\"><\\/div>\",\"divName\":\"baseDiv_bump_687106882454827\",\"slideh\":500,\"slidew\":\"95%\",\"slickOpts\":{\"dots\":true}}],\"evals\":[],\"jsHooks\":[]}</script>\n```\n\n:::\n:::\n\n\n<!-- ![](fig/random/20240131_144914.jpg) -->\n<!-- ![](fig/random/IMG_1174.jpeg) -->\n<!-- ![](fig/random/20240221_124958.jpg) -->\n<!-- ![](fig/random/20240306_195149.jpg) -->\n<!-- ![](fig/random/20240117_200548.jpg) -->\n<!-- ![](fig/random/DSC_3041.jpeg) -->\n<!-- ![](fig/random/20230804_160927.jpg) -->",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"../site_libs/htmlwidgets-1.6.4/htmlwidgets.js\"></script>\n<script src=\"../site_libs/jquery-3.4.1/jquery-3.4.1.min.js\"></script>\n<script src=\"../site_libs/jquery-migrate-3.1.0/jquery-migrate-3.1.0.min.js\"></script>\n<link href=\"../site_libs/slick-1.8.1/slick/slick.css\" rel=\"stylesheet\" />\n<link href=\"../site_libs/slick-1.8.1/slick/slick-theme.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/slick-1.8.1/slick/slick.min.js\"></script>\n<script src=\"../site_libs/css-resize-1.2.1/ResizeSensor.js\"></script>\n<script src=\"../site_libs/css-resize-1.2.1/ElementQueries.js\"></script>\n<link href=\"../site_libs/slickR-0.0.2/slick.css\" rel=\"stylesheet\" />\n<link href=\"../site_libs/slickR-0.0.2/slick-theme.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/slickR-0.0.2/slickR.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
