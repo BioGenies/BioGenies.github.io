@@ -1,9 +1,13 @@
 ---
 title: "Big annoucement!"
-description: "We are thrilled to announce that we are looking for two talented students and one PhD candidate to join our team for AmyloGraph 2.0 project"
+description: "We are thrilled to announce that we are looking for two talented students and one PhD candidate to join our team for AmyloGraph 2.0 project (2023/51/D/NZ7/02847)"
 date: "8/27/2024"
 categories:
   - news
+  - AmyloGraph
+  - amyloids
+  - hiring
+  - NCN
 ---
 
 ## About the Project
@@ -24,7 +28,7 @@ But that’s not all. The data collected during this project will be used to tra
 
 ### Other
 
-**submission deadline**: 06.09.2024, 15:00 (GMT+2)/07.10.2024, 15:00 (GMT+2)
+**Submission deadline**: 06.09.2024, 15:00 (GMT+2)/07.10.2024, 15:00 (GMT+2)
 
 **Interviews (Google Meet)**: 16-17.09.2024/14-16.10.2024
 
@@ -105,3 +109,4 @@ But that’s not all. The data collected during this project will be used to tra
 
 
 ![](../fig/posts/2024_08_19/ag2.jpeg)
+![](../fig/ncn_logo.png)
