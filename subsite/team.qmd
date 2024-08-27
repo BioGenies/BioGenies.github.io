@@ -28,7 +28,7 @@ title: "Our Team"
 
 [![Delma](fig/ppl/Delma.jpeg "Cuddly dog"){}]()
 
-[![Ivi](fig/ppl/ivi.jpg "Tiny dog"){}]()
+[![Invi](fig/ppl/invi.jpg "Tiny dog"){}]()
 
 [![Lusia](fig/ppl/Lusia.jpeg "Sleepy dog"){}]()
 
