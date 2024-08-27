@@ -1,9 +1,107 @@
 ---
 title: "Big annoucement!"
-description: "We are looking for two students and a post-doc for AmyloGraph 2.0"
-date: "8/19/2024"
+description: "We are thrilled to announce that we are looking for two talented students and one PhD candidate to join our team for AmyloGraph 2.0 project"
+date: "8/27/2024"
 categories:
   - news
 ---
+
+## About the Project
+Amyloids are proteins implicated in numerous serious diseases, including Alzheimer’s, Parkinson's, Creutzfeldt-Jakob's disease, and type 2 diabetes. These proteins are known for their ability to self-aggregate into unique supramolecular fibrils, a process that plays a critical role in disease progression.
+
+Our team has previously developed AmyloGraph, database of amyloid interactions, which you can explore [here](https://amylograph.com/). In this new phase of our research, we aim to take AmyloGraph to the next level. We will design and implement machine learning-based tools to analyze the data more effectively and revamp the user interface to make it easier for researchers to access the latest information.
+
+But that’s not all. The data collected during this project will be used to train predictive models, with the ultimate goal of designing new chemical compounds that can inhibit amyloid self-aggregation. These compounds hold great promise for the treatment of various amyloid-related diseases.
+
+## Some info
+### Employment conditions (student/PhD candidate)
+
+**Place**: Bioinformatics and Multiomics Analyses Laboratory, Clinical Research Centre, Medical University of Białystok, Poland
+
+**Scholarship/salary**: 2500/11666.67 PLN gross per month (2500 for student under 26 yo and approx. 7500 net)
+
+**Planned start date for project work**: 01.10.2024/12.11.2024
+
+### Other
+
+**submission deadline**: 06.09.2024, 15:00 (GMT+2)/07.10.2024, 15:00 (GMT+2)
+
+**Interviews (Google Meet)**: 16-17.09.2024/14-16.10.2024
+
+## Tasks and skills
+
+### student 1
+
+#### Tasks:
+
+1. Automating the search for new sources of information.
+2. Developing tools for automated data validation.
+3. Creating tools for automated data acquisition from new sources.
+4. Designing and implementing a new version of the AmyloGraph database.
+5. Implementing the new version of the AmyloGraph database.
+6. Training and conducting a comparative analysis of the prediction model for modulators.
+7. Implementing generative models for designing small molecules.
+
+#### Skills:
+
+* Proficiency in designing machine learning models.
+* Experience in creating and implementing databases.
+* Advanced knowledge of the R language, particularly within the tidyverse environment and the Shiny package.
+* Knowledge of Python and JavaScript is an advantage.
+* Familiarity with version control systems.
+* Strong teamwork skills and motivation to conduct research.
+
+
+### student 2
+
+#### Tasks:
+
+1. Expanded maintenance of existing data sources.
+2. Data curation from new sources for the AmyloGraph database.
+3. Designing existing databases.
+4. Designing and creating a system for browsing databases of small molecular compounds.
+5. Training and conducting a comparative analysis of the prediction model for modulators.
+
+#### Skills:
+
+* Expertise in verifying biological data and data management.
+* Knowledge of amyloid aggregation and methods for testing it.
+*	Proficiency in topology and network analysis.
+*	Experience with methods of biological data processing in machine learning models, particularly for small molecular compounds and proteins.
+*	Advanced proficiency in the R language, especially within the tidyverse environment and Shiny package.
+*	Familiarity with the TeX language.
+*	Ability to work with version control systems.
+*	Strong teamwork skills and motivation to conduct research.
+*	Very good command of English, both written and oral.
+
+### PhD candidate
+
+#### Tasks:
+
+1. Train and manage data curators (collective contractors in the project) for the AmyloGraph database.
+2. Oversee data curation for the new version of the AmyloGraph database.
+3. Design a new version of the AmyloGraph database.
+4. Develop tools for the automatic search of new information sources.
+5. Create tools for automated verification of data accuracy in the AmyloGraph database.
+6. Develop a model for automatic curation of scientific publications using deep learning techniques.
+
+#### Skills:
+
+* Experience in molecular biology and bioinformatics, as evidenced by at least three publications in scientific journals.
+* Advanced proficiency in R programming, demonstrated by publishing at least one package on CRAN. Knowledge of Python or Julia is an advantage.
+* Experience in developing predictive models using both shallow and deep learning methods.
+* Experience in developing and managing biological databases, confirmed by relevant publications in scientific journals.
+* Extensive knowledge of amyloids, amyloid aggregation, methods of their detection, and practical experience in working with them.
+* Experience working with students, either through teaching classes or supervising a thesis.
+* Positive attitude toward collaborating with other scientists.
+
+
+**More detailed info about requirements and needed documents**: [student 1](https://www.umb.edu.pl/photo/pliki/administracja/oferty-pracy/projekty/konkurs_na_stanowisko_studenta-doktorant-stypendysty_1_sonata_19_-_eng.docx), [student 2](https://www.umb.edu.pl/photo/pliki/administracja/oferty-pracy/projekty/konkurs_na_stanowisko_studenta-doktorant-stypendysty_2_sonata_19_-_eng.docx), [PhD candidate](https://www.umb.edu.pl/photo/pliki/administracja/oferty-pracy/projekty/ogloszenie_o_konkursie_na_stanowisko_post-doc_2024_sonata_19_-_eng%281%29.docx)
+
+
+
+
+
+
 
 ![](../fig/posts/2024_08_19/ag2.jpeg)
