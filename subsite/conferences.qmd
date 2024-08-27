@@ -18,11 +18,19 @@ conf %>% mutate(dates = paste0(start_date, " - ", end_date),
                 place = paste0(city, ", ", country),
                 conference = conference %>% as.factor(),
                 type = type %>% as.factor(),
-                presenting = presenting %>% as.factor(),
+                presenting = presenting %>% as.factor() %>% fct_recode(., "Michał Burdukiewicz" = "michbur", 
+                                                                       "Jarosław Chilimoniuk" = "jarochi",
+                                                                       "Weronika Puchała" = "werpuc",
+                                                                       "Katarzyna Sidorczuk" = "ksidorczuk",
+                                                                       "Dominika Kozakiewicz" = "kdominika",
+                                                                       "Dominik Rafacz" = "DominikRafacz",
+                                                                       "Anna Lassota" = "lania",
+                                                                       "Joanna Sikorska" = "sasia"), 
                 start_date = start_date %>% as.Date(., format = "%d.%m.%Y"),
                 end_date = end_date %>% as.Date(., format = "%d.%m.%Y")) %>%
   arrange(desc(end_date)) %>% 
   select(conference, year, dates, place, type, title, presenting) %>% 
+  drop_na(presenting) %>% 
   DT::datatable()
 # %>% 
 #                   str_split_1(., "[.]") %>% 

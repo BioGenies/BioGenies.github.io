@@ -35,7 +35,6 @@ website:
           - subsite/projects/hdxms.qmd
       - href: subsite/tools.qmd
       - href: subsite/seminars.qmd
-      # - href: subsite/publications.qmd
       # - text: "Achievements"
       #   menu: 
       - href: subsite/publications.qmd
@@ -67,5 +66,5 @@ format:
       margin-width: 250px
       gutter-width: 1.5rem
     # logo: fig/bg_logo.png
-execute:  
-  freeze: auto
+# execute:  
+#   freeze: auto
