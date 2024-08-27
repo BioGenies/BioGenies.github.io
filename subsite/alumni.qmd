@@ -3,22 +3,22 @@ title: "Former Team Members"
 ---
 
 ::: {layout-ncol=7}
-[![Agnieszka Barbach](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
+[![Agnieszka Barbach](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Laura Bąkała](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
+[![Laura Bąkała](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Katarzyna Hubicka](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
+[![Katarzyna Hubicka](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Dominika Kozakiewicz](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
+[![Dominika Kozakiewicz](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Anna Lassota](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
+[![Anna Lassota](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Filip Pietluch](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
+[![Filip Pietluch](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Dominik Rafacz](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
+[![Dominik Rafacz](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Joanna Sikorska](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
+[![Joanna Sikorska](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Jadwiga Słowik](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
+[![Jadwiga Słowik](fig/temp_profile.png "temporary profile pic"){}]()
 
 :::

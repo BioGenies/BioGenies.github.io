@@ -4,22 +4,22 @@ title: "Our collaborators"
 
 ### ![](fig/logo/UAB_logo.png){width="10%"} Autonomous University of Barcelona
 ::: {layout-ncol=5}
-[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){width="100%"}]()
+[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){}]()
 
-[![Oriol Bárcenas](fig/ppl/ob.png "Oriol Bárcenas"){width="100%"}]()
+[![Oriol Bárcenas](fig/ppl/ob.png "Oriol Bárcenas"){}]()
 
-[![Carlos Pintado-Grima](fig/ppl/cp.png "Carlos Pintado-Grima"){width="100%"}]()
+[![Carlos Pintado-Grima](fig/ppl/cp.png "Carlos Pintado-Grima"){}]()
 :::
 
 ### ![](fig/logo/QI_logo.png){width="10%"} Quadram Institute
 ::: {layout-ncol=5}
-[![Rafał Kolenda](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
+[![Rafał Kolenda](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Katarzyna (Kasia) Sidorczuk](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
+[![Katarzyna (Kasia) Sidorczuk](fig/temp_profile.png "temporary profile pic"){}]()
 :::
 
 ### ![](fig/logo/BTU_logo.png){width="10%"} Brandenburg University of Technology Cottbus-Senftenberg
 ::: {layout-ncol=5}
-[![Stefan Rödiger](fig/temp_profile.png "temporary profile pic"){width="100%"}]()
+[![Stefan Rödiger](fig/temp_profile.png "temporary profile pic"){}]()
 
 :::
