@@ -1,0 +1,36 @@
+---
+title: "Krystyna Grzesiak"
+sidebar: false
+format:
+  html:
+    grid:
+      sidebar-width: 0px
+      body-width: 1500px
+      margin-width: 300px
+      gutter-width: 1.5rem
+---
+
+```{r, echo=FALSE, message=FALSE}
+# library(devtools)
+# install_github("mitchelloharawild/icons")
+# icons::download_academicons()
+# icons::download_bioicons()
+# icons::download_fontawesome()
+# icons::download_google_material()
+library("icons")
+library("fontawesome")
+```
+
+### Contact Info {#contact}
+
+------------------------------------------------------------------------
+
+[`r fontawesome::fa("envelope", prefer_type = "regular", fill = "pink", height = "3em")`](krystyna.grzesiak@math.uni.wroc.pl)
+[`r fontawesome::fa("github", fill = "#24292e", height = "3em")`](https://github.com/KrystynaGrzesiak)
+[`r fontawesome::fa("orcid", fill = "#A6CE39", height = "3em")`](https://orcid.org/0000-0003-2581-7722)
+<!-- [`r fontawesome::fa("facebook", fill = "#304f85", height = "3em")`](https://www.facebook.com/) -->
+[`r fontawesome::fa("linkedin", fill = "#0077b5", height = "3em")`](https://www.linkedin.com/in/krystyna-grzesiak-7bb290189/)
+<!-- [`r fontawesome::fa("twitter", fill = "#15a7ff", height = "3em")`](https://twitter.com/) -->
+[`r fontawesome::fa("x-twitter", fill = "#24292e", height = "3em")`](https://x.com/krystyna_grz/)
+<!-- [`r fontawesome::fa("steam", fill = "#2f4f4f", height = "3em")`]() -->
+<!-- [`r fontawesome::fa("playstation", fill = "#4739aa", height = "3em")`]() -->
