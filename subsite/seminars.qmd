@@ -5,16 +5,28 @@ title: "Seminars"
 **Are you interested to join our seminars or particular seminar? Just email us.**
 
 ```{r, results='asis', echo=FALSE, message=FALSE}
+library(tidyverse)
 library(RCurl)
 
 URL <- "https://raw.githubusercontent.com/BioGenies/seminar/master/README.md"
-#all_lines <- iconv(strsplit(getURL(URL), "\n")[[1]], from = "UTF-8", to = "UTF-8")
-all_lines <- strsplit(getURL(URL, .encoding = "UTF-8"), "\n")[[1]]
+# all_lines <- iconv(strsplit(getURL(URL), "\n")[[1]], from = "UTF-8", to = "UTF-8")
+seminar_lines <- strsplit(getURL(URL, .encoding = "UTF-8"), "\n")[[1]] #%>% as_tibble()
 
 
-cat(all_lines[-c(1, 2)], sep = "\n")
+sem_df <- read_lines(URL)[-c(1:2)] %>% str_flatten() %>%
+  str_replace_all(., "\\d{1,3}\\.\\s", "21U37") %>%
+  str_split(., "21U37") %>% as_tibble(., .name_repair = "universal") %>% .[-1, ] %>%  
+  separate(., col = "...1", into = c("date", "rest"), sep = ": ", extra = "merge") %>% 
+  mutate(date = date %>% as.Date(., "%d-%m-%Y")) %>% 
+  rowid_to_column(var = "no") %>% 
+  mutate(rmarkdown = paste0(no, ". ", date, ": ", rest, "\n"))
+  
+# #%>% 
+#   separate(., col = value, into = c("date", "rest"), sep = ": ", extra = "merge") %>% 
+#   separate(., col = rest, into = c("title", "presenting"), sep = "\\*, ", extra = "merge") %>% 
+#   str_remove_all(., "^[0-9]+. ") %>% str_remove_all(., "\\n") %>% as_tibble()
 
-# sem_df <- x %>% str_split(., "\n[0-9]+. ") %>% tibble() %>% unnest() %>% rename("id" = ".") %>% separate(., col = 'id', into = c("date", "title"), sep = ": ")
+cat(sem_df$rmarkdown)
 
 # sem_df %>% DT::datatable()
 
