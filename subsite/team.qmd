@@ -4,17 +4,17 @@ title: "Our Team"
 
 ### BioGenies
 ::: {layout-ncol=4}
-[![Michał Burdukiewicz](fig/ppl/mb.jpeg "Michał Burdukiewicz"){}]()
+[![Michał Burdukiewicz](fig/ppl/mb.jpeg "Michał Burdukiewicz"){}](team/mb.html)
 
-[![Jarosław (Jarek) Chilimoniuk](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk"){}]()
+[![Jarosław (Jarek) Chilimoniuk](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk"){}](team/jc.html)
 
 [![Filip Gaj](fig/ppl/fg.jpeg "Filip Gaj"){}]()
 
-[![Krystyna (Krysia) Grzesiak](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){}]()
+[![Krystyna (Krysia) Grzesiak](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){}](team/kg.html)
 
-[![Valentín Iglesias](fig/ppl/vi.png "Valentín Iglesias"){}]()
+[![Valentín Iglesias](fig/ppl/vi.png "Valentín Iglesias"){}](team/vi.html)
 
-[![Jakub Kołodziejczyk](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}]()
+[![Jakub Kołodziejczyk](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}](team/jk.html)
 
 [![Joanna Pokora](fig/ppl/jp.jpeg "Joanna Pokora"){}]()
 
