@@ -1,7 +1,3 @@
----
-title: "Our group"
----
-
 ## Our group
 
 BioGenies is an innovative collective of budding scientists dispersed across Europe, united by a shared passion for groundbreaking research. Anchored at the [Laboratory of Bioinformatics and Multiomics Analysis]() within the Clinical Research Centre at the ([Medical University of Białystok](https://www.umb.edu.pl/en/index.php), Poland, our core team operates from the dynamic hub of [Centrum Futuri]((https://www.google.com/maps/place//data=!4m2!3m1!1s0x471ffd0030895721:0xa07505c8604cd77e?sa=X&ved=1t:8290&ictx=111)) (entrances D and E).
