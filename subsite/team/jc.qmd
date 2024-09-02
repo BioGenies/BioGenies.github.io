@@ -25,7 +25,7 @@ library("fontawesome")
 
 ------------------------------------------------------------------------
 
-[`r fontawesome::fa("envelope", prefer_type = "regular", fill = "pink", height = "3em")`](jaroslaw.chilimoniuk@umb.edu.pl)
+[`r fontawesome::fa("envelope", prefer_type = "regular", fill = "pink", height = "3em")`](mailto:jaroslaw.chilimoniuk@umb.edu.pl)
 [`r fontawesome::fa("github", fill = "#24292e", height = "3em")`](https://github.com/jarochi)
 [`r fontawesome::fa("orcid", fill = "#A6CE39", height = "3em")`](https://orcid.org/0000-0001-5467-018X)
 <!-- [`r fontawesome::fa("facebook", fill = "#304f85", height = "3em")`](https://www.facebook.com/SmFyZWsgQ2hpbGltb25pdWs/) -->

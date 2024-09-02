@@ -25,7 +25,7 @@ library("fontawesome")
 
 ------------------------------------------------------------------------
 
-[`r fontawesome::fa("envelope", prefer_type = "regular", fill = "pink", height = "3em")`](valentin.iglesias@pz.umb.edu.pl)
+[`r fontawesome::fa("envelope", prefer_type = "regular", fill = "pink", height = "3em")`](mailto:valentin.iglesias@pz.umb.edu.pl)
 <!-- [`r fontawesome::fa("github", fill = "#24292e", height = "3em")`]() -->
 [`r fontawesome::fa("orcid", fill = "#A6CE39", height = "3em")`](https://orcid.org/0000-0002-6133-0869)
 <!-- [`r fontawesome::fa("facebook", fill = "#304f85", height = "3em")`](https://www.facebook.com/) -->

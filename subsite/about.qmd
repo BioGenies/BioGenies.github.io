@@ -10,7 +10,7 @@ title: "About BioGenies"
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lat=53.12324, lng=23.15935, popup="The BIOgenies headquarters")
+  addMarkers(lat=53.12324, lng=23.15935, popup="The BioGenies headquarters")
 ```
 
 {{< include ../subsite/content/city_hq.qmd >}}
