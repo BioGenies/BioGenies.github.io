@@ -29,7 +29,7 @@ library("fontawesome")
 [`r fontawesome::fa("github", fill = "#24292e", height = "3em")`](https://github.com/jarochi)
 [`r fontawesome::fa("orcid", fill = "#A6CE39", height = "3em")`](https://orcid.org/0000-0001-5467-018X)
 <!-- [`r fontawesome::fa("facebook", fill = "#304f85", height = "3em")`](https://www.facebook.com/SmFyZWsgQ2hpbGltb25pdWs/) -->
-[`r fontawesome::fa("linkedin", fill = "#0077b5", height = "3em")`](https://www.linkedin.com/in/jaros%C5%82aw-chilimoniuk-1a2ab7311)
+[`r fontawesome::fa("linkedin", fill = "#0077b5", height = "3em")`](https://www.linkedin.com/in/jarosław-chilimoniuk)
 <!-- [`r fontawesome::fa("twitter", fill = "#15a7ff", height = "3em")`](https://twitter.com/_jarochi/) -->
 [`r fontawesome::fa("x-twitter", fill = "#24292e", height = "3em")`](https://x.com/_jarochi/)
 <!-- [`r fontawesome::fa("steam", fill = "#2f4f4f", height = "3em")`]() -->

@@ -110,6 +110,12 @@ But that’s not all. The data collected during this project will be used to tra
 3. proof of student status (can be sent at the start of scholarship)
 4. signed [GDPR consent form](../download_files/GDPR_MUB_recruitment.pdf)
 
+For post-doc position also:
+
+5. contact details to at least 2 persons who may provide references
+6. PhD diploma
+7. list of publications
+
 **to michal.burdukiewicz@umb.edu.pl with the subject line: "Scholarship holder in project no. 2023/51/D/NZ7/02847".**
 
 
