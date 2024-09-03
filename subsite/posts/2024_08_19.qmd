@@ -107,7 +107,7 @@ But that’s not all. The data collected during this project will be used to tra
 
 1. cover letter 
 2. CV 
-3. proof of student status 
+3. proof of student status (can be sent at the start of scholarship)
 4. signed [GDPR consent form](../download_files/GDPR_MUB_recruitment.pdf)
 
 **to michal.burdukiewicz@umb.edu.pl with the subject line: "Scholarship holder in project no. 2023/51/D/NZ7/02847".**
@@ -116,7 +116,7 @@ But that’s not all. The data collected during this project will be used to tra
 
 
 
-**More detailed info about requirements and needed documents**: [student 1](https://www.umb.edu.pl/photo/pliki/administracja/oferty-pracy/projekty/konkurs_na_stanowisko_studenta-doktorant-stypendysty_1_sonata_19_-_eng.docx), [student 2](https://www.umb.edu.pl/photo/pliki/administracja/oferty-pracy/projekty/konkurs_na_stanowisko_studenta-doktorant-stypendysty_2_sonata_19_-_eng.docx), [post-doc](https://www.umb.edu.pl/photo/pliki/administracja/oferty-pracy/projekty/ogloszenie_o_konkursie_na_stanowisko_post-doc_2024_sonata_19_-_eng%281%29.docx)
+**More detailed info about requirements and needed documents**: [student 1](../download_files/stud1.pdf), [student 2](../download_files/stud2.pdf), [post-doc](https://www.umb.edu.pl/photo/pliki/administracja/oferty-pracy/projekty/ogloszenie_o_konkursie_na_stanowisko_post-doc_2024_sonata_19_-_eng%281%29.docx)
 
 
 
