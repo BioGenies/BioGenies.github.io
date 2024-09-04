@@ -17,10 +17,10 @@ Our team has previously developed AmyloGraph, database of amyloid interactions, 
 
 But that’s not all. The data collected during this project will be used to train predictive models, with the ultimate goal of designing new chemical compounds that can inhibit amyloid self-aggregation. These compounds hold great promise for the treatment of various amyloid-related diseases.
 
-## Some info
+## Details
 ### Employment conditions
 
-**Place**: Bioinformatics and Multiomics Analyses Laboratory, Clinical Research Centre, Medical University of Białystok, Poland
+**Place**: Remotely or at Bioinformatics and Multiomics Analyses Laboratory, Clinical Research Centre, Medical University of Białystok, Poland
 
 **Scholarship/salary**: 2500 PLN per month (tax-free for students under 26 yo)
 
@@ -78,6 +78,8 @@ But that’s not all. The data collected during this project will be used to tra
 *	Strong teamwork skills and motivation to conduct research.
 *	Very good command of English, both written and oral.
 
+
+**Don’t worry if you don’t have all the required skills—if you’re eager to learn, don’t hesitate to apply!**
 
 ### How to apply
 
