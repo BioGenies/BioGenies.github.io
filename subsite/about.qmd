@@ -2,7 +2,17 @@
 title: "About BioGenies"
 ---
 
-{{< include ../subsite/content/group_desc.qmd >}}
+<!-- {{< include ../subsite/content/group_desc.qmd >}} -->
+
+## Our group
+
+BioGenies is an innovative collective of budding scientists dispersed across Europe, united by a shared passion for groundbreaking research. Anchored at the **Bioinformatics and Multiomics Analysis Laboratory** within the **Clinical Research Centre** at the ([Medical University of Białystok](https://www.umb.edu.pl/en/index.php), Poland, our core team operates from the dynamic hub of [Centrum Futuri]((https://www.google.com/maps/place//data=!4m2!3m1!1s0x471ffd0030895721:0xa07505c8604cd77e?sa=X&ved=1t:8290&ictx=111)) (entrances D and E).
+
+We are a dynamic team of passionate individuals driven by a collective vision of advancing scientific discovery. With diverse backgrounds and interests, we form a vibrant community dedicated to exploring a vast array of topics spanning the realms of molecular biology, amyloids, antimicrobial peptides, predictive models, database development, and cutting-edge advancements in machine learning and artificial intelligence. Our collaborative efforts blend expertise from various disciplines, fostering innovative approaches and breakthroughs at the intersection of science and technology.
+
+Our team's interdisciplinary nature enriches our exploration, allowing us to tackle complex challenges from multiple perspectives and drive progress in diverse fields. Whether unraveling the mysteries of molecular interactions or harnessing the power of AI for predictive modeling, we are united by a shared commitment to pushing the boundaries of knowledge and fostering scientific excellence.
+
+If you're curious about our ongoing projects, you can explore them in the Project tab.
 
 ```{r echo=FALSE, message=FALSE}
 #| column: page-inset-right-left
@@ -10,7 +20,7 @@ title: "About BioGenies"
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lat=53.12324, lng=23.15935, popup="The BioGenies headquarters")
+  addMarkers(lat=53.12324, lng=23.15935, popup="The BioGenies headquarters") 
 ```
 
 {{< include ../subsite/content/city_hq.qmd >}}
