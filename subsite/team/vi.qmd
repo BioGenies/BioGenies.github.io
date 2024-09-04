@@ -17,7 +17,6 @@ format:
 # icons::download_bioicons()
 # icons::download_fontawesome()
 # icons::download_google_material()
-library("icons")
 library("fontawesome")
 ```
 
