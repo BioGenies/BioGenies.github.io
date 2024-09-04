@@ -1,6 +1,6 @@
 ---
 title: "Big annoucement!"
-description: "We are thrilled to announce that we are looking for two talented students and one PhD candidate to join our team for AmyloGraph 2.0 project (2023/51/D/NZ7/02847)"
+description: "We are thrilled to announce that we are looking for two talented students to join our team for AmyloGraph 2.0 project (2023/51/D/NZ7/02847)"
 date: "8/27/2024"
 categories:
   - news
