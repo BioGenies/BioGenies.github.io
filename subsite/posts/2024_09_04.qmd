@@ -1,7 +1,7 @@
 ---
 title: "BioGenies are heading to Warsaw!"
 description: "🌟 BioGenies will reunite at the PTBI conference in Warsaw! 🇵🇱🌟"
-date: "7/17/2024"
+date: "09/04/2024"
 categories:
   - conference
   - PTBI
