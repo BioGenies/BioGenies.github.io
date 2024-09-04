@@ -21,8 +21,8 @@ jobs:
         with:
           use-public-rspm: true
 
-      - name: Install devtools
-        run: install.packages(c("rmarkdown", "knitr"))
+      - name: Install environment
+        run: source("setup-environment.R")
         shell: Rscript {0}
 
       - name: Render and Publish
