@@ -10,6 +10,17 @@ categories:
   - NCN
 ---
 
+```{r, echo=FALSE, message=FALSE}
+# library(devtools)
+# install_github("mitchelloharawild/icons")
+# icons::download_academicons()
+# icons::download_bioicons()
+# icons::download_fontawesome()
+# icons::download_google_material()
+library("icons")
+library("fontawesome")
+```
+
 ## About the Project
 Amyloids are proteins implicated in numerous serious diseases, including Alzheimer’s, Parkinson's, Creutzfeldt-Jakob's disease, and type 2 diabetes. These proteins are known for their ability to self-aggregate into unique supramolecular fibrils, a process that plays a critical role in disease progression.
 
@@ -18,25 +29,25 @@ Our team has previously developed AmyloGraph, database of amyloid interactions, 
 But that’s not all. The data collected during this project will be used to train predictive models, with the ultimate goal of designing new chemical compounds that can inhibit amyloid self-aggregation. These compounds hold great promise for the treatment of various amyloid-related diseases.
 
 ## Details
-### Employment conditions
+### `r fontawesome::fa("briefcase", fill = "black", height = "1.5em")`Employment conditions
 
-**Place**: Remotely or at Bioinformatics and Multiomics Analyses Laboratory, Clinical Research Centre, Medical University of Białystok, Poland
+`r fontawesome::fa("location-dot", fill = "pink", height = "1em")` **Place**: Remotely or at Bioinformatics and Multiomics Analyses Laboratory, Clinical Research Centre, Medical University of Białystok, Poland
 
-**Scholarship/salary**: 2500 PLN per month (tax-free for students under 26 yo)
+`r fontawesome::fa("sack-dollar", fill = "pink", height = "1em")` **Scholarship/salary**: 2500 PLN per month (tax-free for students under 26 yo)
 
-**Planned start date for project work**: 01.10.2024
+`r fontawesome::fa("hourglass-start", fill = "pink", height = "1em")` **Planned start date for project work**: 01.10.2024
 
-### Other
+### `r fontawesome::fa("calendar", fill = "black", height = "1.5em")`Important dates
 
-**Submission deadline**: 06.09.2024, 15:00 (GMT+2) (GMT+2)
+`r fontawesome::fa("hourglass-end", fill = "pink", height = "1em")`**Submission deadline**: 06.09.2024, 15:00 (GMT+2) (GMT+2)
 
-**Interviews (Google Meet)**: 16-17.09.2024
+`r fontawesome::fa("comments", fill = "pink", height = "1em")`**Interviews (Google Meet)**: 16-17.09.2024
 
 ## Tasks and skills
 
-### student 1
+### `r fontawesome::fa("graduation-cap", fill = "black", height = "1.5em")`student 1
 
-#### Tasks:
+#### `r fontawesome::fa("list-check", fill = "pink", height = "1em")`Tasks:
 
 1. Automating the search for new sources of information.
 2. Developing tools for automated data validation.
@@ -46,7 +57,7 @@ But that’s not all. The data collected during this project will be used to tra
 6. Training and conducting a comparative analysis of the prediction model for modulators.
 7. Implementing generative models for designing small molecules.
 
-#### Skills:
+#### `r fontawesome::fa("hammer", fill = "pink", height = "1em")`Skills:
 
 * Proficiency in designing machine learning models.
 * Experience in creating and implementing databases.
@@ -56,9 +67,9 @@ But that’s not all. The data collected during this project will be used to tra
 * Strong teamwork skills and motivation to conduct research.
 
 
-### student 2
+### `r fontawesome::fa("graduation-cap", fill = "black", height = "1.5em")`student 2
 
-#### Tasks:
+#### `r fontawesome::fa("list-check", fill = "pink", height = "1em")`Tasks:
 
 1. Expanded maintenance of existing data sources.
 2. Data curation from new sources for the AmyloGraph database.
@@ -66,7 +77,7 @@ But that’s not all. The data collected during this project will be used to tra
 4. Designing and creating a system for browsing databases of small molecular compounds.
 5. Training and conducting a comparative analysis of the prediction model for modulators.
 
-#### Skills:
+#### `r fontawesome::fa("hammer", fill = "pink", height = "1em")`Skills:
 
 * Expertise in verifying biological data and data management.
 * Knowledge of amyloid aggregation and methods for testing it.
