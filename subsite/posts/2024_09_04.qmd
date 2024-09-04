@@ -26,5 +26,5 @@ PTBI conference details:
 
 
 
-![](https://www.ptbi.org.pl/uploads/ckeditor/2023/11/14/ptbi2024.svg)
+![](../fig/posts/2024_09_04/ptbi2024.svg)
 
