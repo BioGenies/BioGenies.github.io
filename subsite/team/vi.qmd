@@ -11,13 +11,6 @@ format:
 ---
 
 ```{r, echo=FALSE, message=FALSE}
-# library(devtools)
-# install_github("mitchelloharawild/icons")
-# icons::download_academicons()
-# icons::download_bioicons()
-# icons::download_fontawesome()
-# icons::download_google_material()
-library("icons")
 library("fontawesome")
 ```
 

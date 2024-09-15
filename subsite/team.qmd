@@ -18,7 +18,7 @@ title: "Our Team"
 
 [![Joanna Pokora](fig/ppl/jp.jpeg "Joanna Pokora"){}]()
 
-[![Weronika Puchała](fig/ppl/wp.png "Weronika Puchała with Lusia"){}]()
+[![Weronika Puchała](fig/ppl/wp.png "Weronika Puchała with Lusia"){}](team/wp.html)
 
 :::
 
