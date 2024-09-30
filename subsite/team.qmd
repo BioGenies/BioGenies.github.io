@@ -8,8 +8,6 @@ title: "Our Team"
 
 [![Jarosław (Jarek) Chilimoniuk](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk"){}](team/jc.html)
 
-[![Filip Gaj](fig/ppl/fg.jpeg "Filip Gaj"){}]()
-
 [![Krystyna (Krysia) Grzesiak](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){}](team/kg.html)
 
 [![Valentín Iglesias](fig/ppl/vi.png "Valentín Iglesias"){}](team/vi.html)

@@ -8,13 +8,13 @@ categories:
   - AmyloGraph 2.0
 ---
 
-# 🎉 Welcome to Ronja! 🎉
+# 🎉 Welcome Ronja! 🎉
 
 We are thrilled to welcome **Ronja**, our new collaborator from **BTU Cottbus-Senftenberg**, who has joined us for a practical semester here in **Białystok**. Ronja’s internship will be a fantastic opportunity for collaboration, exchange of ideas, and shared learning. 🤝
 
 ![](../fig/ppl/rt.jpg)   
 
-## First Weekend: Pierogis 🥟 & Sightseeing 🏛️
+## First weekend: pierogis 🥟 & sightseeing 🏛️
 
 To kick off her time here, we decided to explore some of the local flavors and landmarks. Over the weekend, we had the chance to indulge in **pierogis** 🥟, a beloved Polish dish.
 
@@ -23,7 +23,7 @@ To kick off her time here, we decided to explore some of the local flavors and l
 
 Along with the food, we also did some sightseeing around **Białystok**. From the **Branicki Palace** 🏰 to the scenic parks 🌳, it was a lovely introduction to the city’s history and culture.
 
-## What’s Next? 🚀
+## What’s next? 🚀
 
 Ronja will be working closely with our team on the **AmyloGraph 2.0** project, where her contributions will be vital in developing new tools and expanding the database for studying amyloid–amyloid interactions. We’re excited to see the fresh perspectives and energy she will bring to the team. 💡
 

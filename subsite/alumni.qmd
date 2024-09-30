@@ -7,6 +7,8 @@ title: "Former Team Members"
 
 [![Laura Bąkała](fig/temp_profile.png "temporary profile pic"){}]()
 
+[![Filip Gaj](fig/ppl/fg.jpeg "Filip Gaj"){}]()
+
 [![Katarzyna Hubicka](fig/temp_profile.png "temporary profile pic"){}]()
 
 [![Dominika Kozakiewicz](fig/temp_profile.png "temporary profile pic"){}]()
