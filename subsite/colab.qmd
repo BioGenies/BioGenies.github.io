@@ -22,4 +22,6 @@ title: "Our collaborators"
 ::: {layout-ncol=5}
 [![Stefan Rödiger](fig/temp_profile.png "temporary profile pic"){}]()
 
+[![Ronja Tittel](fig/ppl/rt.jpg "Ronja Tittel"){}]()
+
 :::
