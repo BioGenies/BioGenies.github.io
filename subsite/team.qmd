@@ -12,6 +12,8 @@ title: "Our Team"
 
 [![Valentín Iglesias](fig/ppl/vi.png "Valentín Iglesias"){}](team/vi.html)
 
+[![Sonor Kubkowski](fig/temp_profile.png "Sonor Kubkowski"){}]()
+
 [![Jakub Kołodziejczyk](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}](team/jk.html)
 
 [![Joanna Pokora](fig/ppl/jp.jpeg "Joanna Pokora"){}]()
