@@ -1,0 +1,35 @@
+---
+title: "Our publication **Aggregating amyloid resources** is online!"
+description: "Our latest comprehensive review of databases on amyloid-like aggregation, now published in Computational and Structural Biotechnology Journal."
+date: "10/30/2024"
+categories:
+  - publications
+  - research
+  - amyloids
+  - bioinformatics
+---
+
+# 📚 New publication: aggregating amyloid resources 📚
+
+We're excited to announce our latest publication, **"Aggregating amyloid resources: a comprehensive review of databases on amyloid-like aggregation"**, now available in the **Computational and Structural Biotechnology Journal**! 🎉
+
+🔗 [Read the full article here](https://www.sciencedirect.com/science/article/pii/S2001037024003696)  
+📄 DOI: [10.1016/j.csbj.2024.10.047](https://doi.org/10.1016/j.csbj.2024.10.047)
+
+![](../fig/posts/2024_10_30/venn_aad.jpg)
+
+## 🧬 About the review
+Amyloid-like aggregation plays a crucial role in many biological processes and diseases 🧠, including neurodegenerative disorders like Alzheimer's and Parkinson's. Despite its importance, information on amyloids has been scattered across various databases, making it difficult for researchers to access the full spectrum of resources available.
+
+In this comprehensive review, we:
+- **Surveyed existing amyloid aggregation databases** 🔍, assessing their content, coverage, and accessibility.
+- **Highlighted the unique features of each database** 🗂️, giving researchers a clearer understanding of which databases best suit their needs.
+- **Explored challenges** in the field of amyloid data aggregation, emphasizing the need for improved integration and consistency in data resources.
+
+## 🧑‍🔬 Who will benefit?
+This review is a valuable resource for **researchers in bioinformatics, biochemistry, and neurobiology** interested in studying amyloid aggregation. It provides a consolidated view of available databases, streamlining the process of accessing and comparing amyloid-related data.
+
+## 📈 Future directions
+By aggregating these resources, we aim to encourage more **integrated research** and foster collaboration across fields to advance our understanding of amyloid aggregation and related diseases. With this work, we hope to lay the groundwork for future developments in the bioinformatics of amyloid and amyloid-like aggregation.
+
+Thanks to everyone who contributed to this review – let's keep advancing the science! 🌟
