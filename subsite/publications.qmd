@@ -64,10 +64,10 @@ pub %>%
          journal = so %>% as.factor(),
          publisher = host_organization %>% as.factor(),
          type = type %>% as.factor(),
-         publication_date = publication_date %>% as_date()
+         `publication date` = publication_date %>% as_date()
   ) %>% 
-  select(!c(so, host_organization)) %>% 
-  arrange(desc(publication_date)) %>%
+  select(!c(so, host_organization, publication_date)) %>% 
+  arrange(desc(`publication date`)) %>%
   DT::datatable(escape = F)
 
 ```
