@@ -57,12 +57,13 @@ pub <- openalexR::oa_fetch(entity ="works",
 pub <- pub$author %>% lapply(., function(x) {x$au_display_name %>% str_flatten(., collapse = ", ")}) %>% unlist() %>% tibble(authors = .) %>% cbind(pub, .)
 
 pub %>% 
-  filter(type == "article") %>% 
-  select(title, authors, doi, publication_date, so, host_organization) %>% 
+  filter(type != "dataset") %>% 
+  select(title, authors, doi, publication_date, type, so, host_organization) %>% 
   drop_na(., doi) %>%
   mutate(doi = paste0('<a  target=_blank href=', doi, '>', doi %>% str_remove(., "https://doi.org/"),'</a>'),
          journal = so %>% as.factor(),
          publisher = host_organization %>% as.factor(),
+         type = type %>% as.factor(),
          publication_date = publication_date %>% as_date()
   ) %>% 
   select(!c(so, host_organization)) %>% 
