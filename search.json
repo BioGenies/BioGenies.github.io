@@ -119,46 +119,326 @@
     "text": "This summer, Jarek and Krysia from our BioGenies team took their holiday spirit to new heights by tackling the thrilling via ferrata routes in the Dolomites, near the iconic Mount Civetta! 🧗‍♂️⛰️\n\nAmidst breathtaking views and rugged terrain, they embraced the challenge and adventure of these exhilarating mountain trails. It was a perfect blend of adrenaline and nature, offering a well-deserved break from the lab while exploring one of the most stunning landscapes in the world.\n   \n\nWe didn’t forgot to try Italian pizza!"
   },
   {
-    "objectID": "subsite/posts/2024_05_01.html",
-    "href": "subsite/posts/2024_05_01.html",
-    "title": "Official beginning of Bioinformatics and Multiomics Analysis Laboratory",
+    "objectID": "subsite/posts/2024_11_04.html",
+    "href": "subsite/posts/2024_11_04.html",
+    "title": "Welcome Eva Arribas to the Lab!",
     "section": "",
-    "text": "We are thrilled to announce the official beginning of our Bioinformatics and Multiomics Analysis Laboratory! 🚀\nThis state-of-the-art facility is dedicated to unlocking the mysteries of biological data through cutting-edge computational tools and integrative multiomics approaches.\nOur mission is to empower researchers and scientists with the resources and expertise to analyze complex biological datasets, bridging the gap between raw data and meaningful insights. Whether it’s genomics, transcriptomics, proteomics, or metabolomics, our lab is equipped to provide comprehensive analysis and innovative solutions.\nStay tuned for exciting research projects, collaborations, and workshops that will shape the future!\n🔬 Advancing Science Together!"
+    "text": "We’re excited to welcome Eva to our lab! Eva joins us from the Institut de Biotecnologia i de Biomedicina at the Universitat Autònoma de Barcelona, where she completed her master’s research in Salvador Ventura’s lab 🎓🔬. She’s here as part of her Erasmus traineeship, diving into the fascinating world of liquid-liquid phase separation (LLPS)!\n\n\nEva arrived on 1st November, a big holiday in Poland 🇵🇱, which made it an especially busy day for travel. With everything bustling and crowded, even trains to Białystok were packed! 🚆 So, we took a trip to the airport to greet her and ensure she had a smooth arrival – and to give her a warm BioGenies welcome 🌟.\n\n\n\n\nDuring her traineeship, Eva will be working on LLPS, a critical phenomenon in biomolecular condensates that has big implications for understanding cell organization and disease processes. We’re looking forward to the fresh insights and new ideas she’ll bring to our LLPS projects!\nEva, we’re thrilled to have you with us – welcome to the team! 🎉"
   },
   {
-    "objectID": "subsite/posts/2024_07_16.html",
-    "href": "subsite/posts/2024_07_16.html",
-    "title": "BioGenies went to Canada for a conference",
+    "objectID": "subsite/posts/2024_11_04.html#arrival-day-on-1st-november",
+    "href": "subsite/posts/2024_11_04.html#arrival-day-on-1st-november",
+    "title": "Welcome Eva Arribas to the Lab!",
     "section": "",
-    "text": "We’re excited to announce that Krysia and Weronika from our BioGenies team went to Montreal, Canada for Intelligent Systems for Molecular Biology (ISMB) 2024 conference! 🧬🤖"
+    "text": "Eva arrived on 1st November, a big holiday in Poland 🇵🇱, which made it an especially busy day for travel. With everything bustling and crowded, even trains to Białystok were packed! 🚆 So, we took a trip to the airport to greet her and ensure she had a smooth arrival – and to give her a warm BioGenies welcome 🌟."
   },
   {
-    "objectID": "subsite/posts/2024_05_18.html",
-    "href": "subsite/posts/2024_05_18.html",
-    "title": "2nd Machine Learning 4 Non-Globular Proteins Meeting 2024",
+    "objectID": "subsite/posts/2024_11_04.html#research-focus-llps",
+    "href": "subsite/posts/2024_11_04.html#research-focus-llps",
+    "title": "Welcome Eva Arribas to the Lab!",
     "section": "",
-    "text": "We’re excited to share that our team members Michał, Valen, and Jarek have embarked on an incredible journey to Thessaloniki, Greece, to attend the 2nd Machine Learning for Non-Globular Proteins conference! 🤖🧬\nThis conference brings together leading experts and innovators to explore the latest advancements in applying machine learning techniques to understand and predict the behavior of non-globular proteins. It’s a fantastic opportunity for BioGenies to connect with global researchers, exchange ideas, and bring back cutting-edge knowledge to enhance our ongoing projects.\n\nDuring the conference we tried some Greek food."
+    "text": "During her traineeship, Eva will be working on LLPS, a critical phenomenon in biomolecular condensates that has big implications for understanding cell organization and disease processes. We’re looking forward to the fresh insights and new ideas she’ll bring to our LLPS projects!\nEva, we’re thrilled to have you with us – welcome to the team! 🎉"
   },
   {
-    "objectID": "subsite/posts/2024_10_18.html",
-    "href": "subsite/posts/2024_10_18.html",
-    "title": "🎉 Valen signs a contract with Medical University of Białystok! 🎉",
+    "objectID": "subsite/posts/2024_08_19.html",
+    "href": "subsite/posts/2024_08_19.html",
+    "title": "Big annoucement!",
     "section": "",
-    "text": "After months of preparation and overcoming several hurdles, we are delighted to announce that Valen is now officially part of the Bioinformatics and Multiomics Analyses Laboratory in Clinical Research Centre at the Medical University of Białystok. 🎓📝\nWhile it’s always exciting to welcome new talent to the team, the road to making this happen was challenging. Navigating complexities of paperwork 📝 and bureaucratic processes 🏢 can often feel like a marathon 🏃💨. Opening the position, getting all the documents in order, and coordinating between many people took plenty of determination 💪! But in the end, we triumphed! 🎉✨\n\n\nTo celebrate this exciting milestone, we headed to Choroszcz to enjoy some delicious food 🍽️. Known for its famous mental hospital 🏥, the town offered a unique backdrop for our celebration, and we couldn’t have picked a better place to mark the occasion!\n\n\n\n\nAs Valen settles into his new role, we still have to do some stuff at tax office.\nBut with enough time in Białystok, Valen may become so immersed in the Polish way of life that we’ll soon have to start calling him Walentyn Kościelny! 😄🇵🇱🥟\nWelcome on aboard, Valen! 🚀🎉"
+    "text": "Amyloids are proteins implicated in numerous serious diseases, including Alzheimer’s, Parkinson’s, Creutzfeldt-Jakob’s disease, and type 2 diabetes. These proteins are known for their ability to self-aggregate into unique supramolecular fibrils, a process that plays a critical role in disease progression.\nOur team has previously developed AmyloGraph, database of amyloid interactions, which you can explore here. In this new phase of our research, we aim to take AmyloGraph to the next level. We will design and implement machine learning-based tools to analyze the data more effectively and revamp the user interface to make it easier for researchers to access the latest information.\nBut that’s not all. The data collected during this project will be used to train predictive models, with the ultimate goal of designing new chemical compounds that can inhibit amyloid self-aggregation. These compounds hold great promise for the treatment of various amyloid-related diseases."
   },
   {
-    "objectID": "subsite/posts/2024_10_18.html#food-fun-and-festivities",
-    "href": "subsite/posts/2024_10_18.html#food-fun-and-festivities",
-    "title": "🎉 Valen signs a contract with Medical University of Białystok! 🎉",
+    "objectID": "subsite/posts/2024_08_19.html#about-the-project",
+    "href": "subsite/posts/2024_08_19.html#about-the-project",
+    "title": "Big annoucement!",
     "section": "",
-    "text": "To celebrate this exciting milestone, we headed to Choroszcz to enjoy some delicious food 🍽️. Known for its famous mental hospital 🏥, the town offered a unique backdrop for our celebration, and we couldn’t have picked a better place to mark the occasion!"
+    "text": "Amyloids are proteins implicated in numerous serious diseases, including Alzheimer’s, Parkinson’s, Creutzfeldt-Jakob’s disease, and type 2 diabetes. These proteins are known for their ability to self-aggregate into unique supramolecular fibrils, a process that plays a critical role in disease progression.\nOur team has previously developed AmyloGraph, database of amyloid interactions, which you can explore here. In this new phase of our research, we aim to take AmyloGraph to the next level. We will design and implement machine learning-based tools to analyze the data more effectively and revamp the user interface to make it easier for researchers to access the latest information.\nBut that’s not all. The data collected during this project will be used to train predictive models, with the ultimate goal of designing new chemical compounds that can inhibit amyloid self-aggregation. These compounds hold great promise for the treatment of various amyloid-related diseases."
   },
   {
-    "objectID": "subsite/posts/2024_10_18.html#a-new-beginning-walentyn-kościelny",
-    "href": "subsite/posts/2024_10_18.html#a-new-beginning-walentyn-kościelny",
-    "title": "🎉 Valen signs a contract with Medical University of Białystok! 🎉",
+    "objectID": "subsite/posts/2024_08_19.html#details",
+    "href": "subsite/posts/2024_08_19.html#details",
+    "title": "Big annoucement!",
+    "section": "Details",
+    "text": "Details\n\n Employment conditions\n Place: Remotely or at Bioinformatics and Multiomics Analyses Laboratory, Clinical Research Centre, Medical University of Białystok, Poland\n Scholarship/salary: 2500 PLN per month (tax-free for students under 26 yo)\n Planned start date for project work: 01.10.2024\n\n\n Important dates\n Submission deadline: 06.09.2024, 15:00 (GMT+2)\n Interviews (Google Meet): 16-17.09.2024"
+  },
+  {
+    "objectID": "subsite/posts/2024_08_19.html#tasks-and-skills",
+    "href": "subsite/posts/2024_08_19.html#tasks-and-skills",
+    "title": "Big annoucement!",
+    "section": "Tasks and skills",
+    "text": "Tasks and skills\n\n student 1\n\n Tasks:\n\nAutomating the search for new sources of information.\nDeveloping tools for automated data validation.\nCreating tools for automated data acquisition from new sources.\nDesigning and implementing a new version of the AmyloGraph database.\nImplementing the new version of the AmyloGraph database.\nTraining and conducting a comparative analysis of the prediction model for modulators.\nImplementing generative models for designing small molecules.\n\n\n\n Skills:\n\nProficiency in designing machine learning models.\nExperience in creating and implementing databases.\nAdvanced knowledge of the R language, particularly within the tidyverse environment and the Shiny package.\nKnowledge of Python and JavaScript is an advantage.\nFamiliarity with version control systems.\nStrong teamwork skills and motivation to conduct research.\n\n\n\n\n student 2\n\n Tasks:\n\nExpanded maintenance of existing data sources.\nData curation from new sources for the AmyloGraph database.\nDesigning existing databases.\nDesigning and creating a system for browsing databases of small molecular compounds.\nTraining and conducting a comparative analysis of the prediction model for modulators.\n\n\n\n Skills:\n\nExpertise in verifying biological data and data management.\nKnowledge of amyloid aggregation and methods for testing it.\nProficiency in topology and network analysis.\nExperience with methods of biological data processing in machine learning models, particularly for small molecular compounds and proteins.\nAdvanced proficiency in the R language, especially within the tidyverse environment and Shiny package.\nFamiliarity with the TeX language.\nAbility to work with version control systems.\nStrong teamwork skills and motivation to conduct research.\nVery good command of English, both written and oral.\n\nDon’t worry if you don’t have all the required skills—if you’re eager to learn, don’t hesitate to apply!\n\n\n\nHow to apply\nSubmit your:\n\ncover letter\nCV\nproof of student status (can be sent at the start of scholarship)\nsigned GDPR consent form\n\nto michal.burdukiewicz@umb.edu.pl with the subject line: “Scholarship holder in project no. 2023/51/D/NZ7/02847”.\nMore detailed info about requirements and needed documents: student 1, student 2"
+  },
+  {
+    "objectID": "subsite/posts/2024_10_30.html",
+    "href": "subsite/posts/2024_10_30.html",
+    "title": "Our publication Aggregating amyloid resources is online!",
     "section": "",
-    "text": "As Valen settles into his new role, we still have to do some stuff at tax office.\nBut with enough time in Białystok, Valen may become so immersed in the Polish way of life that we’ll soon have to start calling him Walentyn Kościelny! 😄🇵🇱🥟\nWelcome on aboard, Valen! 🚀🎉"
+    "text": "We’re excited to announce our latest publication, “Aggregating amyloid resources: a comprehensive review of databases on amyloid-like aggregation”, now available in the Computational and Structural Biotechnology Journal! 🎉\n🔗 Read the full article here\n📄 DOI: 10.1016/j.csbj.2024.10.047\n\n\n\nAmyloid-like aggregation plays a crucial role in many biological processes and diseases 🧠, including neurodegenerative disorders like Alzheimer’s and Parkinson’s. Despite its importance, information on amyloids has been scattered across various databases, making it difficult for researchers to access the full spectrum of resources available.\nIn this comprehensive review, we: - Surveyed existing amyloid aggregation databases 🔍, assessing their content, coverage, and accessibility. - Highlighted the unique features of each database 🗂️, giving researchers a clearer understanding of which databases best suit their needs. - Explored challenges in the field of amyloid data aggregation, emphasizing the need for improved integration and consistency in data resources.\n\n\n\nThis review is a valuable resource for researchers in bioinformatics, biochemistry, and neurobiology interested in studying amyloid aggregation. It provides a consolidated view of available databases, streamlining the process of accessing and comparing amyloid-related data.\n\n\n\nBy aggregating these resources, we aim to encourage more integrated research and foster collaboration across fields to advance our understanding of amyloid aggregation and related diseases. With this work, we hope to lay the groundwork for future developments in the bioinformatics of amyloid and amyloid-like aggregation.\nThanks to everyone who contributed to this review – let’s keep advancing the science! 🌟"
+  },
+  {
+    "objectID": "subsite/posts/2024_10_30.html#about-the-review",
+    "href": "subsite/posts/2024_10_30.html#about-the-review",
+    "title": "Our publication Aggregating amyloid resources is online!",
+    "section": "",
+    "text": "Amyloid-like aggregation plays a crucial role in many biological processes and diseases 🧠, including neurodegenerative disorders like Alzheimer’s and Parkinson’s. Despite its importance, information on amyloids has been scattered across various databases, making it difficult for researchers to access the full spectrum of resources available.\nIn this comprehensive review, we: - Surveyed existing amyloid aggregation databases 🔍, assessing their content, coverage, and accessibility. - Highlighted the unique features of each database 🗂️, giving researchers a clearer understanding of which databases best suit their needs. - Explored challenges in the field of amyloid data aggregation, emphasizing the need for improved integration and consistency in data resources."
+  },
+  {
+    "objectID": "subsite/posts/2024_10_30.html#who-will-benefit",
+    "href": "subsite/posts/2024_10_30.html#who-will-benefit",
+    "title": "Our publication Aggregating amyloid resources is online!",
+    "section": "",
+    "text": "This review is a valuable resource for researchers in bioinformatics, biochemistry, and neurobiology interested in studying amyloid aggregation. It provides a consolidated view of available databases, streamlining the process of accessing and comparing amyloid-related data."
+  },
+  {
+    "objectID": "subsite/posts/2024_10_30.html#future-directions",
+    "href": "subsite/posts/2024_10_30.html#future-directions",
+    "title": "Our publication Aggregating amyloid resources is online!",
+    "section": "",
+    "text": "By aggregating these resources, we aim to encourage more integrated research and foster collaboration across fields to advance our understanding of amyloid aggregation and related diseases. With this work, we hope to lay the groundwork for future developments in the bioinformatics of amyloid and amyloid-like aggregation.\nThanks to everyone who contributed to this review – let’s keep advancing the science! 🌟"
+  },
+  {
+    "objectID": "subsite/posts/2024_05_24.html",
+    "href": "subsite/posts/2024_05_24.html",
+    "title": "🎉 Exciting news: Michał awarded NCN Sonata 19 Grant! 🎉",
+    "section": "",
+    "text": "We are proud to announce that Michał has been awarded the prestigious NCN Sonata 19 grant for his project titled “Taming aggregation with AmyloGraph 2.0: a database and prediction models of amyloid self-assembly modulators” 🧬✨\nThis innovative research will focus on expanding AmyloGraph, a comprehensive amyloid interactions database aimed at understanding and controlling the self-assembly of amyloid proteins. Michał’s work promises to make significant contributions to the field of protein aggregation, with potential implications for tackling diseases linked to amyloid formation.\nWe have planned three new positions for the project. Stay tuned for the announcement at the end of summer vacation!"
+  },
+  {
+    "objectID": "subsite/posts/2024_09_04.html",
+    "href": "subsite/posts/2024_09_04.html",
+    "title": "BioGenies are heading to Warsaw!",
+    "section": "",
+    "text": "We’re beyond excited to announce that the BioGenies —Michał, Jarek, Valen, Krysia, Weronika, and Kasia— are on our way to the Symposium of the Polish Bioinformatics Society!\nThis is your chance to connect with our team and explore the cutting edge of bioinformatics. Whether you’re eager to discuss our latest research 🔬, explore exciting collaboration opportunities 🤝, or simply want to chat with us about our work, we’d love to meet you!\nFeel free to reach out if you want to schedule a meeting or just want to connect over a coffee ☕.\nWe can’t wait to see you in Warsaw! 🎉\nPTBI conference details:\n📅 Date: 11/09/2024 - 13/09/2024\n📍 Venue: Faculty of Electronics and Information Technology, Warsaw University of Technology"
+  },
+  {
+    "objectID": "subsite/content/group_desc.html",
+    "href": "subsite/content/group_desc.html",
+    "title": "BioGenies",
+    "section": "",
+    "text": "BioGenies is an innovative collective of budding scientists dispersed across Europe, united by a shared passion for groundbreaking research. Anchored at the Bioinformatics and Multiomics Analysis Laboratory within the Clinical Research Centre at the (Medical University of Białystok, Poland, our core team operates from the dynamic hub of Centrum Futuri (entrances D and E).\nWe are a dynamic team of passionate individuals driven by a collective vision of advancing scientific discovery. With diverse backgrounds and interests, we form a vibrant community dedicated to exploring a vast array of topics spanning the realms of molecular biology, amyloids, antimicrobial peptides, predictive models, database construction, and cutting-edge advancements in machine learning and artificial intelligence. Our collaborative efforts blend expertise from various disciplines, fostering innovative approaches and breakthroughs at the intersection of science and technology.\nOur team’s interdisciplinary nature enriches our exploration, allowing us to tackle complex challenges from multiple perspectives and drive progress in diverse fields. Whether unraveling the mysteries of molecular interactions or harnessing the power of AI for predictive modeling, we are united by a shared commitment to pushing the boundaries of knowledge and fostering scientific excellence.\nIf you’re curious about our ongoing projects, you can explore them in the Project tab."
+  },
+  {
+    "objectID": "subsite/content/group_desc.html#our-group",
+    "href": "subsite/content/group_desc.html#our-group",
+    "title": "BioGenies",
+    "section": "",
+    "text": "BioGenies is an innovative collective of budding scientists dispersed across Europe, united by a shared passion for groundbreaking research. Anchored at the Bioinformatics and Multiomics Analysis Laboratory within the Clinical Research Centre at the (Medical University of Białystok, Poland, our core team operates from the dynamic hub of Centrum Futuri (entrances D and E).\nWe are a dynamic team of passionate individuals driven by a collective vision of advancing scientific discovery. With diverse backgrounds and interests, we form a vibrant community dedicated to exploring a vast array of topics spanning the realms of molecular biology, amyloids, antimicrobial peptides, predictive models, database construction, and cutting-edge advancements in machine learning and artificial intelligence. Our collaborative efforts blend expertise from various disciplines, fostering innovative approaches and breakthroughs at the intersection of science and technology.\nOur team’s interdisciplinary nature enriches our exploration, allowing us to tackle complex challenges from multiple perspectives and drive progress in diverse fields. Whether unraveling the mysteries of molecular interactions or harnessing the power of AI for predictive modeling, we are united by a shared commitment to pushing the boundaries of knowledge and fostering scientific excellence.\nIf you’re curious about our ongoing projects, you can explore them in the Project tab."
+  },
+  {
+    "objectID": "subsite/colab.html",
+    "href": "subsite/colab.html",
+    "title": "Our collaborators",
+    "section": "",
+    "text": "Autonomous University of Barcelona\n\n\n\n\n\n\n\n\n\nEva Arribas\n\n\n\n\n\n\n\nOriol Bárcenas\n\n\n\n\n\n\n\nCarlos Pintado-Grima\n\n\n\n\n\n\n\n Quadram Institute\n\n\n\n\n\n\n\n\n\nRafał Kolenda\n\n\n\n\n\n\n\nKatarzyna (Kasia) Sidorczuk\n\n\n\n\n\n\n\n Brandenburg University of Technology Cottbus-Senftenberg\n\n\n\n\n\n\n\n\n\nStefan Rödiger\n\n\n\n\n\n\n\nRonja Tittel"
+  },
+  {
+    "objectID": "subsite/projects/llps.html",
+    "href": "subsite/projects/llps.html",
+    "title": "Liquid-liquid phase separation",
+    "section": "",
+    "text": "Liquid-liquid phase separation (LLPS) is a fundamental biophysical process that underlies the organization and compartmentalization within cells, without relying on membrane-bound structures. This phenomenon occurs when a homogenous solution of macromolecules, such as proteins and nucleic acids, spontaneously demixes into two coexisting liquid phases: a dense phase enriched in these macromolecules and a dilute phase that is relatively depleted of them. This phase separation is driven by weak, multivalent interactions among the molecules, including electrostatic interactions, hydrophobic effects, and specific binding domains.\n\n\nThe driving forces behind LLPS involve a delicate balance between attractive and repulsive interactions among macromolecules. Key factors influencing LLPS include:\nMultivalency: Proteins and nucleic acids with multiple interaction sites can engage in many weak interactions simultaneously, promoting phase separation. Intrinsic Disorder: Proteins with intrinsically disordered regions (IDRs) often undergo LLPS due to their flexible, dynamic nature, which allows for transient interactions. Post-translational Modifications: Phosphorylation, methylation, and ubiquitination can modulate protein-protein interactions, thereby influencing LLPS. Environmental Conditions: Changes in temperature, pH, ionic strength, and concentration of macromolecules can trigger or inhibit phase separation.\n\n\n\nLLPS is pivotal in forming various membrane-less organelles (MLOs) or biomolecular condensates that compartmentalize cellular components to enhance reaction kinetics, protect sensitive molecules, and regulate biological processes. Some key examples include:\nNucleoli: Sites of ribosomal RNA (rRNA) synthesis and ribosome assembly within the nucleus. Stress Granules: Cytoplasmic aggregates that form in response to cellular stress, sequestering untranslated mRNAs and associated proteins. P-bodies: Cytoplasmic structures involved in mRNA decay and storage. Centrosomes: Organizing centers for microtubule nucleation during cell division.\n\n\n\nLLPS has profound implications for understanding cellular organization and disease mechanisms. Aberrant phase separation can lead to pathological aggregates associated with diseases such as:\nNeurodegenerative Diseases: Dysregulated phase separation can contribute to the formation of toxic protein aggregates in diseases like ALS, Alzheimer’s, and Parkinson’s. Cancer: Altered phase separation dynamics can affect signaling pathways and gene expression, contributing to tumorigenesis."
+  },
+  {
+    "objectID": "subsite/projects/llps.html#beyond-the-basics",
+    "href": "subsite/projects/llps.html#beyond-the-basics",
+    "title": "Liquid-liquid phase separation",
+    "section": "",
+    "text": "Liquid-liquid phase separation (LLPS) is a fundamental biophysical process that underlies the organization and compartmentalization within cells, without relying on membrane-bound structures. This phenomenon occurs when a homogenous solution of macromolecules, such as proteins and nucleic acids, spontaneously demixes into two coexisting liquid phases: a dense phase enriched in these macromolecules and a dilute phase that is relatively depleted of them. This phase separation is driven by weak, multivalent interactions among the molecules, including electrostatic interactions, hydrophobic effects, and specific binding domains.\n\n\nThe driving forces behind LLPS involve a delicate balance between attractive and repulsive interactions among macromolecules. Key factors influencing LLPS include:\nMultivalency: Proteins and nucleic acids with multiple interaction sites can engage in many weak interactions simultaneously, promoting phase separation. Intrinsic Disorder: Proteins with intrinsically disordered regions (IDRs) often undergo LLPS due to their flexible, dynamic nature, which allows for transient interactions. Post-translational Modifications: Phosphorylation, methylation, and ubiquitination can modulate protein-protein interactions, thereby influencing LLPS. Environmental Conditions: Changes in temperature, pH, ionic strength, and concentration of macromolecules can trigger or inhibit phase separation.\n\n\n\nLLPS is pivotal in forming various membrane-less organelles (MLOs) or biomolecular condensates that compartmentalize cellular components to enhance reaction kinetics, protect sensitive molecules, and regulate biological processes. Some key examples include:\nNucleoli: Sites of ribosomal RNA (rRNA) synthesis and ribosome assembly within the nucleus. Stress Granules: Cytoplasmic aggregates that form in response to cellular stress, sequestering untranslated mRNAs and associated proteins. P-bodies: Cytoplasmic structures involved in mRNA decay and storage. Centrosomes: Organizing centers for microtubule nucleation during cell division.\n\n\n\nLLPS has profound implications for understanding cellular organization and disease mechanisms. Aberrant phase separation can lead to pathological aggregates associated with diseases such as:\nNeurodegenerative Diseases: Dysregulated phase separation can contribute to the formation of toxic protein aggregates in diseases like ALS, Alzheimer’s, and Parkinson’s. Cancer: Altered phase separation dynamics can affect signaling pathways and gene expression, contributing to tumorigenesis."
+  },
+  {
+    "objectID": "subsite/projects/llps.html#our-aims",
+    "href": "subsite/projects/llps.html#our-aims",
+    "title": "Liquid-liquid phase separation",
+    "section": "Our aims",
+    "text": "Our aims"
+  },
+  {
+    "objectID": "subsite/projects/llps.html#projects",
+    "href": "subsite/projects/llps.html#projects",
+    "title": "Liquid-liquid phase separation",
+    "section": "Projects",
+    "text": "Projects"
+  },
+  {
+    "objectID": "subsite/projects/mvi.html",
+    "href": "subsite/projects/mvi.html",
+    "title": "Missing value imputation",
+    "section": "",
+    "text": "Missing value imputation is a critical process in data preprocessing, essential for handling incomplete datasets and ensuring the accuracy and reliability of statistical analyses and machine learning models. Missing data can occur for various reasons, such as data entry errors, sensor malfunctions, or non-responses in surveys. Properly addressing missing values is vital for maintaining the integrity of analyses and improving predictive model performance.\n\n\nSeveral techniques are employed for missing value imputation, each with its own strengths and appropriate use cases. Key methods include:\nSimple Imputation: Replacing missing values with a single statistic, such as the mean, median, or mode of the observed data. This method is straightforward but may introduce bias if the data is not missing completely at random (MCAR). Regression Imputation: Using regression models to predict and replace missing values based on other available variables. This approach can account for relationships between variables but may not fully capture the uncertainty associated with the imputation. Multiple Imputation: Creating several imputed datasets by replacing missing values with multiple plausible estimates, analyzing each dataset separately, and then combining the results. This method provides a robust estimate of the uncertainty due to missing data. Machine Learning Imputation: Utilizing machine learning algorithms such as k-nearest neighbors (KNN), random forests, or neural networks to predict and impute missing values. These methods can handle complex patterns in the data but require careful tuning and validation.\n\n\n\nIn biological and medical research, accurate missing value imputation is crucial for:\nGenomics: Imputing missing genotypic data to enable comprehensive genome-wide association studies (GWAS) and other genetic analyses. Clinical Trials: Ensuring the validity of trial results by appropriately handling missing patient data. Epidemiology: Accurately estimating disease prevalence and risk factors when faced with incomplete survey data."
+  },
+  {
+    "objectID": "subsite/projects/mvi.html#beyond-the-basics",
+    "href": "subsite/projects/mvi.html#beyond-the-basics",
+    "title": "Missing value imputation",
+    "section": "",
+    "text": "Missing value imputation is a critical process in data preprocessing, essential for handling incomplete datasets and ensuring the accuracy and reliability of statistical analyses and machine learning models. Missing data can occur for various reasons, such as data entry errors, sensor malfunctions, or non-responses in surveys. Properly addressing missing values is vital for maintaining the integrity of analyses and improving predictive model performance.\n\n\nSeveral techniques are employed for missing value imputation, each with its own strengths and appropriate use cases. Key methods include:\nSimple Imputation: Replacing missing values with a single statistic, such as the mean, median, or mode of the observed data. This method is straightforward but may introduce bias if the data is not missing completely at random (MCAR). Regression Imputation: Using regression models to predict and replace missing values based on other available variables. This approach can account for relationships between variables but may not fully capture the uncertainty associated with the imputation. Multiple Imputation: Creating several imputed datasets by replacing missing values with multiple plausible estimates, analyzing each dataset separately, and then combining the results. This method provides a robust estimate of the uncertainty due to missing data. Machine Learning Imputation: Utilizing machine learning algorithms such as k-nearest neighbors (KNN), random forests, or neural networks to predict and impute missing values. These methods can handle complex patterns in the data but require careful tuning and validation.\n\n\n\nIn biological and medical research, accurate missing value imputation is crucial for:\nGenomics: Imputing missing genotypic data to enable comprehensive genome-wide association studies (GWAS) and other genetic analyses. Clinical Trials: Ensuring the validity of trial results by appropriately handling missing patient data. Epidemiology: Accurately estimating disease prevalence and risk factors when faced with incomplete survey data."
+  },
+  {
+    "objectID": "subsite/projects/mvi.html#projects",
+    "href": "subsite/projects/mvi.html#projects",
+    "title": "Missing value imputation",
+    "section": "Projects",
+    "text": "Projects"
+  },
+  {
+    "objectID": "subsite/projects/amyloids.html",
+    "href": "subsite/projects/amyloids.html",
+    "title": "Amyloids",
+    "section": "",
+    "text": "Amyloids are highly structured, fibrous protein aggregates that are associated with a variety of physiological and pathological processes. These protein assemblies are characterized by their beta-sheet-rich structure, which allows them to form long, unbranched fibrils. Amyloid fibrils can accumulate in tissues and organs, leading to a range of diseases known as amyloidoses. However, not all amyloids are harmful; some play functional roles in normal cellular processes."
+  },
+  {
+    "objectID": "subsite/projects/amyloids.html#our-aims",
+    "href": "subsite/projects/amyloids.html#our-aims",
+    "title": "Amyloids",
+    "section": "Our aims",
+    "text": "Our aims"
+  },
+  {
+    "objectID": "subsite/projects/amyloids.html#projects",
+    "href": "subsite/projects/amyloids.html#projects",
+    "title": "Amyloids",
+    "section": "Projects",
+    "text": "Projects\n\nAmyloGraph\nwebsite publication github\n\n\nAmyloGram\nwebsite publication github"
+  },
+  {
+    "objectID": "subsite/team/kg.html",
+    "href": "subsite/team/kg.html",
+    "title": "Krystyna Grzesiak",
+    "section": "",
+    "text": "Contact Info"
+  },
+  {
+    "objectID": "subsite/team/mb.html",
+    "href": "subsite/team/mb.html",
+    "title": "Michał Burdukiewicz",
+    "section": "",
+    "text": "Hi! My name is Michał Burdukiewicz and I am passionate about bioinformatics and R.\nI am currently leading the Laboratory of Bioinformatics and Multi-omics Analysis at the Medical University of Białystok. Contact me if you want to collaborate with us!\nMy current projects:\n\nAmyloGraph, a comprehensive database of amyloid-amyloid interactions (doi:10.1093/nar/gkac882).\nHaDeX, an integrated analytical tool for HDX-MS (maintainer Weronika Puchała).\nNegative data sampling, where we show that benchmarks in antimicrobial peptide prediction are biased due to the selection of negative data (doi:10.1093/bib/bbac343).\n\nI am also maintaining the list of machine learning models for prediction of peptide properties (see also our article on that).\nI :heart: R!\n\nContact Info"
+  },
+  {
+    "objectID": "subsite/team/wp.html",
+    "href": "subsite/team/wp.html",
+    "title": "Weronika Puchała",
+    "section": "",
+    "text": "Contact Info"
+  },
+  {
+    "objectID": "subsite/alumni.html",
+    "href": "subsite/alumni.html",
+    "title": "Former Team Members",
+    "section": "",
+    "text": "Agnieszka Barbach\n\n\n\n\n\n\n\nLaura Bąkała\n\n\n\n\n\n\n\nFilip Gaj\n\n\n\n\n\n\n\nKatarzyna Hubicka\n\n\n\n\n\n\n\nDominika Kozakiewicz\n\n\n\n\n\n\n\nAnna Lassota\n\n\n\n\n\n\n\nDominik Nowakowski\n\n\n\n\n\n\n\n\n\nFilip Pietluch\n\n\n\n\n\n\n\nDominik Rafacz\n\n\n\n\n\n\n\nJoanna Sikorska\n\n\n\n\n\n\n\nJadwiga Słowik"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BioGenies news",
+    "section": "",
+    "text": "Welcome Eva Arribas to the Lab!\n\n\n\nteam\n\n\nErasmus\n\n\nLLPS\n\n\namyloids\n\n\n\nWe’re thrilled to welcome Eva Arribas, a master’s graduate from Salvador Ventura’s lab at the Universitat Autònoma de Barcelona, as she joins us for her Erasmus traineeship!\n\n\n\n\n\n\nNov 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nOur publication Aggregating amyloid resources is online!\n\n\n\npublications\n\n\nresearch\n\n\namyloids\n\n\nbioinformatics\n\n\n\nOur latest comprehensive review of databases on amyloid-like aggregation, now published in Computational and Structural Biotechnology Journal.\n\n\n\n\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHUPO 2024 Conference Wrap-Up\n\n\n\nconference\n\n\nHUPO\n\n\nGermany\n\n\nreunion\n\n\n\nHighlights from an inspiring week in Dresden with the BioGenies team, filled with scientific sessions, networking, and a taste of Dresden’s culture.\n\n\n\n\n\n\nOct 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎉 Valen signs a contract with Medical University of Białystok! 🎉\n\n\n\nnews\n\n\nMUB\n\n\n\nFrom now on, Valen is an official employee of the Clinical Research Centre at the Medical University of Białystok 🏢🎓.\n\n\n\n\n\n\nOct 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPost-doc position in the AmyloGraph 2.0 project\n\n\n\nnews\n\n\nAmyloGraph\n\n\namyloids\n\n\nhiring\n\n\nNCN\n\n\n\nWe are looking for a post-doc to join our team in AmyloGraph 2.0 project (2023/51/D/NZ7/02847)\n\n\n\n\n\n\nOct 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nArrival of Ronja - our new collaborator\n\n\n\nteam\n\n\nErasmus+\n\n\nAmyloGraph\n\n\n\nWelcoming Ronja, our new collaborator from Brandenburg University of Technology Cottbus-Senftenberg, who joins our group for her practical semester.\n\n\n\n\n\n\nSep 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPTBI 2024 Conference wrap-up\n\n\n\nconference\n\n\nPTBI\n\n\nPoland\n\n\nreunion\n\n\n\nThe PTBI 2024 conference brought together brilliant minds 🧠, exciting discussions 💬, and memorable moments with colleagues 🤝. From insightful talks 🎤 to fun reunions 🎉…\n\n\n\n\n\n\nSep 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies are heading to Warsaw!\n\n\n\nconference\n\n\nPTBI\n\n\nPoland\n\n\n\n🌟 BioGenies will reunite at the PTBI conference in Warsaw! 🇵🇱🌟\n\n\n\n\n\n\nSep 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBig annoucement!\n\n\n\nnews\n\n\nAmyloGraph\n\n\namyloids\n\n\nhiring\n\n\nNCN\n\n\n\nWe are thrilled to announce that we are looking for two talented students to join our team for AmyloGraph 2.0 project (2023/51/D/NZ7/02847)\n\n\n\n\n\n\nAug 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies on adventure\n\n\n\ntrip\n\n\nholidays\n\n\nItaly\n\n\nDolomites\n\n\nvia ferrata\n\n\n\nJarek and Krysia conquer the Dolomites on their short summer vacations!\n\n\n\n\n\n\nAug 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies went to Canada for a conference\n\n\n\nconference\n\n\nISBM\n\n\nCanada\n\n\n\nKrysia and Weronika at Intelligent Systems for Molecular Biology (ISMB) conference\n\n\n\n\n\n\nJul 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎓 Celebrating Eva’s MSc Defense! 🎓\n\n\n\nMSc\n\n\ndefence\n\n\n\nWe are thrilled to announce that Eva has successfully defended her MSc thesis! 🏆📚\n\n\n\n\n\n\nJul 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies from University of Wrocław and Institute of Biochemistry and Biophysics, PAS visit BioGenies HQ in Białystok\n\n\n\nnews\n\n\nreunion\n\n\ntrip\n\n\n\n🌟 BioGenies reunion at HQ and visit beyond! 🌟\n\n\n\n\n\n\nJul 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies went to Japan on a conference\n\n\n\nconference\n\n\nMetabolomics\n\n\nJapan\n\n\n\nKrysia attends Metabolomics 2024 in Osaka, Japan! 🌏🇯🇵\n\n\n\n\n\n\nJun 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies visit to our colleagues from the Group of Amyloid Research at Vilnius University\n\n\n\nnews\n\n\nLithuania\n\n\ntrip\n\n\n\n🌍 🇱🇹 BioGenies on the move: Visiting Vilnius University and Trakai Island Castle!\n\n\n\n\n\n\nJun 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎉 Exciting news: Michał awarded NCN Sonata 19 Grant! 🎉\n\n\n\ngrants\n\n\nNCN\n\n\nnews\n\n\n\nResults of the Sonata 19 grant contest organized by the National Science Center Poland were announced today!\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n2nd Machine Learning 4 Non-Globular Proteins Meeting 2024\n\n\n\nconference\n\n\nML4NGP\n\n\nCOST Actions\n\n\nGreece\n\n\n\nMichał, Valen and Jarek went on a conference 🏛🔱🌊🇬🇷\n\n\n\n\n\n\nMay 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nOfficial beginning of Bioinformatics and Multiomics Analysis Laboratory\n\n\n\nnews\n\n\n\n🎉 Official launch of Bioinformatics and Multiomics Analysis Laboratory! 🎉\n\n\n\n\n\n\nMay 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "subsite/team/jk.html",
+    "href": "subsite/team/jk.html",
+    "title": "Jakub Kołodziejczyk",
+    "section": "",
+    "text": "Contact Info"
+  },
+  {
+    "objectID": "subsite/team/jc.html",
+    "href": "subsite/team/jc.html",
+    "title": "Jarosław (Jarek) Chilimoniuk",
+    "section": "",
+    "text": "Contact Info"
+  },
+  {
+    "objectID": "subsite/team/vi.html",
+    "href": "subsite/team/vi.html",
+    "title": "Valentín Iglesias",
+    "section": "",
+    "text": "Contact Info"
+  },
+  {
+    "objectID": "subsite/projects/amp.html",
+    "href": "subsite/projects/amp.html",
+    "title": "Antimicrobial peptides",
+    "section": "",
+    "text": "Antimicrobial peptides (AMPs) are a diverse group of small, naturally occurring molecules that play a crucial role in the innate immune response by targeting a wide range of pathogens, including bacteria, fungi, viruses, and even cancer cells. These peptides are found across all domains of life, from humans to plants and microorganisms, and are recognized for their broad-spectrum antimicrobial properties and their potential as therapeutic agents.\n\n\nAMPs exert their antimicrobial effects through various mechanisms, primarily targeting microbial membranes but also affecting intracellular processes. Key mechanisms include:\nMembrane Disruption: AMPs can insert into microbial membranes, forming pores or disrupting membrane integrity, leading to cell lysis. Intracellular Targeting: Some AMPs can penetrate microbial cells and interfere with vital intracellular functions such as DNA, RNA, and protein synthesis. Immunomodulation: AMPs can modulate the host immune response by recruiting immune cells to infection sites and enhancing phagocytosis. Factors influencing AMP activity include:\nSequence and Structure: The amino acid composition, charge, hydrophobicity, and secondary structure (e.g., alpha-helices, beta-sheets) determine AMP activity and specificity. Environmental Conditions: Factors such as pH, ionic strength, and presence of serum proteins can affect AMP stability and activity.\n\n\n\nAMPs are integral to the defense mechanisms of organisms, providing a first line of defense against infections. They are involved in:\nDirect Antimicrobial Action: Killing or inhibiting the growth of pathogens. Immune System Modulation: Enhancing the immune response by promoting the activation and recruitment of immune cells. Wound Healing: Facilitating tissue repair and regeneration by promoting cell migration and angiogenesis.\n\n\n\nAMPs have significant potential in clinical applications due to their broad-spectrum activity and unique mechanisms of action. They are being explored for their therapeutic potential in:\nInfectious Diseases: As alternatives to traditional antibiotics, particularly in the face of rising antibiotic resistance. Cancer Therapy: Some AMPs have demonstrated anti-cancer properties by selectively targeting cancer cells. Inflammatory Diseases: AMPs can modulate inflammatory responses, offering potential treatments for conditions like sepsis and chronic inflammatory diseases."
+  },
+  {
+    "objectID": "subsite/projects/amp.html#beyond-the-basics",
+    "href": "subsite/projects/amp.html#beyond-the-basics",
+    "title": "Antimicrobial peptides",
+    "section": "",
+    "text": "Antimicrobial peptides (AMPs) are a diverse group of small, naturally occurring molecules that play a crucial role in the innate immune response by targeting a wide range of pathogens, including bacteria, fungi, viruses, and even cancer cells. These peptides are found across all domains of life, from humans to plants and microorganisms, and are recognized for their broad-spectrum antimicrobial properties and their potential as therapeutic agents.\n\n\nAMPs exert their antimicrobial effects through various mechanisms, primarily targeting microbial membranes but also affecting intracellular processes. Key mechanisms include:\nMembrane Disruption: AMPs can insert into microbial membranes, forming pores or disrupting membrane integrity, leading to cell lysis. Intracellular Targeting: Some AMPs can penetrate microbial cells and interfere with vital intracellular functions such as DNA, RNA, and protein synthesis. Immunomodulation: AMPs can modulate the host immune response by recruiting immune cells to infection sites and enhancing phagocytosis. Factors influencing AMP activity include:\nSequence and Structure: The amino acid composition, charge, hydrophobicity, and secondary structure (e.g., alpha-helices, beta-sheets) determine AMP activity and specificity. Environmental Conditions: Factors such as pH, ionic strength, and presence of serum proteins can affect AMP stability and activity.\n\n\n\nAMPs are integral to the defense mechanisms of organisms, providing a first line of defense against infections. They are involved in:\nDirect Antimicrobial Action: Killing or inhibiting the growth of pathogens. Immune System Modulation: Enhancing the immune response by promoting the activation and recruitment of immune cells. Wound Healing: Facilitating tissue repair and regeneration by promoting cell migration and angiogenesis.\n\n\n\nAMPs have significant potential in clinical applications due to their broad-spectrum activity and unique mechanisms of action. They are being explored for their therapeutic potential in:\nInfectious Diseases: As alternatives to traditional antibiotics, particularly in the face of rising antibiotic resistance. Cancer Therapy: Some AMPs have demonstrated anti-cancer properties by selectively targeting cancer cells. Inflammatory Diseases: AMPs can modulate inflammatory responses, offering potential treatments for conditions like sepsis and chronic inflammatory diseases."
+  },
+  {
+    "objectID": "subsite/projects/amp.html#our-aims",
+    "href": "subsite/projects/amp.html#our-aims",
+    "title": "Antimicrobial peptides",
+    "section": "Our aims",
+    "text": "Our aims"
+  },
+  {
+    "objectID": "subsite/projects/amp.html#projects",
+    "href": "subsite/projects/amp.html#projects",
+    "title": "Antimicrobial peptides",
+    "section": "Projects",
+    "text": "Projects"
+  },
+  {
+    "objectID": "subsite/projects/hdxms.html",
+    "href": "subsite/projects/hdxms.html",
+    "title": "HDX-MS",
+    "section": "",
+    "text": "Hydrogen-Deuterium Exchange Mass Spectrometry (HDX-MS) is a powerful analytical technique used to study the structural dynamics and interactions of proteins. By measuring the exchange of hydrogen atoms with deuterium in a protein’s backbone, HDX-MS provides detailed insights into protein folding, conformational changes, and binding events. This method is invaluable for understanding the mechanisms of protein function, interactions with other molecules, and the effects of mutations or environmental conditions on protein stability."
+  },
+  {
+    "objectID": "subsite/projects/hdxms.html#our-aims",
+    "href": "subsite/projects/hdxms.html#our-aims",
+    "title": "HDX-MS",
+    "section": "Our aims",
+    "text": "Our aims"
+  },
+  {
+    "objectID": "subsite/projects/hdxms.html#projects",
+    "href": "subsite/projects/hdxms.html#projects",
+    "title": "HDX-MS",
+    "section": "Projects",
+    "text": "Projects\n\nHaDeX\nwebsite publication github"
+  },
+  {
+    "objectID": "subsite/about.html",
+    "href": "subsite/about.html",
+    "title": "About BioGenies",
+    "section": "",
+    "text": "BioGenies is an innovative collective of budding scientists dispersed across Europe, united by a shared passion for groundbreaking research. Anchored at the Bioinformatics and Multiomics Analysis Laboratory within the Clinical Research Centre at the (Medical University of Białystok, Poland, our core team operates from the dynamic hub of Centrum Futuri (entrances D and E).\nWe are a dynamic team of passionate individuals driven by a collective vision of advancing scientific discovery. With diverse backgrounds and interests, we form a vibrant community dedicated to exploring a vast array of topics spanning the realms of molecular biology, amyloids, antimicrobial peptides, predictive models, database development, and cutting-edge advancements in machine learning and artificial intelligence. Our collaborative efforts blend expertise from various disciplines, fostering innovative approaches and breakthroughs at the intersection of science and technology.\nOur team’s interdisciplinary nature enriches our exploration, allowing us to tackle complex challenges from multiple perspectives and drive progress in diverse fields. Whether unraveling the mysteries of molecular interactions or harnessing the power of AI for predictive modeling, we are united by a shared commitment to pushing the boundaries of knowledge and fostering scientific excellence.\nIf you’re curious about our ongoing projects, you can explore them in the Project tab."
+  },
+  {
+    "objectID": "subsite/about.html#our-group",
+    "href": "subsite/about.html#our-group",
+    "title": "About BioGenies",
+    "section": "",
+    "text": "BioGenies is an innovative collective of budding scientists dispersed across Europe, united by a shared passion for groundbreaking research. Anchored at the Bioinformatics and Multiomics Analysis Laboratory within the Clinical Research Centre at the (Medical University of Białystok, Poland, our core team operates from the dynamic hub of Centrum Futuri (entrances D and E).\nWe are a dynamic team of passionate individuals driven by a collective vision of advancing scientific discovery. With diverse backgrounds and interests, we form a vibrant community dedicated to exploring a vast array of topics spanning the realms of molecular biology, amyloids, antimicrobial peptides, predictive models, database development, and cutting-edge advancements in machine learning and artificial intelligence. Our collaborative efforts blend expertise from various disciplines, fostering innovative approaches and breakthroughs at the intersection of science and technology.\nOur team’s interdisciplinary nature enriches our exploration, allowing us to tackle complex challenges from multiple perspectives and drive progress in diverse fields. Whether unraveling the mysteries of molecular interactions or harnessing the power of AI for predictive modeling, we are united by a shared commitment to pushing the boundaries of knowledge and fostering scientific excellence.\nIf you’re curious about our ongoing projects, you can explore them in the Project tab."
+  },
+  {
+    "objectID": "subsite/about.html#about-białystok",
+    "href": "subsite/about.html#about-białystok",
+    "title": "About BioGenies",
+    "section": "About Białystok",
+    "text": "About Białystok\nBiałystok, the largest city in northeastern Poland and the capital of the Podlaskie Voivodeship with almost 300k citizens. It offers a unique blend of cultural richness, historical depth, and natural beauty that makes it an attractive destination for visitors.\n\nCultural and Historical Heritage\nBiałystok boasts a fascinating multicultural heritage, influenced by various ethnic groups, including Poles, Belarusians, Lithuanians, Jews, and Tatars. This diversity is reflected in the city’s architecture, cuisine, and cultural institutions. One of the city’s most notable landmarks is the Branicki Palace, often referred to as the “Polish Versailles.” This stunning baroque residence is surrounded by beautiful gardens and is a testament to the city’s historical significance.\n\n\nNatural Beauty\nThe region around Białystok is renowned for its pristine natural landscapes. The Białowieża Forest, a UNESCO World Heritage site, is one of the last and largest remaining parts of the primeval forest that once covered much of Europe. Home to the European bison, the forest offers numerous trails for hiking, bird watching, and experiencing unspoiled nature. The Narew National Park, known as the “Polish Amazon,” features unique river landscapes with meandering channels and abundant wildlife, perfect for canoeing and nature excursions.\n\n\nFestivals and Events\nBiałystok hosts several festivals that celebrate its cultural diversity and vibrant arts scene. The Białystok Puppet Theater Festival attracts performers and audiences from around the world, showcasing the best in puppetry and theater. The Podlasie Opera and Philharmonic, one of the most modern cultural institutions in Poland, offers a range of concerts, operas, and ballet performances.\n\n\nCulinary Delights\nVisitors to Białystok can savor the region’s unique culinary offerings, which blend Polish, Lithuanian, Belarusian, and Jewish influences. Traditional dishes such as potato babka, kiszka ziemniaczana (potato sausage), and kartacze (potato dumplings) provide a hearty and delicious introduction to local flavors. The city also has a growing number of contemporary restaurants and cafes that highlight regional ingredients in innovative ways.\n\n\nWarm Hospitality\nThe people of Białystok are known for their hospitality and friendliness. Whether you’re exploring the historic streets of the city center, visiting local markets, or hiking in the surrounding countryside, you can expect a warm welcome and a genuine interest in sharing the beauty and culture of their region.\n\n\nAccessibility\nBiałystok is well-connected by road and rail, making it an accessible destination from major Polish cities like Warsaw. Its growing infrastructure, including comfortable accommodations and modern amenities, ensures that visitors can enjoy a pleasant and convenient stay."
+  },
+  {
+    "objectID": "subsite/content/city_hq.html",
+    "href": "subsite/content/city_hq.html",
+    "title": "BioGenies",
+    "section": "",
+    "text": "Białystok, the largest city in northeastern Poland and the capital of the Podlaskie Voivodeship with almost 300k citizens. It offers a unique blend of cultural richness, historical depth, and natural beauty that makes it an attractive destination for visitors.\n\n\nBiałystok boasts a fascinating multicultural heritage, influenced by various ethnic groups, including Poles, Belarusians, Lithuanians, Jews, and Tatars. This diversity is reflected in the city’s architecture, cuisine, and cultural institutions. One of the city’s most notable landmarks is the Branicki Palace, often referred to as the “Polish Versailles.” This stunning baroque residence is surrounded by beautiful gardens and is a testament to the city’s historical significance.\n\n\n\nThe region around Białystok is renowned for its pristine natural landscapes. The Białowieża Forest, a UNESCO World Heritage site, is one of the last and largest remaining parts of the primeval forest that once covered much of Europe. Home to the European bison, the forest offers numerous trails for hiking, bird watching, and experiencing unspoiled nature. The Narew National Park, known as the “Polish Amazon,” features unique river landscapes with meandering channels and abundant wildlife, perfect for canoeing and nature excursions.\n\n\n\nBiałystok hosts several festivals that celebrate its cultural diversity and vibrant arts scene. The Białystok Puppet Theater Festival attracts performers and audiences from around the world, showcasing the best in puppetry and theater. The Podlasie Opera and Philharmonic, one of the most modern cultural institutions in Poland, offers a range of concerts, operas, and ballet performances.\n\n\n\nVisitors to Białystok can savor the region’s unique culinary offerings, which blend Polish, Lithuanian, Belarusian, and Jewish influences. Traditional dishes such as potato babka, kiszka ziemniaczana (potato sausage), and kartacze (potato dumplings) provide a hearty and delicious introduction to local flavors. The city also has a growing number of contemporary restaurants and cafes that highlight regional ingredients in innovative ways.\n\n\n\nThe people of Białystok are known for their hospitality and friendliness. Whether you’re exploring the historic streets of the city center, visiting local markets, or hiking in the surrounding countryside, you can expect a warm welcome and a genuine interest in sharing the beauty and culture of their region.\n\n\n\nBiałystok is well-connected by road and rail, making it an accessible destination from major Polish cities like Warsaw. Its growing infrastructure, including comfortable accommodations and modern amenities, ensures that visitors can enjoy a pleasant and convenient stay."
+  },
+  {
+    "objectID": "subsite/content/city_hq.html#about-białystok",
+    "href": "subsite/content/city_hq.html#about-białystok",
+    "title": "BioGenies",
+    "section": "",
+    "text": "Białystok, the largest city in northeastern Poland and the capital of the Podlaskie Voivodeship with almost 300k citizens. It offers a unique blend of cultural richness, historical depth, and natural beauty that makes it an attractive destination for visitors.\n\n\nBiałystok boasts a fascinating multicultural heritage, influenced by various ethnic groups, including Poles, Belarusians, Lithuanians, Jews, and Tatars. This diversity is reflected in the city’s architecture, cuisine, and cultural institutions. One of the city’s most notable landmarks is the Branicki Palace, often referred to as the “Polish Versailles.” This stunning baroque residence is surrounded by beautiful gardens and is a testament to the city’s historical significance.\n\n\n\nThe region around Białystok is renowned for its pristine natural landscapes. The Białowieża Forest, a UNESCO World Heritage site, is one of the last and largest remaining parts of the primeval forest that once covered much of Europe. Home to the European bison, the forest offers numerous trails for hiking, bird watching, and experiencing unspoiled nature. The Narew National Park, known as the “Polish Amazon,” features unique river landscapes with meandering channels and abundant wildlife, perfect for canoeing and nature excursions.\n\n\n\nBiałystok hosts several festivals that celebrate its cultural diversity and vibrant arts scene. The Białystok Puppet Theater Festival attracts performers and audiences from around the world, showcasing the best in puppetry and theater. The Podlasie Opera and Philharmonic, one of the most modern cultural institutions in Poland, offers a range of concerts, operas, and ballet performances.\n\n\n\nVisitors to Białystok can savor the region’s unique culinary offerings, which blend Polish, Lithuanian, Belarusian, and Jewish influences. Traditional dishes such as potato babka, kiszka ziemniaczana (potato sausage), and kartacze (potato dumplings) provide a hearty and delicious introduction to local flavors. The city also has a growing number of contemporary restaurants and cafes that highlight regional ingredients in innovative ways.\n\n\n\nThe people of Białystok are known for their hospitality and friendliness. Whether you’re exploring the historic streets of the city center, visiting local markets, or hiking in the surrounding countryside, you can expect a warm welcome and a genuine interest in sharing the beauty and culture of their region.\n\n\n\nBiałystok is well-connected by road and rail, making it an accessible destination from major Polish cities like Warsaw. Its growing infrastructure, including comfortable accommodations and modern amenities, ensures that visitors can enjoy a pleasant and convenient stay."
   },
   {
     "objectID": "subsite/posts/2024_10_28.html",
@@ -224,305 +504,46 @@
     "text": "After the conference wrapped up, Weronika and Jarek spent Friday exploring the beautiful Dresdner Zwinger – a perfect way to close out a memorable week of science and sightseeing 🏛️✨.\n\nThanks, HUPO 2024, for the inspiring talks, new connections, and unforgettable memories! Until next time, Dresden! 🇩🇪💫"
   },
   {
-    "objectID": "subsite/content/city_hq.html",
-    "href": "subsite/content/city_hq.html",
-    "title": "BioGenies",
+    "objectID": "subsite/posts/2024_10_18.html",
+    "href": "subsite/posts/2024_10_18.html",
+    "title": "🎉 Valen signs a contract with Medical University of Białystok! 🎉",
     "section": "",
-    "text": "Białystok, the largest city in northeastern Poland and the capital of the Podlaskie Voivodeship with almost 300k citizens. It offers a unique blend of cultural richness, historical depth, and natural beauty that makes it an attractive destination for visitors.\n\n\nBiałystok boasts a fascinating multicultural heritage, influenced by various ethnic groups, including Poles, Belarusians, Lithuanians, Jews, and Tatars. This diversity is reflected in the city’s architecture, cuisine, and cultural institutions. One of the city’s most notable landmarks is the Branicki Palace, often referred to as the “Polish Versailles.” This stunning baroque residence is surrounded by beautiful gardens and is a testament to the city’s historical significance.\n\n\n\nThe region around Białystok is renowned for its pristine natural landscapes. The Białowieża Forest, a UNESCO World Heritage site, is one of the last and largest remaining parts of the primeval forest that once covered much of Europe. Home to the European bison, the forest offers numerous trails for hiking, bird watching, and experiencing unspoiled nature. The Narew National Park, known as the “Polish Amazon,” features unique river landscapes with meandering channels and abundant wildlife, perfect for canoeing and nature excursions.\n\n\n\nBiałystok hosts several festivals that celebrate its cultural diversity and vibrant arts scene. The Białystok Puppet Theater Festival attracts performers and audiences from around the world, showcasing the best in puppetry and theater. The Podlasie Opera and Philharmonic, one of the most modern cultural institutions in Poland, offers a range of concerts, operas, and ballet performances.\n\n\n\nVisitors to Białystok can savor the region’s unique culinary offerings, which blend Polish, Lithuanian, Belarusian, and Jewish influences. Traditional dishes such as potato babka, kiszka ziemniaczana (potato sausage), and kartacze (potato dumplings) provide a hearty and delicious introduction to local flavors. The city also has a growing number of contemporary restaurants and cafes that highlight regional ingredients in innovative ways.\n\n\n\nThe people of Białystok are known for their hospitality and friendliness. Whether you’re exploring the historic streets of the city center, visiting local markets, or hiking in the surrounding countryside, you can expect a warm welcome and a genuine interest in sharing the beauty and culture of their region.\n\n\n\nBiałystok is well-connected by road and rail, making it an accessible destination from major Polish cities like Warsaw. Its growing infrastructure, including comfortable accommodations and modern amenities, ensures that visitors can enjoy a pleasant and convenient stay."
+    "text": "After months of preparation and overcoming several hurdles, we are delighted to announce that Valen is now officially part of the Bioinformatics and Multiomics Analyses Laboratory in Clinical Research Centre at the Medical University of Białystok. 🎓📝\nWhile it’s always exciting to welcome new talent to the team, the road to making this happen was challenging. Navigating complexities of paperwork 📝 and bureaucratic processes 🏢 can often feel like a marathon 🏃💨. Opening the position, getting all the documents in order, and coordinating between many people took plenty of determination 💪! But in the end, we triumphed! 🎉✨\n\n\nTo celebrate this exciting milestone, we headed to Choroszcz to enjoy some delicious food 🍽️. Known for its famous mental hospital 🏥, the town offered a unique backdrop for our celebration, and we couldn’t have picked a better place to mark the occasion!\n\n\n\n\nAs Valen settles into his new role, we still have to do some stuff at tax office.\nBut with enough time in Białystok, Valen may become so immersed in the Polish way of life that we’ll soon have to start calling him Walentyn Kościelny! 😄🇵🇱🥟\nWelcome on aboard, Valen! 🚀🎉"
   },
   {
-    "objectID": "subsite/content/city_hq.html#about-białystok",
-    "href": "subsite/content/city_hq.html#about-białystok",
-    "title": "BioGenies",
+    "objectID": "subsite/posts/2024_10_18.html#food-fun-and-festivities",
+    "href": "subsite/posts/2024_10_18.html#food-fun-and-festivities",
+    "title": "🎉 Valen signs a contract with Medical University of Białystok! 🎉",
     "section": "",
-    "text": "Białystok, the largest city in northeastern Poland and the capital of the Podlaskie Voivodeship with almost 300k citizens. It offers a unique blend of cultural richness, historical depth, and natural beauty that makes it an attractive destination for visitors.\n\n\nBiałystok boasts a fascinating multicultural heritage, influenced by various ethnic groups, including Poles, Belarusians, Lithuanians, Jews, and Tatars. This diversity is reflected in the city’s architecture, cuisine, and cultural institutions. One of the city’s most notable landmarks is the Branicki Palace, often referred to as the “Polish Versailles.” This stunning baroque residence is surrounded by beautiful gardens and is a testament to the city’s historical significance.\n\n\n\nThe region around Białystok is renowned for its pristine natural landscapes. The Białowieża Forest, a UNESCO World Heritage site, is one of the last and largest remaining parts of the primeval forest that once covered much of Europe. Home to the European bison, the forest offers numerous trails for hiking, bird watching, and experiencing unspoiled nature. The Narew National Park, known as the “Polish Amazon,” features unique river landscapes with meandering channels and abundant wildlife, perfect for canoeing and nature excursions.\n\n\n\nBiałystok hosts several festivals that celebrate its cultural diversity and vibrant arts scene. The Białystok Puppet Theater Festival attracts performers and audiences from around the world, showcasing the best in puppetry and theater. The Podlasie Opera and Philharmonic, one of the most modern cultural institutions in Poland, offers a range of concerts, operas, and ballet performances.\n\n\n\nVisitors to Białystok can savor the region’s unique culinary offerings, which blend Polish, Lithuanian, Belarusian, and Jewish influences. Traditional dishes such as potato babka, kiszka ziemniaczana (potato sausage), and kartacze (potato dumplings) provide a hearty and delicious introduction to local flavors. The city also has a growing number of contemporary restaurants and cafes that highlight regional ingredients in innovative ways.\n\n\n\nThe people of Białystok are known for their hospitality and friendliness. Whether you’re exploring the historic streets of the city center, visiting local markets, or hiking in the surrounding countryside, you can expect a warm welcome and a genuine interest in sharing the beauty and culture of their region.\n\n\n\nBiałystok is well-connected by road and rail, making it an accessible destination from major Polish cities like Warsaw. Its growing infrastructure, including comfortable accommodations and modern amenities, ensures that visitors can enjoy a pleasant and convenient stay."
+    "text": "To celebrate this exciting milestone, we headed to Choroszcz to enjoy some delicious food 🍽️. Known for its famous mental hospital 🏥, the town offered a unique backdrop for our celebration, and we couldn’t have picked a better place to mark the occasion!"
   },
   {
-    "objectID": "subsite/about.html",
-    "href": "subsite/about.html",
-    "title": "About BioGenies",
+    "objectID": "subsite/posts/2024_10_18.html#a-new-beginning-walentyn-kościelny",
+    "href": "subsite/posts/2024_10_18.html#a-new-beginning-walentyn-kościelny",
+    "title": "🎉 Valen signs a contract with Medical University of Białystok! 🎉",
     "section": "",
-    "text": "BioGenies is an innovative collective of budding scientists dispersed across Europe, united by a shared passion for groundbreaking research. Anchored at the Bioinformatics and Multiomics Analysis Laboratory within the Clinical Research Centre at the (Medical University of Białystok, Poland, our core team operates from the dynamic hub of Centrum Futuri (entrances D and E).\nWe are a dynamic team of passionate individuals driven by a collective vision of advancing scientific discovery. With diverse backgrounds and interests, we form a vibrant community dedicated to exploring a vast array of topics spanning the realms of molecular biology, amyloids, antimicrobial peptides, predictive models, database development, and cutting-edge advancements in machine learning and artificial intelligence. Our collaborative efforts blend expertise from various disciplines, fostering innovative approaches and breakthroughs at the intersection of science and technology.\nOur team’s interdisciplinary nature enriches our exploration, allowing us to tackle complex challenges from multiple perspectives and drive progress in diverse fields. Whether unraveling the mysteries of molecular interactions or harnessing the power of AI for predictive modeling, we are united by a shared commitment to pushing the boundaries of knowledge and fostering scientific excellence.\nIf you’re curious about our ongoing projects, you can explore them in the Project tab."
+    "text": "As Valen settles into his new role, we still have to do some stuff at tax office.\nBut with enough time in Białystok, Valen may become so immersed in the Polish way of life that we’ll soon have to start calling him Walentyn Kościelny! 😄🇵🇱🥟\nWelcome on aboard, Valen! 🚀🎉"
   },
   {
-    "objectID": "subsite/about.html#our-group",
-    "href": "subsite/about.html#our-group",
-    "title": "About BioGenies",
+    "objectID": "subsite/posts/2024_05_18.html",
+    "href": "subsite/posts/2024_05_18.html",
+    "title": "2nd Machine Learning 4 Non-Globular Proteins Meeting 2024",
     "section": "",
-    "text": "BioGenies is an innovative collective of budding scientists dispersed across Europe, united by a shared passion for groundbreaking research. Anchored at the Bioinformatics and Multiomics Analysis Laboratory within the Clinical Research Centre at the (Medical University of Białystok, Poland, our core team operates from the dynamic hub of Centrum Futuri (entrances D and E).\nWe are a dynamic team of passionate individuals driven by a collective vision of advancing scientific discovery. With diverse backgrounds and interests, we form a vibrant community dedicated to exploring a vast array of topics spanning the realms of molecular biology, amyloids, antimicrobial peptides, predictive models, database development, and cutting-edge advancements in machine learning and artificial intelligence. Our collaborative efforts blend expertise from various disciplines, fostering innovative approaches and breakthroughs at the intersection of science and technology.\nOur team’s interdisciplinary nature enriches our exploration, allowing us to tackle complex challenges from multiple perspectives and drive progress in diverse fields. Whether unraveling the mysteries of molecular interactions or harnessing the power of AI for predictive modeling, we are united by a shared commitment to pushing the boundaries of knowledge and fostering scientific excellence.\nIf you’re curious about our ongoing projects, you can explore them in the Project tab."
+    "text": "We’re excited to share that our team members Michał, Valen, and Jarek have embarked on an incredible journey to Thessaloniki, Greece, to attend the 2nd Machine Learning for Non-Globular Proteins conference! 🤖🧬\nThis conference brings together leading experts and innovators to explore the latest advancements in applying machine learning techniques to understand and predict the behavior of non-globular proteins. It’s a fantastic opportunity for BioGenies to connect with global researchers, exchange ideas, and bring back cutting-edge knowledge to enhance our ongoing projects.\n\nDuring the conference we tried some Greek food."
   },
   {
-    "objectID": "subsite/about.html#about-białystok",
-    "href": "subsite/about.html#about-białystok",
-    "title": "About BioGenies",
-    "section": "About Białystok",
-    "text": "About Białystok\nBiałystok, the largest city in northeastern Poland and the capital of the Podlaskie Voivodeship with almost 300k citizens. It offers a unique blend of cultural richness, historical depth, and natural beauty that makes it an attractive destination for visitors.\n\nCultural and Historical Heritage\nBiałystok boasts a fascinating multicultural heritage, influenced by various ethnic groups, including Poles, Belarusians, Lithuanians, Jews, and Tatars. This diversity is reflected in the city’s architecture, cuisine, and cultural institutions. One of the city’s most notable landmarks is the Branicki Palace, often referred to as the “Polish Versailles.” This stunning baroque residence is surrounded by beautiful gardens and is a testament to the city’s historical significance.\n\n\nNatural Beauty\nThe region around Białystok is renowned for its pristine natural landscapes. The Białowieża Forest, a UNESCO World Heritage site, is one of the last and largest remaining parts of the primeval forest that once covered much of Europe. Home to the European bison, the forest offers numerous trails for hiking, bird watching, and experiencing unspoiled nature. The Narew National Park, known as the “Polish Amazon,” features unique river landscapes with meandering channels and abundant wildlife, perfect for canoeing and nature excursions.\n\n\nFestivals and Events\nBiałystok hosts several festivals that celebrate its cultural diversity and vibrant arts scene. The Białystok Puppet Theater Festival attracts performers and audiences from around the world, showcasing the best in puppetry and theater. The Podlasie Opera and Philharmonic, one of the most modern cultural institutions in Poland, offers a range of concerts, operas, and ballet performances.\n\n\nCulinary Delights\nVisitors to Białystok can savor the region’s unique culinary offerings, which blend Polish, Lithuanian, Belarusian, and Jewish influences. Traditional dishes such as potato babka, kiszka ziemniaczana (potato sausage), and kartacze (potato dumplings) provide a hearty and delicious introduction to local flavors. The city also has a growing number of contemporary restaurants and cafes that highlight regional ingredients in innovative ways.\n\n\nWarm Hospitality\nThe people of Białystok are known for their hospitality and friendliness. Whether you’re exploring the historic streets of the city center, visiting local markets, or hiking in the surrounding countryside, you can expect a warm welcome and a genuine interest in sharing the beauty and culture of their region.\n\n\nAccessibility\nBiałystok is well-connected by road and rail, making it an accessible destination from major Polish cities like Warsaw. Its growing infrastructure, including comfortable accommodations and modern amenities, ensures that visitors can enjoy a pleasant and convenient stay."
-  },
-  {
-    "objectID": "subsite/projects/hdxms.html",
-    "href": "subsite/projects/hdxms.html",
-    "title": "HDX-MS",
+    "objectID": "subsite/posts/2024_07_16.html",
+    "href": "subsite/posts/2024_07_16.html",
+    "title": "BioGenies went to Canada for a conference",
     "section": "",
-    "text": "Hydrogen-Deuterium Exchange Mass Spectrometry (HDX-MS) is a powerful analytical technique used to study the structural dynamics and interactions of proteins. By measuring the exchange of hydrogen atoms with deuterium in a protein’s backbone, HDX-MS provides detailed insights into protein folding, conformational changes, and binding events. This method is invaluable for understanding the mechanisms of protein function, interactions with other molecules, and the effects of mutations or environmental conditions on protein stability."
+    "text": "We’re excited to announce that Krysia and Weronika from our BioGenies team went to Montreal, Canada for Intelligent Systems for Molecular Biology (ISMB) 2024 conference! 🧬🤖"
   },
   {
-    "objectID": "subsite/projects/hdxms.html#our-aims",
-    "href": "subsite/projects/hdxms.html#our-aims",
-    "title": "HDX-MS",
-    "section": "Our aims",
-    "text": "Our aims"
-  },
-  {
-    "objectID": "subsite/projects/hdxms.html#projects",
-    "href": "subsite/projects/hdxms.html#projects",
-    "title": "HDX-MS",
-    "section": "Projects",
-    "text": "Projects\n\nHaDeX\nwebsite publication github"
-  },
-  {
-    "objectID": "subsite/projects/amp.html",
-    "href": "subsite/projects/amp.html",
-    "title": "Antimicrobial peptides",
+    "objectID": "subsite/posts/2024_05_01.html",
+    "href": "subsite/posts/2024_05_01.html",
+    "title": "Official beginning of Bioinformatics and Multiomics Analysis Laboratory",
     "section": "",
-    "text": "Antimicrobial peptides (AMPs) are a diverse group of small, naturally occurring molecules that play a crucial role in the innate immune response by targeting a wide range of pathogens, including bacteria, fungi, viruses, and even cancer cells. These peptides are found across all domains of life, from humans to plants and microorganisms, and are recognized for their broad-spectrum antimicrobial properties and their potential as therapeutic agents.\n\n\nAMPs exert their antimicrobial effects through various mechanisms, primarily targeting microbial membranes but also affecting intracellular processes. Key mechanisms include:\nMembrane Disruption: AMPs can insert into microbial membranes, forming pores or disrupting membrane integrity, leading to cell lysis. Intracellular Targeting: Some AMPs can penetrate microbial cells and interfere with vital intracellular functions such as DNA, RNA, and protein synthesis. Immunomodulation: AMPs can modulate the host immune response by recruiting immune cells to infection sites and enhancing phagocytosis. Factors influencing AMP activity include:\nSequence and Structure: The amino acid composition, charge, hydrophobicity, and secondary structure (e.g., alpha-helices, beta-sheets) determine AMP activity and specificity. Environmental Conditions: Factors such as pH, ionic strength, and presence of serum proteins can affect AMP stability and activity.\n\n\n\nAMPs are integral to the defense mechanisms of organisms, providing a first line of defense against infections. They are involved in:\nDirect Antimicrobial Action: Killing or inhibiting the growth of pathogens. Immune System Modulation: Enhancing the immune response by promoting the activation and recruitment of immune cells. Wound Healing: Facilitating tissue repair and regeneration by promoting cell migration and angiogenesis.\n\n\n\nAMPs have significant potential in clinical applications due to their broad-spectrum activity and unique mechanisms of action. They are being explored for their therapeutic potential in:\nInfectious Diseases: As alternatives to traditional antibiotics, particularly in the face of rising antibiotic resistance. Cancer Therapy: Some AMPs have demonstrated anti-cancer properties by selectively targeting cancer cells. Inflammatory Diseases: AMPs can modulate inflammatory responses, offering potential treatments for conditions like sepsis and chronic inflammatory diseases."
-  },
-  {
-    "objectID": "subsite/projects/amp.html#beyond-the-basics",
-    "href": "subsite/projects/amp.html#beyond-the-basics",
-    "title": "Antimicrobial peptides",
-    "section": "",
-    "text": "Antimicrobial peptides (AMPs) are a diverse group of small, naturally occurring molecules that play a crucial role in the innate immune response by targeting a wide range of pathogens, including bacteria, fungi, viruses, and even cancer cells. These peptides are found across all domains of life, from humans to plants and microorganisms, and are recognized for their broad-spectrum antimicrobial properties and their potential as therapeutic agents.\n\n\nAMPs exert their antimicrobial effects through various mechanisms, primarily targeting microbial membranes but also affecting intracellular processes. Key mechanisms include:\nMembrane Disruption: AMPs can insert into microbial membranes, forming pores or disrupting membrane integrity, leading to cell lysis. Intracellular Targeting: Some AMPs can penetrate microbial cells and interfere with vital intracellular functions such as DNA, RNA, and protein synthesis. Immunomodulation: AMPs can modulate the host immune response by recruiting immune cells to infection sites and enhancing phagocytosis. Factors influencing AMP activity include:\nSequence and Structure: The amino acid composition, charge, hydrophobicity, and secondary structure (e.g., alpha-helices, beta-sheets) determine AMP activity and specificity. Environmental Conditions: Factors such as pH, ionic strength, and presence of serum proteins can affect AMP stability and activity.\n\n\n\nAMPs are integral to the defense mechanisms of organisms, providing a first line of defense against infections. They are involved in:\nDirect Antimicrobial Action: Killing or inhibiting the growth of pathogens. Immune System Modulation: Enhancing the immune response by promoting the activation and recruitment of immune cells. Wound Healing: Facilitating tissue repair and regeneration by promoting cell migration and angiogenesis.\n\n\n\nAMPs have significant potential in clinical applications due to their broad-spectrum activity and unique mechanisms of action. They are being explored for their therapeutic potential in:\nInfectious Diseases: As alternatives to traditional antibiotics, particularly in the face of rising antibiotic resistance. Cancer Therapy: Some AMPs have demonstrated anti-cancer properties by selectively targeting cancer cells. Inflammatory Diseases: AMPs can modulate inflammatory responses, offering potential treatments for conditions like sepsis and chronic inflammatory diseases."
-  },
-  {
-    "objectID": "subsite/projects/amp.html#our-aims",
-    "href": "subsite/projects/amp.html#our-aims",
-    "title": "Antimicrobial peptides",
-    "section": "Our aims",
-    "text": "Our aims"
-  },
-  {
-    "objectID": "subsite/projects/amp.html#projects",
-    "href": "subsite/projects/amp.html#projects",
-    "title": "Antimicrobial peptides",
-    "section": "Projects",
-    "text": "Projects"
-  },
-  {
-    "objectID": "subsite/team/vi.html",
-    "href": "subsite/team/vi.html",
-    "title": "Valentín Iglesias",
-    "section": "",
-    "text": "Contact Info"
-  },
-  {
-    "objectID": "subsite/team/jc.html",
-    "href": "subsite/team/jc.html",
-    "title": "Jarosław (Jarek) Chilimoniuk",
-    "section": "",
-    "text": "Contact Info"
-  },
-  {
-    "objectID": "subsite/team/jk.html",
-    "href": "subsite/team/jk.html",
-    "title": "Jakub Kołodziejczyk",
-    "section": "",
-    "text": "Contact Info"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "BioGenies news",
-    "section": "",
-    "text": "Our publication Aggregating amyloid resources is online!\n\n\n\npublications\n\n\nresearch\n\n\namyloids\n\n\nbioinformatics\n\n\n\nOur latest comprehensive review of databases on amyloid-like aggregation, now published in Computational and Structural Biotechnology Journal.\n\n\n\n\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHUPO 2024 Conference Wrap-Up\n\n\n\nconference\n\n\nHUPO\n\n\nGermany\n\n\nreunion\n\n\n\nHighlights from an inspiring week in Dresden with the BioGenies team, filled with scientific sessions, networking, and a taste of Dresden’s culture.\n\n\n\n\n\n\nOct 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎉 Valen signs a contract with Medical University of Białystok! 🎉\n\n\n\nnews\n\n\nMUB\n\n\n\nFrom now on, Valen is an official employee of the Clinical Research Centre at the Medical University of Białystok 🏢🎓.\n\n\n\n\n\n\nOct 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPost-doc position in the AmyloGraph 2.0 project\n\n\n\nnews\n\n\nAmyloGraph\n\n\namyloids\n\n\nhiring\n\n\nNCN\n\n\n\nWe are looking for a post-doc to join our team in AmyloGraph 2.0 project (2023/51/D/NZ7/02847)\n\n\n\n\n\n\nOct 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nArrival of Ronja - our new collaborator\n\n\n\ncollaborators\n\n\ninternship\n\n\nAmyloGraph 2.0\n\n\n\nWelcoming Ronja, our new collaborator from Brandenburg University of Technology Cottbus-Senftenberg, who joins our group for her practical semester.\n\n\n\n\n\n\nSep 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPTBI 2024 Conference wrap-up\n\n\n\nconference\n\n\nPTBI\n\n\nPoland\n\n\nreunion\n\n\n\nThe PTBI 2024 conference brought together brilliant minds 🧠, exciting discussions 💬, and memorable moments with colleagues 🤝. From insightful talks 🎤 to fun reunions 🎉…\n\n\n\n\n\n\nSep 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies are heading to Warsaw!\n\n\n\nconference\n\n\nPTBI\n\n\nPoland\n\n\n\n🌟 BioGenies will reunite at the PTBI conference in Warsaw! 🇵🇱🌟\n\n\n\n\n\n\nSep 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBig annoucement!\n\n\n\nnews\n\n\nAmyloGraph\n\n\namyloids\n\n\nhiring\n\n\nNCN\n\n\n\nWe are thrilled to announce that we are looking for two talented students to join our team for AmyloGraph 2.0 project (2023/51/D/NZ7/02847)\n\n\n\n\n\n\nAug 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies on adventure\n\n\n\ntrip\n\n\nholidays\n\n\nItaly\n\n\nDolomites\n\n\nvia ferrata\n\n\n\nJarek and Krysia conquer the Dolomites on their short summer vacations!\n\n\n\n\n\n\nAug 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies went to Canada for a conference\n\n\n\nconference\n\n\nISBM\n\n\nCanada\n\n\n\nKrysia and Weronika at Intelligent Systems for Molecular Biology (ISMB) conference\n\n\n\n\n\n\nJul 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎓 Celebrating Eva’s MSc Defense! 🎓\n\n\n\nMSc\n\n\ndefence\n\n\n\nWe are thrilled to announce that Eva has successfully defended her MSc thesis! 🏆📚\n\n\n\n\n\n\nJul 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies from University of Wrocław and Institute of Biochemistry and Biophysics, PAS visit BioGenies HQ in Białystok\n\n\n\nnews\n\n\nreunion\n\n\ntrip\n\n\n\n🌟 BioGenies reunion at HQ and visit beyond! 🌟\n\n\n\n\n\n\nJul 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies went to Japan on a conference\n\n\n\nconference\n\n\nMetabolomics\n\n\nJapan\n\n\n\nKrysia attends Metabolomics 2024 in Osaka, Japan! 🌏🇯🇵\n\n\n\n\n\n\nJun 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies visit to our colleagues from the Group of Amyloid Research at Vilnius University\n\n\n\nnews\n\n\nLithuania\n\n\ntrip\n\n\n\n🌍 🇱🇹 BioGenies on the move: Visiting Vilnius University and Trakai Island Castle!\n\n\n\n\n\n\nJun 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎉 Exciting news: Michał awarded NCN Sonata 19 Grant! 🎉\n\n\n\ngrants\n\n\nNCN\n\n\nnews\n\n\n\nResults of the Sonata 19 grant contest organized by the National Science Center Poland were announced today!\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n2nd Machine Learning 4 Non-Globular Proteins Meeting 2024\n\n\n\nconference\n\n\nML4NGP\n\n\nCOST Actions\n\n\nGreece\n\n\n\nMichał, Valen and Jarek went on a conference 🏛🔱🌊🇬🇷\n\n\n\n\n\n\nMay 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nOfficial beginning of Bioinformatics and Multiomics Analysis Laboratory\n\n\n\nnews\n\n\n\n🎉 Official launch of Bioinformatics and Multiomics Analysis Laboratory! 🎉\n\n\n\n\n\n\nMay 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "subsite/alumni.html",
-    "href": "subsite/alumni.html",
-    "title": "Former Team Members",
-    "section": "",
-    "text": "Agnieszka Barbach\n\n\n\n\n\n\n\nLaura Bąkała\n\n\n\n\n\n\n\nFilip Gaj\n\n\n\n\n\n\n\nKatarzyna Hubicka\n\n\n\n\n\n\n\nDominika Kozakiewicz\n\n\n\n\n\n\n\nAnna Lassota\n\n\n\n\n\n\n\nDominik Nowakowski\n\n\n\n\n\n\n\n\n\nFilip Pietluch\n\n\n\n\n\n\n\nDominik Rafacz\n\n\n\n\n\n\n\nJoanna Sikorska\n\n\n\n\n\n\n\nJadwiga Słowik"
-  },
-  {
-    "objectID": "subsite/team/wp.html",
-    "href": "subsite/team/wp.html",
-    "title": "Weronika Puchała",
-    "section": "",
-    "text": "Contact Info"
-  },
-  {
-    "objectID": "subsite/team/mb.html",
-    "href": "subsite/team/mb.html",
-    "title": "Michał Burdukiewicz",
-    "section": "",
-    "text": "Hi! My name is Michał Burdukiewicz and I am passionate about bioinformatics and R.\nI am currently leading the Laboratory of Bioinformatics and Multi-omics Analysis at the Medical University of Białystok. Contact me if you want to collaborate with us!\nMy current projects:\n\nAmyloGraph, a comprehensive database of amyloid-amyloid interactions (doi:10.1093/nar/gkac882).\nHaDeX, an integrated analytical tool for HDX-MS (maintainer Weronika Puchała).\nNegative data sampling, where we show that benchmarks in antimicrobial peptide prediction are biased due to the selection of negative data (doi:10.1093/bib/bbac343).\n\nI am also maintaining the list of machine learning models for prediction of peptide properties (see also our article on that).\nI :heart: R!\n\nContact Info"
-  },
-  {
-    "objectID": "subsite/team/kg.html",
-    "href": "subsite/team/kg.html",
-    "title": "Krystyna Grzesiak",
-    "section": "",
-    "text": "Contact Info"
-  },
-  {
-    "objectID": "subsite/projects/amyloids.html",
-    "href": "subsite/projects/amyloids.html",
-    "title": "Amyloids",
-    "section": "",
-    "text": "Amyloids are highly structured, fibrous protein aggregates that are associated with a variety of physiological and pathological processes. These protein assemblies are characterized by their beta-sheet-rich structure, which allows them to form long, unbranched fibrils. Amyloid fibrils can accumulate in tissues and organs, leading to a range of diseases known as amyloidoses. However, not all amyloids are harmful; some play functional roles in normal cellular processes."
-  },
-  {
-    "objectID": "subsite/projects/amyloids.html#our-aims",
-    "href": "subsite/projects/amyloids.html#our-aims",
-    "title": "Amyloids",
-    "section": "Our aims",
-    "text": "Our aims"
-  },
-  {
-    "objectID": "subsite/projects/amyloids.html#projects",
-    "href": "subsite/projects/amyloids.html#projects",
-    "title": "Amyloids",
-    "section": "Projects",
-    "text": "Projects\n\nAmyloGraph\nwebsite publication github\n\n\nAmyloGram\nwebsite publication github"
-  },
-  {
-    "objectID": "subsite/projects/mvi.html",
-    "href": "subsite/projects/mvi.html",
-    "title": "Missing value imputation",
-    "section": "",
-    "text": "Missing value imputation is a critical process in data preprocessing, essential for handling incomplete datasets and ensuring the accuracy and reliability of statistical analyses and machine learning models. Missing data can occur for various reasons, such as data entry errors, sensor malfunctions, or non-responses in surveys. Properly addressing missing values is vital for maintaining the integrity of analyses and improving predictive model performance.\n\n\nSeveral techniques are employed for missing value imputation, each with its own strengths and appropriate use cases. Key methods include:\nSimple Imputation: Replacing missing values with a single statistic, such as the mean, median, or mode of the observed data. This method is straightforward but may introduce bias if the data is not missing completely at random (MCAR). Regression Imputation: Using regression models to predict and replace missing values based on other available variables. This approach can account for relationships between variables but may not fully capture the uncertainty associated with the imputation. Multiple Imputation: Creating several imputed datasets by replacing missing values with multiple plausible estimates, analyzing each dataset separately, and then combining the results. This method provides a robust estimate of the uncertainty due to missing data. Machine Learning Imputation: Utilizing machine learning algorithms such as k-nearest neighbors (KNN), random forests, or neural networks to predict and impute missing values. These methods can handle complex patterns in the data but require careful tuning and validation.\n\n\n\nIn biological and medical research, accurate missing value imputation is crucial for:\nGenomics: Imputing missing genotypic data to enable comprehensive genome-wide association studies (GWAS) and other genetic analyses. Clinical Trials: Ensuring the validity of trial results by appropriately handling missing patient data. Epidemiology: Accurately estimating disease prevalence and risk factors when faced with incomplete survey data."
-  },
-  {
-    "objectID": "subsite/projects/mvi.html#beyond-the-basics",
-    "href": "subsite/projects/mvi.html#beyond-the-basics",
-    "title": "Missing value imputation",
-    "section": "",
-    "text": "Missing value imputation is a critical process in data preprocessing, essential for handling incomplete datasets and ensuring the accuracy and reliability of statistical analyses and machine learning models. Missing data can occur for various reasons, such as data entry errors, sensor malfunctions, or non-responses in surveys. Properly addressing missing values is vital for maintaining the integrity of analyses and improving predictive model performance.\n\n\nSeveral techniques are employed for missing value imputation, each with its own strengths and appropriate use cases. Key methods include:\nSimple Imputation: Replacing missing values with a single statistic, such as the mean, median, or mode of the observed data. This method is straightforward but may introduce bias if the data is not missing completely at random (MCAR). Regression Imputation: Using regression models to predict and replace missing values based on other available variables. This approach can account for relationships between variables but may not fully capture the uncertainty associated with the imputation. Multiple Imputation: Creating several imputed datasets by replacing missing values with multiple plausible estimates, analyzing each dataset separately, and then combining the results. This method provides a robust estimate of the uncertainty due to missing data. Machine Learning Imputation: Utilizing machine learning algorithms such as k-nearest neighbors (KNN), random forests, or neural networks to predict and impute missing values. These methods can handle complex patterns in the data but require careful tuning and validation.\n\n\n\nIn biological and medical research, accurate missing value imputation is crucial for:\nGenomics: Imputing missing genotypic data to enable comprehensive genome-wide association studies (GWAS) and other genetic analyses. Clinical Trials: Ensuring the validity of trial results by appropriately handling missing patient data. Epidemiology: Accurately estimating disease prevalence and risk factors when faced with incomplete survey data."
-  },
-  {
-    "objectID": "subsite/projects/mvi.html#projects",
-    "href": "subsite/projects/mvi.html#projects",
-    "title": "Missing value imputation",
-    "section": "Projects",
-    "text": "Projects"
-  },
-  {
-    "objectID": "subsite/projects/llps.html",
-    "href": "subsite/projects/llps.html",
-    "title": "Liquid-liquid phase separation",
-    "section": "",
-    "text": "Liquid-liquid phase separation (LLPS) is a fundamental biophysical process that underlies the organization and compartmentalization within cells, without relying on membrane-bound structures. This phenomenon occurs when a homogenous solution of macromolecules, such as proteins and nucleic acids, spontaneously demixes into two coexisting liquid phases: a dense phase enriched in these macromolecules and a dilute phase that is relatively depleted of them. This phase separation is driven by weak, multivalent interactions among the molecules, including electrostatic interactions, hydrophobic effects, and specific binding domains.\n\n\nThe driving forces behind LLPS involve a delicate balance between attractive and repulsive interactions among macromolecules. Key factors influencing LLPS include:\nMultivalency: Proteins and nucleic acids with multiple interaction sites can engage in many weak interactions simultaneously, promoting phase separation. Intrinsic Disorder: Proteins with intrinsically disordered regions (IDRs) often undergo LLPS due to their flexible, dynamic nature, which allows for transient interactions. Post-translational Modifications: Phosphorylation, methylation, and ubiquitination can modulate protein-protein interactions, thereby influencing LLPS. Environmental Conditions: Changes in temperature, pH, ionic strength, and concentration of macromolecules can trigger or inhibit phase separation.\n\n\n\nLLPS is pivotal in forming various membrane-less organelles (MLOs) or biomolecular condensates that compartmentalize cellular components to enhance reaction kinetics, protect sensitive molecules, and regulate biological processes. Some key examples include:\nNucleoli: Sites of ribosomal RNA (rRNA) synthesis and ribosome assembly within the nucleus. Stress Granules: Cytoplasmic aggregates that form in response to cellular stress, sequestering untranslated mRNAs and associated proteins. P-bodies: Cytoplasmic structures involved in mRNA decay and storage. Centrosomes: Organizing centers for microtubule nucleation during cell division.\n\n\n\nLLPS has profound implications for understanding cellular organization and disease mechanisms. Aberrant phase separation can lead to pathological aggregates associated with diseases such as:\nNeurodegenerative Diseases: Dysregulated phase separation can contribute to the formation of toxic protein aggregates in diseases like ALS, Alzheimer’s, and Parkinson’s. Cancer: Altered phase separation dynamics can affect signaling pathways and gene expression, contributing to tumorigenesis."
-  },
-  {
-    "objectID": "subsite/projects/llps.html#beyond-the-basics",
-    "href": "subsite/projects/llps.html#beyond-the-basics",
-    "title": "Liquid-liquid phase separation",
-    "section": "",
-    "text": "Liquid-liquid phase separation (LLPS) is a fundamental biophysical process that underlies the organization and compartmentalization within cells, without relying on membrane-bound structures. This phenomenon occurs when a homogenous solution of macromolecules, such as proteins and nucleic acids, spontaneously demixes into two coexisting liquid phases: a dense phase enriched in these macromolecules and a dilute phase that is relatively depleted of them. This phase separation is driven by weak, multivalent interactions among the molecules, including electrostatic interactions, hydrophobic effects, and specific binding domains.\n\n\nThe driving forces behind LLPS involve a delicate balance between attractive and repulsive interactions among macromolecules. Key factors influencing LLPS include:\nMultivalency: Proteins and nucleic acids with multiple interaction sites can engage in many weak interactions simultaneously, promoting phase separation. Intrinsic Disorder: Proteins with intrinsically disordered regions (IDRs) often undergo LLPS due to their flexible, dynamic nature, which allows for transient interactions. Post-translational Modifications: Phosphorylation, methylation, and ubiquitination can modulate protein-protein interactions, thereby influencing LLPS. Environmental Conditions: Changes in temperature, pH, ionic strength, and concentration of macromolecules can trigger or inhibit phase separation.\n\n\n\nLLPS is pivotal in forming various membrane-less organelles (MLOs) or biomolecular condensates that compartmentalize cellular components to enhance reaction kinetics, protect sensitive molecules, and regulate biological processes. Some key examples include:\nNucleoli: Sites of ribosomal RNA (rRNA) synthesis and ribosome assembly within the nucleus. Stress Granules: Cytoplasmic aggregates that form in response to cellular stress, sequestering untranslated mRNAs and associated proteins. P-bodies: Cytoplasmic structures involved in mRNA decay and storage. Centrosomes: Organizing centers for microtubule nucleation during cell division.\n\n\n\nLLPS has profound implications for understanding cellular organization and disease mechanisms. Aberrant phase separation can lead to pathological aggregates associated with diseases such as:\nNeurodegenerative Diseases: Dysregulated phase separation can contribute to the formation of toxic protein aggregates in diseases like ALS, Alzheimer’s, and Parkinson’s. Cancer: Altered phase separation dynamics can affect signaling pathways and gene expression, contributing to tumorigenesis."
-  },
-  {
-    "objectID": "subsite/projects/llps.html#our-aims",
-    "href": "subsite/projects/llps.html#our-aims",
-    "title": "Liquid-liquid phase separation",
-    "section": "Our aims",
-    "text": "Our aims"
-  },
-  {
-    "objectID": "subsite/projects/llps.html#projects",
-    "href": "subsite/projects/llps.html#projects",
-    "title": "Liquid-liquid phase separation",
-    "section": "Projects",
-    "text": "Projects"
-  },
-  {
-    "objectID": "subsite/colab.html",
-    "href": "subsite/colab.html",
-    "title": "Our collaborators",
-    "section": "",
-    "text": "Autonomous University of Barcelona\n\n\n\n\n\n\n\n\n\nEva Arribas\n\n\n\n\n\n\n\nOriol Bárcenas\n\n\n\n\n\n\n\nCarlos Pintado-Grima\n\n\n\n\n\n\n\n Quadram Institute\n\n\n\n\n\n\n\n\n\nRafał Kolenda\n\n\n\n\n\n\n\nKatarzyna (Kasia) Sidorczuk\n\n\n\n\n\n\n\n Brandenburg University of Technology Cottbus-Senftenberg\n\n\n\n\n\n\n\n\n\nStefan Rödiger\n\n\n\n\n\n\n\nRonja Tittel"
-  },
-  {
-    "objectID": "subsite/content/group_desc.html",
-    "href": "subsite/content/group_desc.html",
-    "title": "BioGenies",
-    "section": "",
-    "text": "BioGenies is an innovative collective of budding scientists dispersed across Europe, united by a shared passion for groundbreaking research. Anchored at the Bioinformatics and Multiomics Analysis Laboratory within the Clinical Research Centre at the (Medical University of Białystok, Poland, our core team operates from the dynamic hub of Centrum Futuri (entrances D and E).\nWe are a dynamic team of passionate individuals driven by a collective vision of advancing scientific discovery. With diverse backgrounds and interests, we form a vibrant community dedicated to exploring a vast array of topics spanning the realms of molecular biology, amyloids, antimicrobial peptides, predictive models, database construction, and cutting-edge advancements in machine learning and artificial intelligence. Our collaborative efforts blend expertise from various disciplines, fostering innovative approaches and breakthroughs at the intersection of science and technology.\nOur team’s interdisciplinary nature enriches our exploration, allowing us to tackle complex challenges from multiple perspectives and drive progress in diverse fields. Whether unraveling the mysteries of molecular interactions or harnessing the power of AI for predictive modeling, we are united by a shared commitment to pushing the boundaries of knowledge and fostering scientific excellence.\nIf you’re curious about our ongoing projects, you can explore them in the Project tab."
-  },
-  {
-    "objectID": "subsite/content/group_desc.html#our-group",
-    "href": "subsite/content/group_desc.html#our-group",
-    "title": "BioGenies",
-    "section": "",
-    "text": "BioGenies is an innovative collective of budding scientists dispersed across Europe, united by a shared passion for groundbreaking research. Anchored at the Bioinformatics and Multiomics Analysis Laboratory within the Clinical Research Centre at the (Medical University of Białystok, Poland, our core team operates from the dynamic hub of Centrum Futuri (entrances D and E).\nWe are a dynamic team of passionate individuals driven by a collective vision of advancing scientific discovery. With diverse backgrounds and interests, we form a vibrant community dedicated to exploring a vast array of topics spanning the realms of molecular biology, amyloids, antimicrobial peptides, predictive models, database construction, and cutting-edge advancements in machine learning and artificial intelligence. Our collaborative efforts blend expertise from various disciplines, fostering innovative approaches and breakthroughs at the intersection of science and technology.\nOur team’s interdisciplinary nature enriches our exploration, allowing us to tackle complex challenges from multiple perspectives and drive progress in diverse fields. Whether unraveling the mysteries of molecular interactions or harnessing the power of AI for predictive modeling, we are united by a shared commitment to pushing the boundaries of knowledge and fostering scientific excellence.\nIf you’re curious about our ongoing projects, you can explore them in the Project tab."
-  },
-  {
-    "objectID": "subsite/posts/2024_09_04.html",
-    "href": "subsite/posts/2024_09_04.html",
-    "title": "BioGenies are heading to Warsaw!",
-    "section": "",
-    "text": "We’re beyond excited to announce that the BioGenies —Michał, Jarek, Valen, Krysia, Weronika, and Kasia— are on our way to the Symposium of the Polish Bioinformatics Society!\nThis is your chance to connect with our team and explore the cutting edge of bioinformatics. Whether you’re eager to discuss our latest research 🔬, explore exciting collaboration opportunities 🤝, or simply want to chat with us about our work, we’d love to meet you!\nFeel free to reach out if you want to schedule a meeting or just want to connect over a coffee ☕.\nWe can’t wait to see you in Warsaw! 🎉\nPTBI conference details:\n📅 Date: 11/09/2024 - 13/09/2024\n📍 Venue: Faculty of Electronics and Information Technology, Warsaw University of Technology"
-  },
-  {
-    "objectID": "subsite/posts/2024_05_24.html",
-    "href": "subsite/posts/2024_05_24.html",
-    "title": "🎉 Exciting news: Michał awarded NCN Sonata 19 Grant! 🎉",
-    "section": "",
-    "text": "We are proud to announce that Michał has been awarded the prestigious NCN Sonata 19 grant for his project titled “Taming aggregation with AmyloGraph 2.0: a database and prediction models of amyloid self-assembly modulators” 🧬✨\nThis innovative research will focus on expanding AmyloGraph, a comprehensive amyloid interactions database aimed at understanding and controlling the self-assembly of amyloid proteins. Michał’s work promises to make significant contributions to the field of protein aggregation, with potential implications for tackling diseases linked to amyloid formation.\nWe have planned three new positions for the project. Stay tuned for the announcement at the end of summer vacation!"
-  },
-  {
-    "objectID": "subsite/posts/2024_10_30.html",
-    "href": "subsite/posts/2024_10_30.html",
-    "title": "Our publication Aggregating amyloid resources is online!",
-    "section": "",
-    "text": "We’re excited to announce our latest publication, “Aggregating amyloid resources: a comprehensive review of databases on amyloid-like aggregation”, now available in the Computational and Structural Biotechnology Journal! 🎉\n🔗 Read the full article here\n📄 DOI: 10.1016/j.csbj.2024.10.047\n\n\n\nAmyloid-like aggregation plays a crucial role in many biological processes and diseases 🧠, including neurodegenerative disorders like Alzheimer’s and Parkinson’s. Despite its importance, information on amyloids has been scattered across various databases, making it difficult for researchers to access the full spectrum of resources available.\nIn this comprehensive review, we: - Surveyed existing amyloid aggregation databases 🔍, assessing their content, coverage, and accessibility. - Highlighted the unique features of each database 🗂️, giving researchers a clearer understanding of which databases best suit their needs. - Explored challenges in the field of amyloid data aggregation, emphasizing the need for improved integration and consistency in data resources.\n\n\n\nThis review is a valuable resource for researchers in bioinformatics, biochemistry, and neurobiology interested in studying amyloid aggregation. It provides a consolidated view of available databases, streamlining the process of accessing and comparing amyloid-related data.\n\n\n\nBy aggregating these resources, we aim to encourage more integrated research and foster collaboration across fields to advance our understanding of amyloid aggregation and related diseases. With this work, we hope to lay the groundwork for future developments in the bioinformatics of amyloid and amyloid-like aggregation.\nThanks to everyone who contributed to this review – let’s keep advancing the science! 🌟"
-  },
-  {
-    "objectID": "subsite/posts/2024_10_30.html#about-the-review",
-    "href": "subsite/posts/2024_10_30.html#about-the-review",
-    "title": "Our publication Aggregating amyloid resources is online!",
-    "section": "",
-    "text": "Amyloid-like aggregation plays a crucial role in many biological processes and diseases 🧠, including neurodegenerative disorders like Alzheimer’s and Parkinson’s. Despite its importance, information on amyloids has been scattered across various databases, making it difficult for researchers to access the full spectrum of resources available.\nIn this comprehensive review, we: - Surveyed existing amyloid aggregation databases 🔍, assessing their content, coverage, and accessibility. - Highlighted the unique features of each database 🗂️, giving researchers a clearer understanding of which databases best suit their needs. - Explored challenges in the field of amyloid data aggregation, emphasizing the need for improved integration and consistency in data resources."
-  },
-  {
-    "objectID": "subsite/posts/2024_10_30.html#who-will-benefit",
-    "href": "subsite/posts/2024_10_30.html#who-will-benefit",
-    "title": "Our publication Aggregating amyloid resources is online!",
-    "section": "",
-    "text": "This review is a valuable resource for researchers in bioinformatics, biochemistry, and neurobiology interested in studying amyloid aggregation. It provides a consolidated view of available databases, streamlining the process of accessing and comparing amyloid-related data."
-  },
-  {
-    "objectID": "subsite/posts/2024_10_30.html#future-directions",
-    "href": "subsite/posts/2024_10_30.html#future-directions",
-    "title": "Our publication Aggregating amyloid resources is online!",
-    "section": "",
-    "text": "By aggregating these resources, we aim to encourage more integrated research and foster collaboration across fields to advance our understanding of amyloid aggregation and related diseases. With this work, we hope to lay the groundwork for future developments in the bioinformatics of amyloid and amyloid-like aggregation.\nThanks to everyone who contributed to this review – let’s keep advancing the science! 🌟"
-  },
-  {
-    "objectID": "subsite/posts/2024_08_19.html",
-    "href": "subsite/posts/2024_08_19.html",
-    "title": "Big annoucement!",
-    "section": "",
-    "text": "Amyloids are proteins implicated in numerous serious diseases, including Alzheimer’s, Parkinson’s, Creutzfeldt-Jakob’s disease, and type 2 diabetes. These proteins are known for their ability to self-aggregate into unique supramolecular fibrils, a process that plays a critical role in disease progression.\nOur team has previously developed AmyloGraph, database of amyloid interactions, which you can explore here. In this new phase of our research, we aim to take AmyloGraph to the next level. We will design and implement machine learning-based tools to analyze the data more effectively and revamp the user interface to make it easier for researchers to access the latest information.\nBut that’s not all. The data collected during this project will be used to train predictive models, with the ultimate goal of designing new chemical compounds that can inhibit amyloid self-aggregation. These compounds hold great promise for the treatment of various amyloid-related diseases."
-  },
-  {
-    "objectID": "subsite/posts/2024_08_19.html#about-the-project",
-    "href": "subsite/posts/2024_08_19.html#about-the-project",
-    "title": "Big annoucement!",
-    "section": "",
-    "text": "Amyloids are proteins implicated in numerous serious diseases, including Alzheimer’s, Parkinson’s, Creutzfeldt-Jakob’s disease, and type 2 diabetes. These proteins are known for their ability to self-aggregate into unique supramolecular fibrils, a process that plays a critical role in disease progression.\nOur team has previously developed AmyloGraph, database of amyloid interactions, which you can explore here. In this new phase of our research, we aim to take AmyloGraph to the next level. We will design and implement machine learning-based tools to analyze the data more effectively and revamp the user interface to make it easier for researchers to access the latest information.\nBut that’s not all. The data collected during this project will be used to train predictive models, with the ultimate goal of designing new chemical compounds that can inhibit amyloid self-aggregation. These compounds hold great promise for the treatment of various amyloid-related diseases."
-  },
-  {
-    "objectID": "subsite/posts/2024_08_19.html#details",
-    "href": "subsite/posts/2024_08_19.html#details",
-    "title": "Big annoucement!",
-    "section": "Details",
-    "text": "Details\n\n Employment conditions\n Place: Remotely or at Bioinformatics and Multiomics Analyses Laboratory, Clinical Research Centre, Medical University of Białystok, Poland\n Scholarship/salary: 2500 PLN per month (tax-free for students under 26 yo)\n Planned start date for project work: 01.10.2024\n\n\n Important dates\n Submission deadline: 06.09.2024, 15:00 (GMT+2)\n Interviews (Google Meet): 16-17.09.2024"
-  },
-  {
-    "objectID": "subsite/posts/2024_08_19.html#tasks-and-skills",
-    "href": "subsite/posts/2024_08_19.html#tasks-and-skills",
-    "title": "Big annoucement!",
-    "section": "Tasks and skills",
-    "text": "Tasks and skills\n\n student 1\n\n Tasks:\n\nAutomating the search for new sources of information.\nDeveloping tools for automated data validation.\nCreating tools for automated data acquisition from new sources.\nDesigning and implementing a new version of the AmyloGraph database.\nImplementing the new version of the AmyloGraph database.\nTraining and conducting a comparative analysis of the prediction model for modulators.\nImplementing generative models for designing small molecules.\n\n\n\n Skills:\n\nProficiency in designing machine learning models.\nExperience in creating and implementing databases.\nAdvanced knowledge of the R language, particularly within the tidyverse environment and the Shiny package.\nKnowledge of Python and JavaScript is an advantage.\nFamiliarity with version control systems.\nStrong teamwork skills and motivation to conduct research.\n\n\n\n\n student 2\n\n Tasks:\n\nExpanded maintenance of existing data sources.\nData curation from new sources for the AmyloGraph database.\nDesigning existing databases.\nDesigning and creating a system for browsing databases of small molecular compounds.\nTraining and conducting a comparative analysis of the prediction model for modulators.\n\n\n\n Skills:\n\nExpertise in verifying biological data and data management.\nKnowledge of amyloid aggregation and methods for testing it.\nProficiency in topology and network analysis.\nExperience with methods of biological data processing in machine learning models, particularly for small molecular compounds and proteins.\nAdvanced proficiency in the R language, especially within the tidyverse environment and Shiny package.\nFamiliarity with the TeX language.\nAbility to work with version control systems.\nStrong teamwork skills and motivation to conduct research.\nVery good command of English, both written and oral.\n\nDon’t worry if you don’t have all the required skills—if you’re eager to learn, don’t hesitate to apply!\n\n\n\nHow to apply\nSubmit your:\n\ncover letter\nCV\nproof of student status (can be sent at the start of scholarship)\nsigned GDPR consent form\n\nto michal.burdukiewicz@umb.edu.pl with the subject line: “Scholarship holder in project no. 2023/51/D/NZ7/02847”.\nMore detailed info about requirements and needed documents: student 1, student 2"
+    "text": "We are thrilled to announce the official beginning of our Bioinformatics and Multiomics Analysis Laboratory! 🚀\nThis state-of-the-art facility is dedicated to unlocking the mysteries of biological data through cutting-edge computational tools and integrative multiomics approaches.\nOur mission is to empower researchers and scientists with the resources and expertise to analyze complex biological datasets, bridging the gap between raw data and meaningful insights. Whether it’s genomics, transcriptomics, proteomics, or metabolomics, our lab is equipped to provide comprehensive analysis and innovative solutions.\nStay tuned for exciting research projects, collaborations, and workshops that will shape the future!\n🔬 Advancing Science Together!"
   },
   {
     "objectID": "subsite/posts/2024_10_01.html",
