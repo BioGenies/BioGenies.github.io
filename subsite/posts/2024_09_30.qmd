@@ -3,9 +3,9 @@ title: "Arrival of Ronja - our new collaborator"
 description: "Welcoming Ronja, our new collaborator from Brandenburg University of Technology Cottbus-Senftenberg, who joins our group for her practical semester."
 date: "09/30/2024"
 categories:
-  - collaborators
-  - internship
-  - AmyloGraph 2.0
+  - team
+  - Erasmus+
+  - AmyloGraph
 ---
 
 # 🎉 Welcome Ronja! 🎉

@@ -1,0 +1,24 @@
+---
+title: "Welcome Eva Arribas to the Lab!"
+description: "We're thrilled to welcome Eva Arribas, a master's graduate from Salvador Ventura's lab at the Universitat Autònoma de Barcelona, as she joins us for her Erasmus traineeship!"
+date: "11/04/2024"
+categories:
+- team
+- Erasmus
+- LLPS
+- amyloids
+---
+
+# 👋 Welcome, Eva! 👋
+
+We’re excited to welcome **Eva** to our lab! Eva joins us from the **Institut de Biotecnologia i de Biomedicina** at the **Universitat Autònoma de Barcelona**, where she completed her master’s research in Salvador Ventura’s lab 🎓🔬. She's here as part of her **Erasmus traineeship**, diving into the fascinating world of **liquid-liquid phase separation (LLPS)**!
+
+## ✈️ Arrival Day on 1st November
+Eva arrived on **1st November**, a big holiday in Poland 🇵🇱, which made it an especially busy day for travel. With everything bustling and crowded, even trains to Białystok were packed! 🚆 So, we took a trip to the airport to greet her and ensure she had a smooth arrival – and to give her a warm BioGenies welcome 🌟.
+
+![](../fig/posts/2024_11_04/20241101_134700.jpg)
+
+## 🧬 Research Focus: LLPS
+During her traineeship, Eva will be working on **LLPS**, a critical phenomenon in biomolecular condensates that has big implications for understanding cell organization and disease processes. We’re looking forward to the fresh insights and new ideas she'll bring to our LLPS projects!
+
+Eva, we’re thrilled to have you with us – welcome to the team! 🎉
