@@ -22,8 +22,8 @@ website:
           - subsite/about.qmd
           - subsite/team.qmd
           - subsite/colab.qmd
+          - subsite/erasmus.qmd
           - subsite/alumni.qmd
-          # - subsite/retreats.qmd
           # - subsite/hobby.qmd
           # - subsite/fun.qmd
       - text: "Projects" 

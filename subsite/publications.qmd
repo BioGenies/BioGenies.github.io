@@ -54,9 +54,9 @@ library(DT)
 pub <- openalexR::oa_fetch(entity ="works",
                    author.id = c("A5015968787", "A5072021711"))
 
-pub <- pub$author %>% lapply(., function(x) {x$au_display_name %>% str_flatten(., collapse = ", ")}) %>% unlist() %>% tibble(authors = .) %>% cbind(pub, .)
+pub_mod <- pub$author %>% lapply(., function(x) {x$au_display_name %>% str_flatten(., collapse = ", ")}) %>% unlist() %>% tibble(authors = .) %>% cbind(pub, .)
 
-pub %>% 
+pub_mod %>% 
   filter(type != "dataset") %>% 
   select(title, authors, doi, publication_date, type, so, host_organization) %>% 
   drop_na(., doi) %>%
@@ -72,3 +72,29 @@ pub %>%
 
 ```
 
+
+```{r, echo=FALSE, message=FALSE}
+
+library(wordcloud)
+
+concept_cloud <- pub %>% 
+  select(inst_id = id, topics) %>%
+  tidyr::unnest(topics) %>%
+  filter(name == "field") %>%
+  # select(display_name, count) |>
+  group_by(display_name)  %>%
+  summarise(count_no = n())
+            
+pal <- c("black", scales::brewer_pal(palette = "Set1")(5))
+set.seed(2137)
+
+wordcloud::wordcloud(
+  concept_cloud$display_name,
+  concept_cloud$count_no,
+  scale = c(1, .3),
+  colors = pal
+)
+
+wordcloud2::wordcloud2(concept_cloud, size = 2.5, color = "random-light")
+
+```
