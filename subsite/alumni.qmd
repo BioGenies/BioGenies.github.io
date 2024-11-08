@@ -1,5 +1,5 @@
 ---
-title: "Former Team Members"
+title: "Former BioGenies members"
 ---
 
 ::: {layout-ncol=7}

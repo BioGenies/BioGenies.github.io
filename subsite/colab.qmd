@@ -1,5 +1,5 @@
 ---
-title: "Our collaborators"
+title: "BioGenies collaborators"
 ---
 
 ### ![](fig/logo/UAB_logo.png){width="10%"} Autonomous University of Barcelona
