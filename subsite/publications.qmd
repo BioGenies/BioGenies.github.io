@@ -75,8 +75,6 @@ pub_mod %>%
 
 ```{r, echo=FALSE, message=FALSE}
 
-library(wordcloud)
-
 concept_cloud <- pub %>% 
   select(inst_id = id, topics) %>%
   tidyr::unnest(topics) %>%
