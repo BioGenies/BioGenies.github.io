@@ -73,28 +73,28 @@ pub_mod %>%
 ```
 
 
-```{r, echo=FALSE, message=FALSE}
-
-library(wordcloud)
-
-concept_cloud <- pub %>% 
-  select(inst_id = id, topics) %>%
-  tidyr::unnest(topics) %>%
-  filter(name == "field") %>%
-  # select(display_name, count) |>
-  group_by(display_name)  %>%
-  summarise(count_no = n())
-            
-pal <- c("black", scales::brewer_pal(palette = "Set1")(5))
-set.seed(2137)
-
-wordcloud::wordcloud(
-  concept_cloud$display_name,
-  concept_cloud$count_no,
-  scale = c(1, .3),
-  colors = pal
-)
-
-wordcloud2::wordcloud2(concept_cloud, size = 2.5, color = "random-light")
-
-```
+# ```{r, echo=FALSE, message=FALSE}
+# 
+# library(wordcloud2)
+# 
+# concept_cloud <- pub_mod %>% 
+#   select(inst_id = id, concepts) %>%
+#   tidyr::unnest(concepts) %>%
+#   select(display_name, level, score) %>%
+#   filter(score >= 0.65) %>%
+#   group_by(display_name)  %>%
+#   summarise(count_no = n(),
+#             score = median(score))
+# 
+# # concept_cloud <- pub_mod %>% 
+# #   select(inst_id = id, topics) %>%
+# #   tidyr::unnest(topics) %>%
+# #   select(display_name, i, score) %>%
+# #   # filter(score >= 0.65) %>%
+# #   group_by(display_name)  %>%
+# #   summarise(count_no = n(),
+# #             score = median(score))
+# 
+# wordcloud2::wordcloud2(concept_cloud, size = 2.5, color = "random-light")
+# 
+# ```
