@@ -22,7 +22,7 @@ website:
           - subsite/about.qmd
           - subsite/team.qmd
           - subsite/colab.qmd
-          - subsite/erasmus.qmd
+          - subsite/guest.qmd
           - subsite/alumni.qmd
           # - subsite/hobby.qmd
           # - subsite/fun.qmd

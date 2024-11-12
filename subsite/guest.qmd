@@ -1,8 +1,8 @@
 ---
-title: "Erasmus+ and other international mobility programs"
+title: "Guest researchers"
 ---
 
-# 🌍 Erasmus+ and international internship opportunities 🌍
+## 🌍 Erasmus+ and international internship opportunities 🌍
 
 Are you a student or a graduate passionate about bioinformatics and/or amyloids? Interested in gaining hands-on research experience abroad? Look no further! Our lab is actively welcoming **Erasmus+ and international internship students** who want to contribute to exciting projects, learn new techniques, and be a part **BioGenies**. 💡🔬
 
@@ -16,11 +16,7 @@ We offer a collaborative and enriching environment for **you** at all stages of 
 
 - **Full support**: we assist with all necessary **administrative paperwork**, provide **guidance on Erasmus+ documentation**, and help you settle in quickly so you can focus on research.
 
-## Our interns and trainees
-
-Each of our interns brings unique skills and perspectives that enrich our lab’s work and culture. 
-
-Meet our international team members who are/were already making an impact in the lab:
+## Our guest researchers
 
 ::: {layout-ncol=5}
 [![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){}]()
@@ -28,7 +24,7 @@ Meet our international team members who are/were already making an impact in the
 [![Ronja Tittel](fig/ppl/rt.jpg "Ronja Tittel"){}]()
 :::
 
-## How to apply
+## Reach us out!
 
 If you’re motivated to work in a collaborative, international environment and ready to expand your research experience, we’d love to hear from you! **Apply now to become a part of our team through Erasmus+ or other international internship programs.**
 
