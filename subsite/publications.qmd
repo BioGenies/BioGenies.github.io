@@ -33,3 +33,31 @@ pub_mod %>%
   DT::datatable(escape = F)
 
 ```
+
+
+
+<!-- ```{r, echo=FALSE, message=FALSE} -->
+
+<!-- library(wordcloud2) -->
+
+<!-- concept_cloud <- pub_mod %>% -->
+<!--   select(inst_id = id, concepts) %>% -->
+<!--   tidyr::unnest(concepts) %>% -->
+<!--   select(display_name, level, score) %>% -->
+<!--   filter(score >= 0.65) %>% -->
+<!--   group_by(display_name)  %>% -->
+<!--   summarise(count_no = n(), -->
+<!--             score = median(score)) -->
+
+<!-- # concept_cloud <- pub_mod %>% -->
+<!-- #   select(inst_id = id, topics) %>% -->
+<!-- #   tidyr::unnest(topics) %>% -->
+<!-- #   select(display_name, i, score) %>% -->
+<!-- #   # filter(score >= 0.65) %>% -->
+<!-- #   group_by(display_name)  %>% -->
+<!-- #   summarise(count_no = n(), -->
+<!-- #             score = median(score)) -->
+
+<!-- wordcloud2::wordcloud2(concept_cloud %>% filter(count_no > 2), size = 2.5, color = "random-light") -->
+
+<!-- ``` -->
