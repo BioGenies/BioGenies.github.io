@@ -4,9 +4,11 @@ title: "Publications"
 
 ```{r, echo=FALSE, message=FALSE}
 
+library(curl)
 library(openalexR)
 library(tidyverse)
 library(DT)
+
 
 # pub <- openalexR::oa_fetch(entity ="works",
 #                    authorships.institutions.id = "I146122375",
