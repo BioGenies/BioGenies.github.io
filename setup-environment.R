@@ -1,4 +1,3 @@
 install.packages(c("rmarkdown", "tidyverse", "DT", "slickR", "RCurl", "openalexR",
-                   "leaflet", "fontawesome", "hrbrthemes", "ggalt", "ggbeeswarm",
-                   "curl"))
+                   "leaflet", "fontawesome", "hrbrthemes", "ggalt", "ggbeeswarm"))
 

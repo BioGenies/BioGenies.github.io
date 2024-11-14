@@ -4,7 +4,6 @@ title: "Publications"
 
 ```{r, echo=FALSE, message=FALSE}
 
-library(curl)
 library(openalexR)
 library(tidyverse)
 library(DT)
