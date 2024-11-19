@@ -1,7 +1,7 @@
 ---
 title: "Welcome Mariia, from BTU to the BioGenies!"
 description: "We're excited to welcome Mariia Solovianova from BTU, a biotechnology master with wet lab expertise, joining our lab to work on a bioinformatics project involving antibodies and amyloids!"
-date: "11/04/2024"
+date: "11/12/2024"
 categories:
 - team
 - Erasmus+
