@@ -1,0 +1,21 @@
+---
+title: "Michał receives First Degree Award from Rector of Medical University of Białystok 🎉"
+description: "Congratulations to Michał on being honored with the prestigious First Degree Award for his outstanding publications from 2023!"
+date: "12/06/2024"
+categories:
+  - awards
+  - achievements
+---
+
+# 🏆 Michał Honored with First Degree Award by the Rector of MUB! 🏆
+
+We’re thrilled to announce that **Michał** has been awarded the **First Degree Award** by the **Rector of the Medical University of Białystok** in recognition of his exceptional publications from 2023. 🎉📚
+
+This award highlights Michał's dedication to advancing science and his contributions to the field of **bioinformatics**. His research and publications continue to set high standards and bring pride to our team. 🌟
+
+## 🎊 Congratulations, Michał!  
+The entire **BioGenies** team celebrates this well-deserved recognition and looks forward to seeing Michał achieve even greater milestones in the future. 🥂 Here’s to more success, inspiration, and groundbreaking discoveries ahead!
+
+
+![photo by MUB](../fig/posts/2024_12_06/nagrody_rektora.png)
+
