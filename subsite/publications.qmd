@@ -17,6 +17,8 @@ library(DT)
 pub <- openalexR::oa_fetch(entity ="works",
                    author.id = c("A5015968787", "A5072021711"))
 
+# pub <- openalexR::oa_fetch(entity ="works", grants.funder = "f4320322511")
+
 pub_mod <- pub$author %>% lapply(., function(x) {x$au_display_name %>% str_flatten(., collapse = ", ")}) %>% unlist() %>% tibble(authors = .) %>% cbind(pub, .)
 
 pub_mod %>% 
