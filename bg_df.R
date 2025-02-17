@@ -26,5 +26,4 @@ full_df <- full_join(con, edu, by = c("start_date", "end_date", "city", "country
          cat = as.factor(activity),
          type = as.factor(type),
          who = as.factor(who),
-         full_name = if_else(full_name %>% is.na(), name, full_name)) %>% 
-  filter(team == "main")
+         full_name = if_else(full_name %>% is.na(), name, full_name))
