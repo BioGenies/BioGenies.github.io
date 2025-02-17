@@ -2,7 +2,7 @@
 title: "BioGenies team"
 ---
 
-### BioGenies
+### 🥸 BioGenies
 ::: {layout-ncol=4}
 [![Michał Burdukiewicz](fig/ppl/mb.jpeg "Michał Burdukiewicz"){}](team/mb.html)
 
@@ -22,7 +22,7 @@ title: "BioGenies team"
 
 :::
 
-### Our doggos and cattos
+### 🐶 Our doggos and cattos 😼
 ::: {layout-ncol=4}
 [![Czarek](fig/ppl/Czarson.jpeg "Climbing dog"){}]()
 
@@ -34,3 +34,17 @@ title: "BioGenies team"
 
 [![Piksel](fig/ppl/piksel.jpeg "Hot dog"){}]()
 :::
+
+```{r, include=FALSE}
+source("../codes.R")
+```
+### 🚀 Our mobility
+```{r, echo=FALSE, message=FALSE, fig.width=12, fig.height=8}
+pw_plot
+```
+
+
+### 🗺️ Countries we visited
+```{r, echo=FALSE, message=FALSE, fig.width=12, fig.height=8}
+inter_plot
+```
