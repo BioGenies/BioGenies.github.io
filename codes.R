@@ -1,46 +1,15 @@
-library(fontawesome)
 library(tidyverse)
-library(googlesheets4)
 library(ggalt)
 library(patchwork)
 library(RColorBrewer)
 
-
-# Create df ---------------------------------------------------------------
-
-con <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
-                                 sheet = "conferences") %>% mutate(activity = "conferences")
-edu <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
-                                 sheet = "edu") %>% mutate(activity = "education")
-int <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
-                                 sheet = "internships") %>% mutate(activity = "research stays")
-emp <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
-                                 sheet = "work") %>% mutate(activity = "employment")
-team <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
-                                  sheet = "team")
-
-full_df <- full_join(con, edu, by = c("start_date", "end_date", "city", "country", "name", "who", "activity")) %>%
-  full_join(., int, by = c("start_date", "end_date", "city", "country", "name", "who", "activity")) %>%
-  full_join(., emp, by = c("start_date", "end_date", "city", "country", "name", "who", "group", "faculty", "activity")) %>%
-  full_join(., team, by = c("who")) %>% 
-  mutate(start_date = as.Date(start_date, "%d.%m.%Y"),
-         start_date = if_else(is.na(start_date), today(), start_date),
-         end_date = as.Date(end_date, "%d.%m.%Y"),
-         end_date = if_else(is.na(end_date), today(), end_date),
-         cat = as.factor(activity),
-         type = as.factor(type),
-         who = as.factor(who),
-         full_name = if_else(full_name %>% is.na(), name, full_name)) %>% 
-  filter(team == "main")
-
-
 # prepare plots -----------------------------------------------------------
 
-my_colors <- scale_fill_hue()$palette(full_df$who %>% levels() %>% length()) 
-names(my_colors) <- full_df$who %>% levels()
+my_colors <- scale_fill_hue()$palette(full_df_mod$who %>% levels() %>% length()) 
+names(my_colors) <- full_df_mod$who %>% levels()
 
-p <- lapply(full_df$cat %>% levels(), function(i){
-  full_df %>% 
+p <- lapply(full_df_mod$cat %>% levels(), function(i){
+  full_df_mod %>% 
     filter(activity == i) %>% 
     ggplot(., aes(y = name, color = who)) +
     geom_segment(aes(x = start_date, xend = end_date), linewidth = 2, position = position_dodgev(height = 0.9)) +
@@ -82,7 +51,7 @@ gapminder_data <- gapminder %>%
 
 ## cities <- lon & lat
 
-full_df_longlat <- full_df %>% geocode(city = city, country = country)
+full_df_longlat <- full_df_mod %>% geocode(city = city, country = country)
 
 world_visit <- world %>%
   ggplot() +
