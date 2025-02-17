@@ -13,114 +13,14 @@ knitr:
     out.width: "95%"
 ---
 
-```{r, echo=FALSE, message=FALSE}
-library(fontawesome)
-library(tidyverse)
-library(googlesheets4)
-library(ggalt)
-library(patchwork)
-library(RColorBrewer)
+# 📝 **Bio**
 
-con <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
-                          sheet = "conferences") %>% mutate(activity = "conferences")
-edu <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
-                          sheet = "edu") %>% mutate(activity = "education")
-int <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
-                          sheet = "internships") %>% mutate(activity = "research stays")
-emp <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
-                          sheet = "work") %>% mutate(activity = "employment")
-team <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
-                          sheet = "team")
+------------------------------------------------------------------------
 
-full_df <- full_join(con, edu, by = c("start_date", "end_date", "city", "country", "name", "who", "activity")) %>%
-  full_join(., int, by = c("start_date", "end_date", "city", "country", "name", "who", "activity")) %>%
-  full_join(., emp, by = c("start_date", "end_date", "city", "country", "name", "who", "group", "faculty", "activity")) %>%
-  full_join(., team, by = c("who")) %>% 
-  mutate(start_date = as.Date(start_date, "%d.%m.%Y"),
-         start_date = if_else(is.na(start_date), today(), start_date),
-         end_date = as.Date(end_date, "%d.%m.%Y"),
-         end_date = if_else(is.na(end_date), today(), end_date),
-         cat = as.factor(activity),
-         type = as.factor(type),
-         who = as.factor(who),
-         full_name = if_else(full_name %>% is.na(), name, full_name)) %>% 
-  filter(team == "main")
-  
-
-# plots
-
-my_colors <- scale_fill_hue()$palette(full_df$who %>% levels() %>% length()) 
-names(my_colors) <- full_df$who %>% levels()
-
-p <- lapply(full_df$cat %>% levels(), function(i){
-  full_df %>% 
-  filter(activity == i) %>% 
-  ggplot(., aes(y = name, color = who)) +
-  geom_segment(aes(x = start_date, xend = end_date), linewidth = 2, position = position_dodgev(height = 0.9)) +
-  geom_point(aes(x = start_date, y = name), size = 3, position = position_dodgev(height = 0.9)) +
-  geom_point(aes(x = end_date, y = name), size = 3, position = position_dodgev(height = 0.9)) +
-  scale_fill_manual(values = my_colors, aesthetics = "color") + 
-  labs(title = paste0("BioGenies ", i), x = "Year", y = "Destination") +
-  theme_minimal() +
-  xlab("Dates")
-})
+something
 
 
-# pw_plot <- (p[[1]] & theme(legend.position = "bottom")) + ((p[[2]] / p[[3]] / p[[4]]) & theme(legend.position = "none")) + plot_layout(guides = "auto")
-
-pw_plot <- (p[[1]] | (p[[2]] / p[[3]] / p[[4]] & theme(legend.position = "none")) + plot_layout(axes = "collect", axis_titles = "collect"))
-
-pw_plot
-
-
-# map
-
-library(gapminder)
-library(tidygeocoder)
-library(plotly)
-library(ggthemes)
-
-world <- map_data("world") %>%
-  filter(region != "Antarctica")
-
-gapminder_codes <- gapminder::country_codes
-gapminder <- gapminder::gapminder_unfiltered
-
-gapminder <- gapminder %>%
-  inner_join(gapminder_codes, by= "country") %>%
-  mutate(code = iso_alpha)
-
-gapminder_data <- gapminder %>%
-  inner_join(maps::iso3166 %>%
-               select(a3, mapname), by= c(code = "a3")) %>%
-  mutate(mapname = str_remove(mapname, "\\(.*"))
-
-## cities <- lon & lat
-
-full_df_longlat <- full_df %>% geocode(city = city, country = country)
-
-world_visit <- world %>%
-  ggplot() +
-  geom_polygon(aes(x = long, y = lat, group = group),
-               fill = "springgreen2",
-               color = "deepskyblue1",
-               size = 0.01) +
-  geom_point(data = full_df_longlat, aes(x = long, y = lat, color = activity, text = paste0(activity, "<br>", city, " ", country, "<br>", who)), alpha = 0.6) +
-  labs(title = "BioGenies in the world") +
-  theme_map() +
-  scale_size_continuous(guide = F) +
-  scale_color_discrete(name = "Type") +
-  theme(plot.title = element_text(size = 10, hjust = 0.5))
-
-
-inter_plot <- ggplotly(world_visit, tooltip = "text")
-
-inter_plot
-```
-
-### Bio
-
-### Contact info {#contact}
+# 📱 **Contact** {#contact}
 
 ------------------------------------------------------------------------
 
@@ -134,22 +34,129 @@ inter_plot
 <!-- [`r fontawesome::fa("steam", fill = "#2f4f4f", height = "3em")`]() -->
 <!-- [`r fontawesome::fa("playstation", fill = "#4739aa", height = "3em")`]() -->
 
-### Conferences and workshops
+```{r, echo=FALSE, message=FALSE,include=FALSE}
+source("../../bg_df.R")
 
-# ```{r, echo=FALSE, message=FALSE}
-# int_mod %>% 
-#   ggplot(., aes(x = start_date, xend = end_date, y = place, color = country, linewidth = 3), height = 2, width = 8) +
-#   # scale_x_date(date_breaks = "6 month", date_labels = "%M") +
-#   geom_dumbbell(colour_x = "#a3c4dc", colour_xend = "#0e668b", size = 2) +
-#   theme_minimal()
-# ```
-# 
-# ```{r, echo=FALSE, message=FALSE}
-# DT::datatable(int_mod)
-# ```
+whois <- "Jarek"
+openalex_id <- "A5072021711"
+```
 
 
+# 🚀 **Research stays**
+
+------------------------------------------------------------------------
+
+```{r, echo=FALSE, message=FALSE}
+
+full_df %>% 
+  filter(who == whois & cat == "research stays") %>% 
+  select(group, faculty, name, start_date, end_date, city, country) %>% 
+  arrange(desc(end_date)) %>% 
+  DT::datatable(., options = list(dom = 'tp'))
+
+```
 
 
+# 💻🧫 **Experience**
+
+------------------------------------------------------------------------
+
+```{r, echo=FALSE, message=FALSE}
+
+full_df %>% 
+  filter(who == whois & cat == "employment") %>% 
+  select(group, faculty, name, start_date, end_date, position) %>% 
+  arrange(desc(end_date)) %>% 
+  DT::datatable(., options = list(dom = 'tp'))
+
+```
+
+
+# 🎓 **Education**
+
+------------------------------------------------------------------------
+
+```{r, echo=FALSE, message=FALSE}
+
+full_df$name <- full_df$name %>% str_remove(., "\n")
+
+new_df <- full_df %>% 
+  filter(who == whois & cat == "education") %>% 
+  arrange(desc(end_date)) %>% 
+  mutate(new_col = paste0("<h3>", "![](../fig/logo/", logo_name, "){width='50'} ", name, "</h3>\n", "<h4> ", major, "</h4> [ ", start_date, " - ", end_date, " ]", "{style='float:right;'}", "<br> ", if_else(thesis_title %>% is.na, " ", paste0("Thesis: **", thesis_title, "** ")), "[ 📍 ", city, ", ", country, " ]{style='float:right;'}"
+  ))
+
+```
+
+`r stringr::str_flatten(new_df$new_col)`
+
+
+# 👏🏻 **Conferences and workshops** 🤝🏻 
+
+------------------------------------------------------------------------
+
+```{r, echo=FALSE, message=FALSE}
+
+full_df %>% 
+  filter(who == whois & cat == "conferences") %>% 
+  select(type, full_name, title, city, country, start_date, end_date) %>% 
+  arrange(desc(end_date)) %>%
+  mutate(type = case_when(
+    type == "poster" ~ "📊 poster",
+    type == "talk" ~ "🗣️ talk",
+    type == "keynote" ~ "🎤 keynote",
+    type == "workshops" ~ "🧑🏻‍💻 workshops"
+  )) %>% 
+  DT::datatable(., options = list(dom = 'tp'))
+
+```
+
+
+#  📖 **Publications**
+
+------------------------------------------------------------------------
+
+```{r, echo=FALSE, message=FALSE}
+
+library(openalexR)
+library(tidyverse)
+
+pub <- openalexR::oa_fetch(entity ="works",
+                   author.id = openalex_id)
+
+pub_mod <- pub$author %>% 
+  lapply(., function(x) {x$au_display_name %>% str_flatten(., collapse = ", ")}) %>% 
+  unlist() %>% 
+  tibble(authors = .) %>% 
+  cbind(pub, .)
+
+pub_mod %>% 
+  filter(type != "dataset") %>% 
+  select(title, authors, doi, publication_date, type, so, host_organization) %>% 
+  drop_na(., doi) %>%
+  mutate(doi = paste0('<a  target=_blank href=', doi, '>', doi %>% str_remove(., "https://doi.org/"),'</a>'),
+         journal = so %>% as.factor(),
+         publisher = host_organization %>% as.factor(),
+         type = type %>% as.factor(),
+         `publication date` = publication_date %>% as_date()
+  ) %>% 
+  select(!c(so, host_organization, publication_date)) %>% 
+  arrange(desc(`publication date`)) %>%
+  DT::datatable(., escape = F, options = list(dom = 'tp'))
+
+```
+
+
+#  🧑🏻‍🔬 **Other activities**
+
+------------------------------------------------------------------------
+
+#### Association of Wrocław R Users (STWUR) meetings co-organizer - R language workshops.
+
+#### Co-organizer of WhyR? 2019 Conference in Warsaw.
+
+#### Co-organizer of WhyR? 2018 Conference in Wrocław.
+
+#### CEO of PhD Bioinformatics Club at University of Wrocław, 2017-2023 
 
 
