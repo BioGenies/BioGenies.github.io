@@ -3,6 +3,8 @@ library(ggalt)
 library(patchwork)
 library(RColorBrewer)
 
+# full_df_mod <- full_df %>% filter(team == "main")
+
 # prepare plots -----------------------------------------------------------
 
 my_colors <- scale_fill_hue()$palette(full_df_mod$who %>% levels() %>% length()) 
@@ -51,15 +53,20 @@ gapminder_data <- gapminder %>%
 
 ## cities <- lon & lat
 
-full_df_longlat <- full_df_mod %>% geocode(city = city, country = country)
+full_df_longlat <- full_df_mod %>% 
+  # select(full_name, city, country, who, activity) %>% 
+  geocode(city = city, country = country)
 
 world_visit <- world %>%
   ggplot() +
   geom_polygon(aes(x = long, y = lat, group = group),
-               fill = "springgreen2",
-               color = "deepskyblue1",
-               size = 0.01) +
-  geom_point(data = full_df_longlat, aes(x = long, y = lat, color = activity, text = paste0(activity, "<br>", full_name, "<br>", city, ", ", country, "<br>", who)), alpha = 0.6) +
+               fill = "burlywood1",
+               color = "navy",
+               size = 0.05) +
+  geom_jitter(data = full_df_longlat, 
+             aes(x = long, y = lat, color = activity, text = paste0(full_name, "<br>", city, ", ", country, "<br>", who)), 
+             # alpha = 0.6,
+             size = 2) +
   labs(title = "BioGenies in the world") +
   theme_map() +
   scale_size_continuous(guide = F) +
