@@ -61,6 +61,6 @@ pub_mod %>%
 <!-- #   summarise(count_no = n(), -->
 <!-- #             score = median(score)) -->
 
-<!-- wordcloud2::wordcloud2(concept_cloud %>% filter(count_no > 2), size = 2.5, color = "random-light") -->
+<!-- wordcloud2::wordcloud2(concept_cloud, color = "random-light") -->
 
 <!-- ``` -->

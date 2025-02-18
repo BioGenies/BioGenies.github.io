@@ -63,15 +63,19 @@ world_visit <- world %>%
                fill = "burlywood1",
                color = "navy",
                size = 0.05) +
-  geom_jitter(data = full_df_longlat, 
+  geom_point(data = full_df_longlat, 
              aes(x = long, y = lat, color = activity, text = paste0(full_name, "<br>", city, ", ", country, "<br>", who)), 
              # alpha = 0.6,
-             size = 2) +
+             size = 2,
+             position = "jitter") +
   labs(title = "BioGenies in the world") +
   theme_map() +
   scale_size_continuous(guide = F) +
   scale_color_discrete(name = "Type") +
-  theme(plot.title = element_text(size = 10, hjust = 0.5))
+  theme(plot.title = element_text(size = 14, hjust = 0.5),
+        legend.text = element_text(size=14))
 
 
 inter_plot <- ggplotly(world_visit, tooltip = "text")
+# inter_plot
+

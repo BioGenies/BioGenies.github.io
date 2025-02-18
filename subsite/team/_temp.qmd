@@ -1,5 +1,5 @@
 ---
-title: "Jarosław (Jarek) Chilimoniuk"
+title: ""
 sidebar: false
 format:
   html:
@@ -17,28 +17,28 @@ knitr:
 
 ------------------------------------------------------------------------
 
-something
+
 
 
 # 📱 **Contact** {#contact}
 
 ------------------------------------------------------------------------
 
-[`r fontawesome::fa("envelope", prefer_type = "regular", fill = "pink", height = "3em")`](mailto:jaroslaw.chilimoniuk@umb.edu.pl)
-[`r fontawesome::fa("github", fill = "#24292e", height = "3em")`](https://github.com/jarochi)
-[`r fontawesome::fa("orcid", fill = "#A6CE39", height = "3em")`](https://orcid.org/0000-0001-5467-018X)
-<!-- [`r fontawesome::fa("facebook", fill = "#304f85", height = "3em")`](https://www.facebook.com/SmFyZWsgQ2hpbGltb25pdWs/) -->
-[`r fontawesome::fa("linkedin", fill = "#0077b5", height = "3em")`](https://www.linkedin.com/in/jarosław-chilimoniuk)
-<!-- [`r fontawesome::fa("twitter", fill = "#15a7ff", height = "3em")`](https://twitter.com/_jarochi/) -->
-[`r fontawesome::fa("x-twitter", fill = "#24292e", height = "3em")`](https://x.com/_jarochi/)
-<!-- [`r fontawesome::fa("steam", fill = "#2f4f4f", height = "3em")`]() -->
-<!-- [`r fontawesome::fa("playstation", fill = "#4739aa", height = "3em")`]() -->
+[`r fontawesome::fa("envelope", prefer_type = "regular", fill = "pink", height = "3em")`](mailto:)
+[`r fontawesome::fa("github", fill = "#24292e", height = "3em")`](https://github.com/)
+[`r fontawesome::fa("orcid", fill = "#A6CE39", height = "3em")`](https://orcid.org/)
+[`r fontawesome::fa("facebook", fill = "#304f85", height = "3em")`](https://www.facebook.com/)
+[`r fontawesome::fa("linkedin", fill = "#0077b5", height = "3em")`](https://www.linkedin.com/in/)
+[`r fontawesome::fa("twitter", fill = "#15a7ff", height = "3em")`](https://twitter.com/)
+[`r fontawesome::fa("x-twitter", fill = "#24292e", height = "3em")`](https://x.com/)
+[`r fontawesome::fa("steam", fill = "#2f4f4f", height = "3em")`]()
+[`r fontawesome::fa("playstation", fill = "#4739aa", height = "3em")`]()
 
 ```{r, echo=FALSE, message=FALSE,include=FALSE}
 source("../../R/bg_df.R")
 
-whois <- "Jarek"
-openalex_id <- "A5072021711"
+whois <- ""
+openalex_id <- ""
 
 source("../../R/resume_fun.R")
 ```
@@ -96,7 +96,7 @@ conf_work(whois)
 
 ```{r, echo=FALSE, message=FALSE}
 
-pubs(whois, openalex_id)
+# pubs(whois, openalex_id)
 
 ```
 
@@ -104,13 +104,4 @@ pubs(whois, openalex_id)
 #  🧑🏻‍🔬 **Other activities**
 
 ------------------------------------------------------------------------
-
-#### Association of Wrocław R Users (STWUR) meetings co-organizer - R language workshops.
-
-#### Co-organizer of WhyR? 2019 Conference in Warsaw.
-
-#### Co-organizer of WhyR? 2018 Conference in Wrocław.
-
-#### CEO of PhD Bioinformatics Club at University of Wrocław, 2017-2023 
-
 
