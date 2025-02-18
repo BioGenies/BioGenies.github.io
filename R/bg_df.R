@@ -4,15 +4,17 @@ library(googlesheets4)
 
 # Create df ---------------------------------------------------------------
 
-con <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
+link <- "https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?usp=sharing"
+
+con <- googlesheets4::read_sheet(link,
                                  sheet = "conferences") %>% mutate(activity = "conferences")
-edu <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
+edu <- googlesheets4::read_sheet(link,
                                  sheet = "edu") %>% mutate(activity = "education")
-int <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
+int <- googlesheets4::read_sheet(link,
                                  sheet = "internships") %>% mutate(activity = "research stays")
-emp <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
+emp <- googlesheets4::read_sheet(link,
                                  sheet = "work") %>% mutate(activity = "employment")
-team <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?gid=0#gid=0",
+team <- googlesheets4::read_sheet(link,
                                   sheet = "team")
 
 full_df <- full_join(con, edu, by = c("start_date", "end_date", "city", "country", "name", "who", "activity")) %>%
