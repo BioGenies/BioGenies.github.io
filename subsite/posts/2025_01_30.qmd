@@ -5,7 +5,6 @@ date: "01/30/2025"
 categories:
 - Erasmus+
 - farewell
-- BioGenies
 - party
 image: "../fig/posts/2025_01_30/IMG_7909.jpeg" 
 ---
