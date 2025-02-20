@@ -2,7 +2,8 @@
 # whois <- whois
 # whois <- "Jarek"
 
-source('R/bg_df.R')
+# source('R/bg_df.R')
+load("bg_df_data.RData")
 source('R/resume_fun.R')
 
 create_ppl_page <- function(whois_full_name, whois, file_name){

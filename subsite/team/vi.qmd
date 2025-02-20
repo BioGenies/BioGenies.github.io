@@ -14,7 +14,8 @@ knitr:
 ---
     
 ```{r, echo=FALSE, message=FALSE,include=FALSE}
-source('../../R/bg_df.R')
+# source('../../R/bg_df.R')
+load("../../data/bg_df_data.RData")
 whois <- 'Valen'
 
 source('../../R/resume_fun.R')

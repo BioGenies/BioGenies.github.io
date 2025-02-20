@@ -1,7 +1,6 @@
 library(tidyverse)
 library(googlesheets4)
 
-
 # Create df ---------------------------------------------------------------
 
 link <- "https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?usp=sharing"
@@ -26,3 +25,8 @@ full_df <- full_join(con, edu, by = c("start_date", "end_date", "city", "country
          type = as.factor(type),
          who = as.factor(who),
          full_name = if_else(full_name %>% is.na(), name, full_name))
+
+remove(link)
+
+save.image(file = 'bg_df_data.RData')
+# load("bg_df_data.RData")
