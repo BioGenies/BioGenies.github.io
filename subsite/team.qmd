@@ -23,7 +23,8 @@ title: "BioGenies team"
 :::
 
 ```{r, include=FALSE}
-source("../R/bg_df.R")
+# source("../R/bg_df.R")
+load("../data/bg_df_data.RData")
 
 full_df_mod <- full_df %>% filter(team == "main")
 
