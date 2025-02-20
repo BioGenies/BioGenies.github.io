@@ -1,5 +1,5 @@
 ---
-title: 'Krystyna (Krysia) Grzesiak'
+title: 'Carlos Pintado-Grima'
 sidebar: false
 format:
   html:
@@ -15,7 +15,7 @@ knitr:
     
 ```{r, echo=FALSE, message=FALSE,include=FALSE}
 source('../../R/bg_df.R')
-whois <- 'Krysia'
+whois <- 'Carlos'
 
 source('../../R/resume_fun.R')
 openalex_id <- basic_info(whois)$openalex_id
@@ -34,11 +34,8 @@ library(fontawesome)
 
 ------------------------------------------------------------------------
 
-[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:krystyna.grzesiak@math.uni.wroc.pl)
-[`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/KrystynaGrzesiak)
-[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0003-2581-7722)
-[`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/krystyna-grzesiak-7bb290189/)
-[`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/krystyna_grz)
+[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:Carlos.Pintado@uab.cat)
+[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0002-8544-959X)
 
 
 <!-- # 🚀 **Research stays** -->
@@ -63,14 +60,13 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(education(whois)$new_col)` -->
 
-# 👏🏻 **Conferences, workshops** 🤝🏻 
+<!-- # 👏🏻 **Conferences, workshops** 🤝🏻  -->
 
-------------------------------------------------------------------------
+<!-- ------------------------------------------------------------------------ -->
 
-```{r, echo=FALSE, message=FALSE}
-conf_work(whois)
-```
-
+<!-- ```{r, echo=FALSE, message=FALSE} -->
+<!-- conf_work(whois) -->
+<!-- ``` -->
 
 #  📖 **Publications**
 

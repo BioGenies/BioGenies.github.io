@@ -6,16 +6,13 @@ library(googlesheets4)
 
 link <- "https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?usp=sharing"
 
-con <- googlesheets4::read_sheet(link,
-                                 sheet = "conferences") %>% mutate(activity = "conferences")
-edu <- googlesheets4::read_sheet(link,
-                                 sheet = "edu") %>% mutate(activity = "education")
-int <- googlesheets4::read_sheet(link,
-                                 sheet = "internships") %>% mutate(activity = "research stays")
-emp <- googlesheets4::read_sheet(link,
-                                 sheet = "work") %>% mutate(activity = "employment")
-team <- googlesheets4::read_sheet(link,
-                                  sheet = "team")
+bio_df <- googlesheets4::read_sheet(link, sheet = "basic_info")
+con <- googlesheets4::read_sheet(link, sheet = "conferences") %>% mutate(activity = "conferences")
+edu <- googlesheets4::read_sheet(link, sheet = "edu") %>% mutate(activity = "education")
+int <- googlesheets4::read_sheet(link, sheet = "internships") %>% mutate(activity = "research stays")
+emp <- googlesheets4::read_sheet(link, sheet = "work") %>% mutate(activity = "employment")
+team <- googlesheets4::read_sheet(link, sheet = "team")
+other_act_df <- googlesheets4::read_sheet(link, sheet = "other_activities")
 
 full_df <- full_join(con, edu, by = c("start_date", "end_date", "city", "country", "name", "who", "activity")) %>%
   full_join(., int, by = c("start_date", "end_date", "city", "country", "name", "who", "activity")) %>%

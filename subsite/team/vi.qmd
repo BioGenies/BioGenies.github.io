@@ -1,5 +1,5 @@
 ---
-title: "Valentín Iglesias"
+title: 'Valentín Iglesias'
 sidebar: false
 format:
   html:
@@ -8,37 +8,35 @@ format:
       body-width: 1500px
       margin-width: 300px
       gutter-width: 1.5rem
+knitr:
+  opts_chunk:
+    out.width: '95%'
 ---
+    
+```{r, echo=FALSE, message=FALSE,include=FALSE}
+source('../../R/bg_df.R')
+whois <- 'Valen'
+
+source('../../R/resume_fun.R')
+openalex_id <- basic_info(whois)$openalex_id
+library(fontawesome)
+```
+
+
 
 <!-- # 📝 **Bio** -->
 
 <!-- ------------------------------------------------------------------------ -->
 
-<!-- something -->
+<!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
 
-
-# 📱 **Contact** {#contact}
+# 📱 **Contact**
 
 ------------------------------------------------------------------------
 
-[`r fontawesome::fa("envelope", prefer_type = "regular", fill = "pink", height = "3em")`](mailto:valentin.iglesias@pz.umb.edu.pl)
-<!-- [`r fontawesome::fa("github", fill = "#24292e", height = "3em")`]() -->
-[`r fontawesome::fa("orcid", fill = "#A6CE39", height = "3em")`](https://orcid.org/0000-0002-6133-0869)
-<!-- [`r fontawesome::fa("facebook", fill = "#304f85", height = "3em")`](https://www.facebook.com/) -->
-[`r fontawesome::fa("linkedin", fill = "#0077b5", height = "3em")`](https://www.linkedin.com/in/valent%C3%ADn-iglesias-mas-06a6473b/)
-<!-- [`r fontawesome::fa("twitter", fill = "#15a7ff", height = "3em")`](https://twitter.com/) -->
-[`r fontawesome::fa("x-twitter", fill = "#24292e", height = "3em")`](https://x.com/ValentnIglesias)
-<!-- [`r fontawesome::fa("steam", fill = "#2f4f4f", height = "3em")`]() -->
-<!-- [`r fontawesome::fa("playstation", fill = "#4739aa", height = "3em")`]() -->
-
-```{r, echo=FALSE, message=FALSE,include=FALSE}
-source("../../R/bg_df.R")
-
-whois <- "Valen"
-openalex_id <- "A5002785720"
-
-source("../../R/resume_fun.R")
-```
+[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:valentin.iglesias@umb.edu.pl)
+[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0002-6133-0869)
+[`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/valent%C3%ADn-iglesias-mas-06a6473b/)
 
 
 # 🚀 **Research stays**
@@ -46,34 +44,22 @@ source("../../R/resume_fun.R")
 ------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE}
-
 research_stay(whois)
-
 ```
-
 
 <!-- # 💻🧫 **Experience** -->
-
+  
 <!-- ------------------------------------------------------------------------ -->
-
+    
 <!-- ```{r, echo=FALSE, message=FALSE} -->
-
 <!-- work(whois) -->
-
 <!-- ``` -->
 
+# 🎓 **Education**
+  
+------------------------------------------------------------------------
 
-<!-- # 🎓 **Education** -->
-
-<!-- ------------------------------------------------------------------------ -->
-
-```{r, echo=FALSE, message=FALSE}
-
-edu_df <- education(whois)
-
-```
-
-`r stringr::str_flatten(edu_df$new_col)`
+`r stringr::str_flatten(education(whois)$new_col)`
 
 
 # 👏🏻 **Conferences, workshops** 🤝🏻 
@@ -81,9 +67,7 @@ edu_df <- education(whois)
 ------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE}
-
 conf_work(whois)
-
 ```
 
 
@@ -92,12 +76,13 @@ conf_work(whois)
 ------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE}
-
 pubs(whois, openalex_id)
-
 ```
 
 
-<!-- #  🧑🏻‍🔬 **Other activities** -->
+<!-- # 🧑🏻‍🔬 **Other activities** -->
 
 <!-- ------------------------------------------------------------------------ -->
+
+<!-- `r stringr::str_flatten(other_act(whois)$new_col)` -->
+

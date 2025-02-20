@@ -105,3 +105,11 @@ conf_work(whois)
 
 ------------------------------------------------------------------------
 
+```{r, echo=FALSE, message=FALSE}
+
+act_df <- other_act(whois)
+
+```
+
+`r stringr::str_flatten(act_df$new_col)`
+

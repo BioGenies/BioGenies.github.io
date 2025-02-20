@@ -10,21 +10,57 @@ Are you a student or a graduate passionate about bioinformatics and/or amyloids?
 
 We offer a collaborative and enriching environment for **you** at all stages of your academic journey. Here’s what you can expect when you join our lab:
 
-- **Research opportunities**: work on cutting-edge projects in **multiomics**, **liquid-liquid phase separation (LLPS)**, **amyloids**, **antimicrobial peptides (AMP)**, and more.
+-   **Research opportunities**: work on cutting-edge projects in **multiomics**, **liquid-liquid phase separation (LLPS)**, **amyloids**, **antimicrobial peptides (AMP)**, and more.
 
-- **Skill development**: gain practical experience with advanced tools, data analysis techniques, and research methodologies tailored to bioinformatics and structural biology.
+-   **Skill development**: gain practical experience with advanced tools, data analysis techniques, and research methodologies tailored to bioinformatics and structural biology.
 
-- **Full support**: we assist with all necessary **administrative paperwork**, provide **guidance on Erasmus+ documentation**, and help you settle in quickly so you can focus on research.
+-   **Full support**: we assist with all necessary **administrative paperwork**, provide **guidance on Erasmus+ documentation**, and help you settle in quickly so you can focus on research.
 
 ## Our guest researchers
 
-::: {layout-ncol=5}
-[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){}]()
-
-[![Ronja Tittel](fig/ppl/rt.jpg "Ronja Tittel"){}]()
-
-[![Mariia Solovianova](fig/ppl/ms.jpeg "Mariia Solovianova"){}]()
+:::: {.grid}
+:::: {.g-col-3}
+![Eva Arribas 🇪🇸](fig/ppl/ea.png "Eva Arribas"){fig-align="left" width="350"}
+::::
+:::: {.g-col-9}
+::: callout-note
+## Eva about her Erasmus+ Mobility internship
+something
 :::
+::::
+::::
+
+
+:::: {.grid}
+:::: {.g-col-3}
+![Ronja Tittel 🇩🇪](fig/ppl/rt.jpg "Ronja Tittel"){fig-align="left" width="350"}
+::::
+:::: {.g-col-9}
+::: callout-note
+## Ronja about her Leonardo/Erasmus+ praxissemester
+From the very first moment, I felt incredibly welcomed by the group—it was honestly amazing! Everyone was so kind and supportive, always ready to help with any research, answer my questions, or just be there whenever I needed something.
+
+They organized so many fun activities to explore Białystok and the surrounding areas, making it really easy to get to know the city and meet new people. They also helped me with all the necessary paperwork, which was such a relief. Finding a place to stay was completely stress-free because they quickly helped me organize a flat in the student dorms. On top of that, they even provided kitchen necessities, so I didn’t have to buy anything for five months—such a thoughtful gesture!
+
+One thing I truly appreciated was how much effort they put into helping me find a riding stable that suited me. Even though it turned out to be a bit difficult for me in the surrounding area, they still did everything they could to help, which meant a lot.
+
+The work atmosphere here is just incredible. I always felt comfortable and knew I could trust everyone with any problem. It’s not just a group—it feels like a community where everyone looks out for each other. I couldn’t have asked for a better experience! Thank you for letting me stay with you!
+:::
+::::
+::::
+
+
+:::: {.grid}
+:::: {.g-col-3}
+![Mariia Solovianova 🇩🇪/🇺🇦](fig/ppl/ms.jpeg "Mariia Solovianova"){fig-align="left" width="350"}
+::::
+:::: {.g-col-9}
+::: callout-note
+## Maria about her Erasmus+ Mobility internship
+My Erasmus stay in Białystok has been an incredible experience so far! The group welcomed me with open arms, and they are always eager to teach me new things and help me grow. Whenever I have any questions, they are quick to lend a hand and offer support. The social life here is fantastic, and it’s a great opportunity to experience the true spirit of Podlasie. We’ve had amazing integrative trips, such as to Białowieża, and we’re soon going to Suprasl. I’ve also had the chance to explore traditional Podlaskie cuisine, which has been a delightful experience. I’m really looking forward to the rest of my time here!
+:::
+::::
+::::
 
 ## Reach us out!
 

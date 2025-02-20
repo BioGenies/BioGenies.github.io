@@ -72,3 +72,27 @@ pubs <- function(whois, openalex_id){
 }
 
 
+other_act <- function(whois){
+  temp_df <- other_act_df %>% 
+    filter(who == whois) %>% 
+    mutate(new_col = paste0("* ", activity, "\n"
+    ))
+}
+
+basic_info <- function(whois){
+  temp_df <- bio_df %>% 
+    filter(who == whois)
+}
+
+contact_info <- function(whois){
+  basic_info(whois) %>% 
+    mutate(new_col = paste0(
+      if_else(email1 %>% is.na(), "", paste0("[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:", email1, ")\n")),
+      if_else(email2 %>% is.na(), "", paste0("[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'grey', height = '3em')`](mailto:", email2, ")\n")),
+      if_else(github %>% is.na(), "", paste0("[`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/", github, ")\n")),
+      if_else(orcid %>% is.na(), "", paste0("[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/", orcid, ")\n")),
+      if_else(fb %>% is.na(), "", paste0("[`r fontawesome::fa('facebook', fill = '#304f85', height = '3em')`](https://www.facebook.com/", fb, ")\n")),
+      if_else(linkedin %>% is.na(), "", paste0("[`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/", linkedin, "/)\n")),
+      if_else(X %>% is.na(), "", paste0("[`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/", X, ")\n"))
+    ))
+}

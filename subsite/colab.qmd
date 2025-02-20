@@ -4,11 +4,11 @@ title: "BioGenies collaborators"
 
 ### ![](fig/logo/UAB_logo.png){width="10%"} Autonomous University of Barcelona
 ::: {layout-ncol=5}
-[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){}]()
+[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){}](colab/ear.html)
 
-[![Oriol Bárcenas](fig/ppl/ob.png "Oriol Bárcenas"){}]()
+[![Oriol Bárcenas](fig/ppl/ob.png "Oriol Bárcenas"){}](colab/ob.html)
 
-[![Carlos Pintado-Grima](fig/ppl/cp.png "Carlos Pintado-Grima"){}]()
+[![Carlos Pintado-Grima](fig/ppl/cp.png "Carlos Pintado-Grima"){}](colab/cpg.html)
 :::
 
 ### ![](fig/logo/QI_logo.png){width="10%"} Quadram Institute
