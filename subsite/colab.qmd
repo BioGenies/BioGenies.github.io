@@ -4,7 +4,7 @@ title: "BioGenies collaborators"
 
 ### ![](fig/logo/UAB_logo.png){width="10%"} Autonomous University of Barcelona
 ::: {layout-ncol=5}
-[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){}](colab/ear.html)
+[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){}](colab/ea.html)
 
 [![Oriol Bárcenas](fig/ppl/ob.png "Oriol Bárcenas"){}](colab/ob.html)
 
@@ -15,14 +15,14 @@ title: "BioGenies collaborators"
 ::: {layout-ncol=5}
 [![Rafał Kolenda](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Katarzyna (Kasia) Sidorczuk](fig/temp_profile.png "temporary profile pic"){}]()
+[![Katarzyna (Kasia) Sidorczuk](fig/temp_profile.png "temporary profile pic"){}](colab/ks.html)
 :::
 
 ### ![](fig/logo/BTU_logo.png){width="10%"} Brandenburg University of Technology Cottbus-Senftenberg
 ::: {layout-ncol=5}
 [![Stefan Rödiger](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Ronja Tittel](fig/ppl/rt.jpg "Ronja Tittel"){}]()
+[![Ronja Tittel](fig/ppl/rt.jpg "Ronja Tittel"){}](colab/rt.html)
 
-[![Mariia Solovianova](fig/ppl/ms.jpeg "Mariia Solovianova"){}]()
+[![Mariia Solovianova](fig/ppl/ms.jpeg "Mariia Solovianova"){}](colab/ms.html)
 :::

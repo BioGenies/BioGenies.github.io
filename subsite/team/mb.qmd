@@ -14,8 +14,7 @@ knitr:
 ---
     
 ```{r, echo=FALSE, message=FALSE,include=FALSE}
-# source('../../R/bg_df.R')
-load("../../data/bg_df_data.RData")
+load('../../data/bg_df_data.RData')
 whois <- 'Michał'
 
 source('../../R/resume_fun.R')
@@ -43,13 +42,13 @@ library(fontawesome)
 [`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/burdukiewicz)
 
 
-<!-- # 🚀 **Research stays** -->
+# 🚀 **Research stays**
 
-<!-- ------------------------------------------------------------------------ -->
+------------------------------------------------------------------------
 
-<!-- ```{r, echo=FALSE, message=FALSE} -->
-<!-- research_stay(whois) -->
-<!-- ``` -->
+```{r, echo=FALSE, message=FALSE}
+research_stay(whois)
+```
 
 # 💻🧫 **Experience**
 
@@ -67,7 +66,7 @@ work(whois)
 `r stringr::str_flatten(education(whois)$new_col)`
 
 
-# 👏🏻 **Conferences, workshops** 🤝🏻 
+# 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
 
 ------------------------------------------------------------------------
 
@@ -85,9 +84,10 @@ pubs(whois, openalex_id)
 ```
 
 
-<!-- # 🧑🏻‍🔬 **Other activities** -->
+# 🧑🏻‍🔬 **Other activities**
 
-<!-- ------------------------------------------------------------------------ -->
+------------------------------------------------------------------------
 
-<!-- `r stringr::str_flatten(other_act(whois)$new_col)` -->
+`r stringr::str_flatten(other_act(whois)$new_col)`
+
 

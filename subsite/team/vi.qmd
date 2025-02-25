@@ -14,8 +14,7 @@ knitr:
 ---
     
 ```{r, echo=FALSE, message=FALSE,include=FALSE}
-# source('../../R/bg_df.R')
-load("../../data/bg_df_data.RData")
+load('../../data/bg_df_data.RData')
 whois <- 'Valen'
 
 source('../../R/resume_fun.R')
@@ -36,8 +35,10 @@ library(fontawesome)
 ------------------------------------------------------------------------
 
 [`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:valentin.iglesias@umb.edu.pl)
+[`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/ValentinIglesias)
 [`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0002-6133-0869)
 [`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/valent%C3%ADn-iglesias-mas-06a6473b/)
+[`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/@ValentnIglesias/@valentniglesias.bsky.social)
 
 
 # 🚀 **Research stays**
@@ -48,13 +49,14 @@ library(fontawesome)
 research_stay(whois)
 ```
 
-<!-- # 💻🧫 **Experience** -->
-  
-<!-- ------------------------------------------------------------------------ -->
-    
-<!-- ```{r, echo=FALSE, message=FALSE} -->
-<!-- work(whois) -->
-<!-- ``` -->
+# 💻🧫 **Experience**
+
+------------------------------------------------------------------------
+
+```{r, echo=FALSE, message=FALSE}
+work(whois)
+```
+
 
 # 🎓 **Education**
   
@@ -63,7 +65,7 @@ research_stay(whois)
 `r stringr::str_flatten(education(whois)$new_col)`
 
 
-# 👏🏻 **Conferences, workshops** 🤝🏻 
+# 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
 
 ------------------------------------------------------------------------
 

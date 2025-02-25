@@ -1,8 +1,7 @@
 # whois_full_name <- "Michał"
 # whois <- whois
-# whois <- "Jarek"
+# whois <- "Asia"
 
-# source('R/bg_df.R')
 load("bg_df_data.RData")
 source('R/resume_fun.R')
 
@@ -25,7 +24,7 @@ knitr:
 ---
     
 ```{r, echo=FALSE, message=FALSE,include=FALSE}
-source('../../R/bg_df.R')
+load('../../data/bg_df_data.RData')
 whois <- '", whois, "'\n\n",
 "source('../../R/resume_fun.R')
 openalex_id <- basic_info(whois)$openalex_id
@@ -116,7 +115,7 @@ paste0(
 
 
 conference_txt <- if_else((full_df %>% filter(who == whois & cat == "conferences") %>% nrow()) != 0, paste0(
-"# 👏🏻 **Conferences, workshops** 🤝🏻 
+"# 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
 
 ------------------------------------------------------------------------
 
@@ -125,7 +124,7 @@ conf_work(whois)
 ```
 \n"),
 paste0(
-"<!-- # 👏🏻 **Conferences, workshops** 🤝🏻  -->
+"<!-- # 👏🏻 **Conferences, workshops, training schools** 🤝🏻  -->
 
 <!-- ------------------------------------------------------------------------ -->
 
@@ -134,7 +133,7 @@ paste0(
 <!-- ``` -->", "\n"))
 
 
-publication_txt <- if_else((openalexR::oa_fetch(entity ="works", author.id = basic_info(whois)$openalex_id) %>% nrow()) != 0, paste0(
+publication_txt <- if_else((openalexR::oa_fetch(entity ="works", author.id = basic_info(whois)$openalex_id) %>% try() %>% nrow()) != 0, paste0(
 "#  📖 **Publications**
 
 ------------------------------------------------------------------------

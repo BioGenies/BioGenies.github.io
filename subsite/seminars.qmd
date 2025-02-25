@@ -4,7 +4,7 @@ title: "Seminars"
 
 **Are you interested to join our seminars or particular seminar? Just email us.**
 
-```{r, results='asis', echo=FALSE, message=FALSE}
+```{r, results='asis', echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(RCurl)
 

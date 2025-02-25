@@ -13,6 +13,8 @@ emp <- googlesheets4::read_sheet(link, sheet = "work") %>% mutate(activity = "em
 team <- googlesheets4::read_sheet(link, sheet = "team")
 other_act_df <- googlesheets4::read_sheet(link, sheet = "other_activities")
 
+pub_overwrite <- googlesheets4::read_sheet(link, sheet = "pub_overwrite")
+
 full_df <- full_join(con, edu, by = c("start_date", "end_date", "city", "country", "name", "who", "activity")) %>%
   full_join(., int, by = c("start_date", "end_date", "city", "country", "name", "who", "activity")) %>%
   full_join(., emp, by = c("start_date", "end_date", "city", "country", "name", "who", "group", "faculty", "activity")) %>%
@@ -28,5 +30,5 @@ full_df <- full_join(con, edu, by = c("start_date", "end_date", "city", "country
 
 remove(link)
 
-save.image(file = 'bg_df_data.RData')
-# load("bg_df_data.RData")
+# save.image(file = 'data/bg_df_data.RData')
+# load("databg_df_data.RData")

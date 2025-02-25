@@ -26,7 +26,7 @@ education <- function(whois){
   edu_df <- full_df %>% 
     filter(who == whois & cat == "education") %>% 
     arrange(desc(end_date)) %>% 
-    mutate(new_col = paste0("<h3>", "![](../fig/logo/", logo_name, "){width='50'} ", name, "</h3>\n", "<h4> ", major, "</h4> [ ", start_date, " - ", end_date, " ]", "{style='float:right;'}", "<br> ", if_else(thesis_title %>% is.na, " ", paste0("Thesis: **", thesis_title, "** ")), "[ 📍 ", city, ", ", country, " ]{style='float:right;'}"
+    mutate(new_col = paste0("<h3>", "![](../fig/logo/", logo_name, "){width='50'} ", name, "</h3>\n", "<h4> ", major, "</h4> [ ", start_date, " - ", end_date, " ]", "{style='float:right;'}", "<br> ", if_else(thesis_title %>% is.na, " ", paste0(degree, " thesis: **", thesis_title, "** ")), "[ 📍 ", city, ", ", country, " ]{style='float:right;'}"
     ))
 }
 
@@ -56,9 +56,44 @@ pubs <- function(whois, openalex_id){
     tibble(authors = .) %>% 
     cbind(pub, .)
   
+  
+  pub_mod <- pub_mod$author %>% 
+    lapply(., function(x){
+      number <- x$au_id %>% str_detect(openalex_id) %>% which()
+      position <-  x$author_position[number]
+        }) %>% 
+    unlist(.) %>%
+    tibble(position = .) %>% 
+    cbind(pub_mod, .)
+  
+  # for (i in pub_overwrite %>% filter(who == whois) %>% select(doi) %>% as.vector()) {
+  #   pub_mod <- pub_mod %>% 
+  #       mutate(position = if_else(str_detect(doi, i), "first", position))
+  #   }
+    
+    
+  pub_mod <- pub_mod$author %>% 
+    lapply(., function(x){
+      number <- x$au_id %>% str_detect(openalex_id) %>% which(.)
+      corresponding <-  x$is_corresponding[number]
+    }) %>% 
+    unlist(.) %>%
+    tibble(corresponding = .) %>% 
+    cbind(pub_mod, .)
+  
+  # for (i in pub_overwrite %>% filter(who == whois) %>% select(doi) %>% as.vector()) {
+  #   pub_mod <- pub_mod %>% 
+  #     mutate(corresponding = if_else(str_detect(doi, i), TRUE, corresponding))
+  # }
+  
   pub_mod %>% 
     filter(type != "dataset") %>% 
-    select(title, authors, doi, publication_date, type, so, host_organization) %>% 
+    # select(title, authors, doi, publication_date, type, so, host_organization) %>% 
+    mutate(authorship = paste0(
+      if_else(position == "middle", "coauthor", position),
+      if_else(corresponding == TRUE, ",\n corresponding", "")
+    )) %>% 
+    select(title, authors, doi, publication_date, type, so, host_organization, authorship) %>% 
     drop_na(., doi) %>%
     mutate(doi = paste0('<a  target=_blank href=', doi, '>', doi %>% str_remove(., "https://doi.org/"),'</a>'),
            journal = so %>% as.factor(),
@@ -68,7 +103,7 @@ pubs <- function(whois, openalex_id){
     ) %>% 
     select(!c(so, host_organization, publication_date)) %>% 
     arrange(desc(`publication date`)) %>%
-    DT::datatable(., escape = F, options = list(dom = 'tp'))
+    DT::datatable(., escape = F, extensions = 'Buttons', options = list(dom = 'tp', buttons = c('copy', 'csv', 'excel')))
 }
 
 

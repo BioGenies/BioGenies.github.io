@@ -4,21 +4,21 @@ title: "BioGenies team"
 
 ### 🥸 BioGenies
 ::: {layout-ncol=4}
-[![Michał Burdukiewicz ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='20'}](fig/ppl/mb.jpeg "Michał Burdukiewicz"){}](team/mb.html)
+[![Michał Burdukiewicz ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='20'} ![](fig/logo/VU_logo.png "Vilnius University"){width='50'}](fig/ppl/mb.jpeg "Michał Burdukiewicz"){}](team/mb.html)
 
 [![Jarosław (Jarek) Chilimoniuk ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='20'}](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk}"){}](team/jc.html)
 
-[![Krystyna (Krysia) Grzesiak ![](fig/logo/UWr_logo.png "University of Wrocław"){width='20'}](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){}](team/kg.html)
+[![Krystyna (Krysia) Grzesiak ![](fig/logo/UWr_logo.png "University of Wrocław"){width='20'} ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='20'}](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){}](team/kg.html)
 
 [![Valentín Iglesias ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='20'}](fig/ppl/vi.png "Valentín Iglesias"){}](team/vi.html)
 
-[![Sonor Kubkowski ![](fig/logo/UWr_logo.png "University of Wrocław"){width='20'}](fig/ppl/sonor.jpg "Dawid (Sonor) Kubkowski"){}]()
+[![Sonor Kubkowski ![](fig/logo/UWr_logo.png "University of Wrocław"){width='20'}](fig/ppl/sonor.jpg "Dawid (Sonor) Kubkowski"){}](team/sk.html)
 
 [![Jakub Kołodziejczyk](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}](team/jk.html)
 
-[![Joanna Pokora ![](fig/logo/UWr_logo.png "University of Wrocław"){width='20'}](fig/ppl/jp.jpeg "Joanna Pokora"){}]()
+[![Joanna Pokora ![](fig/logo/UWr_logo.png "University of Wrocław"){width='20'}](fig/ppl/jp.jpeg "Joanna Pokora"){}](team/jp.html)
 
-[![Weronika Puchała ![](fig/logo/IBB_logo.png "Institute of Biochemistry and Biophysics Polish Academy of Sciences"){width='40'}](fig/ppl/wp.png "Weronika Puchała with Lusia"){}](team/wp.html)
+[![Weronika Puchała ![](fig/logo/IBB_logo.png "Institute of Biochemistry and Biophysics Polish Academy of Sciences"){width='50'}](fig/ppl/wp.png "Weronika Puchała with Lusia"){}](team/wp.html)
 
 :::
 

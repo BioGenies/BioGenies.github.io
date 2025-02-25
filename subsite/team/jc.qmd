@@ -14,8 +14,7 @@ knitr:
 ---
     
 ```{r, echo=FALSE, message=FALSE,include=FALSE}
-# source('../../R/bg_df.R')
-load("../../data/bg_df_data.RData")
+load('../../data/bg_df_data.RData')
 whois <- 'Jarek'
 
 source('../../R/resume_fun.R')
@@ -25,11 +24,12 @@ library(fontawesome)
 
 
 
-<!-- # 📝 **Bio** -->
+# 📝 **Bio**
+  
+------------------------------------------------------------------------
 
-<!-- ------------------------------------------------------------------------ -->
+`r stringr::str_flatten(basic_info(whois)$bio)`
 
-<!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
 
 # 📱 **Contact**
 
@@ -66,7 +66,7 @@ work(whois)
 `r stringr::str_flatten(education(whois)$new_col)`
 
 
-# 👏🏻 **Conferences, workshops** 🤝🏻 
+# 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
 
 ------------------------------------------------------------------------
 

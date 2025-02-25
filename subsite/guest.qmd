@@ -25,7 +25,11 @@ We offer a collaborative and enriching environment for **you** at all stages of 
 :::: {.g-col-9}
 ::: callout-note
 ## Eva about her Erasmus+ Mobility internship
-something
+My Erasmus experience in Białystok has been truly unforgettable, thanks to the amazing team I had the privilege to work with. From the very beginning, they made my integration seamless, even going the extra mile to set up a fully equipped kitchen, providing everything from casseroles to cutlery. Beyond that, they fostered a strong sense of fellowship by organizing regular team-building activities, such as trips and fun dinners together.
+
+What really stood out, though, was how outstanding this team is in the field of Bioinformatics. They are not only highly active in conducting cutting-edge research with multiple ongoing projects and publications, but they also offer exceptional mentorship. Whenever I had doubts, they were always there to guide me, providing valuable insights that helped me improve my skills and grow as a researcher. This experience has truly been enriching, both personally and professionally.
+
+BioGenies truly became my small Polish family during my time in Białystok.
 :::
 ::::
 ::::
