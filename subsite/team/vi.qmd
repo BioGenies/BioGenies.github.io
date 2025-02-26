@@ -38,7 +38,7 @@ library(fontawesome)
 [`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/ValentinIglesias)
 [`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0002-6133-0869)
 [`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/valent%C3%ADn-iglesias-mas-06a6473b/)
-[`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/@ValentnIglesias/@valentniglesias.bsky.social)
+[`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/ValentnIglesias)
 
 
 # 🚀 **Research stays**

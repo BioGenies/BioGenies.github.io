@@ -6,14 +6,12 @@ categories:
   - Erasmus+
   - farewell
   - Praxissemester
-# image:  
+image: "../fig/posts/2025_02_24/1000029837.jpg"
 ---
 
 # 👋 Goodbye Ronja – our first Erasmus+ student! 💙
 
 Ronja’s **Praxissemester** with us has officially come to an end 😢. It feels like just yesterday she arrived, and now we’re saying goodbye to an amazing colleague and friend. We made sure her last days were **filled with great memories!**  
-
-![](../fig/posts/2025_02_24/IMG_8309.jpeg "gift_for_Ronja")
 
 ## 🍽️ Eating our way through farewell week
 As per BioGenies tradition, we **ate a lot** during these last days! 🥟🍰 
@@ -41,3 +39,5 @@ And of course, what would a BioGenies goodbye be without **rushing to the train 
 The train station was **bustling with people**, and in a surprise twist, the **Jagiellonia Białystok football team** was also there, taking the train! ⚽😲  
 
 Ronja, **thank you for everything** – your dedication, hard work, and all the fun moments we shared. We’ll miss you, but we know you’ll do amazing things in the future! 💙  
+
+![](../fig/posts/2025_02_24/IMG_8309.jpeg "gift_for_Ronja")

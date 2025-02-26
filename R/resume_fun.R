@@ -65,13 +65,8 @@ pubs <- function(whois, openalex_id){
     unlist(.) %>%
     tibble(position = .) %>% 
     cbind(pub_mod, .)
+    
   
-  # for (i in pub_overwrite %>% filter(who == whois) %>% select(doi) %>% as.vector()) {
-  #   pub_mod <- pub_mod %>% 
-  #       mutate(position = if_else(str_detect(doi, i), "first", position))
-  #   }
-    
-    
   pub_mod <- pub_mod$author %>% 
     lapply(., function(x){
       number <- x$au_id %>% str_detect(openalex_id) %>% which(.)
@@ -81,10 +76,18 @@ pubs <- function(whois, openalex_id){
     tibble(corresponding = .) %>% 
     cbind(pub_mod, .)
   
-  # for (i in pub_overwrite %>% filter(who == whois) %>% select(doi) %>% as.vector()) {
-  #   pub_mod <- pub_mod %>% 
-  #     mutate(corresponding = if_else(str_detect(doi, i), TRUE, corresponding))
-  # }
+
+  if((pub_overwrite %>% filter(who == whois & position == "first") %>% nrow()) > 0){
+  for (i in pub_overwrite %>% filter(who == whois & position == "first") %>% select(doi) %>% as.vector()) {
+    pub_mod <- pub_mod %>%
+      mutate(position = if_else(str_detect(doi, i), "first", position))
+  }}
+  
+  if((pub_overwrite %>% filter(who == whois & corresponding == TRUE) %>% nrow()) > 0){
+  for (i in pub_overwrite %>% filter(who == whois & corresponding == TRUE) %>% select(doi) %>% as.vector()) {
+    pub_mod <- pub_mod %>%
+      mutate(corresponding = if_else(str_detect(doi, i), TRUE, corresponding))
+  }}
   
   pub_mod %>% 
     filter(type != "dataset") %>% 
