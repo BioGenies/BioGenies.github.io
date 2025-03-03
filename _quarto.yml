@@ -63,7 +63,7 @@ format:
     grid:
       sidebar-width: 350px
       body-width: 1200px
-      margin-width: 250px
+      margin-width: 150px
       gutter-width: 1.5rem
     # logo: fig/bg_logo.png
 execute:

@@ -138,7 +138,7 @@ publication_txt <- if_else((openalexR::oa_fetch(entity ="works", author.id = bas
 
 ------------------------------------------------------------------------
 
-```{r, echo=FALSE, message=FALSE}
+```{r, echo=FALSE, message=FALSE, error=FALSE, warning=FALSE}
 pubs(whois, openalex_id)
 ```
 \n"),
