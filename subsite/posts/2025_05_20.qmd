@@ -1,5 +1,5 @@
 ---
-title: "🎉 OneTick Project Awarded MSCA Staff Exchanges grant!"
+title: "🎉 OneTick project awarded MSCA Staff Exchanges grant!"
 description: "Another huge win for BioGenies! Our first MSCA Staff Exchanges project, OneTick, officially funded by the European Commission!"
 date: "05/20/2025"
 categories:
