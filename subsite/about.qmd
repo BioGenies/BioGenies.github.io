@@ -14,9 +14,9 @@ Our team's interdisciplinary nature enriches our exploration, allowing us to tac
 
 If you're curious about our ongoing projects, you can explore them in the Project tab.
 
-```{r echo=FALSE, message=FALSE}
-#| column: page-inset-right-left
+<!-- #| column: page-inset-right-left -->
 
+```{r echo=FALSE, message=FALSE}
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
