@@ -1,0 +1,64 @@
+---
+title: "🌟 Highlights from the 3rd ML4NGP Conference in Vilnius!🌟"
+description: "Michał, Jarek, Valen and Mariia presented posters at the ML4NGP Meeting, a fantastic mix of science, food and networking!"
+date: "06/17/2025"
+categories:
+  - conference
+  - COST Actions
+  - Lithuania
+  - ML4NGP
+image: "../fig/posts/2025_06_17/1000032681.jpg"
+---
+
+# 🚀 3rd Machine Learning 4 Non‑Globular Proteins Meeting (May 20–23 2025) in Vilnius, Lithuania 🚀
+
+We have returned from the **3rd ML4NGP Meeting**, top-tier conference on machine learning for non-globular proteins, held **May 20–23** in vibrant city of **Vilnius** 🇱🇹.
+
+![photo by Simone from ML4NGP](../fig/posts/2025_06_17/1000032682.jpg)
+
+From our team **Michał, Jarek, Valen and Mariia** actively proudly presented their posters and actively participated in engaging scientific discussions with global peers 🌍✨
+
+![photo of conference participants](../fig/posts/2025_06_17/1000032681.jpg)
+---
+
+## 🍔 Arrival and foodie adventures 🍟
+
+What better way to start a scientific adventure than with a classic fuel-up at the iconic **Golden Arches** in Augustów, our always stop when visiting Vilnius? Our first stop was a hearty break for some quick, comfort food, because brilliant minds run on good food! 😋🍔
+
+![golden arches in Augustów](../fig/posts/2025_06_17/IMG_1183.jpeg)
+
+## 🤝 Reunion under the London Grill
+
+The very first evening brought a heartwarming reunion with colleagues from the **Autonomous University of Barcelona** 🇪🇸 and the **Technical University of Denmark** 🇩🇰 during a cozy dinner at **London Grill** restaurant. Great food, great company and lots of laughs! 🥂🍽️
+
+![party](../fig/posts/2025_06_17/IMG_1204.jpeg)
+![foodsa](../fig/posts/2025_06_17/IMG_1199.jpeg)
+
+---
+
+## 💡 Busy days and brilliant science
+
+The first day was packed with fascinating lectures, groundbreaking research and vibrant discussions. Every session challenged and inspired us to think deeper and push further, exactly what ML4NGP is all about 💡💻
+
+---
+
+## 🍕 Welcome reception and food truck fiesta
+
+The day ended at the historic Vilnius University main building with the **Welcome Reception**, followed by a fun evening at local food trucks. Party was *top-notch*! 🌇🎉🌮
+
+---
+
+## 🧑 🤝 🧑 New connections and lasting memories 🌟
+
+One of the best parts of any conference is meeting incredible people and ML4NGP 2025 was no exception. We connected with inspiring researchers from Spain 🇪🇸, Germany 🇩🇪, Canada 🇨🇦, Armenia 🇦🇲, Italy 🇮🇹, Argentina 🇦🇷 and beyond! 🌐✨
+
+Here’s a joyful group photo after our final lunch, a perfect snapshot capturing the spirit of collaboration and friendship forged over these unforgettable days 📸❤️
+
+![last lunch](../fig/posts/2025_06_17/1000032666.jpg)
+---
+
+## 🙌 Looking ahead
+
+We’re incredibly grateful to have been part of such a dynamic and forward-thinking community. ML4NGP 2025 has fueled our passion and sparked new ideas that will shape our amyloid and LLPS work ahead. 
+
+Can’t wait to see what the next year holds! 🚀🔬💙
