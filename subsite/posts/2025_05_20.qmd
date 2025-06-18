@@ -22,7 +22,6 @@ Not only is this our **first project of this kind**, we’re the **only project 
 
 👏 **Huge congratulations to Michał**, who led the application and tirelessly coordinated with all the partners. **Jarek and Valen** were deeply involved in writing and structuring the proposal, but the heavy lifting, all those calls and negotiations, was on Michał’s shoulders. And he nailed it 💪
 
----
 
 ## 🦠🧬 About OneTick
 
@@ -36,7 +35,6 @@ Not only is this our **first project of this kind**, we’re the **only project 
   - Understand **tick distribution**
   - Inform **control strategies**
 
----
 
 ## 🤝 Our European dream team 🌐
 

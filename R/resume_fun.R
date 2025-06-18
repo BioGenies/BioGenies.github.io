@@ -50,16 +50,16 @@ pubs <- function(whois, openalex_id){
   pub <- openalexR::oa_fetch(entity ="works",
                              author.id = openalex_id)
   
-  pub_mod <- pub$author %>% 
-    lapply(., function(x) {x$au_display_name %>% str_flatten(., collapse = ", ")}) %>% 
+  pub_mod <- pub$authorships %>% 
+    lapply(., function(x) {x$display_name %>% str_flatten(., collapse = ", ")}) %>% 
     unlist() %>% 
     tibble(authors = .) %>% 
     cbind(pub, .)
   
   
-  pub_mod <- pub_mod$author %>% 
+  pub_mod <- pub_mod$authorships %>% 
     lapply(., function(x){
-      number <- x$au_id %>% str_detect(openalex_id) %>% which()
+      number <- x$id %>% str_detect(openalex_id) %>% which()
       position <-  x$author_position[number]
         }) %>% 
     unlist(.) %>%
@@ -67,9 +67,9 @@ pubs <- function(whois, openalex_id){
     cbind(pub_mod, .)
     
   
-  pub_mod <- pub_mod$author %>% 
+  pub_mod <- pub_mod$authorships %>% 
     lapply(., function(x){
-      number <- x$au_id %>% str_detect(openalex_id) %>% which(.)
+      number <- x$id %>% str_detect(openalex_id) %>% which(.)
       corresponding <-  x$is_corresponding[number]
     }) %>% 
     unlist(.) %>%
@@ -96,15 +96,15 @@ pubs <- function(whois, openalex_id){
       if_else(position == "middle", "coauthor", position),
       if_else(corresponding == TRUE, ",\n corresponding", "")
     )) %>% 
-    select(title, authors, doi, publication_date, type, so, host_organization, authorship) %>% 
+    select(title, authors, doi, publication_date, type, source_display_name, host_organization_name, authorship) %>% 
     drop_na(., doi) %>%
     mutate(doi = paste0('<a  target=_blank href=', doi, '>', doi %>% str_remove(., "https://doi.org/"),'</a>'),
-           journal = so %>% as.factor(),
-           publisher = host_organization %>% as.factor(),
+           journal = source_display_name %>% as.factor(),
+           publisher = host_organization_name %>% as.factor(),
            type = type %>% as.factor(),
            `publication date` = publication_date %>% as_date()
     ) %>% 
-    select(!c(so, host_organization, publication_date)) %>% 
+    select(!c(source_display_name, host_organization_name, publication_date)) %>% 
     arrange(desc(`publication date`)) %>%
     DT::datatable(., escape = F, extensions = 'Buttons', options = list(dom = 'tp', buttons = c('copy', 'csv', 'excel')))
 }

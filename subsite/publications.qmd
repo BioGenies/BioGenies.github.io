@@ -3,11 +3,12 @@ title: "Publications"
 ---
 
 ```{r, echo=FALSE, message=FALSE}
-
 library(openalexR)
 library(tidyverse)
 library(DT)
 
+load('../data/bg_df_data.RData')
+openalex_ids <- bio_df$openalex_id %>% na.omit()
 
 # pub <- openalexR::oa_fetch(entity ="works",
 #                    authorships.institutions.id = "I146122375",
@@ -15,23 +16,24 @@ library(DT)
 #                    from_publication_date = "2024-01-01")
 
 pub <- openalexR::oa_fetch(entity ="works",
-                   author.id = c("A5015968787", "A5072021711"))
+                           author.id = c(openalex_ids))
+                   # author.id = c("A5015968787", "A5072021711"))
 
 # pub <- openalexR::oa_fetch(entity ="works", grants.funder = "f4320322511")
 
-pub_mod <- pub$author %>% lapply(., function(x) {x$au_display_name %>% str_flatten(., collapse = ", ")}) %>% unlist() %>% tibble(authors = .) %>% cbind(pub, .)
+pub_mod <- pub$authorships %>% lapply(., function(x) {x$display_name %>% str_flatten(., collapse = ", ")}) %>% unlist() %>% tibble(authors = .) %>% cbind(pub, .)
 
 pub_mod %>% 
   filter(type != "dataset") %>% 
-  select(title, authors, doi, publication_date, type, so, host_organization) %>% 
-  drop_na(., doi) %>%
+  select(title, authors, doi, publication_date, type, source_display_name, host_organization_name) %>% 
+  # drop_na(., doi) %>%
   mutate(doi = paste0('<a  target=_blank href=', doi, '>', doi %>% str_remove(., "https://doi.org/"),'</a>'),
-         journal = so %>% as.factor(),
-         publisher = host_organization %>% as.factor(),
+         journal = source_display_name %>% as.factor(),
+         publisher = host_organization_name %>% as.factor(),
          type = type %>% as.factor(),
          `publication date` = publication_date %>% as_date()
   ) %>% 
-  select(!c(so, host_organization, publication_date)) %>% 
+  select(!c(source_display_name, host_organization_name, publication_date)) %>% 
   arrange(desc(`publication date`)) %>%
   DT::datatable(escape = F)
 
