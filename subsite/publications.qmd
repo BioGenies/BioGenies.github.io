@@ -8,7 +8,11 @@ library(tidyverse)
 library(DT)
 
 load('../data/bg_df_data.RData')
-openalex_ids <- bio_df$openalex_id %>% na.omit()
+
+bio_df_mod <- left_join(bio_df, full_df %>% filter(team == "main") %>% select(who, team), by = "who") %>% unique()
+
+
+openalex_ids <- bio_df_mod$openalex_id %>% na.omit()
 
 # pub <- openalexR::oa_fetch(entity ="works",
 #                    authorships.institutions.id = "I146122375",

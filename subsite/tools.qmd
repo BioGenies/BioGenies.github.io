@@ -10,6 +10,8 @@ library("fontawesome")
 
 ::: {layout-ncol=4}
 
+[![**MetaboCrates** - tool for BioCrates kits  data processing](fig/tools/metabocrates.png){height=200}](http://biogenies.info/metabocrates-ws)
+
 [![**imputomics** - missing data imputation tool](fig/tools/imputomics.png){height=200}](http://biogenies.info/imputomics-ws)
 
 [![**AMPBenchmark** - benchmarking of models for antimicrobial (AMP) peptide prediction](fig/tools/ampbenchmark.png){width=200}](http://li1810-97.members.linode.com/AMPBenchmark/)
@@ -59,6 +61,8 @@ library("fontawesome")
 ## `r fontawesome::fa("github", fill = "#24292e", height = "1.5em")` **Code repositories**
 
 ::: {layout-ncol=4}
+
+[![**MetaboCrates**](fig/tools/metabocrates.png){height=200}](https://github.com/BioGenies/MetaboCrates)
 
 [![**AmyloGraph**](fig/tools/amylograph.png){width=250}](https://github.com/KotulskaLab/AmyloGraph)
 
