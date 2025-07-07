@@ -5,7 +5,7 @@ title: "Former BioGenies members"
 ::: {layout-ncol=7}
 [![Agnieszka Barbach](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Laura Bąkała](fig/temp_profile.png "temporary profile pic"){}]()
+<!-- [![Laura Bąkała](fig/temp_profile.png "temporary profile pic"){}]() -->
 
 [![Filip Gaj](fig/ppl/fg.jpeg "Filip Gaj"){}]()
 

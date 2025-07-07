@@ -1,0 +1,31 @@
+---
+title: "AMI-CryoML"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Title: Cracking the code of amyloid polymorphism: Integrating cryoEM and machine learning to unravel impact of small aggregation modulators on amyloid fibril polymorphism
+
+Abstract: Neurodegenerative diseases such as Alzheimer's (AD), Parkinson’s (PD), and prion-related disorders pose major global health challenges due to their progressive nature and lack of effective treatments. Central to these conditions is the misfolding and aggregation of proteins into amyloid structures, which cause severe cellular damage. Despite advances in understanding amyloid aggregation, the role of structural polymorphism in these processes remains underexplored. This proposal aims to address this gap by investigating amyloid aggregation modulators and their effects on aggregation kinetics and polymorphism. The project has five main objectives: 1. Data Collection on agregation modulators: Systematically gather and curate data on known modulators that impact amyloid aggregation, focusing on their chemical properties and mechanisms. 2. Aggregation kinetics studies: Study the impact of selected modulators on the kinetics of amyloid self-aggregation using ThT assays. This includes analyzing how modulators influence different phases of aggregation and testing their efficacy on a range of amyloids, including prions, CsgA, and α-synuclein. 3. Study structural polymorphisms via CryoEM: Utilize Cryo-Electron Microscopy (CryoEM) to resolve and map the structural polymorphs of amyloids under various conditions. Providing insights into impact of modulators on structural polymorphism and aggregation kinetics. 4. AmyloGraph database enhancement: Develop a new module for the AmyloGraph database to store and analyze data on modulators, aggregation kinetics, and structural polymorphisms. 5. Development of ML models: Leverage machine learning to develop predictive and generative models to forecast amyloid aggregation kinetics and modulator effects, incorporating structural polymorphisms, and generate new modulators targeting specific polymorphic forms.
+
+Call: HORIZON-WIDERA-2024-TALENTS-02
+
+Type of Action: HORIZON-TMA-MSCA-PF-EF
+
+Acronym: AMI-CryoML
+
+Current Phase: Grant Management
+
+Number: 101244706
+
+Duration: 24 months
+
+GA based on the: HE Unit MGA — Multi & Mono - 1.2
+
+Start Date: 01 Feb 2026
+
+Estimated Project Cost: €0.00
+
+Requested EU Contribution: €181,136.16
+

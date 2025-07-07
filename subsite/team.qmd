@@ -17,7 +17,7 @@ title: "BioGenies team"
 
 [![Sonor Kubkowski ![](fig/logo/UWr_logo.png "University of Wrocław"){width='20'}](fig/ppl/sonor.jpg "Dawid (Sonor) Kubkowski"){}](team/sk.html)
 
-[![Jakub Kołodziejczyk](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}](team/jk.html)
+[![Jakub Kołodziejczyk![](fig/logo/G_logo.png "Google"){width='20'}](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}](team/jk.html)
 
 [![Joanna Pokora ![](fig/logo/UWr_logo.png "University of Wrocław"){width='20'}](fig/ppl/jp.jpeg "Joanna Pokora"){}](team/jp.html)
 

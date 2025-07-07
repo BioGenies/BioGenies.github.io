@@ -26,13 +26,17 @@ website:
           - subsite/alumni.qmd
           # - subsite/hobby.qmd
           # - subsite/fun.qmd
-      - text: "Projects" 
+      - text: "Our topics" 
         menu: 
-          - subsite/projects/amyloids.qmd
-          - subsite/projects/llps.qmd
-          - subsite/projects/amp.qmd
-          - subsite/projects/mvi.qmd
-          - subsite/projects/hdxms.qmd
+          - subsite/topics/amyloids.qmd
+          - subsite/topics/llps.qmd
+          - subsite/topics/amp.qmd
+          - subsite/topics/mvi.qmd
+          - subsite/topics/hdxms.qmd
+      - text: "Our projects" 
+        menu: 
+          - subsite/projects/OneTick.qmd
+          - subsite/projects/AMI-cryoEM.qmd
       - href: subsite/tools.qmd
       - href: subsite/seminars.qmd
       # - text: "Achievements"

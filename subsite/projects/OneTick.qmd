@@ -1,0 +1,32 @@
+---
+title: "OneTick"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+[![](../fig/logo/OneTick_logo.png)](https://onetick.eu/)
+
+Title: OneTick: An Integrated One Health Approach for Prevention, Detection and Treatment of Tick-Borne Diseases in Urban and Peri-Urban Environments
+
+Abstract: Tick-borne diseases (TBDs), caused by bacteria, viruses, or protozoa, present a significant health and socioeconomic challenge in Europe. Historically centered in Central and Eastern Europe, Lyme disease and tick-borne encephalitis (TBE) are prevalent in Austria, Germany, and the Czech Republic, with their range expanding due to climate change. Reports show a rising incidence of TBDs in Northern Europe, with about 24% of Europeans living in high Lyme borreliosis (LB) areas as of 2022. It is further heightened by the tick collonization of urban and peri-urban environments where the risk of a tick bite is much higher due to the larger population density of humans and pets. TBDs impose a considerable burden on European societies, with the ECDC estimating around 360,000 Lyme cases in 2016, leading to societal costs of approximately 280 M EUR annually. OneTick, under the One Health framework, aims to enhance the prevention, detection, and treatment of tick-borne diseases in urban areas. Work Package 1 investigates urban tick adaptation, assessing their abundance, species diversity, and pathogens. Work Package 2 examines tick-host-pathogen interactions to develop predictive models for disease spread. Work Package 3 aims to enhance diagnostics through the identification of disease biomarkers and the development of predictive models for survival rates. Lastly, Work Package 4 focuses on raising public health awareness through guidelines and educational campaigns to combat misinformation. In OneTick each participating organization contributes unique expertise, forming a radial structure that integrates diverse scientific perspectives and fosters harmonization of methodologies across disciplines and sectors. We plan to implement 90 PM of secondments, incl. 60 intersectoral and 30 interdisciplinary staff exchanges. Through secondments, we will disseminate best practices, enhance interoperability, and establish shared frameworks for tick-borne disease research and surveillance.
+
+Call: HORIZON-MSCA-2024-SE-01
+
+Type of Action: HORIZON-TMA-MSCA-SE
+
+Acronym: OneTick
+
+Current Phase: Grant Management
+
+Number: 101236599
+
+Duration: 48 months
+
+GA based on the: HE Unit MGA — Multi & Mono - 1.2
+
+Start Date: 01 Jan 2026
+
+Estimated Project Cost: €0.00
+
+Requested EU Contribution: €450,900.00
