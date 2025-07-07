@@ -23,7 +23,6 @@ p <- lapply(full_df_mod$cat %>% levels(), function(i){
     xlab("Dates")
 })
 
-
 # pw_plot <- (p[[1]] & theme(legend.position = "bottom")) + ((p[[2]] / p[[3]] / p[[4]]) & theme(legend.position = "none")) + plot_layout(guides = "auto")
 
 pw_plot <- (p[[1]] | (p[[2]] / p[[3]] / p[[4]] & theme(legend.position = "none")) + plot_layout(axes = "collect", axis_titles = "collect"))

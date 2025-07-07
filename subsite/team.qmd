@@ -34,7 +34,7 @@ load("../data/bg_df_data.RData")
 library(openalexR)
 library(tidyverse)
 
-full_df_mod <- full_df %>% filter(team == "main")
+full_df_mod <- full_df %>% filter(team != "other")
 
 source("../R/map_dumbbell.R")
 ```
