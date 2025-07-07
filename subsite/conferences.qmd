@@ -15,7 +15,7 @@ load('../data/bg_df_data.RData')
 
 full_df %>% 
   filter(activity == "conferences") %>% 
-  filter(team != "other") %>% 
+  filter(team == "main") %>% 
   mutate(dates = paste0(start_date, " - ", end_date),
                 year = str_split_i(start_date, "-", i = 1),
                 place = paste0(city, ", ", country),

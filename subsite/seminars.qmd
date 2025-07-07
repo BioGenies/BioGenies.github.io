@@ -30,6 +30,8 @@ sem_df <- read_lines(URL)[-c(1:2)] %>% str_flatten() %>%
 
 # sem_df %>% DT::datatable()
 
+# stringr::str_flatten(sem_df$rmarkdown)
+
 ``` 
 
 `r stringr::str_flatten(sem_df$rmarkdown)`

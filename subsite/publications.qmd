@@ -78,9 +78,9 @@ pub_mod %>%
 <!-- wordcloud2::wordcloud2(concept_cloud, color = "random-light") -->
 
 <!-- ``` -->
+---
 
-
-## Our colaborators and former members manuscripts
+<font size="6"> **Our colaborators and former members manuscripts** </font>
 
 ```{r, echo=FALSE, message=FALSE}
 library(openalexR)
@@ -110,6 +110,7 @@ pub_mod <- pub$authorships %>% lapply(., function(x) {x$display_name %>% str_fla
 pub_mod %>% 
   filter(type != "dataset") %>% 
   filter(type != "preprint") %>%
+  filter(type != "dissertation") %>%
   select(title, authors, doi, publication_date, type, source_display_name, host_organization_name) %>% 
   # drop_na(., doi) %>%
   mutate(doi = paste0('<a  target=_blank href=', doi, '>', doi %>% str_remove(., "https://doi.org/"),'</a>'),
