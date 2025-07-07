@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-[![](../fig/logo/OneTick_logo.png)](https://onetick.eu/)
+[![](../fig/logo/OneTick_logo.png){:target="_blank"}](https://onetick.eu/)
 
 Title: OneTick: An Integrated One Health Approach for Prevention, Detection and Treatment of Tick-Borne Diseases in Urban and Peri-Urban Environments
 
