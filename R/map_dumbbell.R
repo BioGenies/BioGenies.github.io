@@ -14,9 +14,9 @@ p <- lapply(full_df_mod$cat %>% levels(), function(i){
   full_df_mod %>% 
     filter(activity == i) %>% 
     ggplot(., aes(y = name, color = who)) +
-    geom_segment(aes(x = start_date, xend = end_date), linewidth = 2, position = position_dodgev(height = 0.9)) +
-    geom_point(aes(x = start_date, y = name), size = 3, position = position_dodgev(height = 0.9)) +
-    geom_point(aes(x = end_date, y = name), size = 3, position = position_dodgev(height = 0.9)) +
+    geom_segment(aes(x = start_date, xend = end_date), linewidth = 2, position = ggstance::position_dodgev(height = 0.9)) +
+    geom_point(aes(x = start_date, y = name), size = 3, position = ggstance::position_dodgev(height = 0.9)) +
+    geom_point(aes(x = end_date, y = name), size = 3, position = ggstance::position_dodgev(height = 0.9)) +
     scale_fill_manual(values = my_colors, aesthetics = "color") + 
     labs(title = paste0("BioGenies ", i), x = "Year", y = "Destination") +
     theme_minimal() +

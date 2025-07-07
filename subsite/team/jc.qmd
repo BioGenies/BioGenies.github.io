@@ -20,7 +20,6 @@ whois <- 'Jarek'
 source('../../R/resume_fun.R')
 openalex_id <- basic_info(whois)$openalex_id
 library(fontawesome)
-library(icons)
 ```
 
 
@@ -41,11 +40,6 @@ library(icons)
 [`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0001-5467-018X)
 [`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/jarosław-chilimoniuk/)
 [`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/_jarochi)
-
-<!-- [`r fontawesome::fa('google-scholar', fill = '#24292e', height = '3em')`](https://x.com/_jarochi) -->
-<!-- [`r fontawesome::fa('bluesky', fill = '#24292e', height = '3em')`](https://x.com/_jarochi) -->
-<!-- [`r icons::academicons("clarivate") %>% icons::icon_style(scale = 3, 'border-top' = '0px')`](https://x.com/_jarochi) -->
-<!-- [`r icons::academicons("scopus") %>% icons::icon_style(scale = 3, margin = '0px')`](https://x.com/_jarochi) -->
 
 
 # 🚀 **Research stays**
@@ -85,7 +79,7 @@ conf_work(whois)
 
 ------------------------------------------------------------------------
 
-```{r, echo=FALSE, message=FALSE, error=FALSE}
+```{r, echo=FALSE, message=FALSE, error=FALSE, warning=FALSE}
 pubs(whois, openalex_id)
 ```
 

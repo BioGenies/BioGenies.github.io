@@ -30,5 +30,5 @@ full_df <- full_join(con, edu, by = c("start_date", "end_date", "city", "country
 
 remove(link)
 
-# save.image(file = 'data/bg_df_data.RData')
-# load("databg_df_data.RData")
+save.image(file = 'data/bg_df_data.RData')
+# load("data/bg_df_data.RData")

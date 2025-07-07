@@ -1,5 +1,5 @@
 ---
-title: "Conferences"
+title: "Presentations"
 ---
 
 ```{r, echo=FALSE, message=FALSE}
@@ -9,27 +9,23 @@ library(DT)
 library(stringr)
 library(googlesheets4)
 
+load('../data/bg_df_data.RData')
+
 # conf <- read_csv("CV/data/conferences.csv", col_types = "cccfffc")
 
-conf <- read_sheet("https://docs.google.com/spreadsheets/d/1UXBQs_tu0cRYN3XDEPsq3MxlUNvryPEnR-ClSp2uipo/edit?usp=sharing",sheet = "conferences")
-
-conf %>% mutate(dates = paste0(start_date, " - ", end_date),
-                year = str_split_i(start_date, "[.]", i = 3),
+full_df %>% 
+  filter(activity == "conferences") %>% 
+  filter(team != "other") %>% 
+  mutate(dates = paste0(start_date, " - ", end_date),
+                year = str_split_i(start_date, "-", i = 1),
                 place = paste0(city, ", ", country),
-                conference = conference %>% as.factor(),
+                event = full_name %>% as.factor(),
                 type = type %>% as.factor(),
-                presenting = presenting %>% as.factor() %>% fct_recode(., "Michał Burdukiewicz" = "michbur", 
-                                                                       "Jarosław Chilimoniuk" = "jarochi",
-                                                                       "Weronika Puchała" = "werpuc",
-                                                                       "Katarzyna Sidorczuk" = "ksidorczuk",
-                                                                       "Dominika Kozakiewicz" = "kdominika",
-                                                                       "Dominik Rafacz" = "DominikRafacz",
-                                                                       "Anna Lassota" = "lania",
-                                                                       "Joanna Sikorska" = "sasia"), 
+                presenting = whois_full_name %>% as.factor(), 
                 start_date = start_date %>% as.Date(., format = "%d.%m.%Y"),
                 end_date = end_date %>% as.Date(., format = "%d.%m.%Y")) %>%
   arrange(desc(end_date)) %>% 
-  select(conference, year, dates, place, type, title, presenting) %>% 
+  select(event, year, place, type, title, presenting) %>% 
   drop_na(presenting) %>% 
   DT::datatable()
 # %>% 
