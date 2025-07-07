@@ -5,49 +5,49 @@ title: "BioGenies team"
 ### 🥸 BioGenies
 ::: {layout-ncol=4}
 
-[![Laura Bąkała ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='20'}](fig/temp_profile.png "Laura Bąkała}"){}](team/lb.html)
+[![Laura Bąkała ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/temp_profile.png "Laura Bąkała}"){}](team/lb.html)
 
-[![Michał Burdukiewicz ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='20'} ![](fig/logo/VU_logo.png "Vilnius University"){width='50'}](fig/ppl/mb.jpeg "Michał Burdukiewicz"){}](team/mb.html)
+[![Michał Burdukiewicz ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'} ![](fig/logo/VU_logo.png "Vilnius University"){width='80'}](fig/ppl/mb.jpeg "Michał Burdukiewicz"){}](team/mb.html)
 
-[![Jarosław (Jarek) Chilimoniuk ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='20'}](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk}"){}](team/jc.html)
+[![Jarosław (Jarek) Chilimoniuk ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk}"){}](team/jc.html)
 
-[![Krystyna (Krysia) Grzesiak ![](fig/logo/UWr_logo.png "University of Wrocław"){width='20'} ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='20'}](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){}](team/kg.html)
+[![Krystyna (Krysia) Grzesiak ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'} ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){}](team/kg.html)
 
-[![Valentín Iglesias ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='20'}](fig/ppl/vi.png "Valentín Iglesias"){}](team/vi.html)
+[![Valentín Iglesias ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/vi.png "Valentín Iglesias"){}](team/vi.html)
 
-[![Sonor Kubkowski ![](fig/logo/UWr_logo.png "University of Wrocław"){width='20'}](fig/ppl/sonor.jpg "Dawid (Sonor) Kubkowski"){}](team/sk.html)
+[![Sonor Kubkowski ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/ppl/sonor.jpg "Dawid (Sonor) Kubkowski"){}](team/sk.html)
 
-[![Jakub Kołodziejczyk![](fig/logo/G_logo.png "Google"){width='20'}](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}](team/jk.html)
+[![Jakub Kołodziejczyk![](fig/logo/G_logo.png "Google"){width='80'}](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}](team/jk.html)
 
-[![Joanna Pokora ![](fig/logo/UWr_logo.png "University of Wrocław"){width='20'}](fig/ppl/jp.jpeg "Joanna Pokora"){}](team/jp.html)
+[![Joanna Pokora ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/ppl/jp.jpeg "Joanna Pokora"){}](team/jp.html)
 
-[![Weronika Puchała ![](fig/logo/IBB_logo.png "Institute of Biochemistry and Biophysics Polish Academy of Sciences"){width='50'}](fig/ppl/wp.png "Weronika Puchała with Lusia"){}](team/wp.html)
+[![Weronika Puchała ![](fig/logo/IBB_logo.png "Institute of Biochemistry and Biophysics Polish Academy of Sciences"){width='100'}](fig/ppl/wp.png "Weronika Puchała with Lusia"){}](team/wp.html)
 
-[![Mariia Solovianova ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='20'}](fig/ppl/ms.jpeg "Mariia Solovianova"){}](team/ms.html)
+[![Mariia Solovianova ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/ms.jpeg "Mariia Solovianova"){}](team/ms.html)
 
 :::
 
-```{r, include=FALSE}
-# source("../R/bg_df.R")
-load("../data/bg_df_data.RData")
-
-library(openalexR)
-library(tidyverse)
-
-full_df_mod <- full_df %>% filter(team == "main")
-
-source("../R/map_dumbbell.R")
-```
-
-### 🚀 Our mobility
-```{r, echo=FALSE, message=FALSE, fig.width=12, fig.height=8}
-pw_plot
-```
-
-### 🗺️ Countries visited
-```{r, echo=FALSE, message=FALSE}
-inter_plot
-```
+# ```{r, include=FALSE}
+# # source("../R/bg_df.R")
+# load("../data/bg_df_data.RData")
+# 
+# library(openalexR)
+# library(tidyverse)
+# 
+# full_df_mod <- full_df %>% filter(team == "main")
+# 
+# source("../R/map_dumbbell.R")
+# ```
+# 
+# ### 🚀 Our mobility
+# ```{r, echo=FALSE, message=FALSE, fig.width=12, fig.height=8}
+# pw_plot
+# ```
+# 
+# ### 🗺️ Countries visited
+# ```{r, echo=FALSE, message=FALSE}
+# inter_plot
+# ```
 
 ### 🐶 Our doggos and cattos 😼
 ::: {layout-ncol=4}
