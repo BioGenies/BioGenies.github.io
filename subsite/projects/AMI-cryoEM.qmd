@@ -14,7 +14,7 @@ editor:
 **Grant ID**: 101244706  
 **Start Date**: 1 Feb 2026  
 **Duration**: 24 months  
-**EU Contribution**: €181136.16  
+**EU Contribution**: €181,136.16  
 
 Neurodegenerative disorders such as Alzheimer's, Parkinson’s, and prion diseases are marked by protein misfolding into amyloid fibrils. The structural diversity (polymorphism) of these fibrils critically affects their pathology, yet remains largely unexplored. AMI‑CryoML bridges cryo‑EM and machine learning to probe how small molecule modulators influence aggregation kinetics and amyloid structures.
 
