@@ -10,8 +10,8 @@ editor:
 
 **OneTick: An Integrated One Health Approach for Prevention, Detection and Treatment of Tick‑Borne Diseases in Urban and Peri‑Urban Environments**
 
-**PI**: Michał Burdukiewicz  
-**Proposal development**: Michał Burdukiewicz, Jarosław Chilimoniuk, Valentín Iglesias  
+**PI**: Michał
+**Proposal development**: Michał, Jarosław, Valen  
 **Grant ID**: 101236599  
 **Start Date**: 1 Jan 2026  
 **Duration**: 48 months  
