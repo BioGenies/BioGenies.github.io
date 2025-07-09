@@ -1,17 +1,18 @@
 ---
-title: "🎉 New publication in *Genome Biology*!"
+title: "🎉 New open-access article in *Genome Biology*!"
 description: "Our collaborative study led by Carlos is out—providing gold-standard LLPS datasets and evaluation tools! 🧠🧬🎉"
 date: "07/09/2025"
 categories:
   - publications
   - LLPS
   - research
+  - bioinformatics
 #image: "../fig/posts/2025_06_23/1000051274.jpg"
 ---
 
-# 🧪🎊 New open-access article: **LLPS benchmarking bonanza**!
+# 🧪🎊 *LLPS benchmarking bonanza*!
 
-We’re thrilled to announce our latest study, **Comprehensive protein datasets and benchmarking for liquid–liquid phase separation studies**, is now online in **Genome Biology***! 📘🔥
+We’re thrilled to announce our latest study, **Comprehensive protein datasets and benchmarking for liquid–liquid phase separation studies**, is now online in **Genome Biology**! 📘🔥
 
 - **Published**: 8 July 2025 
 - **Lead author**: **Carlos** (huge kudos to Salva’s team!)
@@ -31,7 +32,7 @@ The goal? To enable **transparent, reproducible, and robust ML-driven insights**
 
 ---
 
-## 🎯 Why it matters
+## 🎯 Why it matters? 🤔
 
 - **Harmonization**: brings together divergent LLPS resources for interoperability 
 - **Model reliability**: improves confidence in ML predictions with curated benchmarks  
@@ -41,7 +42,7 @@ By offering standardized datasets and robust benchmarking, this publication sets
 
 ---
 
-## 🎤 Kudos to the team
+## 🎉 Kudos to the team 
 
 Special shout-out to **Carlos** for leading the project with **Oriol**, **Eva**, **Valen**, **Michał** and **Salva**! Your teamwork made this possible 👏
 
@@ -55,4 +56,4 @@ We’re already leveraging these benchmarking datasets in our ongoing **LLPS and
 
 🎉 Let’s continue driving reproducible and data-driven science in LLPS research. Congrats, team! 🥳
 
-![](../fig/posts/2025_07_09/13059_2025_3668_Figa_HTML.png)
+[![](../fig/posts/2025_07_09/13059_2025_3668_Figa_HTML.png)](https://doi.org/10.1186/s13059-025-03668-6)
