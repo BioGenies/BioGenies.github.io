@@ -6,7 +6,7 @@ categories:
   - grants
   - achievements
   - celebration
-  - NCN Poland
+  - NCN
 #image: "../fig/posts/2025_06_23/1000051274.jpg"
 ---
 

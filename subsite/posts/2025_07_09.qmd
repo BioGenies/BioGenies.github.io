@@ -1,0 +1,58 @@
+---
+title: "🎉 New publication in *Genome Biology*!"
+description: "Our collaborative study led by Carlos is out—providing gold-standard LLPS datasets and evaluation tools! 🧠🧬🎉"
+date: "07/09/2025"
+categories:
+  - publications
+  - LLPS
+  - research
+#image: "../fig/posts/2025_06_23/1000051274.jpg"
+---
+
+# 🧪🎊 New open-access article: **LLPS benchmarking bonanza**!
+
+We’re thrilled to announce our latest study, **Comprehensive protein datasets and benchmarking for liquid–liquid phase separation studies**, is now online in **Genome Biology***! 📘🔥
+
+- **Published**: 8 July 2025 
+- **Lead author**: **Carlos** (huge kudos to Salva’s team!)
+- 🔗 You can read it [here](https://doi.org/10.1186/s13059-025-03668-6)
+
+---
+
+## 🌟 What’s inside?
+
+LLPS (liquid–liquid phase separation) drives biomolecular condensates, crucial for cellular function. But variability across LLPS databases makes modeling tricky. This study tackles that challenge by:
+
+- Collecting **comprehensive protein datasets** across multiple LLPS repositories  
+- Creating **benchmark frameworks** to evaluate predictor performance  
+- Defining a reliable set of **negative (non-LLPS) proteins** for fair model assessment 
+
+The goal? To enable **transparent, reproducible, and robust ML-driven insights** into protein phase behavior.
+
+---
+
+## 🎯 Why it matters
+
+- **Harmonization**: brings together divergent LLPS resources for interoperability 
+- **Model reliability**: improves confidence in ML predictions with curated benchmarks  
+- **Research enabler**: helps the broader community build and validate new tools for condensate biology
+
+By offering standardized datasets and robust benchmarking, this publication sets a new bar for reproducible ML in LLPS research.  
+
+---
+
+## 🎤 Kudos to the team
+
+Special shout-out to **Carlos** for leading the project with **Oriol**, **Eva**, **Valen**, **Michał** and **Salva**! Your teamwork made this possible 👏
+
+---
+
+## 🚀 What’s Next?
+
+We’re already leveraging these benchmarking datasets in our ongoing **LLPS and amyloid research**.. If you're into biomolecular condensates or predictive modeling, this resource is for you!
+
+---
+
+🎉 Let’s continue driving reproducible and data-driven science in LLPS research. Congrats, team! 🥳
+
+![](../fig/posts/2025_07_09/13059_2025_3668_Figa_HTML.png)
