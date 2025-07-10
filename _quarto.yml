@@ -37,6 +37,7 @@ website:
         menu: 
           - subsite/projects/OneTick.qmd
           - subsite/projects/AMI-cryoEM.qmd
+          - subsite/projects/AmyloGraph2.qmd
       - href: subsite/tools.qmd
       - href: subsite/seminars.qmd
       # - text: "Achievements"
