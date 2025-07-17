@@ -3,7 +3,7 @@ title: "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!"
 description: "Our team flew out to Prague for the Metabolomics 2025 meeting—posters, gifts, air conditioning and plenty of food!"
 date: "07/01/2025"
 categories:
-  - conferences
+  - conference
   - Czech Republic
   - Metabolomics
 #image: "../fig/posts/2025_06_23/1000051274.jpg "

@@ -11,7 +11,7 @@ editor:
 **Cracking the code of amyloid polymorphism: integrating cryoEM and machine learning to unravel impact of small aggregation modulators on amyloid fibril polymorphism**
 
 **PI**: Jarek  
-**Funding agency**: European Commission  
+**Funding agency**: European Commission | European Research Executive Agency  
 **Programme**: Horizon Europe | WIDERA | ERA Fellowships  
 **Grant ID**: 101244706  
 **Start date**: 1 Feb 2026  

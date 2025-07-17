@@ -12,7 +12,7 @@ editor:
 
 **PI**: Michał  
 **Proposal development**: Michał, Jarek, Valen  
-**Funding agency**: European Commission  
+**Funding agency**: European Commission | European Research Executive Agency  
 **Programme**: Horizon Europe | Marie Skłodowska Curie Actions (MSCA) Staff Exchanges  
 **Grant ID**: 101236599  
 **Start date**: 1 Jan 2026  
