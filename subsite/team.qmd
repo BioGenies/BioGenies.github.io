@@ -5,7 +5,7 @@ title: "BioGenies team"
 ### 🥸 BioGenies
 ::: {layout-ncol=4}
 
-[![Laura Bąkała ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/temp_profile.png "Laura Bąkała}"){}](team/lb.html)
+[![Laura Bąkała](fig/ppl/lb.png "Laura Bąkała"){}](team/lb.html)
 
 [![Michał Burdukiewicz ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'} ![](fig/logo/VU_logo.png "Vilnius University"){width='80'}](fig/ppl/mb.jpeg "Michał Burdukiewicz"){}](team/mb.html)
 
@@ -17,7 +17,7 @@ title: "BioGenies team"
 
 [![Sonor Kubkowski ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/ppl/sonor.jpg "Dawid (Sonor) Kubkowski"){}](team/sk.html)
 
-[![Jakub Kołodziejczyk![](fig/logo/G_logo.png "Google"){width='80'}](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}](team/jk.html)
+[![Jakub Kołodziejczyk ![](fig/logo/G_logo.png "Google"){width='80'}](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}](team/jk.html)
 
 [![Joanna Pokora ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/ppl/jp.jpeg "Joanna Pokora"){}](team/jp.html)
 
