@@ -1,0 +1,32 @@
+---
+title: "imputomics 2.0"
+description: "Extending imputomics 1.0 from metabolomics to multi-omics: a standardized wrapper around state-of-the-art MVI algorithms, a curated repository, and a rigorous benchmarking suite"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## 🧠 Missing values distort multi-omics analyses
+
+**imputomics 2.0: comprehensive framework for missing value imputation in multi-omics data**
+
+**PI**: Jarek  
+**Funding agency**: National Science Center Poland 
+**Programme**: Miniatura 9 
+**Grant ID**: 2025/09/X/NZ7/00157 
+**Start date**: 25 Jun 2025
+**Duration**: 12 months  
+**Budget**: €49,999.00  
+
+Missing values are pervasive in **omics** (genomics, transcriptomics, proteomics, metabolomics) and can compromise downstream analyses. **Missing-value imputation algorithms (MVIAs)** attempt to replace missing entries with plausible estimates. Given the diversity of data types and the sheer number of methods, choosing the right MVIA remains challenging.
+
+Building on **imputomics 1.0** (web server + R package) — where we conducted an extensive preliminary benchmark, **imputomics 2.0** generalizes the framework to **multi-omics**, integrates **state-of-the-art MVIAs**, and provides a **curated repository** of methods and datasets.
+
+### 📌 Project highlights
+
+- 📚 Comprehensive review of missing value imputation algorithms (MVIAs)  
+- 🗂️ Standardized annotation of omics-specific imputation methods  
+- ⚙️ Universal wrapper for seamless integration across genomics, proteomics, metabolomics & more  
+- 📊 Benchmarking with multiple metrics (RMSE, correlation, interpretability, downstream tasks)  
+- 🌐 Building an open **repository** of MVIAs + datasets for the research community   
+
