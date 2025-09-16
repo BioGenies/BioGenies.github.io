@@ -2,8 +2,9 @@
 title: "Official beginning of Bioinformatics and Multiomics Analysis Laboratory"
 description: "🎉 Official launch of Bioinformatics and Multiomics Analysis Laboratory! 🎉"
 date: "05/01/2024"
-categories:
-  - news
+categories: [news]
+tag: [umba, bumba]
+  # - news
 ---
 
 We are thrilled to announce the official beginning of our Bioinformatics and Multiomics Analysis Laboratory! 🚀 

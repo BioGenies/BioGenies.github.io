@@ -23,7 +23,7 @@ title: "BioGenies team"
 
 [![Weronika Puchała ![](fig/logo/IBB_logo.png "Institute of Biochemistry and Biophysics Polish Academy of Sciences"){width='100'}](fig/ppl/wp.png "Weronika Puchała with Lusia"){}](team/wp.html)
 
-[![Mariia Solovianova ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/ms.jpeg "Mariia Solovianova"){}](team/ms.html)
+[![Mariia Rutkowska ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/mr.jpeg "Mariia Solovianova"){}](team/mr.html)
 
 :::
 

@@ -38,6 +38,8 @@ website:
           - subsite/projects/OneTick.qmd
           - subsite/projects/AMI-cryoEM.qmd
           - subsite/projects/AmyloGraph2.qmd
+          - subsite/projects/LIMAD.qmd
+          - subsite/projects/imputomics2.qmd
       - href: subsite/tools.qmd
       - href: subsite/seminars.qmd
       # - text: "Achievements"

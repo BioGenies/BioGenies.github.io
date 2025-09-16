@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/subsite/posts/2025_09_16.html",
+      "/subsite/posts/2025_09_15.html",
       "/subsite/posts/2025_07_09.html",
       "/subsite/posts/2025_07_04.html",
       "/subsite/posts/2025_07_02.html",
@@ -41,6 +43,16 @@
       "/subsite/posts/2024_05_24.html",
       "/subsite/posts/2024_05_18.html",
       "/subsite/posts/2024_05_01.html"
+    ]
+  },
+  {
+    "listing": "/index_projects.html",
+    "items": [
+      "/subsite/projects/AMI-cryoEM.html",
+      "/subsite/projects/AmyloGraph2.html",
+      "/subsite/projects/imputomics2.html",
+      "/subsite/projects/LIMAD.html",
+      "/subsite/projects/OneTick.html"
     ]
   }
 ]
