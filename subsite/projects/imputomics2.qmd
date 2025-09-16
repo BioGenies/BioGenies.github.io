@@ -11,12 +11,12 @@ editor:
 **imputomics 2.0: comprehensive framework for missing value imputation in multi-omics data**
 
 **PI**: Jarek  
-**Funding agency**: National Science Center Poland 
-**Programme**: Miniatura 9 
-**Grant ID**: 2025/09/X/NZ7/00157 
-**Start date**: 25 Jun 2025
+**Funding agency**: National Science Center Poland  
+**Programme**: Miniatura 9  
+**Grant ID**: 2025/09/X/NZ7/00157  
+**Start date**: 25 Jun 2025  
 **Duration**: 12 months  
-**Budget**: €49,999.00  
+**Budget**: PLN49,999.00   
 
 Missing values are pervasive in **omics** (genomics, transcriptomics, proteomics, metabolomics) and can compromise downstream analyses. **Missing-value imputation algorithms (MVIAs)** attempt to replace missing entries with plausible estimates. Given the diversity of data types and the sheer number of methods, choosing the right MVIA remains challenging.
 

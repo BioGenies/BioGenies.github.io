@@ -1,0 +1,8 @@
+---
+title: "BioGenies grants"
+listing:
+  contents: subsite/projects
+  sort: "date desc"
+  type: default
+  categories: cloud
+---

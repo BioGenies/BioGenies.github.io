@@ -56,7 +56,7 @@ The work atmosphere here is just incredible. I always felt comfortable and knew 
 
 :::: {.grid}
 :::: {.g-col-3}
-![Mariia Solovianova 🇩🇪/🇺🇦](fig/ppl/ms.jpeg "Mariia Solovianova"){fig-align="left" width="350"}
+![Mariia Solovianova 🇩🇪/🇺🇦](fig/ppl/mr.jpeg "Mariia Solovianova"){fig-align="left" width="350"}
 ::::
 :::: {.g-col-9}
 ::: callout-note

@@ -12,14 +12,12 @@ editor:
 
 **PI**: Valen  
 **Funding agency**: National Science Center Poland  
-**Programme**: Miniatura 9 
+**Programme**: Miniatura 9  
 **Grant ID**: 2025/09/X/NZ7/00600  
-**Start date**:  21 Aug 2025
+**Start date**:  21 Aug 2025  
 **Duration**: 12 months  
-**Budget**: €49,999.00  
+**Budget**: PLN49,999.00   
 
-
-# Overview
 
 Protein aggregation and amyloid deposits are hallmarks of neurodegenerative diseases such as **Alzheimer’s (AD)** and **Parkinson’s (PD)**. Emerging evidence suggests that **microbial proteins** can influence the misfolding of human amyloidogenic proteins (notably **Aβ42** and **α-synuclein**), potentially via the gut–brain axis. **LIMAD** aims to systematically uncover microbial proteins with amyloid potential and evaluate their ability to **interact with and promote aggregation** of Aβ42 and α-synuclein.
 
