@@ -1,0 +1,47 @@
+---
+title: "BioGenies at PTBI 2025 in Białystok! 🧬🎤🥞"
+description: "BioGenies rocked PTBI 2025 in Białystok! 🎉 Michał and Valen gave talks, Mariia, Asia and Jarek flash talks + posters, we joined PTBI 🇵🇱, voted for a new CEO 🗳, and wrapped up (as always in Białystok) with pancakes 🥞."
+date: "09/18/2025"
+categories:
+  - grants
+  - achievements
+  - NCN
+  - amyloids
+#image: "../fig/posts/2025_06_23/1000051274.jpg"
+---
+
+
+🥳 **What a conference!** The **Polish Bioinformatics Society (PTBI) 2025 meeting** in Białystok was an absolute blast 🚀. The days were intense, filled with science 🧬, food 🍲, elections 🗳 and plenty of BioGenies energy 💚.
+
+![](../fig/posts/2025_09_18/1000056741.jpg "BioGenies at PTBI 2025 in Białystok")
+
+---
+
+# 🎤 Talks, posters & flash talks
+
+- **Michał** and **Valen** delivered fantastic talks 💪👏.  
+- **Mariia**, **Asia** and **Jarek** joined the poster + flash talk sessions, presenting their projects and sharing insights like pros! 🖼️🔬  
+
+Special shout-out to **Asia** 🙌: her presentation file got corrupted right before her talk 😱💻💥… but she still gave a **super talk without slides**! 💯🔥 That’s what we call true conference skills 🥷✨.
+
+![](../fig/posts/2025_09_18/IMG_3467.jpeg "Biogenies presenting at PTBI 2025")
+
+---
+
+# 🌍 Joining the Polish Bioinformatics Society 🇵🇱
+
+Beyond the science, PTBI 2025 was also a milestone for BioGenies: 
+
+- We officially **joined the Polish Bioinformatics Society**, becoming part of the national network of bioinformatics researchers.  
+- We also cast our votes 🗳️ in the **election for the society’s new CEO**, contributing to shaping the future of Polish bioinformatics leadership.  
+
+---
+
+# 🍲 Food, food… and more food
+
+As always, PTBI wasn’t just about science, it was also about **eating A LOT** 😋🍝🍰. Coffee breaks, conference dinner, late-night snacks… we powered through it all.  
+
+And since it was Białystok, of course we **ended with pancakes 🥞💚**. A proper BioGenies tradition! 
+
+
+![](../fig/posts/2025_09_18/IMG_0152.png "Pancakes!!!")
