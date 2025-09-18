@@ -3,10 +3,9 @@ title: "BioGenies at PTBI 2025 in Białystok! 🧬🎤🥞"
 description: "BioGenies rocked PTBI 2025 in Białystok! 🎉 Michał and Valen gave talks, Mariia, Asia and Jarek flash talks + posters, we joined PTBI 🇵🇱, voted for a new CEO 🗳, and wrapped up (as always in Białystok) with pancakes 🥞."
 date: "09/18/2025"
 categories:
-  - grants
-  - achievements
-  - NCN
-  - amyloids
+  - conference
+  - PTBI
+  - Poland
 #image: "../fig/posts/2025_06_23/1000051274.jpg"
 ---
 
