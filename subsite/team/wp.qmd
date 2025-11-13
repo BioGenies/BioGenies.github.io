@@ -35,7 +35,7 @@ library(fontawesome)
 ------------------------------------------------------------------------
 
 [`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/werpuc)
-[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0002-6133-0869)
+[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0003-2163-1429)
 [`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/weronika-pucha%C5%82a-831698a4/)
 [`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/werpuc)
 

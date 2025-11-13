@@ -34,7 +34,10 @@ load("../data/bg_df_data.RData")
 library(openalexR)
 library(tidyverse)
 
-full_df_mod <- full_df %>% filter(team != "other")
+full_df_mod <- full_df %>% 
+  filter(team != "other") %>% 
+  mutate(end_date = as.Date(end_date, "%Y-%m-%d"),
+         end_date = if_else(is.na(end_date), today(), end_date))
 
 source("../R/map_dumbbell.R")
 ```

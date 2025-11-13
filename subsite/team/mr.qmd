@@ -37,6 +37,7 @@ library(fontawesome)
 
 [`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:solovianova.mariia@gmail.com)
 [`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/mashasolovey)
+[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0009-0009-5868-6889)
 
 
 # 🚀 **Research stays**

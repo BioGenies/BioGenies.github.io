@@ -74,4 +74,4 @@ format:
       gutter-width: 1.5rem
     # logo: fig/bg_logo.png
 execute:
-  freeze: auto
+  freeze: false

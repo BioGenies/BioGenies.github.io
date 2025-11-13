@@ -3,13 +3,13 @@ title: "BioGenies having fun"
 ---
 
 ```{r message=FALSE, echo=FALSE}
-library(slickR)
-library(tidyverse)
-
-mushroom <- list.files(path = "fig/random/", full.names = TRUE)
-
-slickR(obj = mushroom, height = 500) + 
-  settings(dots = TRUE)
+# library(slickR)
+# library(tidyverse)
+# 
+# mushroom <- list.files(path = "fig/random/", full.names = TRUE)
+# 
+# slickR(obj = mushroom, height = 500) + 
+#   settings(dots = TRUE)
 ```
 
 <!-- ![](fig/random/20240131_144914.jpg) -->

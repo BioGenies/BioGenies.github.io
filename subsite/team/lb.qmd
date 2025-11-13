@@ -30,11 +30,12 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
 
-<!-- # 📱 **Contact** -->
+# 📱 **Contact**
 
-<!-- ------------------------------------------------------------------------ -->
+------------------------------------------------------------------------
 
-<!-- stringr::str_flatten(contact_info(whois)$new_col) -->
+[`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/ErdaradunGaztea)
+
 
 <!-- # 🚀 **Research stays** -->
 
