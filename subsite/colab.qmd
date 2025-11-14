@@ -18,7 +18,7 @@ title: "BioGenies collaborators"
 [![Ronja Tittel](fig/ppl/rt.jpg "Ronja Tittel"){}](colab/rt.html)
 :::
 
-### ![](fig/logo/UW_logo.png){width="10%"} University of Porto
+### ![](fig/logo/UP_logo.png){width="10%"} University of Porto
 ::: {layout-ncol=5}
 [![Martyna Podlasiak](fig/temp_profile.png "Martyna Podlasiak"){}](team/mpo.html)
 :::
