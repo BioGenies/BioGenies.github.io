@@ -24,7 +24,7 @@ full_df %>%
                 presenting = whois_full_name %>% as.factor(), 
                 start_date = start_date %>% as.Date(., format = "%d.%m.%Y"),
                 end_date = end_date %>% as.Date(., format = "%d.%m.%Y")) %>%
-  arrange(desc(end_date)) %>% 
+  arrange(desc(year)) %>% 
   select(event, year, place, type, title, presenting) %>% 
   drop_na(presenting) %>% 
   DT::datatable()

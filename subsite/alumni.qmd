@@ -3,6 +3,8 @@ title: "Former BioGenies members"
 ---
 
 ::: {layout-ncol=7}
+[![Sonor Kubkowski ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/ppl/sonor.jpg "Dawid (Sonor) Kubkowski"){}](team/sk.html)
+
 [![Agnieszka Barbach](fig/temp_profile.png "temporary profile pic"){}]()
 
 [![Filip Gaj](fig/ppl/fg.jpeg "Filip Gaj"){}]()

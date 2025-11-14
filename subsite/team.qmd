@@ -15,9 +15,7 @@ title: "BioGenies team"
 
 [![Valentín Iglesias ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/vi.png "Valentín Iglesias"){}](team/vi.html)
 
-[![Sonor Kubkowski ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/ppl/sonor.jpg "Dawid (Sonor) Kubkowski"){}](team/sk.html)
-
-[![Jakub Kołodziejczyk ![](fig/logo/G_logo.png "Google"){width='80'}](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}](team/jk.html)
+[![Jakub Kołodziejczyk ![](fig/logo/G_logo.png "Google"){width='70'}](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}](team/jk.html)
 
 [![Joanna Pokora ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/ppl/jp.jpeg "Joanna Pokora"){}](team/jp.html)
 
@@ -36,14 +34,14 @@ library(tidyverse)
 
 full_df_mod <- full_df %>% 
   filter(team != "other") %>% 
-  mutate(end_date = as.Date(end_date, "%Y-%m-%d"),
-         end_date = if_else(is.na(end_date), today(), end_date))
+  mutate(end_date = as.Date(end_date, "%Y-%m-%d"))
+         # end_date = if_else(is.na(end_date), today(), end_date))
 
 source("../R/map_dumbbell.R")
 ```
 
 ### 🚀 Our mobility
-```{r, echo=FALSE, message=FALSE, fig.width=12, fig.height=8}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width=12, fig.height=8}
 pw_plot
 ```
 

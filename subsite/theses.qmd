@@ -1,0 +1,72 @@
+---
+title: "Theses and dissertations"
+---
+  
+### 2025
+::: {layout-ncol=3}
+**Dawid Sonor Kubkowski** <br> 
+MSc thesis <br> 
+*["Biomedical Text Classification with Pre-trained Language Models"](download_file/thesis/sk_msc.pdf)*
+
+**Weronika Puchała** <br> 
+PhD dissertation <br> 
+*["High-resolution analysis of hydrogen/deuterium exchange monitored by mass spectrometry experiment data"](download_files/dissertation/wp_phd.pdf)*
+:::  
+  
+### 2023
+::: {layout-ncol=3}
+**Jarek Chilimoniuk** <br> 
+PhD dissertation <br> 
+*["Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB"](download_files/dissertation/jc_phd.pdf)*
+
+<!-- **Laura Bąkała** <br>  -->
+<!-- MSc thesis <br>  -->
+<!-- *[""](download_files/dissertation/)* -->
+::: 
+
+<!-- ### 2022 -->
+<!-- ::: {layout-ncol=3} -->
+<!-- **Krysia Grzesiak** <br>  -->
+<!-- MSc thesis <br>  -->
+<!-- *[""](download_files/dissertation/)* -->
+
+<!-- **Jakub Kołodziejczyk** <br>  -->
+<!-- MSc thesis <br>  -->
+<!-- *[""](download_files/dissertation/)* -->
+
+<!-- **Dominik Rafacz** <br>  -->
+<!-- MSc thesis <br>  -->
+<!-- *[""](download_files/dissertation/)* -->
+
+<!-- **Jadwiga Słowik** <br>  -->
+<!-- MSc thesis <br>  -->
+<!-- *[""](download_files/dissertation/)* -->
+
+<!-- **Anita Karaszewska** <br>  -->
+<!-- BSc thesis <br>  -->
+<!-- *[""](download_files/dissertation/)* -->
+
+<!-- **Natalia Pludra** <br>  -->
+<!-- BSc thesis <br>  -->
+<!-- *[""](download_files/dissertation/)* -->
+
+<!-- **Jan** <br>  -->
+<!-- MSc thesis <br>  -->
+<!-- *[""](download_files/dissertation/)* -->
+<!-- :::  -->
+
+<!-- ### 2018 -->
+<!-- ::: {layout-ncol=3} -->
+<!-- **Anna Lassota** <br>  -->
+<!-- BSc thesis <br>  -->
+<!-- *[""](download_files/dissertation/)* -->
+
+<!-- **Dominika Kozakiewicz** <br>  -->
+<!-- BSc thesis <br>  -->
+<!-- *[""](download_files/dissertation/)* -->
+
+<!-- **Joanna Sikorska** <br>  -->
+<!-- BSc thesis <br>  -->
+<!-- *[""](download_files/dissertation/)* -->
+<!-- :::  -->
+

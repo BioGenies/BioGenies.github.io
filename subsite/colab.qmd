@@ -11,6 +11,18 @@ title: "BioGenies collaborators"
 [![Carlos Pintado-Grima](fig/ppl/cp.png "Carlos Pintado-Grima"){}](colab/cpg.html)
 :::
 
+### ![](fig/logo/BTU_logo.png){width="10%"} Brandenburg University of Technology Cottbus-Senftenberg
+::: {layout-ncol=5}
+[![Stefan Rödiger](fig/temp_profile.png "temporary profile pic"){}]()
+
+[![Ronja Tittel](fig/ppl/rt.jpg "Ronja Tittel"){}](colab/rt.html)
+:::
+
+### ![](fig/logo/UW_logo.png){width="10%"} University of Porto
+::: {layout-ncol=5}
+[![Martyna Podlasiak](fig/temp_profile.png "Martyna Podlasiak"){}](team/mpo.html)
+:::
+
 ### ![](fig/logo/QI_logo.png){width="10%"} Quadram Institute
 ::: {layout-ncol=5}
 [![Rafał Kolenda](fig/temp_profile.png "temporary profile pic"){}]()
@@ -18,9 +30,7 @@ title: "BioGenies collaborators"
 [![Katarzyna (Kasia) Sidorczuk](fig/temp_profile.png "temporary profile pic"){}](colab/ks.html)
 :::
 
-### ![](fig/logo/BTU_logo.png){width="10%"} Brandenburg University of Technology Cottbus-Senftenberg
+### ![](fig/logo/UW_logo.png){width="10%"} University of Warsaw
 ::: {layout-ncol=5}
-[![Stefan Rödiger](fig/temp_profile.png "temporary profile pic"){}]()
-
-[![Ronja Tittel](fig/ppl/rt.jpg "Ronja Tittel"){}](colab/rt.html)
+[![Julia Szkóp](fig/temp_profile.png "Julia Szkóp"){}](team/jsz.html)
 :::

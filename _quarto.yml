@@ -9,6 +9,12 @@ website:
   title: "BioGenies"
   reader-mode: true
   page-footer: "&copy; 2024 Website developed by BioGenies team."
+  cookie-consent: false
+    # style: simple
+  google-analytics:
+    tracking-id: "G-JHTF9WDBJG"
+    anonymize-ip: true
+    storage: "none"
   navbar:
     background: primary
     search: true
@@ -46,6 +52,7 @@ website:
       #   menu: 
       - href: subsite/publications.qmd
       - href: subsite/conferences.qmd
+      - href: subsite/theses.qmd
     tools:
       # - icon: twitter-x
       #   href: https://twitter.com/burdukiewicz
