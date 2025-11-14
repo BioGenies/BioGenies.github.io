@@ -6,7 +6,7 @@ title: "Theses and dissertations"
 ::: {layout-ncol=3}
 **Dawid Sonor Kubkowski** <br> 
 MSc thesis <br> 
-*["Biomedical Text Classification with Pre-trained Language Models"](download_file/thesis/sk_msc.pdf)*
+*["Biomedical Text Classification with Pre-trained Language Models"](download_files/thesis/sk_msc.pdf)*
 
 **Weronika Puchała** <br> 
 PhD dissertation <br> 
