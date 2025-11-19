@@ -1,0 +1,74 @@
+---
+title: 'Martyna Podlasiak'
+sidebar: false
+format:
+  html:
+    grid:
+      sidebar-width: 0px
+      body-width: 1500px
+      margin-width: 300px
+      gutter-width: 1.5rem
+knitr:
+  opts_chunk:
+    out.width: '95%'
+---
+    
+```{r, echo=FALSE, message=FALSE,include=FALSE}
+load('../../data/bg_df_data.RData')
+whois <- 'Martyna'
+
+source('../../R/resume_fun.R')
+openalex_id <- basic_info(whois)$openalex_id
+library(fontawesome)
+```
+
+
+
+<!-- # 📝 **Bio** -->
+
+<!-- ------------------------------------------------------------------------ -->
+
+<!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
+
+<!-- # 📱 **Contact** -->
+
+<!-- ------------------------------------------------------------------------ -->
+
+<!-- stringr::str_flatten(contact_info(whois)$new_col) -->
+
+<!-- # 🚀 **Research stays** -->
+
+<!-- ------------------------------------------------------------------------ -->
+
+<!-- ```{r, echo=FALSE, message=FALSE} -->
+<!-- research_stay(whois) -->
+<!-- ``` -->
+
+<!-- # 💻🧫 **Experience** -->
+  
+<!-- ------------------------------------------------------------------------ -->
+    
+<!-- ```{r, echo=FALSE, message=FALSE} -->
+<!-- work(whois) -->
+<!-- ``` -->
+
+<!-- # 🎓 **Education** -->
+
+<!-- ------------------------------------------------------------------------ -->
+
+<!-- `r stringr::str_flatten(education(whois)$new_col)` -->
+
+<!-- # 👏🏻 **Conferences, workshops, training schools** 🤝🏻  -->
+
+<!-- ------------------------------------------------------------------------ -->
+
+<!-- ```{r, echo=FALSE, message=FALSE} -->
+<!-- conf_work(whois) -->
+<!-- ``` -->
+
+<!-- # 🧑🏻‍🔬 **Other activities** -->
+
+<!-- ------------------------------------------------------------------------ -->
+
+<!-- `r stringr::str_flatten(other_act(whois)$new_col)` -->
+

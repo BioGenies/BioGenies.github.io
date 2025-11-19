@@ -32,5 +32,5 @@ title: "BioGenies collaborators"
 
 ### ![](fig/logo/UW_logo.png){width="10%"} University of Warsaw
 ::: {layout-ncol=5}
-[![Julia Szkóp](fig/temp_profile.png "Julia Szkóp"){}](team/jsz.html)
+[![Julia Szkóp](fig/ppl/jsz.jpeg "Julia Szkóp"){}](team/jsz.html)
 :::

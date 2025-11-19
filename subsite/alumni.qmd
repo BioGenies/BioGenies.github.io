@@ -2,27 +2,31 @@
 title: "Former BioGenies members"
 ---
 
-::: {layout-ncol=7}
+::: {layout-ncol=6}
 [![Sonor Kubkowski ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/ppl/sonor.jpg "Dawid (Sonor) Kubkowski"){}](team/sk.html)
 
-[![Agnieszka Barbach](fig/temp_profile.png "temporary profile pic"){}]()
+[![Agnieszka Barbach ![](fig/logo/PWr_logo.png "Wrocław University of Science and Technology ­w"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Filip Gaj](fig/ppl/fg.jpeg "Filip Gaj"){}]()
+[![Filip Gaj ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/ppl/fg.jpeg "Filip Gaj"){}]()
 
-[![Katarzyna Hubicka](fig/temp_profile.png "temporary profile pic"){}]()
+[![Katarzyna Hubicka ![](fig/logo/PWr_logo.png "Wrocław University of Science and Technology ­"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Dominika Kozakiewicz](fig/temp_profile.png "temporary profile pic"){}]()
+[![Anita Karaszewska ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Anna Lassota](fig/temp_profile.png "temporary profile pic"){}]()
+[![Dominika Kozakiewicz ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Dominik Nowakowski](fig/temp_profile.png "temporary profile pic"){}]()
+[![Anna Lassota ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Filip Pietluch](fig/temp_profile.png "temporary profile pic"){}]()
+[![Dominik Nowakowski ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Dominik Rafacz](fig/temp_profile.png "temporary profile pic"){}]()
+[![Filip Pietluch ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Joanna Sikorska](fig/temp_profile.png "temporary profile pic"){}]()
+[![Natalia Pludra ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
 
-[![Jadwiga Słowik](fig/temp_profile.png "temporary profile pic"){}]()
+[![Dominik Rafacz ![](fig/logo/PW_logo.png "Warsaw University of Technology"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
+
+[![Joanna Sikorska ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
+
+[![Jadwiga Słowik ![](fig/logo/PW_logo.png "Warsaw University of Technology"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
 
 :::
