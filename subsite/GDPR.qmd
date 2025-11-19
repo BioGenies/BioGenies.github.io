@@ -1,0 +1,154 @@
+---
+title: "# Privacy policy for biogenies.info"
+format:
+  html:
+    toc: true
+    toc-title: "On this page"
+---
+
+**Last updated:** 2025  
+
+Welcome to **biogenies.info**. This Privacy Policy explains how we collect and process personal data when you visit our website. We are committed to protecting your privacy and complying with the **General Data Protection Regulation (GDPR)** and applicable EU/Polish data protection laws.
+
+By using this Website, you agree to the terms of this Privacy Policy.
+
+---
+
+# 1. Data controller
+
+**BioGenies Team**  
+Medical University of Białystok  
+Białystok, Poland  
+
+**Email:** *biogenies@umb.edu.pl*
+
+We act as the data controller for the information collected on this Website.
+
+---
+
+# 2. Data we collect
+
+We do **not** collect personally identifiable information (such as names or emails).  
+The only data collected is **anonymous website usage data** using **Google Analytics 4 (GA4)**.
+
+## Information collected via Google Analytics may include:
+- pages and content viewed  
+- time spent on pages  
+- browser, operating system, and device type  
+- language settings  
+- approximate geographic region (city-level or broader)  
+- referring source (e.g., search engine or link)  
+- interaction metrics (scrolling, clicks)
+
+## We explicitly **do not** collect:
+- names, emails, addresses, or user accounts  
+- precise geolocation  
+- advertising identifiers  
+- marketing profiles  
+
+GA4 uses aggregated and pseudonymized data and does **not** store full IP addresses.
+
+---
+
+# 3. Cookies
+
+The Website uses only **analytics cookies** for understanding visitor traffic.
+
+## Types of cookies used:
+- **Google Analytics cookies** (first-party)
+  - Purpose: usage statistics & traffic monitoring  
+  - Storage duration: session-based to up to 2 years  
+  - Category: non-essential cookies  
+
+We do **not** use advertising, remarketing or tracking cookies beyond analytics.
+
+---
+
+# 4. Legal basis for processing
+
+Under GDPR, the legal basis for using analytics cookies is:
+
+### **Your consent (GDPR Art. 6(1)(a))**
+
+You may accept or reject analytics cookies through our cookie consent banner.  
+If you decline, analytics cookies will not be loaded.
+
+You may withdraw consent at any time (see Section 8).
+
+---
+
+# 5. How Google Analytics processes data
+
+Google Analytics is provided by:
+
+**Google Ireland Limited**  
+Gordon House, Barrow Street, Dublin 4, Ireland  
+
+Google acts as our **data processor**.
+
+Your data may be transferred to the United States with GDPR-compliant safeguards, such as the EU–US Data Privacy Framework or Standard Contractual Clauses.
+
+Google does **not** use our analytics data for advertising or profiling.
+
+For more information, see Google’s privacy policy:  
+https://policies.google.com/privacy
+
+---
+
+# 6. Data retention
+
+We retain aggregated analytics data for **up to 14 months**, after which it is automatically deleted by Google Analytics.
+
+We do not store any raw user data on our servers.
+
+---
+
+# 7. Your rights under GDPR
+
+You have the following rights:
+
+- **Right of access** (information we collect)  
+- **Right to rectification**  
+- **Right to erasure** ("right to be forgotten")  
+- **Right to restrict processing**  
+- **Right to object**  
+- **Right to withdraw consent at any time**
+
+## How to withdraw cookie consent:
+- Clear cookies in your browser settings, or  
+- Use the “cookie preferences” link (if shown in the banner)
+
+For any GDPR-related requests, contact us at the email above.
+
+---
+
+# 8. Third-party sharing
+
+We do **not** sell, trade, or disclose personal data to third parties.  
+The only external service receiving pseudonymous usage data is **Google Analytics**.
+
+---
+
+# 9. External links
+
+Our Website may link to external sites.  
+We are not responsible for the content or privacy practices of those websites.
+
+---
+
+# 10. Policy updates
+
+We may update this Privacy Policy from time to time.  
+The latest version will always be available at:
+
+**https://biogenies.info/privacy**
+
+---
+
+# 11. Contact
+
+If you have any questions about this Privacy Policy or GDPR compliance, please contact:
+
+**BioGenies Team**  
+Medical University of Białystok  
+Email: *biogenies@umb.edu.pl*

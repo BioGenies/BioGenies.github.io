@@ -1,0 +1,15 @@
+{
+  "hash": "4af12c5bf16d4cddb76fd4b16833cd27",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: '(Dawid) Sonor Kubkowski'\nsidebar: false\nformat:\n  html:\n    grid:\n      sidebar-width: 0px\n      body-width: 1500px\n      margin-width: 300px\n      gutter-width: 1.5rem\nknitr:\n  opts_chunk:\n    out.width: '95%'\n---\n    \n\n\n\n\n<!-- # 📝 **Bio** -->\n\n<!-- ------------------------------------------------------------------------ -->\n\n<!-- NA -->\n\n<!-- # 📱 **Contact** -->\n\n<!-- ------------------------------------------------------------------------ -->\n\n<!-- stringr::str_flatten(contact_info(whois)$new_col) -->\n\n<!-- # 🚀 **Research stays** -->\n\n<!-- ------------------------------------------------------------------------ -->\n\n<!-- ```{r, echo=FALSE, message=FALSE} -->\n<!-- research_stay(whois) -->\n<!-- ``` -->\n\n<!-- # 💻🧫 **Experience** -->\n  \n<!-- ------------------------------------------------------------------------ -->\n    \n<!-- ```{r, echo=FALSE, message=FALSE} -->\n<!-- work(whois) -->\n<!-- ``` -->\n\n<!-- # 🎓 **Education** -->\n\n<!-- ------------------------------------------------------------------------ -->\n\n<!--  -->\n\n<!-- # 👏🏻 **Conferences, workshops, training schools** 🤝🏻  -->\n\n<!-- ------------------------------------------------------------------------ -->\n\n<!-- ```{r, echo=FALSE, message=FALSE} -->\n<!-- conf_work(whois) -->\n<!-- ``` -->\n\n<!-- # 🧑🏻‍🔬 **Other activities** -->\n\n<!-- ------------------------------------------------------------------------ -->\n\n<!--  -->\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

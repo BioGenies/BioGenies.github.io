@@ -10,12 +10,12 @@ website:
   reader-mode: true
   page-footer: "&copy; 2024 Website developed by BioGenies team."
   cookie-consent:
-    type: implied
+    type: express
     style: simple
   google-analytics:
     tracking-id: "G-JHTF9WDBJG"
-    anonymize-ip: false
     storage: "cookies"
+    policy-url: subsite/GDPR.qmd
   navbar:
     background: primary
     search: true
