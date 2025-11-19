@@ -9,12 +9,13 @@ website:
   title: "BioGenies"
   reader-mode: true
   page-footer: "&copy; 2024 Website developed by BioGenies team."
-  cookie-consent: false
-    # style: simple
+  cookie-consent:
+    type: implied
+    style: simple
   google-analytics:
     tracking-id: "G-JHTF9WDBJG"
-    anonymize-ip: true
-    storage: "none"
+    anonymize-ip: false
+    storage: "cookies"
   navbar:
     background: primary
     search: true
@@ -46,6 +47,7 @@ website:
           - subsite/projects/AmyloGraph2.qmd
           - subsite/projects/LIMAD.qmd
           - subsite/projects/imputomics2.qmd
+          - subsite/projects/FIBREA.qmd
       - href: subsite/tools.qmd
       - href: subsite/seminars.qmd
       # - text: "Achievements"

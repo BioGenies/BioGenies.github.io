@@ -1,0 +1,17 @@
+---
+title: "FIBREA"
+description: "Functional Interfaces and Biomolecular Rules for Engineered Amyloids"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+**PI**:  
+**Funding agency**:  
+**Programme**:  
+**Grant ID**: 
+**Start date**:  
+**Duration**:   
+**Budget**:   
+
+

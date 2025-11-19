@@ -648,7 +648,7 @@
     "href": "index_projects.html",
     "title": "BioGenies grants",
     "section": "",
-    "text": "AMI‑CryoML\n\n\nIntegrating cryo‑EM and ML to decode amyloid fibril polymorphism.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAmyloGraph 2.0\n\n\nExpanding AmyloGraph with interacion modulators database and ML prediction models.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nimputomics 2.0\n\n\nExtending imputomics 1.0 from metabolomics to multi-omics: a standardized wrapper around state-of-the-art MVI algorithms, a curated repository, and a rigorous benchmarking suite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLIMAD\n\n\nMapping microbe-derived amyloids and their interactions with Aβ42 and α-synuclein to illuminate new avenues against Alzheimer’s and Parkinson’s\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOneTick\n\n\nPreventing, detecting and treating tick-borne diseases in urban environments.\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "AMI‑CryoML\n\n\nIntegrating cryo‑EM and ML to decode amyloid fibril polymorphism.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAmyloGraph 2.0\n\n\nExpanding AmyloGraph with interacion modulators database and ML prediction models.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFIBREA\n\n\nFunctional Interfaces and Biomolecular Rules for Engineered Amyloids\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nimputomics 2.0\n\n\nExtending imputomics 1.0 from metabolomics to multi-omics: a standardized wrapper around state-of-the-art MVI algorithms, a curated repository, and a rigorous benchmarking suite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLIMAD\n\n\nMapping microbe-derived amyloids and their interactions with Aβ42 and α-synuclein to illuminate new avenues against Alzheimer’s and Parkinson’s\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOneTick\n\n\nPreventing, detecting and treating tick-borne diseases in urban environments.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -1335,5 +1335,12 @@
     "title": "Liquid-liquid phase separation",
     "section": "Projects",
     "text": "Projects"
+  },
+  {
+    "objectID": "subsite/projects/FIBREA.html",
+    "href": "subsite/projects/FIBREA.html",
+    "title": "FIBREA",
+    "section": "",
+    "text": "PI:\nFunding agency:\nProgramme:\nGrant ID: Start date:\nDuration:\nBudget:"
   }
 ]
