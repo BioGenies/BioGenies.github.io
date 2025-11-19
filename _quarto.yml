@@ -10,7 +10,7 @@ website:
   reader-mode: true
   page-footer: "&copy; 2025 Website developed by BioGenies team.<br><a href='subsite/GDPR.qmd'>Privacy Policy</a>"
   cookie-consent:
-    type: express
+    type: implied
     style: simple
   google-analytics:
     tracking-id: "G-JHTF9WDBJG"
