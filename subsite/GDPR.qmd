@@ -1,5 +1,5 @@
 ---
-title: "# Privacy policy for biogenies.info"
+title: "Privacy policy for biogenies.info"
 format:
   html:
     toc: true

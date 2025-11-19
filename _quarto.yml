@@ -8,7 +8,7 @@ website:
   twitter-card: true
   title: "BioGenies"
   reader-mode: true
-  page-footer: "&copy; 2024 Website developed by BioGenies team."
+  page-footer: "&copy; 2025 Website developed by BioGenies team.<br><a href='subsite/GDPR.qmd'>Privacy Policy</a>"
   cookie-consent:
     type: express
     style: simple
@@ -68,7 +68,7 @@ website:
     tool-size: large
 format:
   html:
-    css: ['navbar_hover.css', 'sidebar_mods.css']
+    css: ['navbar_hover.css', 'sidebar_mods.css', 'styles.css']
     page-layout: full
     theme:
       light: [united, quarto_palette.scss]
