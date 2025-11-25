@@ -17,6 +17,8 @@ editor:
 **Start date**: 1 Feb 2026  
 **Duration**: 24 months  
 **Budget**: €181,136.16  
+**Grant agreement ID**: 101244706  
+**CORDIS - EU research results**: [https://cordis.europa.eu/project/id/101244706](https://cordis.europa.eu/project/id/101244706)  
 
 Neurodegenerative disorders such as Alzheimer's, Parkinson’s, and prion diseases are marked by protein misfolding into amyloid fibrils. The structural diversity (polymorphism) of these fibrils critically affects their pathology, yet remains largely unexplored. AMI‑CryoML bridges cryo‑EM and machine learning to probe how small molecule modulators influence aggregation kinetics and amyloid structures.
 

@@ -18,6 +18,9 @@ editor:
 **Start date**: 1 Jan 2026  
 **Duration**: 48 months  
 **Budget**: €450,900.00  
+**Grant agreement ID**: 101236599  
+**CORDIS - EU research results**: [https://cordis.europa.eu/project/id/101236599](https://cordis.europa.eu/project/id/101236599)  
+**doi**: [10.3030/101236599](https://doi.org/10.3030/101236599)  
 
 Tick‑borne diseases (TBDs) such as Lyme disease and TBE are on the rise in Europe due to shifts in climate and urbanization. In 2022, some 24% of Europeans resided in high‑risk Lyme areas, and the ECDC estimated ~360,000 cases in 2016, costing about €280M annually. OneTick advances prevention, detection and treatment within a One Health framework, targeting urban and peri‑urban areas.
 

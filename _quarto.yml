@@ -8,7 +8,7 @@ website:
   twitter-card: true
   title: "BioGenies"
   reader-mode: true
-  page-footer: "&copy; 2025 Website developed by BioGenies team.<br><a href='subsite/GDPR.qmd'>Privacy Policy</a>"
+  page-footer: "&copy; 2025 Website developed by BioGenies team.<br><a href='/subsite/GDPR.html'>Privacy Policy</a>"
   cookie-consent:
     type: implied
     style: simple
@@ -26,11 +26,11 @@ website:
         href: index.qmd
       - text: "Team"
         menu: 
-          - subsite/about.qmd
           - subsite/team.qmd
           - subsite/colab.qmd
           - subsite/guest.qmd
           - subsite/alumni.qmd
+          - subsite/about.qmd
           # - subsite/hobby.qmd
           # - subsite/fun.qmd
       - text: "Our topics" 
@@ -56,8 +56,10 @@ website:
       - href: subsite/conferences.qmd
       - href: subsite/theses.qmd
     tools:
-      # - icon: twitter-x
-      #   href: https://twitter.com/burdukiewicz
+      - icon: linkedin
+        href: https://www.linkedin.com/company/102939559/
+      - icon: twitter-x
+        href: https://twitter.com/burdukiewicz
       - icon: github
         href: https://github.com/BioGenies
   sidebar:

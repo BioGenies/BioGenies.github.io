@@ -1,0 +1,533 @@
+---
+title: "Functional Interfaces and Biomolecular Rules for Engineered Amyloids"
+sidebar: false
+format:
+  html:
+    toc: true
+    toc-title: "Navigate"
+    toc-location: right
+    number-sections: false
+    smooth-scroll: true
+    page-layout: full
+    anchor-sections: true
+lang: en
+title-block-banner: true
+title-block-style: default
+include-in-header:
+  text: |
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+    <style>
+      .quarto-title-block .quarto-title-banner {
+        background: radial-gradient(circle at top left, #1b4965, #0b132b);
+        color: #f8f9fa;
+        border-bottom: 3px solid rgba(255,255,255,0.15);
+      }
+      .quarto-title-block .title, 
+      .quarto-title-block .subtitle {
+        color: #f8f9fa;
+      }
+      .hero-strip {
+        margin-top: 1.25rem;
+        padding: 1rem 1.5rem;
+        border-radius: 0.85rem;
+        background: rgba(11, 19, 43, 0.03);
+        border: 1px solid rgba(11, 19, 43, 0.05);
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+        align-items: center;
+        font-size: 0.95rem;
+      }
+      .hero-pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        padding: 0.25rem 0.8rem;
+        border-radius: 999px;
+        background: #1b4965;
+        color: #fff;
+        font-size: 0.85rem;
+        box-shadow: 0 0.1rem 0.35rem rgba(0,0,0,0.15);
+      }
+      .hero-pill.secondary {
+        background: #5c6f82;
+      }
+      .hero-pill .bi {
+        font-size: 1rem;
+      }
+      .hero-text {
+        margin-left: auto;
+        opacity: 0.9;
+      }
+      .tagline {
+        font-size: 1.05rem;
+        font-weight: 500;
+        margin-top: 0.6rem;
+        color: #444;
+      }
+      .section-intro {
+        font-size: 1.02rem;
+        color: #555;
+      }
+      .pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.3rem;
+        padding: 0.15rem 0.7rem;
+        border-radius: 999px;
+        font-size: 0.8rem;
+        border: 1px solid rgba(0,0,0,0.08);
+        background: #f8f9fa;
+        color: #555;
+        margin-right: 0.25rem;
+        margin-bottom: 0.25rem;
+      }
+      .pill .bi {
+        font-size: 0.9rem;
+      }
+      .wp-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 1.25rem;
+        margin-top: 0.5rem;
+      }
+      .wp-card {
+        background: #ffffff;
+        border-radius: 1rem;
+        padding: 1rem 1.1rem;
+        border: 1px solid rgba(0,0,0,0.06);
+        box-shadow: 0 0.4rem 1.1rem rgba(15, 23, 42, 0.04);
+        transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+        position: relative;
+        overflow: hidden;
+      }
+      .wp-card::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: radial-gradient(circle at top right, rgba(27,73,101,0.08), transparent 55%);
+        opacity: 0;
+        transition: opacity 0.25s ease;
+        pointer-events: none;
+      }
+      .wp-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 0.7rem 1.4rem rgba(15, 23, 42, 0.09);
+        border-color: rgba(27,73,101,0.25);
+      }
+      .wp-card:hover::before {
+        opacity: 1;
+      }
+      .wp-label {
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.09em;
+        color: #6c757d;
+        margin-bottom: 0.15rem;
+      }
+      .wp-title {
+        font-weight: 600;
+        margin-bottom: 0.25rem;
+        color: #1b4965;
+      }
+      .wp-meta {
+        font-size: 0.8rem;
+        color: #777;
+        margin-bottom: 0.4rem;
+      }
+      .wp-card ul {
+        padding-left: 1.1rem;
+        margin-bottom: 0.4rem;
+      }
+      .wp-card li {
+        margin-bottom: 0.15rem;
+      }
+      .badge-soft {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.25rem;
+        font-size: 0.78rem;
+        padding: 0.15rem 0.55rem;
+        border-radius: 999px;
+        background: rgba(27,73,101,0.09);
+        color: #1b4965;
+        margin-right: 0.25rem;
+      }
+      .badge-soft .bi {
+        font-size: 0.85rem;
+      }
+      .partner-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 1.1rem;
+      }
+      .partner-card {
+        border-radius: 0.9rem;
+        padding: 0.9rem 1rem;
+        border: 1px solid rgba(0,0,0,0.05);
+        background: #ffffff;
+        box-shadow: 0 0.45rem 0.9rem rgba(15, 23, 42, 0.04);
+        transition: transform 0.16s ease, box-shadow 0.16s ease;
+      }
+      .partner-card:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 0.7rem 1.4rem rgba(15, 23, 42, 0.09);
+      }
+      .partner-name {
+        font-weight: 600;
+        margin-bottom: 0.15rem;
+      }
+      .partner-role {
+        font-size: 0.85rem;
+        color: #6c757d;
+        margin-bottom: 0.35rem;
+      }
+      .callout-fibrea {
+        border-left-color: #1b4965 !important;
+      }
+      .impact-row {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 1rem;
+      }
+      .impact-card {
+        padding: 0.85rem 1rem;
+        border-radius: 0.9rem;
+        background: #f8fafc;
+        border: 1px solid rgba(148, 163, 184, 0.4);
+        font-size: 0.95rem;
+      }
+      .impact-card h4 {
+        margin-top: 0;
+        font-size: 1rem;
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+      }
+      .impact-card h4 .bi {
+        font-size: 1.1rem;
+        color: #1b4965;
+      }
+      footer.quarto-footer {
+        border-top: 1px solid rgba(0,0,0,0.05);
+      }
+      .contact-links a {
+        margin-right: 0.5rem;
+      }
+      @media (max-width: 768px) {
+        .hero-strip {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+        .hero-text {
+          margin-left: 0;
+        }
+      }
+    </style>
+---
+
+::: {.hero-strip}
+<span class="hero-pill">
+  <i class="bi bi-grid-3x3-gap-fill"></i> M-ERA.NET Call 2025 – Functional materials
+</span>
+<span class="hero-pill secondary">
+  <i class="bi bi-hourglass-split"></i> Duration: 36 months · TRL 1 → 3
+</span>
+<br><br>
+<span class="hero-text">
+  <strong>Coordinator:</strong> Medical University of Białystok, Poland
+</span>
+:::
+
+<div class="tagline">
+Designing programmable, curli-based amyloid materials through molecular grammar, simulations and biofabrication.
+</div>
+
+---
+
+
+![](subsite/fig/graphical_abstracts/FIBREA.png)
+
+## Project overview
+
+FIBREA tackles a central challenge in functional materials: **how to design amyloid-based biomaterials rationally**, rather than by trial and error.
+
+We focus on **curli-based functional amyloid materials (CFAMs)**, engineered variants of CsgA that:  
+
+- self-assemble into fibrils with **controllable morphology**  
+- remain compatible with **bacterial secretion** and **intracellular inhibition**  
+- carry modular **functional domains** such as fluorophores or enzymes  
+
+The core idea is to learn a **molecular grammar** that links CFAM sequence features to fibril properties, co-assembly behavior, and production constraints.
+
+::: {.callout-note.callout-fibrea}
+### Project at a glance
+- **Acronym:** FIBREA  
+- **Call:** M-ERA.NET 2025 – functional materials  
+- **Duration:** 36 months  
+- **TRL:** 1 → 3  
+- **Main outputs:**  
+  - Molecular grammar for CFAM design  
+  - Coarse-grained simulation framework (CALVADOS-based)  
+  - Optimized bacterial expression system  
+  - Fluorescent and catalytic CFAM prototypes  
+:::
+
+---
+
+## Objectives
+
+:::{.section-intro}
+FIBREA builds a full **design–build–test–learn** loop for amyloid materials.
+:::
+
+- Develop a **generalizable molecular grammar** for stable CFAMs with tunable self-assembly.
+- Encode compatibility with:
+  - **curli secretion machinery (CsgEFG)**
+  - **intracellular chaperones** (CsgC, Spy)
+- Model CFAM assembly and inhibition using **coarse-grained simulations** (CALVADOS).
+- Optimize a **bacterial expression system** for high-yield CFAM production.
+- Demonstrate:
+  - **fluorescent CFAMs** (GFP/YFP, including FRET-based co-assembly)
+  - **enzymatic CFAMs** for multi-step catalytic cascades.
+- Advance the overall system from **TRL 1 to TRL 3**.
+
+---
+
+## Concept and approach
+
+:::{.section-intro}
+FIBREA combines **AI**, **physics-based simulations** and **wet-lab validation** into a single workflow.
+:::
+
+- **Molecular grammar (WP1)**  
+  - Conditional denoising diffusion model trained on > 43 000 curli operons.  
+  - Encodes secretion compatibility, inhibition susceptibility, and fibrillization behavior.
+
+- **Coarse-grained simulations (WP2)**  
+  - CALVADOS used to simulate nucleation, growth, and polymorphism of CFAM fibrils.  
+  - Outputs structural descriptors (contact maps, stiffness, solvent exposure) feeding back into the grammar.
+
+- **Expression and production (WP3)**  
+  - Artificial gene design, codon optimization, fermentation strategy comparison, purification workflows.
+
+- **Structural and biophysical validation (WP4)**  
+  - ThT, Congo Red, Amytracker, CD, FTIR, TEM, AFM, cryo-EM.  
+  - In vitro testing of CsgC variants as inhibitors.
+
+- **Functional CFAMs (WP5)**  
+  - Fluorescent CFAMs for tracking and FRET analyses.  
+  - Dual-enzyme CFAMs as **molecular assembly lines**.
+
+Only **independently reproduced fibrillization results** (Lithuanian labs) are used to refine the grammar, enforcing robustness.
+
+---
+
+## Impact
+
+<div class="impact-row">
+
+<div class="impact-card">
+<h4><i class="bi bi-microscope"></i> Scientific</h4>
+- Establishes **design rules** linking sequence → structure → function in amyloid materials.  
+- Bridges machine learning, coarse-grained physics, and experiments.  
+- Provides new insight into the **curli system** and **CsgC-mediated inhibition**.
+</div>
+
+<div class="impact-card">
+<h4><i class="bi bi-building-gear"></i> Economic</h4>
+- Lays the foundation for **industrial CFAM applications**: biosensing, catalysis, filtration, remediation.  
+- Enables **bio-based, programmable materials** as alternatives to petroleum-derived polymers.
+</div>
+
+<div class="impact-card">
+<h4><i class="bi bi-globe2"></i> Societal and environmental</h4>
+- Promotes **biodegradable, low-toxicity materials** from microbial systems.  
+- Implements **FAIR data**, Open Science, and Responsible Research and Innovation (RRI).  
+- Engages the public to show amyloids beyond their disease associations.
+</div>
+
+</div>
+
+---
+
+## Consortium
+
+:::{.section-intro}
+FIBREA unites complementary expertise across **bioinformatics, simulations, amyloid biology and synthetic biology**.
+:::
+
+<div class="partner-grid">
+
+<div class="partner-card">
+<div class="partner-name">Medical University of Białystok (PL)</div>
+<div class="partner-role">Coordinator · WP1 and WP6 Leader</div>
+<div class="pill"><i class="bi bi-cpu"></i> Computational design</div>
+<div class="pill"><i class="bi bi-diagram-3"></i> Project management</div>
+<p>Leads molecular grammar development and overall coordination. Expertise in protein informatics, machine learning for amyloids and peptides and FAIR/DOME-compliant data workflows.</p>
+</div>
+
+<div class="partner-card">
+<div class="partner-name">University of Copenhagen (DK)</div>
+<div class="partner-role">WP2 Leader</div>
+<div class="pill"><i class="bi bi-mesh"></i> Coarse-grained simulations</div>
+<p>Developers of CALVADOS and world leaders in protein folding and aggregation modeling. Provide physics-based constraints and structural descriptors for CFAMs.</p>
+</div>
+
+<div class="partner-card">
+<div class="partner-name">Vilnius University (LT)</div>
+<div class="partner-role">WP4 Leader</div>
+<div class="pill"><i class="bi bi-droplet-half"></i> Aggregation assays</div>
+<div class="pill"><i class="bi bi-badge-3d"></i> cryo-EM / TEM / AFM</div>
+<p>Experimental amyloid specialists performing biophysical characterization, structural validation and independent reproducibility checks.</p>
+</div>
+
+<div class="partner-card">
+<div class="partner-name">Bilkent University – UNAM (TR)</div>
+<div class="partner-role">WP3 Leader</div>
+<div class="pill"><i class="bi bi-bacteria"></i> Curli expression systems</div>
+<p>Experts in curli-based nanomaterials and biofilm engineering. Optimize host strains, codon usage, fermentation and purification for CFAM production.</p>
+</div>
+
+<div class="partner-card">
+<div class="partner-name">Autonomous University of Barcelona (ES)</div>
+<div class="partner-role">WP5 Leader</div>
+<div class="pill"><i class="bi bi-lightning-charge"></i> Functional amyloids</div>
+<p>Focus on functional CFAMs carrying fluorescent and enzymatic modules. Demonstrate catalytic CFAMs and FRET-based co-assembly.</p>
+</div>
+
+</div>
+
+---
+
+## Work packages
+
+:::{.section-intro}
+The work plan is organized into six interlinked WPs, forming a closed design–build–test–learn loop.
+:::
+
+<div class="wp-grid">
+
+<div class="wp-card">
+<div class="wp-label">WP1</div>
+<div class="wp-title">Design of the molecular grammar for CFAMs</div>
+<div class="wp-meta">Lead: PL · Type: research (TRL 1–2)</div>
+<div class="badge-soft"><i class="bi bi-cpu"></i> AI and sequence design</div>
+<ul>
+  <li>Define biological constraints for secretion-competent constructs.</li>
+  <li>Learn CsgA variability and co-evolution with CsgC.</li>
+  <li>Develop conditional diffusion models for CFAM design.</li>
+  <li>Integrate feedback from simulations (WP2) and experiments (WP3–5).</li>
+</ul>
+</div>
+
+<div class="wp-card">
+<div class="wp-label">WP2</div>
+<div class="wp-title">Coarse-grained modeling of CFAMs</div>
+<div class="wp-meta">Lead: DK · Type: research (TRL 1–2)</div>
+<div class="badge-soft"><i class="bi bi-mesh"></i> CALVADOS</div>
+<ul>
+  <li>Set up CALVADOS simulations for CFAMs and inhibitors.</li>
+  <li>Screen engineered sequences in silico.</li>
+  <li>Extract structural descriptors for morphology and stability.</li>
+  <li>Calibrate against data from WP3 and WP4.</li>
+</ul>
+</div>
+
+<div class="wp-card">
+<div class="wp-label">WP3</div>
+<div class="wp-title">Optimization of the CFAM expression system</div>
+<div class="wp-meta">Lead: TR · Type: development (TRL 2–3)</div>
+<div class="badge-soft"><i class="bi bi-gear-wide-connected"></i> Bioprocess</div>
+<ul>
+  <li>Select host systems and design synthetic genes.</li>
+  <li>Optimize codon usage and expression constructs.</li>
+  <li>Compare batch vs continuous fermentation.</li>
+  <li>Improve purification and confirm functional integrity.</li>
+</ul>
+</div>
+
+<div class="wp-card">
+<div class="wp-label">WP4</div>
+<div class="wp-title">Assessment of uniform amyloid fibrillation</div>
+<div class="wp-meta">Lead: LT · Type: research (TRL 2–3)</div>
+<div class="badge-soft"><i class="bi bi-badge-3d"></i> Structure</div>
+<ul>
+  <li>Biophysical assays (ThT, Congo Red, Amytracker, CD, FTIR).</li>
+  <li>TEM and AFM imaging of fibrils.</li>
+  <li>Cryo-EM structures of selected CFAM fibrils.</li>
+  <li>Inhibition studies with CsgC variants.</li>
+</ul>
+</div>
+
+<div class="wp-card">
+<div class="wp-label">WP5</div>
+<div class="wp-title">Harnessing material properties of CFAMs</div>
+<div class="wp-meta">Lead: ES · Type: development and demo (TRL 3)</div>
+<div class="badge-soft"><i class="bi bi-lightbulb"></i> Function</div>
+<ul>
+  <li>Assess amyloid aggregation of functional CFAM fusions.</li>
+  <li>Validate GFP/YFP-based co-assembly and FRET.</li>
+  <li>Demonstrate dual-enzyme CFAM catalytic cascades.</li>
+  <li>Test inter-lab reproducibility of fibrillization and activity.</li>
+</ul>
+</div>
+
+<div class="wp-card">
+<div class="wp-label">WP6</div>
+<div class="wp-title">Consortium management and dissemination</div>
+<div class="wp-meta">Lead: PL</div>
+<div class="badge-soft"><i class="bi bi-people"></i> Coordination</div>
+<ul>
+  <li>Scientific, administrative, and financial coordination.</li>
+  <li>Mattermost-based internal communication and data sharing.</li>
+  <li>Open Science, FAIR data, and RRI implementation.</li>
+  <li>Website, outreach, and training for early-career researchers.</li>
+</ul>
+</div>
+
+</div>
+
+---
+
+## Sustainability, RRI and data management
+
+- **Sustainability:**  
+  - Protein-based, biodegradable materials; microbial expression; potential for circular use.  
+  - Focus on low-energy, resource-efficient production strategies.
+
+- **RRI and ethics:**  
+  - Ethical review of experimental activities where required.  
+  - Biosecurity risk assessment aligned with EU and national regulations.  
+  - Public engagement on the constructive uses of amyloids.
+
+- **Data and open science:**  
+  - FAIR-compliant data, with deposition to public repositories (e.g. Zenodo, NCBI).  
+  - Code release (e.g. GitHub) under permissive licenses.  
+  - Documentation following the **DOME** recommendations for machine learning in life sciences.
+
+---
+
+## Publications and outputs
+
+A detailed list will be maintained as the project progresses. Planned outputs include:
+
+- Articles on:
+  - CFAM molecular grammar and generative modeling  
+  - CALVADOS-based CFAM simulations  
+  - Structural and functional characterization of CFAMs
+- Conference presentations and workshops.
+- Open-source tools and curated datasets.
+
+---
+
+## Contact
+
+**Project Coordinator**  
+**Michał Burdukiewicz, PhD**  
+Medical University of Białystok  
+Jana Kilińskiego 1, 15-089 Białystok, Poland  
+
+<div class="contact-links">
+<i class="bi bi-envelope"></i> <a href="mailto:michal.burdukiewicz@umb.edu.pl">michal.burdukiewicz@umb.edu.pl</a>  
+</div>
