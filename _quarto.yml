@@ -47,7 +47,9 @@ website:
           - subsite/projects/AmyloGraph2.qmd
           - subsite/projects/LIMAD.qmd
           - subsite/projects/imputomics2.qmd
-          - subsite/projects/FIBREA.qmd
+          - text: "FIBREA"
+            href: fibrea.qmd
+          # - subsite/projects/FIBREA.qmd
       - href: subsite/tools.qmd
       - href: subsite/seminars.qmd
       # - text: "Achievements"
