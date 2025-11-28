@@ -365,13 +365,8 @@ FIBREA unites complementary expertise across **bioinformatics, simulations, amyl
 <div class="pill"><i class="bi bi-cpu"></i> Computational design</div>
 <div class="pill"><i class="bi bi-diagram-3"></i> Project management</div>
 <p>Leads molecular grammar development and overall coordination. Expertise in protein informatics, machine learning for amyloids and peptides and FAIR/DOME-compliant data workflows.</p>
-</div>
-
-<div class="partner-card">
-<div class="partner-name">University of Copenhagen (DK)</div>
-<div class="partner-role">WP2 Leader</div>
-<div class="pill"><i class="bi bi-mesh"></i> Coarse-grained simulations</div>
-<p>Developers of CALVADOS and world leaders in protein folding and aggregation modeling. Provide physics-based constraints and structural descriptors for CFAMs.</p>
+Leader: 
+<div>![Michał Burdukiewicz](subsite/fig/ppl/mb.jpeg "Michał Burdukiewicz")</div>
 </div>
 
 <div class="partner-card">
@@ -380,6 +375,17 @@ FIBREA unites complementary expertise across **bioinformatics, simulations, amyl
 <div class="pill"><i class="bi bi-droplet-half"></i> Aggregation assays</div>
 <div class="pill"><i class="bi bi-badge-3d"></i> cryo-EM / TEM / AFM</div>
 <p>Experimental amyloid specialists performing biophysical characterization, structural validation and independent reproducibility checks.</p>
+Leader:
+<div>![Darius Šulskis](subsite/fig/fibrea/DariusS.png "Darius Šulskis")</div>
+</div>
+
+<div class="partner-card">
+<div class="partner-name">University of Copenhagen (DK)</div>
+<div class="partner-role">WP2 Leader</div>
+<div class="pill"><i class="bi bi-mesh"></i> Coarse-grained simulations</div>
+<p>Developers of CALVADOS and world leaders in protein folding and aggregation modeling. Provide physics-based constraints and structural descriptors for CFAMs.</p>
+Leader:
+<div>![Kresten Lindorff-Larsen](subsite/fig/fibrea/KDVS-KRESTEN.jpg "Kresten Lindorff-Larsen")</div>
 </div>
 
 <div class="partner-card">
@@ -387,6 +393,8 @@ FIBREA unites complementary expertise across **bioinformatics, simulations, amyl
 <div class="partner-role">WP3 Leader</div>
 <div class="pill"><i class="bi bi-bacteria"></i> Curli expression systems</div>
 <p>Experts in curli-based nanomaterials and biofilm engineering. Optimize host strains, codon usage, fermentation and purification for CFAM production.</p>
+Leader:
+<div>![Urartu Ozgur Safak Seker / Urartu Özgür Şafak Şeker](subsite/fig/fibrea/urartu_seker_wp1.jpg "Urartu Özgür Şafak Şeker")</div>
 </div>
 
 <div class="partner-card">
@@ -394,6 +402,8 @@ FIBREA unites complementary expertise across **bioinformatics, simulations, amyl
 <div class="partner-role">WP5 Leader</div>
 <div class="pill"><i class="bi bi-lightning-charge"></i> Functional amyloids</div>
 <p>Focus on functional CFAMs carrying fluorescent and enzymatic modules. Demonstrate catalytic CFAMs and FRET-based co-assembly.</p>
+Leader:
+<div>![Javier Garcia Pardo](subsite/fig/fibrea/JaviGP.jpeg "Javier Garcia Pardo")</div>
 </div>
 
 </div>

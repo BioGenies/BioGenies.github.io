@@ -1,5 +1,13 @@
 ---
 title: "Publications"
+sidebar: false
+format:
+  html:
+    grid:
+      sidebar-width: 0px
+      body-width: 1500px
+      margin-width: 300px
+      gutter-width: 1.5rem
 ---
 
 ```{r, echo=FALSE, message=FALSE}
@@ -47,80 +55,83 @@ pub_mod %>%
   ) %>% 
   select(!c(source_display_name, host_organization_name, publication_date)) %>% 
   arrange(desc(`publication date`)) %>%
-  DT::datatable(escape = F)
+  DT::datatable(escape = F, 
+                # style = "bootstrap4",
+                options = list(pageLength = 50))
 
 ```
 
-
-
-<!-- ```{r, echo=FALSE, message=FALSE} -->
-
-<!-- library(wordcloud2) -->
-
-<!-- concept_cloud <- pub_mod %>% -->
-<!--   select(inst_id = id, concepts) %>% -->
-<!--   tidyr::unnest(concepts) %>% -->
-<!--   select(display_name, level, score) %>% -->
-<!--   filter(score >= 0.65) %>% -->
-<!--   group_by(display_name)  %>% -->
-<!--   summarise(count_no = n(), -->
-<!--             score = median(score)) -->
-
-<!-- # concept_cloud <- pub_mod %>% -->
-<!-- #   select(inst_id = id, topics) %>% -->
-<!-- #   tidyr::unnest(topics) %>% -->
-<!-- #   select(display_name, i, score) %>% -->
-<!-- #   # filter(score >= 0.65) %>% -->
-<!-- #   group_by(display_name)  %>% -->
-<!-- #   summarise(count_no = n(), -->
-<!-- #             score = median(score)) -->
-
-<!-- wordcloud2::wordcloud2(concept_cloud, color = "random-light") -->
-
-<!-- ``` -->
 ---
 
-<font size="6"> **Our colaborators and former members manuscripts** </font>
-
 ```{r, echo=FALSE, message=FALSE}
-library(openalexR)
-library(tidyverse)
-library(DT)
 
-load('../data/bg_df_data.RData')
+library(wordcloud2)
 
-bio_df_mod <- left_join(bio_df, full_df %>% select(who, team), by = "who") %>% unique() %>% filter(team != "main")
+concept_cloud <- pub_mod %>%
+  select(inst_id = id, concepts) %>%
+  tidyr::unnest(concepts) %>%
+  select(display_name, level, score) %>%
+  filter(score >= 0.7) %>%
+  group_by(display_name)  %>%
+  summarise(count_no = n(),
+            score = median(score))
 
+# concept_cloud <- pub_mod %>%
+#   select(inst_id = id, topics) %>%
+#   tidyr::unnest(topics) %>%
+#   select(display_name, i, score) %>%
+#   # filter(score >= 0.65) %>%
+#   group_by(display_name)  %>%
+#   summarise(count_no = n(),
+#             score = median(score))
 
-openalex_ids <- bio_df_mod$openalex_id %>% na.omit()
-
-# pub <- openalexR::oa_fetch(entity ="works",
-#                    authorships.institutions.id = "I146122375",
-#                    output = "list",
-#                    from_publication_date = "2024-01-01")
-
-pub <- openalexR::oa_fetch(entity ="works",
-                           author.id = c(openalex_ids))
-                   # author.id = c("A5015968787", "A5072021711"))
-
-# pub <- openalexR::oa_fetch(entity ="works", grants.funder = "f4320322511")
-
-pub_mod <- pub$authorships %>% lapply(., function(x) {x$display_name %>% str_flatten(., collapse = ", ")}) %>% unlist() %>% tibble(authors = .) %>% cbind(pub, .)
-
-pub_mod %>% 
-  filter(type != "dataset") %>% 
-  filter(type != "preprint") %>%
-  filter(type != "dissertation") %>%
-  select(title, authors, doi, publication_date, type, source_display_name, host_organization_name) %>% 
-  # drop_na(., doi) %>%
-  mutate(doi = paste0('<a  target=_blank href=', doi, '>', doi %>% str_remove(., "https://doi.org/"),'</a>'),
-         journal = source_display_name %>% as.factor(),
-         publisher = host_organization_name %>% as.factor(),
-         type = type %>% as.factor(),
-         `publication date` = publication_date %>% as_date()
-  ) %>% 
-  select(!c(source_display_name, host_organization_name, publication_date)) %>% 
-  arrange(desc(`publication date`)) %>%
-  DT::datatable(escape = F)
+wordcloud2::wordcloud2(concept_cloud, size = 1, color = "random-light", widgetsize = c(1500, 1500))
 
 ```
+---
+
+<!-- <font size="6"> **Our colaborators and former members manuscripts** </font> -->
+
+<!-- ```{r, echo=FALSE, message=FALSE} -->
+<!-- library(openalexR) -->
+<!-- library(tidyverse) -->
+<!-- library(DT) -->
+
+<!-- load('../data/bg_df_data.RData') -->
+
+<!-- bio_df_mod <- left_join(bio_df, full_df %>% select(who, team), by = "who") %>% unique() %>% filter(team != "main") -->
+
+
+<!-- openalex_ids <- bio_df_mod$openalex_id %>% na.omit() -->
+
+<!-- # pub <- openalexR::oa_fetch(entity ="works", -->
+<!-- #                    authorships.institutions.id = "I146122375", -->
+<!-- #                    output = "list", -->
+<!-- #                    from_publication_date = "2024-01-01") -->
+
+<!-- pub <- openalexR::oa_fetch(entity ="works", -->
+<!--                            author.id = c(openalex_ids)) -->
+<!--                    # author.id = c("A5015968787", "A5072021711")) -->
+
+<!-- # pub <- openalexR::oa_fetch(entity ="works", grants.funder = "f4320322511") -->
+
+<!-- pub_mod <- pub$authorships %>% lapply(., function(x) {x$display_name %>% str_flatten(., collapse = ", ")}) %>% unlist() %>% tibble(authors = .) %>% cbind(pub, .) -->
+
+<!-- pub_mod %>% -->
+<!--   filter(type != "dataset") %>% -->
+<!--   filter(type != "preprint") %>% -->
+<!--   filter(type != "dissertation") %>% -->
+<!--   select(title, authors, doi, publication_date, type, source_display_name, host_organization_name) %>% -->
+<!--   # drop_na(., doi) %>% -->
+<!--   mutate(doi = paste0('<a  target=_blank href=', doi, '>', doi %>% str_remove(., "https://doi.org/"),'</a>'), -->
+<!--          journal = source_display_name %>% as.factor(), -->
+<!--          publisher = host_organization_name %>% as.factor(), -->
+<!--          type = type %>% as.factor(), -->
+<!--          `publication date` = publication_date %>% as_date() -->
+<!--   ) %>% -->
+<!--   select(!c(source_display_name, host_organization_name, publication_date)) %>% -->
+<!--   arrange(desc(`publication date`)) %>% -->
+<!--   DT::datatable(escape = F, style = "bootstrap4", -->
+<!--                 options = list(pageLength = 50)) -->
+
+<!-- ``` -->

@@ -22,6 +22,11 @@ openalex_id <- basic_info(whois)$openalex_id
 library(fontawesome)
 ```
 
+<div class="text-center" style="margin-top: 1.5rem; margin-bottom: 1.5rem;"> 
+<h1 style="margin-bottom:0;">Jarosław (Jarek) Chilimoniuk</h1> 
+<h4 style="margin-top:0.3rem; font-weight:300;">Data Scientist · R & Quarto · Analytics</h4> 
+<p> [`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:jaroslaw.chilimoniuk@umb.edu.pl) · [`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/jarochi) · [`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0001-5467-018X) · [`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/jarosław-chilimoniuk/) · [`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/_jarochi)</p> 
+<p> <a href="cv.pdf">Download PDF</a> <!-- optional, if you add a PDF later --> </p> </div>
 
 
 # 📝 **Bio**
@@ -89,5 +94,3 @@ pubs(whois, openalex_id)
 ------------------------------------------------------------------------
 
 `r stringr::str_flatten(other_act(whois)$new_col)`
-
-

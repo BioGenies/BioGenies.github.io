@@ -1,5 +1,5 @@
 ---
-title: "Presentations"
+title: "Conferences etc."
 ---
 
 ```{r, echo=FALSE, message=FALSE}
@@ -27,7 +27,7 @@ full_df %>%
   arrange(desc(year)) %>% 
   select(event, year, place, type, title, presenting) %>% 
   drop_na(presenting) %>% 
-  DT::datatable()
+  DT::datatable(height = 1000)
 # %>% 
 #                   str_split_1(., "[.]") %>% 
 #                   last() %>% 
