@@ -1,0 +1,81 @@
+---
+title: "Oriol visits BioGenies from sunny Barcelona! 🇪🇸🧬🕷️"
+description: "Our collaborator Oriol from the Autonomous University of Barcelona 🇪🇸 visited Białystok through the NAWA STER programme 🇵🇱 to work with Michał on StriFi — a comprehensive database of fibril structures 🧬🧱. Between coding and protein talk, we explored Polish cuisine, Białowieża forests and Oriol even got lucky enough to experience fresh Polish snow ❄️🥟🌲."
+date: "12/08/2025"
+categories:
+  - team
+  - NAWA
+  - MUB
+# image: "../fig/posts/2025_11_12/IMG_4815.jpg"
+---
+
+🎉 **New collaboration energy incoming!**  
+
+This month, we were thrilled to host **Oriol**, our collaborator from the **Autonomous University of Barcelona** 🇪🇸. He came to Białystok through the **NAWA STER programme** 🇵🇱 to work closely with **Michał** on **StriFi, the Comprehensive Database of Fibril Structures** 🧬📊.  
+
+And he was in luck, **the first snow of the season fell the day after he arrived!** ❄️⛄  
+A perfect welcome to Poland (and a dramatic contrast to Barcelona’s sunshine ☀️➡️❄️).
+
+![](../fig/posts/2025_12_08/IMG_5412.jpeg "Oriol, Michał and black Moreneta")
+
+---
+
+# 🧠 Work & collaboration
+
+Together, **Oriol and Michał** spent an intense week deep-diving into data pipelines, annotation workflows, and database design 💻💾. The StriFi prototype keeps growing, and Oriol’s expertise was crucial in shaping how we handle metadata and fibril structure representation 💡  
+
+Their discussions covered everything from data harmonization to possible links with AmyloGraph, lots of science, plenty of ideas, and a few “aha!” moments along the way 🧬✨.
+
+---
+
+# 🥟 Food adventures
+
+Of course, no BioGenies visit is complete without **a proper Polish food marathon** 😋🇵🇱.  
+We introduced Oriol to:
+
+- 🥟 **Pierogi**  
+- 🍖 **Kartacze**  
+- 🥘 **Babka ziemniaczana**  
+- 🌯 And the legendary **Polish kebab**  
+
+He bravely tried everything and survived. Respect. 💚
+
+![](../fig/posts/2025_12_08/1000011549.jpg "Pierogi time!")
+![](../fig/posts/2025_12_08/IMG_5183.jpeg "Kartacze feast")
+![](../fig/posts/2025_12_08/IMG_5231.jpeg "Pizza slice time")
+![](../fig/posts/2025_12_08/1000011606.jpg "Pancakes for late lunch ")
+![](../fig/posts/2025_12_08/1000060720.jpg "Sushi rolls")
+
+![](../fig/posts/2025_12_08/IMG_5417.jpeg "Polish kebab")
+
+---
+
+# 🌲 Trip to Białowieża
+
+We took Oriol on a trip to **Białowieża**, our beloved escape to nature 🌳🦌.  
+His review?
+
+> **“I’ve never seen a flatter forest!”** 😅
+
+We’re pretty sure he meant it lovingly.
+
+![](../fig/posts/2025_12_08/IMG_5325.jpeg "Białowieża forest walk")
+
+---
+
+# 🎓 A special visitor
+
+During Oriol’s stay, we were also visited by **Weronika**, who dropped by to celebrate her freshly defended PhD 🎓🥂 with Michał and the team. Perfect timing for a double celebration!
+
+![](../fig/posts/2025_12_08/IMG_5213.jpeg "PhD celebration with Weronika")  
+
+---
+
+# ❄️ Snow, science & good company
+
+Polish winter greeted Oriol right away —  
+**first snow, first babka ziemniaczana, first BioGenies adventures.**  
+Not a bad combo. 😉
+
+![](../fig/posts/2025_12_08/1000011687.jpg "Goodbye meal")
+![](../fig/posts/2025_12_08/IMG_5431.jpeg "Goodbye train")

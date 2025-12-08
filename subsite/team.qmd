@@ -51,15 +51,17 @@ inter_plot
 ```
 
 ### 🐶 Our doggos and cattos 😼
-::: {layout-ncol=4}
+::: {layout-ncol=3}
 [![Czarek](fig/ppl/Czarson.jpeg "Climbing dog"){}]()
 
 [![Delma](fig/ppl/Delma.jpeg "Cuddly dog"){}]()
+
+[![Piksel](fig/ppl/piksel.jpeg "Hot dog"){}]()
 
 [![Invi](fig/ppl/invi.jpg "Tiny dog"){}]()
 
 [![Lusia](fig/ppl/Lusia.jpeg "Sleepy dog"){}]()
 
-[![Piksel](fig/ppl/piksel.jpeg "Hot dog"){}]()
+[![Elis](fig/ppl/elis.jpeg "Tricolored cat"){}]()
 :::
 
