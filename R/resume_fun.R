@@ -30,6 +30,17 @@ education <- function(whois){
     ))
 }
 
+education2 <- function(whois){
+  full_df$name <- full_df$name %>% str_remove(., "\n")
+  
+  edu_df <- full_df %>% 
+    filter(who == whois & cat == "education") %>% 
+    arrange(desc(end_date)) %>% 
+    mutate(new_col = paste0("::: {.hero-strip}<span class='hero-pill'><h3>", "![](../fig/logo/", logo_name, "){width='50'} ", name, "</h3><span class='hero-pill'><h4><i class='bi bi-hourglass-split'>", start_date, " - ", end_date, "<br>",  "📍" , city, ", ", country, "</h4></span>", "<span class='hero-pill'>
+<h4>",  major,"</h4></span><br><br>", "<span class='hero-pill-secondary'><strong>PhD thesis: </strong> **", thesis_title,"**", "</span> :::"
+    ))
+}
+
 
 conf_work <- function(whois){
   full_df %>% 

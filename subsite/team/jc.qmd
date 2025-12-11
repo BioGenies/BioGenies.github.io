@@ -3,7 +3,7 @@ title: Jarosław (Jarek) Chilimoniuk
 sidebar: false
 format:
   html:
-    title: none
+    title: ""
     grid:
       sidebar-width: 0px
       body-width: 1500px
@@ -71,6 +71,26 @@ work(whois)
 ------------------------------------------------------------------------
 
 `r stringr::str_flatten(education(whois)$new_col)`
+<!-- `r stringr::str_flatten(education2(whois))` -->
+
+<!-- ::: {.hero-strip} -->
+<!-- <span class="hero-pill"> -->
+<!--   <h3>![](../fig/logo/UWr_logo.png){width='50'} University of Wrocław</h3> -->
+<!-- </span> -->
+<!-- <span class="hero-pill" adjust="right"> -->
+<!-- <h4><i class="bi bi-hourglass-split"> 2013-10-01 - 2015-08-13 </i><br>📍 Wrocław, Poland</h4> -->
+<!-- </span> -->
+<!-- <span class="hero-pill"> -->
+<!--   <h4> BioTechNan - Program of Interdisciplinary Environmental PhD Studies KNOW in the area of Biotechnology and Nanotechnology</h4> -->
+<!-- </span> -->
+<!-- <br><br> -->
+<!-- <span class="hero-pill-secondary"> -->
+<!--   <strong>PhD thesis: </strong> **Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB** -->
+<!-- </span> -->
+<!-- <span class="hero-pill"> -->
+<!--   <h4><strong>Major:</strong> [] </h4> -->
+<!-- </span> -->
+<!-- ::: -->
 
 
 # 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
