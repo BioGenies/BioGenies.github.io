@@ -1,9 +1,8 @@
 ---
-title: Jarosław (Jarek) Chilimoniuk
+title: 'Jarosław (Jarek) Chilimoniuk'
 sidebar: false
 format:
   html:
-    title: ""
     grid:
       sidebar-width: 0px
       body-width: 1500px
@@ -13,7 +12,7 @@ knitr:
   opts_chunk:
     out.width: '95%'
 ---
-
+    
 ```{r, echo=FALSE, message=FALSE,include=FALSE}
 load('../../data/bg_df_data.RData')
 whois <- 'Jarek'
@@ -23,13 +22,7 @@ openalex_id <- basic_info(whois)$openalex_id
 library(fontawesome)
 ```
 
-<div class="text-center" style="margin-top: 1.5rem; margin-bottom: 1.5rem;"> 
 
-<h1 style="margin-bottom:0;">Jarosław (Jarek) Chilimoniuk</h1> 
-<h4 style="margin-top:0.3rem; font-weight:300;">Data Scientist · R & Quarto · Analytics</h4> 
-<p> [`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:jaroslaw.chilimoniuk@umb.edu.pl) [`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/jarochi) [`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0001-5467-018X) [`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/jarosław-chilimoniuk/) [`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/_jarochi)</p> 
-<!-- <p> <a href="cv.pdf">Download PDF</a> <!-h- optional, if you add a PDF later -h-> </p> </div> -->
-</div>
 
 <!-- # 📝 **Bio** -->
 
@@ -38,15 +31,15 @@ library(fontawesome)
 <!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
 
 
-<!-- # 📱 **Contact** -->
+# 📱 **Contact**
 
-<!-- ------------------------------------------------------------------------ -->
+------------------------------------------------------------------------
 
-<!-- [`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:jaroslaw.chilimoniuk@umb.edu.pl) -->
-<!-- [`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/jarochi) -->
-<!-- [`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0001-5467-018X) -->
-<!-- [`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/jarosław-chilimoniuk/) -->
-<!-- [`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/_jarochi) -->
+[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:jaroslaw.chilimoniuk@umb.edu.pl)
+[`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/jarochi)
+[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0001-5467-018X)
+[`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/jarosław-chilimoniuk/)
+[`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/_jarochi)
 
 
 # 🚀 **Research stays**
@@ -71,27 +64,8 @@ work(whois)
 ------------------------------------------------------------------------
 
 `r stringr::str_flatten(education(whois)$new_col)`
-<!-- `r stringr::str_flatten(education2(whois))` -->
 
-<!-- ::: {.hero-strip} -->
-<!-- <span class="hero-pill"> -->
-<!--   <h3>![](../fig/logo/UWr_logo.png){width='50'} University of Wrocław</h3> -->
-<!-- </span> -->
-<!-- <span class="hero-pill" adjust="right"> -->
-<!-- <h4><i class="bi bi-hourglass-split"> 2013-10-01 - 2015-08-13 </i><br>📍 Wrocław, Poland</h4> -->
-<!-- </span> -->
-<!-- <span class="hero-pill"> -->
-<!--   <h4> BioTechNan - Program of Interdisciplinary Environmental PhD Studies KNOW in the area of Biotechnology and Nanotechnology</h4> -->
-<!-- </span> -->
-<!-- <br><br> -->
-<!-- <span class="hero-pill-secondary"> -->
-<!--   <strong>PhD thesis: </strong> **Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB** -->
-<!-- </span> -->
-<!-- <span class="hero-pill"> -->
-<!--   <h4><strong>Major:</strong> [] </h4> -->
-<!-- </span> -->
-<!-- ::: -->
-
+------------------------------------------------------------------------
 
 # 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
 
@@ -116,3 +90,5 @@ pubs(whois, openalex_id)
 ------------------------------------------------------------------------
 
 `r stringr::str_flatten(other_act(whois)$new_col)`
+
+

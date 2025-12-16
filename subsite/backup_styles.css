@@ -1,0 +1,9 @@
+  .quarto-title-block .quarto-title-banner {
+    background: radial-gradient(circle at top left, #1b4965, #0b132b);
+    color: #f8f9fa;
+    border-bottom: 3px solid rgba(255,255,255,0.15);
+  }
+  .quarto-title-block .title, 
+  .quarto-title-block .subtitle {
+    color: #f8f9fa;
+  }

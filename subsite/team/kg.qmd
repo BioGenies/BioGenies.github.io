@@ -64,6 +64,8 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(education(whois)$new_col)` -->
 
+------------------------------------------------------------------------
+
 # 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
 
 ------------------------------------------------------------------------

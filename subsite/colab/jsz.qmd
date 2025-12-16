@@ -30,11 +30,12 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
 
-<!-- # 📱 **Contact** -->
+# 📱 **Contact**
 
-<!-- ------------------------------------------------------------------------ -->
+------------------------------------------------------------------------
 
-<!-- stringr::str_flatten(contact_info(whois)$new_col) -->
+[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:jm.szkop@student.uw.edu.pl)
+
 
 <!-- # 🚀 **Research stays** -->
 
@@ -57,6 +58,8 @@ library(fontawesome)
 <!-- ------------------------------------------------------------------------ -->
 
 <!-- `r stringr::str_flatten(education(whois)$new_col)` -->
+
+------------------------------------------------------------------------
 
 <!-- # 👏🏻 **Conferences, workshops, training schools** 🤝🏻  -->
 

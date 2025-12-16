@@ -20,7 +20,7 @@ title: "BioGenies collaborators"
 
 ### ![](fig/logo/UP_logo.png){width="10%"} University of Porto
 ::: {layout-ncol=5}
-[![Martyna Podlasiak](fig/temp_profile.png "Martyna Podlasiak"){}](team/mpo.html)
+[![Martyna Podlasiak](fig/ppl/mpo.jpg "Martyna Podlasiak"){}](team/mpo.html)
 :::
 
 ### ![](fig/logo/QI_logo.png){width="10%"} Quadram Institute

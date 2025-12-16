@@ -33,6 +33,21 @@ library(fontawesome)
 \n\n")
 
 
+contact_txt <- if_else((bio_df %>% filter(who == whois) %>% .[3:8] %>% janitor::remove_empty() %>% ncol()) != 0,
+                       paste0(
+                         "# 📱 **Contact**
+
+------------------------------------------------------------------------
+
+", stringr::str_flatten(contact_info(whois)$new_col), "\n"), 
+                       paste0("<!-- # 📱 **Contact** -->
+
+<!-- ------------------------------------------------------------------------ -->
+
+<!-- stringr::str_flatten(contact_info(whois)$new_col) -->", "\n")
+)
+
+
 bio_txt <- if_else(basic_info(whois)$bio %>% is.na(), paste0("<!-- # 📝 **Bio** -->
 
 <!-- ------------------------------------------------------------------------ -->
@@ -44,21 +59,6 @@ bio_txt <- if_else(basic_info(whois)$bio %>% is.na(), paste0("<!-- # 📝 **Bio*
 
 `r stringr::str_flatten(basic_info(whois)$bio)`
 \n")
-
-
-contact_txt <- if_else((bio_df %>% filter(who == whois) %>% .[3:8] %>% janitor::remove_empty() %>% ncol()) != 0,
-                       paste0(
-"# 📱 **Contact**
-
-------------------------------------------------------------------------
-
-", stringr::str_flatten(contact_info(whois)$new_col), "\n"), 
-paste0("<!-- # 📱 **Contact** -->
-
-<!-- ------------------------------------------------------------------------ -->
-
-<!-- stringr::str_flatten(contact_info(whois)$new_col) -->", "\n")
-)
 
 
 research_txt <- if_else((full_df %>% filter(who == whois & cat == "research stays") %>% nrow()) != 0, paste0(
@@ -104,13 +104,16 @@ education_txt <- if_else((full_df %>% filter(who == whois & cat == "education") 
 ------------------------------------------------------------------------
 
 `r stringr::str_flatten(education(whois)$new_col)`
-\n"), 
+
+------------------------------------------------------------------------", "\n"), 
 paste0(
 "<!-- # 🎓 **Education** -->
 
 <!-- ------------------------------------------------------------------------ -->
 
-<!-- `r stringr::str_flatten(education(whois)$new_col)` -->", "\n"
+<!-- `r stringr::str_flatten(education(whois)$new_col)` -->
+
+------------------------------------------------------------------------", "\n"
 ))
 
 
