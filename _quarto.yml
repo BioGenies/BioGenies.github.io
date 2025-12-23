@@ -50,7 +50,7 @@ website:
           - text: "FIBREA"
             href: fibrea.qmd
           # - subsite/projects/FIBREA.qmd
-      - href: subsite/tools.qmd
+      - href: subsite/software.qmd
       - href: subsite/seminars.qmd
       # - text: "Achievements"
       #   menu: 
