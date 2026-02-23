@@ -8,7 +8,7 @@ website:
   twitter-card: true
   title: "BioGenies"
   reader-mode: true
-  page-footer: "&copy; 2025 Website developed by BioGenies team.<br><a href='/subsite/GDPR.html'>Privacy Policy</a>"
+  page-footer: "&copy; 2026 Website developed by BioGenies team.<br><a href='/subsite/GDPR.html'>Privacy Policy</a>"
   cookie-consent:
     type: implied
     style: simple
@@ -33,13 +33,13 @@ website:
           - subsite/about.qmd
           # - subsite/hobby.qmd
           # - subsite/fun.qmd
-      - text: "Our topics" 
-        menu: 
-          - subsite/topics/amyloids.qmd
-          - subsite/topics/llps.qmd
-          - subsite/topics/amp.qmd
-          - subsite/topics/mvi.qmd
-          - subsite/topics/hdxms.qmd
+      # - text: "Our topics" 
+      #   menu: 
+      #     - subsite/topics/amyloids.qmd
+      #     - subsite/topics/llps.qmd
+      #     - subsite/topics/amp.qmd
+      #     - subsite/topics/mvi.qmd
+      #     - subsite/topics/hdxms.qmd
       - text: "Our projects" 
         menu: 
           - subsite/projects/OneTick.qmd
@@ -70,6 +70,14 @@ website:
     search: false
     center-tools: true
     tool-size: large
+    contents:
+      - section: "Our topics"
+        contents:
+          - subsite/topics/amyloids.qmd
+          - subsite/topics/llps.qmd
+          - subsite/topics/amp.qmd
+          - subsite/topics/mvi.qmd
+          - subsite/topics/hdxms.qmd
 format:
   html:
     css: ['navbar_hover.css', 'sidebar_mods.css', 'styles.css']

@@ -4,105 +4,162 @@
     "href": "subsite/topics/mvi.html",
     "title": "Missing value imputation",
     "section": "",
-    "text": "Missing value imputation is a critical process in data preprocessing, essential for handling incomplete datasets and ensuring the accuracy and reliability of statistical analyses and machine learning models. Missing data can occur for various reasons, such as data entry errors, sensor malfunctions, or non-responses in surveys. Properly addressing missing values is vital for maintaining the integrity of analyses and improving predictive model performance.\n\n\nSeveral techniques are employed for missing value imputation, each with its own strengths and appropriate use cases. Key methods include:\nSimple Imputation: Replacing missing values with a single statistic, such as the mean, median, or mode of the observed data. This method is straightforward but may introduce bias if the data is not missing completely at random (MCAR). Regression Imputation: Using regression models to predict and replace missing values based on other available variables. This approach can account for relationships between variables but may not fully capture the uncertainty associated with the imputation. Multiple Imputation: Creating several imputed datasets by replacing missing values with multiple plausible estimates, analyzing each dataset separately, and then combining the results. This method provides a robust estimate of the uncertainty due to missing data. Machine Learning Imputation: Utilizing machine learning algorithms such as k-nearest neighbors (KNN), random forests, or neural networks to predict and impute missing values. These methods can handle complex patterns in the data but require careful tuning and validation.\n\n\n\nIn biological and medical research, accurate missing value imputation is crucial for:\nGenomics: Imputing missing genotypic data to enable comprehensive genome-wide association studies (GWAS) and other genetic analyses. Clinical Trials: Ensuring the validity of trial results by appropriately handling missing patient data. Epidemiology: Accurately estimating disease prevalence and risk factors when faced with incomplete survey data."
+    "text": "Missing value imputation is a critical process in data preprocessing, essential for handling incomplete datasets and ensuring the accuracy and reliability of statistical analyses and machine learning models. Missing data can occur for various reasons, such as data entry errors, sensor malfunctions, or non-responses in surveys. Properly addressing missing values is vital for maintaining the integrity of analyses and improving predictive model performance.\n\n\nSeveral techniques are employed for missing value imputation, each with its own strengths and appropriate use cases. Key methods include:\nSimple Imputation: Replacing missing values with a single statistic, such as the mean, median, or mode of the observed data. This method is straightforward but may introduce bias if the data is not missing completely at random (MCAR). Regression Imputation: Using regression models to predict and replace missing values based on other available variables. This approach can account for relationships between variables but may not fully capture the uncertainty associated with the imputation. Multiple Imputation: Creating several imputed datasets by replacing missing values with multiple plausible estimates, analyzing each dataset separately, and then combining the results. This method provides a robust estimate of the uncertainty due to missing data. Machine Learning Imputation: Utilizing machine learning algorithms such as k-nearest neighbors (KNN), random forests, or neural networks to predict and impute missing values. These methods can handle complex patterns in the data but require careful tuning and validation.\n\n\n\nIn biological and medical research, accurate missing value imputation is crucial for:\nGenomics: Imputing missing genotypic data to enable comprehensive genome-wide association studies (GWAS) and other genetic analyses. Clinical Trials: Ensuring the validity of trial results by appropriately handling missing patient data. Epidemiology: Accurately estimating disease prevalence and risk factors when faced with incomplete survey data.",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Missing value imputation"
+    ]
   },
   {
     "objectID": "subsite/topics/mvi.html#beyond-the-basics",
     "href": "subsite/topics/mvi.html#beyond-the-basics",
     "title": "Missing value imputation",
     "section": "",
-    "text": "Missing value imputation is a critical process in data preprocessing, essential for handling incomplete datasets and ensuring the accuracy and reliability of statistical analyses and machine learning models. Missing data can occur for various reasons, such as data entry errors, sensor malfunctions, or non-responses in surveys. Properly addressing missing values is vital for maintaining the integrity of analyses and improving predictive model performance.\n\n\nSeveral techniques are employed for missing value imputation, each with its own strengths and appropriate use cases. Key methods include:\nSimple Imputation: Replacing missing values with a single statistic, such as the mean, median, or mode of the observed data. This method is straightforward but may introduce bias if the data is not missing completely at random (MCAR). Regression Imputation: Using regression models to predict and replace missing values based on other available variables. This approach can account for relationships between variables but may not fully capture the uncertainty associated with the imputation. Multiple Imputation: Creating several imputed datasets by replacing missing values with multiple plausible estimates, analyzing each dataset separately, and then combining the results. This method provides a robust estimate of the uncertainty due to missing data. Machine Learning Imputation: Utilizing machine learning algorithms such as k-nearest neighbors (KNN), random forests, or neural networks to predict and impute missing values. These methods can handle complex patterns in the data but require careful tuning and validation.\n\n\n\nIn biological and medical research, accurate missing value imputation is crucial for:\nGenomics: Imputing missing genotypic data to enable comprehensive genome-wide association studies (GWAS) and other genetic analyses. Clinical Trials: Ensuring the validity of trial results by appropriately handling missing patient data. Epidemiology: Accurately estimating disease prevalence and risk factors when faced with incomplete survey data."
+    "text": "Missing value imputation is a critical process in data preprocessing, essential for handling incomplete datasets and ensuring the accuracy and reliability of statistical analyses and machine learning models. Missing data can occur for various reasons, such as data entry errors, sensor malfunctions, or non-responses in surveys. Properly addressing missing values is vital for maintaining the integrity of analyses and improving predictive model performance.\n\n\nSeveral techniques are employed for missing value imputation, each with its own strengths and appropriate use cases. Key methods include:\nSimple Imputation: Replacing missing values with a single statistic, such as the mean, median, or mode of the observed data. This method is straightforward but may introduce bias if the data is not missing completely at random (MCAR). Regression Imputation: Using regression models to predict and replace missing values based on other available variables. This approach can account for relationships between variables but may not fully capture the uncertainty associated with the imputation. Multiple Imputation: Creating several imputed datasets by replacing missing values with multiple plausible estimates, analyzing each dataset separately, and then combining the results. This method provides a robust estimate of the uncertainty due to missing data. Machine Learning Imputation: Utilizing machine learning algorithms such as k-nearest neighbors (KNN), random forests, or neural networks to predict and impute missing values. These methods can handle complex patterns in the data but require careful tuning and validation.\n\n\n\nIn biological and medical research, accurate missing value imputation is crucial for:\nGenomics: Imputing missing genotypic data to enable comprehensive genome-wide association studies (GWAS) and other genetic analyses. Clinical Trials: Ensuring the validity of trial results by appropriately handling missing patient data. Epidemiology: Accurately estimating disease prevalence and risk factors when faced with incomplete survey data.",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Missing value imputation"
+    ]
   },
   {
     "objectID": "subsite/topics/mvi.html#projects",
     "href": "subsite/topics/mvi.html#projects",
     "title": "Missing value imputation",
     "section": "Projects",
-    "text": "Projects"
+    "text": "Projects",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Missing value imputation"
+    ]
   },
   {
     "objectID": "subsite/topics/hdxms.html",
     "href": "subsite/topics/hdxms.html",
     "title": "HDX-MS",
     "section": "",
-    "text": "Hydrogen-Deuterium Exchange Mass Spectrometry (HDX-MS) is a powerful analytical technique used to study the structural dynamics and interactions of proteins. By measuring the exchange of hydrogen atoms with deuterium in a protein’s backbone, HDX-MS provides detailed insights into protein folding, conformational changes, and binding events. This method is invaluable for understanding the mechanisms of protein function, interactions with other molecules, and the effects of mutations or environmental conditions on protein stability."
+    "text": "Hydrogen-Deuterium Exchange Mass Spectrometry (HDX-MS) is a powerful analytical technique used to study the structural dynamics and interactions of proteins. By measuring the exchange of hydrogen atoms with deuterium in a protein’s backbone, HDX-MS provides detailed insights into protein folding, conformational changes, and binding events. This method is invaluable for understanding the mechanisms of protein function, interactions with other molecules, and the effects of mutations or environmental conditions on protein stability.",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "HDX-MS"
+    ]
   },
   {
     "objectID": "subsite/topics/hdxms.html#our-aims",
     "href": "subsite/topics/hdxms.html#our-aims",
     "title": "HDX-MS",
     "section": "Our aims",
-    "text": "Our aims"
+    "text": "Our aims",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "HDX-MS"
+    ]
   },
   {
     "objectID": "subsite/topics/hdxms.html#projects",
     "href": "subsite/topics/hdxms.html#projects",
     "title": "HDX-MS",
     "section": "Projects",
-    "text": "Projects\n\nHaDeX\nwebsite publication github"
+    "text": "Projects\n\nHaDeX\nwebsite publication github",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "HDX-MS"
+    ]
   },
   {
     "objectID": "subsite/topics/amp.html",
     "href": "subsite/topics/amp.html",
     "title": "Antimicrobial peptides",
     "section": "",
-    "text": "Antimicrobial peptides (AMPs) are a diverse group of small, naturally occurring molecules that play a crucial role in the innate immune response by targeting a wide range of pathogens, including bacteria, fungi, viruses, and even cancer cells. These peptides are found across all domains of life, from humans to plants and microorganisms, and are recognized for their broad-spectrum antimicrobial properties and their potential as therapeutic agents.\n\n\nAMPs exert their antimicrobial effects through various mechanisms, primarily targeting microbial membranes but also affecting intracellular processes. Key mechanisms include:\nMembrane Disruption: AMPs can insert into microbial membranes, forming pores or disrupting membrane integrity, leading to cell lysis. Intracellular Targeting: Some AMPs can penetrate microbial cells and interfere with vital intracellular functions such as DNA, RNA, and protein synthesis. Immunomodulation: AMPs can modulate the host immune response by recruiting immune cells to infection sites and enhancing phagocytosis. Factors influencing AMP activity include:\nSequence and Structure: The amino acid composition, charge, hydrophobicity, and secondary structure (e.g., alpha-helices, beta-sheets) determine AMP activity and specificity. Environmental Conditions: Factors such as pH, ionic strength, and presence of serum proteins can affect AMP stability and activity.\n\n\n\nAMPs are integral to the defense mechanisms of organisms, providing a first line of defense against infections. They are involved in:\nDirect Antimicrobial Action: Killing or inhibiting the growth of pathogens. Immune System Modulation: Enhancing the immune response by promoting the activation and recruitment of immune cells. Wound Healing: Facilitating tissue repair and regeneration by promoting cell migration and angiogenesis.\n\n\n\nAMPs have significant potential in clinical applications due to their broad-spectrum activity and unique mechanisms of action. They are being explored for their therapeutic potential in:\nInfectious Diseases: As alternatives to traditional antibiotics, particularly in the face of rising antibiotic resistance. Cancer Therapy: Some AMPs have demonstrated anti-cancer properties by selectively targeting cancer cells. Inflammatory Diseases: AMPs can modulate inflammatory responses, offering potential treatments for conditions like sepsis and chronic inflammatory diseases."
+    "text": "Antimicrobial peptides (AMPs) are a diverse group of small, naturally occurring molecules that play a crucial role in the innate immune response by targeting a wide range of pathogens, including bacteria, fungi, viruses, and even cancer cells. These peptides are found across all domains of life, from humans to plants and microorganisms, and are recognized for their broad-spectrum antimicrobial properties and their potential as therapeutic agents.\n\n\nAMPs exert their antimicrobial effects through various mechanisms, primarily targeting microbial membranes but also affecting intracellular processes. Key mechanisms include:\nMembrane Disruption: AMPs can insert into microbial membranes, forming pores or disrupting membrane integrity, leading to cell lysis. Intracellular Targeting: Some AMPs can penetrate microbial cells and interfere with vital intracellular functions such as DNA, RNA, and protein synthesis. Immunomodulation: AMPs can modulate the host immune response by recruiting immune cells to infection sites and enhancing phagocytosis. Factors influencing AMP activity include:\nSequence and Structure: The amino acid composition, charge, hydrophobicity, and secondary structure (e.g., alpha-helices, beta-sheets) determine AMP activity and specificity. Environmental Conditions: Factors such as pH, ionic strength, and presence of serum proteins can affect AMP stability and activity.\n\n\n\nAMPs are integral to the defense mechanisms of organisms, providing a first line of defense against infections. They are involved in:\nDirect Antimicrobial Action: Killing or inhibiting the growth of pathogens. Immune System Modulation: Enhancing the immune response by promoting the activation and recruitment of immune cells. Wound Healing: Facilitating tissue repair and regeneration by promoting cell migration and angiogenesis.\n\n\n\nAMPs have significant potential in clinical applications due to their broad-spectrum activity and unique mechanisms of action. They are being explored for their therapeutic potential in:\nInfectious Diseases: As alternatives to traditional antibiotics, particularly in the face of rising antibiotic resistance. Cancer Therapy: Some AMPs have demonstrated anti-cancer properties by selectively targeting cancer cells. Inflammatory Diseases: AMPs can modulate inflammatory responses, offering potential treatments for conditions like sepsis and chronic inflammatory diseases.",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Antimicrobial peptides"
+    ]
   },
   {
     "objectID": "subsite/topics/amp.html#beyond-the-basics",
     "href": "subsite/topics/amp.html#beyond-the-basics",
     "title": "Antimicrobial peptides",
     "section": "",
-    "text": "Antimicrobial peptides (AMPs) are a diverse group of small, naturally occurring molecules that play a crucial role in the innate immune response by targeting a wide range of pathogens, including bacteria, fungi, viruses, and even cancer cells. These peptides are found across all domains of life, from humans to plants and microorganisms, and are recognized for their broad-spectrum antimicrobial properties and their potential as therapeutic agents.\n\n\nAMPs exert their antimicrobial effects through various mechanisms, primarily targeting microbial membranes but also affecting intracellular processes. Key mechanisms include:\nMembrane Disruption: AMPs can insert into microbial membranes, forming pores or disrupting membrane integrity, leading to cell lysis. Intracellular Targeting: Some AMPs can penetrate microbial cells and interfere with vital intracellular functions such as DNA, RNA, and protein synthesis. Immunomodulation: AMPs can modulate the host immune response by recruiting immune cells to infection sites and enhancing phagocytosis. Factors influencing AMP activity include:\nSequence and Structure: The amino acid composition, charge, hydrophobicity, and secondary structure (e.g., alpha-helices, beta-sheets) determine AMP activity and specificity. Environmental Conditions: Factors such as pH, ionic strength, and presence of serum proteins can affect AMP stability and activity.\n\n\n\nAMPs are integral to the defense mechanisms of organisms, providing a first line of defense against infections. They are involved in:\nDirect Antimicrobial Action: Killing or inhibiting the growth of pathogens. Immune System Modulation: Enhancing the immune response by promoting the activation and recruitment of immune cells. Wound Healing: Facilitating tissue repair and regeneration by promoting cell migration and angiogenesis.\n\n\n\nAMPs have significant potential in clinical applications due to their broad-spectrum activity and unique mechanisms of action. They are being explored for their therapeutic potential in:\nInfectious Diseases: As alternatives to traditional antibiotics, particularly in the face of rising antibiotic resistance. Cancer Therapy: Some AMPs have demonstrated anti-cancer properties by selectively targeting cancer cells. Inflammatory Diseases: AMPs can modulate inflammatory responses, offering potential treatments for conditions like sepsis and chronic inflammatory diseases."
+    "text": "Antimicrobial peptides (AMPs) are a diverse group of small, naturally occurring molecules that play a crucial role in the innate immune response by targeting a wide range of pathogens, including bacteria, fungi, viruses, and even cancer cells. These peptides are found across all domains of life, from humans to plants and microorganisms, and are recognized for their broad-spectrum antimicrobial properties and their potential as therapeutic agents.\n\n\nAMPs exert their antimicrobial effects through various mechanisms, primarily targeting microbial membranes but also affecting intracellular processes. Key mechanisms include:\nMembrane Disruption: AMPs can insert into microbial membranes, forming pores or disrupting membrane integrity, leading to cell lysis. Intracellular Targeting: Some AMPs can penetrate microbial cells and interfere with vital intracellular functions such as DNA, RNA, and protein synthesis. Immunomodulation: AMPs can modulate the host immune response by recruiting immune cells to infection sites and enhancing phagocytosis. Factors influencing AMP activity include:\nSequence and Structure: The amino acid composition, charge, hydrophobicity, and secondary structure (e.g., alpha-helices, beta-sheets) determine AMP activity and specificity. Environmental Conditions: Factors such as pH, ionic strength, and presence of serum proteins can affect AMP stability and activity.\n\n\n\nAMPs are integral to the defense mechanisms of organisms, providing a first line of defense against infections. They are involved in:\nDirect Antimicrobial Action: Killing or inhibiting the growth of pathogens. Immune System Modulation: Enhancing the immune response by promoting the activation and recruitment of immune cells. Wound Healing: Facilitating tissue repair and regeneration by promoting cell migration and angiogenesis.\n\n\n\nAMPs have significant potential in clinical applications due to their broad-spectrum activity and unique mechanisms of action. They are being explored for their therapeutic potential in:\nInfectious Diseases: As alternatives to traditional antibiotics, particularly in the face of rising antibiotic resistance. Cancer Therapy: Some AMPs have demonstrated anti-cancer properties by selectively targeting cancer cells. Inflammatory Diseases: AMPs can modulate inflammatory responses, offering potential treatments for conditions like sepsis and chronic inflammatory diseases.",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Antimicrobial peptides"
+    ]
   },
   {
     "objectID": "subsite/topics/amp.html#our-aims",
     "href": "subsite/topics/amp.html#our-aims",
     "title": "Antimicrobial peptides",
     "section": "Our aims",
-    "text": "Our aims"
+    "text": "Our aims",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Antimicrobial peptides"
+    ]
   },
   {
     "objectID": "subsite/topics/amp.html#projects",
     "href": "subsite/topics/amp.html#projects",
     "title": "Antimicrobial peptides",
     "section": "Projects",
-    "text": "Projects"
+    "text": "Projects",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Antimicrobial peptides"
+    ]
   },
   {
-    "objectID": "subsite/theses.html",
-    "href": "subsite/theses.html",
-    "title": "Theses and dissertations",
+    "objectID": "subsite/team.html",
+    "href": "subsite/team.html",
+    "title": "BioGenies team",
     "section": "",
-    "text": "2025\n\n\n\nDawid Sonor Kubkowski  MSc thesis  “Biomedical Text Classification with Pre-trained Language Models”\n\n\nWeronika Puchała  PhD dissertation  “High-resolution analysis of hydrogen/deuterium exchange monitored by mass spectrometry experiment data”\n\n\n\n\n\n2023\n\n\n\nJarek Chilimoniuk  PhD dissertation  “Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB”"
+    "text": "🥸 BioGenies\n\n\n\n\n\n\nLaura Bąkała\n\n\n\n\n\n\n\nMichał Burdukiewicz  \n\n\n\n\n\n\n\nJarosław (Jarek) Chilimoniuk \n\n\n\n\n\n\n\nKrystyna (Krysia) Grzesiak  \n\n\n\n\n\n\n\n\n\nValentín Iglesias \n\n\n\n\n\n\n\nJakub Kołodziejczyk \n\n\n\n\n\n\n\nJoanna Pokora \n\n\n\n\n\n\n\nWeronika Puchała \n\n\n\n\n\n\n\n\n\nMariia Rutkowska \n\n\n\n\n\n\n\n🚀 Our mobility\n\n\n\n\n\n\n\n\n\n\n\n🗺️ Countries visited\n\n\n\n\n\n\n\n\n🐶 Our doggos and cattos 😼\n\n\n\n\n\n\nCzarek\n\n\n\n\n\n\n\nDelma\n\n\n\n\n\n\n\nPiksel\n\n\n\n\n\n\n\n\n\nInvi\n\n\n\n\n\n\n\nLusia\n\n\n\n\n\n\n\nElis"
   },
   {
-    "objectID": "subsite/team/wp.html",
-    "href": "subsite/team/wp.html",
-    "title": "Weronika Puchała",
+    "objectID": "subsite/team/vi.html",
+    "href": "subsite/team/vi.html",
+    "title": "Valentín Iglesias",
     "section": "",
-    "text": "📱 Contact\n\n   \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻\n\n\n\n\n\n\n\n\n\n📖 Publications"
+    "text": "📱 Contact\n\n    \n\n\n🚀 Research stays\n\n\n\n\n\n\n\n\n\n💻🧫 Experience\n\n\n\n\n\n\n\n\n\n🎓 Education\n\n\n Universitat Autònoma de Barcelona\n\n\nBiochemistry, Molecular Biology and Biomedicine (PhD Programme in Biochemistry, Molecular Biology and Biomedicine\n\nNA - ongoing PhD thesis: Bioinformatic analysis on the determinants of protein aggregation and conformational conversion 📍 Bellaterra, Spain\n\n Universitat Autònoma de Barcelona\n\n\nBiochemistry\n\nNA - ongoing 📍 Bellaterra, Spain\n\n Universitat Autònoma de Barcelona\n\n\nAdvanced Biotechnology\n\nNA - ongoing 📍 Bellaterra, Spain\n\n Universitat de Girona\n\n\nMolecular Biology and Biomedicine\n\nNA - ongoing 📍 Girona, Spain\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻\n\n\n\n\n\n\n\n\n\n📖 Publications"
   },
   {
-    "objectID": "subsite/team/mb.html",
-    "href": "subsite/team/mb.html",
-    "title": "Michał Burdukiewicz",
+    "objectID": "subsite/team/mr.html",
+    "href": "subsite/team/mr.html",
+    "title": "Mariia Rutkowska",
     "section": "",
-    "text": "📝 Bio\n\nHi! My name is Michał Burdukiewicz and I am passionate about bioinformatics and R.\nI am currently leading the Laboratory of Bioinformatics and Multi-omics Analysis at the Medical University of Białystok. Contact me if you want to collaborate with us!\nMy current projects:\n\nAmyloGraph, a comprehensive database of amyloid-amyloid interactions (doi:10.1093/nar/gkac882).\nHaDeX, an integrated analytical tool for HDX-MS (maintainer Weronika Puchała).\nNegative data sampling, where we show that benchmarks in antimicrobial peptide prediction are biased due to the selection of negative data (doi:10.1093/bib/bbac343).\n\nI am also maintaining the list of machine learning models for prediction of peptide properties (see also our article on that).\nI ❤️ R!\n\n\n📱 Contact\n\n    \n\n\n🚀 Research stays\n\n\n\n\n\n\n\n\n\n💻🧫 Experience\n\n\n\n\n\n\n\n\n\n🎓 Education\n\n\n University of Wrocław\n\n\nMolecular biology\n\n2015-10-01 - 2019-01-15 PhD thesis: n-gram analysis of biological sequences 📍 Wrocław, Poland\n\n University of Wrocław\n\n\nBioinformatics and systems biology\n\n2011-10-01 - 2013-06-15 MSc thesis: Machine learning algorithms in prediction of signal peptides of heterokonts 📍 Wrocław, Poland\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻\n\n\n\n\n\n\n\n\n\n📖 Publications\n\n\n\n\n\n\n\n\n\n🧑🏻‍🔬 Other activities\n\n\nSpecial issue guest editor (Analysis of Amplification Curve Data), Life\nSpecial issue guest editor (Cross-Interactions in Amyloid Aggregation), Frontiers in Molecular Biosciences.\nReviewer (ACS Omega, Analytical Chemistry, Antibiotics, Bioinformatics, BMC Biology, Briefings in Bioinformatics, Computational and Structural Biotechnology Journal, FEBS Open Bio, Frontiers in Molecular Biosciences, International Journal of Molecular Sciences, Journal of Molecular Biology, Journal of Personalized Medicine, Journal of Statistical Software, Journal of Functional Biomaterials, Pharmaceutics, PLOS One, PLOS Computational Biology, Scientific Reports, Theory in Biosciences).\nChair of the Organizing Committee (Wrocław Biofilm Symposium, 9-10 October 2017, Wrocław, Poland).\nChair of the Organizing Committee (Why R? - Polish-German Conference of R Users, 2-5 July 2018, Wrocław, Poland).\nMember of the Scientific Committee (International Biotech Innovation Days, 23-25 May 2018, Senftenberg, Germany).\nMember of the Organizing Committee (Why R? - International Conference of R Users, 26-29 September 2020, Warsaw, Poland).\nMember of the Organizing Committee (Barcelona Protein Aggregation Training School, 12-16 September 2022, Barcelona).\nMember of the Organizing Committee (Iberian Prion Conference, 11-12 May 2023, Barcelona).\nMember of the Organizing Committee (Iberian Prion Conference, 23-24 May 2025, Santiago de Compostela).\nML4NGP COST Action Management Committee Member.\nSecretary of the Board of the Genomics Platform at Warsaw University of Technology.\nFounder and board member of Why R? Foundation.\nFounder of Wrocław R User Group (STWUR).\nFounder of Student Bioinformatics Club (University of Wrocław)."
+    "text": "📝 Bio\n\nHi! My name is Mariia Solovianova, and I am a biotechnologist with a strong interest in bioinformatics.\nI am currently on an Erasmus exchange at the Medical University of Białystok, where I have the opportunity to expand my knowledge and gain new experiences.\nRight now, I am working with Valen on the AmyloGraph Antibody Database, exploring antibody-amyloid interactions.\n\n\n📱 Contact\n\n  \n\n\n🚀 Research stays\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🎓 Education\n\n\n Brandenburg University of Technology Cottbus-Senftenberg\n\n\nBiotechnology, specialization in Laboratory Diagnostics\n\n2022-10-01 - 2024-10-08 MSc thesis: Effect of estrogen on bone and erythropoiesis in Myelodysplastic syndrome 📍 Senftenberg, Germany\n\n Warsaw University of Life Sciences\n\n\nBiotechnology\n\n2018-10-01 - 2022-02-04 BSc thesis: The effect of azoxymethane on the rats colorectal metabolome 📍 Warsaw, Poland\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻"
   },
   {
-    "objectID": "subsite/team/kg.html",
-    "href": "subsite/team/kg.html",
-    "title": "Krystyna (Krysia) Grzesiak",
+    "objectID": "subsite/team/lb.html",
+    "href": "subsite/team/lb.html",
+    "title": "Laura Bąkała",
     "section": "",
-    "text": "📱 Contact\n\n     \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻\n\n\n\n\n\n\n\n\n\n📖 Publications"
+    "text": "📱 Contact\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n📖 Publications"
   },
   {
-    "objectID": "subsite/team/jk.html",
-    "href": "subsite/team/jk.html",
-    "title": "Jakub Kołodziejczyk",
+    "objectID": "subsite/team/jp.html",
+    "href": "subsite/team/jp.html",
+    "title": "Joanna (Asia) Pokora",
     "section": "",
-    "text": "📱 Contact\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n📖 Publications"
+    "text": "📱 Contact\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻"
+  },
+  {
+    "objectID": "subsite/team/jc.html",
+    "href": "subsite/team/jc.html",
+    "title": "Jarosław (Jarek) Chilimoniuk",
+    "section": "",
+    "text": "📱 Contact\n\n    \n\n\n🚀 Research stays\n\n\n\n\n\n\n\n\n\n💻🧫 Experience\n\n\n\n\n\n\n\n\n\n🎓 Education\n\n\n University of Wrocław\n\n\nBioTechNan - Program of Interdisciplinary Environmental PhD Studies KNOW in the area of Biotechnology and Nanotechnology\n\n2018-10-01 - 2023-07-06 PhD thesis: Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB 📍 Wrocław, Poland\n\n Brandenburg University of Technology Cottbus-Senftenberg\n\n\nExchange studies, German Academic Exchange Service scholarship, Biotechnology\n\n2020-10-01 - 2021-09-30 📍 Senftenberg, Germany\n\n University of Wrocław\n\n\nMolecular Biology\n\n2017-10-01 - 2018-09-30 📍 Wrocław, Poland\n\n University of Warsaw\n\n\nBiotechnology, specialization in Molecular Biology\n\n2013-10-01 - 2015-08-13 MSc thesis: Disposal of hardly biodegradable feedstock wastes in methane fermentation process 📍 Warsaw, Poland\n\n University of Warsaw\n\n\nBiotechnology\n\n2010-10-01 - 2013-09-06 BSc thesis: Localization of hSUV3 protein and γ-tubulin at different developmental stages of the human umbilical cord blood-derived neural stem cell line (HUCB-NSC) 📍 Warsaw, Poland\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻\n\n\n\n\n\n\n\n\n\n📖 Publications\n\n\n\n\n\n\n\n\n\n🧑🏻‍🔬 Other activities\n\n\nAssociation of Wrocław R Users (STWUR) meetings co-organizer - R language workshops\nCo-organizer of WhyR? 2019 Conference in Warsaw\nCo-organizer of WhyR? 2018 Conference in Wrocław\nCEO of PhD Bioinformatics Club at University of Wrocław, 2017-2023"
   },
   {
     "objectID": "subsite/seminars.html",
@@ -1344,129 +1401,157 @@
     "text": "LIMAD: Large-scale identification of microorganism products impacting amyloid diseases\nPI: Valen\nFunding agency: National Science Center Poland\nProgramme: Miniatura 9\nGrant ID: 2025/09/X/NZ7/00600\nStart date: 21 Aug 2025\nDuration: 12 months\nBudget: PLN49,999.00\nProtein aggregation and amyloid deposits are hallmarks of neurodegenerative diseases such as Alzheimer’s (AD) and Parkinson’s (PD). Emerging evidence suggests that microbial proteins can influence the misfolding of human amyloidogenic proteins (notably Aβ42 and α-synuclein), potentially via the gut–brain axis. LIMAD aims to systematically uncover microbial proteins with amyloid potential and evaluate their ability to interact with and promote aggregation of Aβ42 and α-synuclein.\n\n\n\n🔍 Systematic review of microbes linked to Alzheimer’s & Parkinson’s\n\n🧬 Screening microbial proteins for amyloid potential\n\n🤖 Using ML & structural biology to test cross-interactions with Aβ42 & α-synuclein\n\n🧪 Generating new hypotheses for microbial contributions to neurodegeneration\n\n🎯 Identifying potential drug targets and prevention strategies"
   },
   {
-    "objectID": "subsite/team/jc.html",
-    "href": "subsite/team/jc.html",
-    "title": "Jarosław (Jarek) Chilimoniuk",
-    "section": "",
-    "text": "📱 Contact\n\n    \n\n\n🚀 Research stays\n\n\n\n\n\n\n\n\n\n💻🧫 Experience\n\n\n\n\n\n\n\n\n\n🎓 Education\n\n\n University of Wrocław\n\n\nBioTechNan - Program of Interdisciplinary Environmental PhD Studies KNOW in the area of Biotechnology and Nanotechnology\n\n2018-10-01 - 2023-07-06 PhD thesis: Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB 📍 Wrocław, Poland\n\n Brandenburg University of Technology Cottbus-Senftenberg\n\n\nExchange studies, German Academic Exchange Service scholarship, Biotechnology\n\n2020-10-01 - 2021-09-30 📍 Senftenberg, Germany\n\n University of Wrocław\n\n\nMolecular Biology\n\n2017-10-01 - 2018-09-30 📍 Wrocław, Poland\n\n University of Warsaw\n\n\nBiotechnology, specialization in Molecular Biology\n\n2013-10-01 - 2015-08-13 MSc thesis: Disposal of hardly biodegradable feedstock wastes in methane fermentation process 📍 Warsaw, Poland\n\n University of Warsaw\n\n\nBiotechnology\n\n2010-10-01 - 2013-09-06 BSc thesis: Localization of hSUV3 protein and γ-tubulin at different developmental stages of the human umbilical cord blood-derived neural stem cell line (HUCB-NSC) 📍 Warsaw, Poland\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻\n\n\n\n\n\n\n\n\n\n📖 Publications\n\n\n\n\n\n\n\n\n\n🧑🏻‍🔬 Other activities\n\n\nAssociation of Wrocław R Users (STWUR) meetings co-organizer - R language workshops\nCo-organizer of WhyR? 2019 Conference in Warsaw\nCo-organizer of WhyR? 2018 Conference in Wrocław\nCEO of PhD Bioinformatics Club at University of Wrocław, 2017-2023"
-  },
-  {
-    "objectID": "subsite/team/jp.html",
-    "href": "subsite/team/jp.html",
-    "title": "Joanna (Asia) Pokora",
-    "section": "",
-    "text": "📱 Contact\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻"
-  },
-  {
-    "objectID": "subsite/team/lb.html",
-    "href": "subsite/team/lb.html",
-    "title": "Laura Bąkała",
-    "section": "",
-    "text": "📱 Contact\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n📖 Publications"
-  },
-  {
-    "objectID": "subsite/team/mr.html",
-    "href": "subsite/team/mr.html",
-    "title": "Mariia Rutkowska",
-    "section": "",
-    "text": "📝 Bio\n\nHi! My name is Mariia Solovianova, and I am a biotechnologist with a strong interest in bioinformatics.\nI am currently on an Erasmus exchange at the Medical University of Białystok, where I have the opportunity to expand my knowledge and gain new experiences.\nRight now, I am working with Valen on the AmyloGraph Antibody Database, exploring antibody-amyloid interactions.\n\n\n📱 Contact\n\n  \n\n\n🚀 Research stays\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🎓 Education\n\n\n Brandenburg University of Technology Cottbus-Senftenberg\n\n\nBiotechnology, specialization in Laboratory Diagnostics\n\n2022-10-01 - 2024-10-08 MSc thesis: Effect of estrogen on bone and erythropoiesis in Myelodysplastic syndrome 📍 Senftenberg, Germany\n\n Warsaw University of Life Sciences\n\n\nBiotechnology\n\n2018-10-01 - 2022-02-04 BSc thesis: The effect of azoxymethane on the rats colorectal metabolome 📍 Warsaw, Poland\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻"
-  },
-  {
-    "objectID": "subsite/team/vi.html",
-    "href": "subsite/team/vi.html",
-    "title": "Valentín Iglesias",
-    "section": "",
-    "text": "📱 Contact\n\n    \n\n\n🚀 Research stays\n\n\n\n\n\n\n\n\n\n💻🧫 Experience\n\n\n\n\n\n\n\n\n\n🎓 Education\n\n\n Universitat Autònoma de Barcelona\n\n\nBiochemistry, Molecular Biology and Biomedicine (PhD Programme in Biochemistry, Molecular Biology and Biomedicine\n\nNA - ongoing PhD thesis: Bioinformatic analysis on the determinants of protein aggregation and conformational conversion 📍 Bellaterra, Spain\n\n Universitat Autònoma de Barcelona\n\n\nBiochemistry\n\nNA - ongoing 📍 Bellaterra, Spain\n\n Universitat Autònoma de Barcelona\n\n\nAdvanced Biotechnology\n\nNA - ongoing 📍 Bellaterra, Spain\n\n Universitat de Girona\n\n\nMolecular Biology and Biomedicine\n\nNA - ongoing 📍 Girona, Spain\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻\n\n\n\n\n\n\n\n\n\n📖 Publications"
-  },
-  {
-    "objectID": "subsite/team.html",
-    "href": "subsite/team.html",
-    "title": "BioGenies team",
-    "section": "",
-    "text": "🥸 BioGenies\n\n\n\n\n\n\nLaura Bąkała\n\n\n\n\n\n\n\nMichał Burdukiewicz  \n\n\n\n\n\n\n\nJarosław (Jarek) Chilimoniuk \n\n\n\n\n\n\n\nKrystyna (Krysia) Grzesiak  \n\n\n\n\n\n\n\n\n\nValentín Iglesias \n\n\n\n\n\n\n\nJakub Kołodziejczyk \n\n\n\n\n\n\n\nJoanna Pokora \n\n\n\n\n\n\n\nWeronika Puchała \n\n\n\n\n\n\n\n\n\nMariia Rutkowska \n\n\n\n\n\n\n\n🚀 Our mobility\n\n\n\n\n\n\n\n\n\n\n\n🗺️ Countries visited\n\n\n\n\n\n\n\n\n🐶 Our doggos and cattos 😼\n\n\n\n\n\n\nCzarek\n\n\n\n\n\n\n\nDelma\n\n\n\n\n\n\n\nPiksel\n\n\n\n\n\n\n\n\n\nInvi\n\n\n\n\n\n\n\nLusia\n\n\n\n\n\n\n\nElis"
-  },
-  {
-    "objectID": "subsite/tools.html",
-    "href": "subsite/tools.html",
+    "objectID": "subsite/software.html",
+    "href": "subsite/software.html",
     "title": "Software",
     "section": "",
     "text": "MetaboCrates - tool for BioCrates kits data processing\n\n\n\n\n\n\n\nimputomics - missing data imputation tool\n\n\n\n\n\n\n\nAMPBenchmark - benchmarking of models for antimicrobial (AMP) peptide prediction\n\n\n\n\n\n\n\nHaDeX - HDX-MS data processing tool\n\n\n\n\n\n\n\n\n\ncountfitteR - count data processing tool\n\n\n\n\n\n\n\nAmyloGram - amyloid properties predictor\n\n\n\n\n\n\n\nAmpGram - antimicrobial (AMP) peptide predictor\n\n\n\n\n\n\n\nPlastoGram - subchloroplast localisation predictor\n\n\n\n\n\n\n\n\n\nCancerGram - anticancer peptide predictor\n\n\n\n\n\n\n\nMethanoGram - methanogens culture conditions predictor"
   },
   {
-    "objectID": "subsite/tools.html#web-servers",
-    "href": "subsite/tools.html#web-servers",
+    "objectID": "subsite/software.html#web-servers",
+    "href": "subsite/software.html#web-servers",
     "title": "Software",
     "section": "",
     "text": "MetaboCrates - tool for BioCrates kits data processing\n\n\n\n\n\n\n\nimputomics - missing data imputation tool\n\n\n\n\n\n\n\nAMPBenchmark - benchmarking of models for antimicrobial (AMP) peptide prediction\n\n\n\n\n\n\n\nHaDeX - HDX-MS data processing tool\n\n\n\n\n\n\n\n\n\ncountfitteR - count data processing tool\n\n\n\n\n\n\n\nAmyloGram - amyloid properties predictor\n\n\n\n\n\n\n\nAmpGram - antimicrobial (AMP) peptide predictor\n\n\n\n\n\n\n\nPlastoGram - subchloroplast localisation predictor\n\n\n\n\n\n\n\n\n\nCancerGram - anticancer peptide predictor\n\n\n\n\n\n\n\nMethanoGram - methanogens culture conditions predictor"
   },
   {
-    "objectID": "subsite/tools.html#databases",
-    "href": "subsite/tools.html#databases",
+    "objectID": "subsite/software.html#databases",
+    "href": "subsite/software.html#databases",
     "title": "Software",
     "section": " Databases",
     "text": "Databases\n\n\n\n\n\n\nAmyloGraph - amyloid-amyloid interaction database\n\n\n\n\n\n\n\nCurated list of peer-reviewed peptide function predictors\n\n\n\n\n\n\n\nCurated list of peer-reviewed amyloid databases\n\n\n\n\n\n\n\nCurated list of peer-reviewed amyloid databases"
   },
   {
-    "objectID": "subsite/tools.html#tools",
-    "href": "subsite/tools.html#tools",
+    "objectID": "subsite/software.html#tools",
+    "href": "subsite/software.html#tools",
     "title": "Software",
     "section": " Tools",
     "text": "Tools\n\n\n\n\n\n\ntidysq - tidy R package for analysis and manipulation of biological sequences\n\n\n\n\n\n\n\nbiogram - R package for extraction and analysis of n-grams from biological sequences\n\n\n\n\n\n\n\nseqR - R package for fast k-mer counting\n\n\n\n\n\n\n\nPCRedux - R package for feature extraction from qPCR amplification curve data"
   },
   {
-    "objectID": "subsite/tools.html#code-repositories",
-    "href": "subsite/tools.html#code-repositories",
+    "objectID": "subsite/software.html#code-repositories",
+    "href": "subsite/software.html#code-repositories",
     "title": "Software",
     "section": " Code repositories",
     "text": "Code repositories\n\n\n\n\n\n\nMetaboCrates\n\n\n\n\n\n\n\nAmyloGraph\n\n\n\n\n\n\n\nimputomics\n\n\n\n\n\n\n\nHaDeX\n\n\n\n\n\n\n\n\n\ncountfitteR\n\n\n\n\n\n\n\nAmyloGram\n\n\n\n\n\n\n\nPlastoGram\n\n\n\n\n\n\n\nAmpGram\n\n\n\n\n\n\n\n\n\nCancerGram\n\n\n\n\n\n\n\nPhyMet2 - database and toolkit for phylogenetic and metabolic analyses of methanogens\n\n\n\n\n\n\n\nsignalHsmm\n\n\n\n\n\n\n\nAMPBenchmark - benchmarking of models for antimicrobial (AMP) peptide prediction\n\n\n\n\n\n\n\n\n\nCurated list of peer-reviewed peptide function predictors\n\n\n\n\n\n\n\ndpcR - tool for analysis, visualisation and simulation of digital PCR experiments\n\n\n\n\n\n\n\nCurated list of peer-reviewed amyloid databases\n\n\n\n\n\nSome logos were created by Copilots Designer AI"
+  },
+  {
+    "objectID": "subsite/team/jk.html",
+    "href": "subsite/team/jk.html",
+    "title": "Jakub Kołodziejczyk",
+    "section": "",
+    "text": "📱 Contact\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n📖 Publications"
+  },
+  {
+    "objectID": "subsite/team/kg.html",
+    "href": "subsite/team/kg.html",
+    "title": "Krystyna (Krysia) Grzesiak",
+    "section": "",
+    "text": "📱 Contact\n\n     \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻\n\n\n\n\n\n\n\n\n\n📖 Publications"
+  },
+  {
+    "objectID": "subsite/team/mb.html",
+    "href": "subsite/team/mb.html",
+    "title": "Michał Burdukiewicz",
+    "section": "",
+    "text": "📝 Bio\n\nHi! My name is Michał Burdukiewicz and I am passionate about bioinformatics and R.\nI am currently leading the Laboratory of Bioinformatics and Multi-omics Analysis at the Medical University of Białystok. Contact me if you want to collaborate with us!\nMy current projects:\n\nAmyloGraph, a comprehensive database of amyloid-amyloid interactions (doi:10.1093/nar/gkac882).\nHaDeX, an integrated analytical tool for HDX-MS (maintainer Weronika Puchała).\nNegative data sampling, where we show that benchmarks in antimicrobial peptide prediction are biased due to the selection of negative data (doi:10.1093/bib/bbac343).\n\nI am also maintaining the list of machine learning models for prediction of peptide properties (see also our article on that).\nI ❤️ R!\n\n\n📱 Contact\n\n    \n\n\n🚀 Research stays\n\n\n\n\n\n\n\n\n\n💻🧫 Experience\n\n\n\n\n\n\n\n\n\n🎓 Education\n\n\n University of Wrocław\n\n\nMolecular biology\n\n2015-10-01 - 2019-01-15 PhD thesis: n-gram analysis of biological sequences 📍 Wrocław, Poland\n\n University of Wrocław\n\n\nBioinformatics and systems biology\n\n2011-10-01 - 2013-06-15 MSc thesis: Machine learning algorithms in prediction of signal peptides of heterokonts 📍 Wrocław, Poland\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻\n\n\n\n\n\n\n\n\n\n📖 Publications\n\n\n\n\n\n\n\n\n\n🧑🏻‍🔬 Other activities\n\n\nSpecial issue guest editor (Analysis of Amplification Curve Data), Life\nSpecial issue guest editor (Cross-Interactions in Amyloid Aggregation), Frontiers in Molecular Biosciences.\nReviewer (ACS Omega, Analytical Chemistry, Antibiotics, Bioinformatics, BMC Biology, Briefings in Bioinformatics, Computational and Structural Biotechnology Journal, FEBS Open Bio, Frontiers in Molecular Biosciences, International Journal of Molecular Sciences, Journal of Molecular Biology, Journal of Personalized Medicine, Journal of Statistical Software, Journal of Functional Biomaterials, Pharmaceutics, PLOS One, PLOS Computational Biology, Scientific Reports, Theory in Biosciences).\nChair of the Organizing Committee (Wrocław Biofilm Symposium, 9-10 October 2017, Wrocław, Poland).\nChair of the Organizing Committee (Why R? - Polish-German Conference of R Users, 2-5 July 2018, Wrocław, Poland).\nMember of the Scientific Committee (International Biotech Innovation Days, 23-25 May 2018, Senftenberg, Germany).\nMember of the Organizing Committee (Why R? - International Conference of R Users, 26-29 September 2020, Warsaw, Poland).\nMember of the Organizing Committee (Barcelona Protein Aggregation Training School, 12-16 September 2022, Barcelona).\nMember of the Organizing Committee (Iberian Prion Conference, 11-12 May 2023, Barcelona).\nMember of the Organizing Committee (Iberian Prion Conference, 23-24 May 2025, Santiago de Compostela).\nML4NGP COST Action Management Committee Member.\nSecretary of the Board of the Genomics Platform at Warsaw University of Technology.\nFounder and board member of Why R? Foundation.\nFounder of Wrocław R User Group (STWUR).\nFounder of Student Bioinformatics Club (University of Wrocław)."
+  },
+  {
+    "objectID": "subsite/team/wp.html",
+    "href": "subsite/team/wp.html",
+    "title": "Weronika Puchała",
+    "section": "",
+    "text": "📱 Contact\n\n   \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n👏🏻 Conferences, workshops, training schools 🤝🏻\n\n\n\n\n\n\n\n\n\n📖 Publications"
+  },
+  {
+    "objectID": "subsite/theses.html",
+    "href": "subsite/theses.html",
+    "title": "Theses and dissertations",
+    "section": "",
+    "text": "2025\n\n\n\nDawid Sonor Kubkowski  MSc thesis  “Biomedical Text Classification with Pre-trained Language Models”\n\n\nWeronika Puchała  PhD dissertation  “High-resolution analysis of hydrogen/deuterium exchange monitored by mass spectrometry experiment data”\n\n\n\n\n\n2023\n\n\n\nJarek Chilimoniuk  PhD dissertation  “Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB”"
   },
   {
     "objectID": "subsite/topics/amyloids.html",
     "href": "subsite/topics/amyloids.html",
     "title": "Amyloids",
     "section": "",
-    "text": "Amyloids are highly structured, fibrous protein aggregates that are associated with a variety of physiological and pathological processes. These protein assemblies are characterized by their beta-sheet-rich structure, which allows them to form long, unbranched fibrils. Amyloid fibrils can accumulate in tissues and organs, leading to a range of diseases known as amyloidoses. However, not all amyloids are harmful; some play functional roles in normal cellular processes."
+    "text": "Amyloids are highly structured, fibrous protein aggregates that are associated with a variety of physiological and pathological processes. These protein assemblies are characterized by their beta-sheet-rich structure, which allows them to form long, unbranched fibrils. Amyloid fibrils can accumulate in tissues and organs, leading to a range of diseases known as amyloidoses. However, not all amyloids are harmful; some play functional roles in normal cellular processes.",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Amyloids"
+    ]
   },
   {
     "objectID": "subsite/topics/amyloids.html#our-aims",
     "href": "subsite/topics/amyloids.html#our-aims",
     "title": "Amyloids",
     "section": "Our aims",
-    "text": "Our aims"
+    "text": "Our aims",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Amyloids"
+    ]
   },
   {
     "objectID": "subsite/topics/amyloids.html#projects",
     "href": "subsite/topics/amyloids.html#projects",
     "title": "Amyloids",
     "section": "Projects",
-    "text": "Projects\n\nAmyloGraph\nwebsite publication github\n\n\nAmyloGram\nwebsite publication github"
+    "text": "Projects\n\nAmyloGraph\nwebsite publication github\n\n\nAmyloGram\nwebsite publication github",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Amyloids"
+    ]
   },
   {
     "objectID": "subsite/topics/llps.html",
     "href": "subsite/topics/llps.html",
     "title": "Liquid-liquid phase separation",
     "section": "",
-    "text": "Liquid-liquid phase separation (LLPS) is a fundamental biophysical process that underlies the organization and compartmentalization within cells, without relying on membrane-bound structures. This phenomenon occurs when a homogenous solution of macromolecules, such as proteins and nucleic acids, spontaneously demixes into two coexisting liquid phases: a dense phase enriched in these macromolecules and a dilute phase that is relatively depleted of them. This phase separation is driven by weak, multivalent interactions among the molecules, including electrostatic interactions, hydrophobic effects, and specific binding domains.\n\n\nThe driving forces behind LLPS involve a delicate balance between attractive and repulsive interactions among macromolecules. Key factors influencing LLPS include:\nMultivalency: Proteins and nucleic acids with multiple interaction sites can engage in many weak interactions simultaneously, promoting phase separation. Intrinsic Disorder: Proteins with intrinsically disordered regions (IDRs) often undergo LLPS due to their flexible, dynamic nature, which allows for transient interactions. Post-translational Modifications: Phosphorylation, methylation, and ubiquitination can modulate protein-protein interactions, thereby influencing LLPS. Environmental Conditions: Changes in temperature, pH, ionic strength, and concentration of macromolecules can trigger or inhibit phase separation.\n\n\n\nLLPS is pivotal in forming various membrane-less organelles (MLOs) or biomolecular condensates that compartmentalize cellular components to enhance reaction kinetics, protect sensitive molecules, and regulate biological processes. Some key examples include:\nNucleoli: Sites of ribosomal RNA (rRNA) synthesis and ribosome assembly within the nucleus. Stress Granules: Cytoplasmic aggregates that form in response to cellular stress, sequestering untranslated mRNAs and associated proteins. P-bodies: Cytoplasmic structures involved in mRNA decay and storage. Centrosomes: Organizing centers for microtubule nucleation during cell division.\n\n\n\nLLPS has profound implications for understanding cellular organization and disease mechanisms. Aberrant phase separation can lead to pathological aggregates associated with diseases such as:\nNeurodegenerative Diseases: Dysregulated phase separation can contribute to the formation of toxic protein aggregates in diseases like ALS, Alzheimer’s, and Parkinson’s. Cancer: Altered phase separation dynamics can affect signaling pathways and gene expression, contributing to tumorigenesis."
+    "text": "Liquid-liquid phase separation (LLPS) is a fundamental biophysical process that underlies the organization and compartmentalization within cells, without relying on membrane-bound structures. This phenomenon occurs when a homogenous solution of macromolecules, such as proteins and nucleic acids, spontaneously demixes into two coexisting liquid phases: a dense phase enriched in these macromolecules and a dilute phase that is relatively depleted of them. This phase separation is driven by weak, multivalent interactions among the molecules, including electrostatic interactions, hydrophobic effects, and specific binding domains.\n\n\nThe driving forces behind LLPS involve a delicate balance between attractive and repulsive interactions among macromolecules. Key factors influencing LLPS include:\nMultivalency: Proteins and nucleic acids with multiple interaction sites can engage in many weak interactions simultaneously, promoting phase separation. Intrinsic Disorder: Proteins with intrinsically disordered regions (IDRs) often undergo LLPS due to their flexible, dynamic nature, which allows for transient interactions. Post-translational Modifications: Phosphorylation, methylation, and ubiquitination can modulate protein-protein interactions, thereby influencing LLPS. Environmental Conditions: Changes in temperature, pH, ionic strength, and concentration of macromolecules can trigger or inhibit phase separation.\n\n\n\nLLPS is pivotal in forming various membrane-less organelles (MLOs) or biomolecular condensates that compartmentalize cellular components to enhance reaction kinetics, protect sensitive molecules, and regulate biological processes. Some key examples include:\nNucleoli: Sites of ribosomal RNA (rRNA) synthesis and ribosome assembly within the nucleus. Stress Granules: Cytoplasmic aggregates that form in response to cellular stress, sequestering untranslated mRNAs and associated proteins. P-bodies: Cytoplasmic structures involved in mRNA decay and storage. Centrosomes: Organizing centers for microtubule nucleation during cell division.\n\n\n\nLLPS has profound implications for understanding cellular organization and disease mechanisms. Aberrant phase separation can lead to pathological aggregates associated with diseases such as:\nNeurodegenerative Diseases: Dysregulated phase separation can contribute to the formation of toxic protein aggregates in diseases like ALS, Alzheimer’s, and Parkinson’s. Cancer: Altered phase separation dynamics can affect signaling pathways and gene expression, contributing to tumorigenesis.",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Liquid-liquid phase separation"
+    ]
   },
   {
     "objectID": "subsite/topics/llps.html#beyond-the-basics",
     "href": "subsite/topics/llps.html#beyond-the-basics",
     "title": "Liquid-liquid phase separation",
     "section": "",
-    "text": "Liquid-liquid phase separation (LLPS) is a fundamental biophysical process that underlies the organization and compartmentalization within cells, without relying on membrane-bound structures. This phenomenon occurs when a homogenous solution of macromolecules, such as proteins and nucleic acids, spontaneously demixes into two coexisting liquid phases: a dense phase enriched in these macromolecules and a dilute phase that is relatively depleted of them. This phase separation is driven by weak, multivalent interactions among the molecules, including electrostatic interactions, hydrophobic effects, and specific binding domains.\n\n\nThe driving forces behind LLPS involve a delicate balance between attractive and repulsive interactions among macromolecules. Key factors influencing LLPS include:\nMultivalency: Proteins and nucleic acids with multiple interaction sites can engage in many weak interactions simultaneously, promoting phase separation. Intrinsic Disorder: Proteins with intrinsically disordered regions (IDRs) often undergo LLPS due to their flexible, dynamic nature, which allows for transient interactions. Post-translational Modifications: Phosphorylation, methylation, and ubiquitination can modulate protein-protein interactions, thereby influencing LLPS. Environmental Conditions: Changes in temperature, pH, ionic strength, and concentration of macromolecules can trigger or inhibit phase separation.\n\n\n\nLLPS is pivotal in forming various membrane-less organelles (MLOs) or biomolecular condensates that compartmentalize cellular components to enhance reaction kinetics, protect sensitive molecules, and regulate biological processes. Some key examples include:\nNucleoli: Sites of ribosomal RNA (rRNA) synthesis and ribosome assembly within the nucleus. Stress Granules: Cytoplasmic aggregates that form in response to cellular stress, sequestering untranslated mRNAs and associated proteins. P-bodies: Cytoplasmic structures involved in mRNA decay and storage. Centrosomes: Organizing centers for microtubule nucleation during cell division.\n\n\n\nLLPS has profound implications for understanding cellular organization and disease mechanisms. Aberrant phase separation can lead to pathological aggregates associated with diseases such as:\nNeurodegenerative Diseases: Dysregulated phase separation can contribute to the formation of toxic protein aggregates in diseases like ALS, Alzheimer’s, and Parkinson’s. Cancer: Altered phase separation dynamics can affect signaling pathways and gene expression, contributing to tumorigenesis."
+    "text": "Liquid-liquid phase separation (LLPS) is a fundamental biophysical process that underlies the organization and compartmentalization within cells, without relying on membrane-bound structures. This phenomenon occurs when a homogenous solution of macromolecules, such as proteins and nucleic acids, spontaneously demixes into two coexisting liquid phases: a dense phase enriched in these macromolecules and a dilute phase that is relatively depleted of them. This phase separation is driven by weak, multivalent interactions among the molecules, including electrostatic interactions, hydrophobic effects, and specific binding domains.\n\n\nThe driving forces behind LLPS involve a delicate balance between attractive and repulsive interactions among macromolecules. Key factors influencing LLPS include:\nMultivalency: Proteins and nucleic acids with multiple interaction sites can engage in many weak interactions simultaneously, promoting phase separation. Intrinsic Disorder: Proteins with intrinsically disordered regions (IDRs) often undergo LLPS due to their flexible, dynamic nature, which allows for transient interactions. Post-translational Modifications: Phosphorylation, methylation, and ubiquitination can modulate protein-protein interactions, thereby influencing LLPS. Environmental Conditions: Changes in temperature, pH, ionic strength, and concentration of macromolecules can trigger or inhibit phase separation.\n\n\n\nLLPS is pivotal in forming various membrane-less organelles (MLOs) or biomolecular condensates that compartmentalize cellular components to enhance reaction kinetics, protect sensitive molecules, and regulate biological processes. Some key examples include:\nNucleoli: Sites of ribosomal RNA (rRNA) synthesis and ribosome assembly within the nucleus. Stress Granules: Cytoplasmic aggregates that form in response to cellular stress, sequestering untranslated mRNAs and associated proteins. P-bodies: Cytoplasmic structures involved in mRNA decay and storage. Centrosomes: Organizing centers for microtubule nucleation during cell division.\n\n\n\nLLPS has profound implications for understanding cellular organization and disease mechanisms. Aberrant phase separation can lead to pathological aggregates associated with diseases such as:\nNeurodegenerative Diseases: Dysregulated phase separation can contribute to the formation of toxic protein aggregates in diseases like ALS, Alzheimer’s, and Parkinson’s. Cancer: Altered phase separation dynamics can affect signaling pathways and gene expression, contributing to tumorigenesis.",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Liquid-liquid phase separation"
+    ]
   },
   {
     "objectID": "subsite/topics/llps.html#our-aims",
     "href": "subsite/topics/llps.html#our-aims",
     "title": "Liquid-liquid phase separation",
     "section": "Our aims",
-    "text": "Our aims"
+    "text": "Our aims",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Liquid-liquid phase separation"
+    ]
   },
   {
     "objectID": "subsite/topics/llps.html#projects",
     "href": "subsite/topics/llps.html#projects",
     "title": "Liquid-liquid phase separation",
     "section": "Projects",
-    "text": "Projects"
+    "text": "Projects",
+    "crumbs": [
+      "Home",
+      "Our topics",
+      "Liquid-liquid phase separation"
+    ]
   }
 ]
