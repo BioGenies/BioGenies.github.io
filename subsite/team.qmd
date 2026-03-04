@@ -9,7 +9,7 @@ title: "BioGenies team"
 
 [![Michał Burdukiewicz ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'} ![](fig/logo/VU_logo.png "Vilnius University"){width='80'}](fig/ppl/mb.jpeg "Michał Burdukiewicz"){}](team/mb.html)
 
-[![Jarosław (Jarek) Chilimoniuk ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk}"){}](team/jc.html)
+[![Jarosław (Jarek) Chilimoniuk ![](fig/logo/VU_logo.png "Vilnius University"){width='80'} ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk}"){}](team/jc.html)
 
 [![Krystyna (Krysia) Grzesiak ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'} ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){}](team/kg.html)
 

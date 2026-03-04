@@ -61,6 +61,11 @@ pubs <- function(whois, openalex_id){
   pub <- openalexR::oa_fetch(entity ="works",
                              author.id = openalex_id)
   
+  pub <- pub[!(pub$doi %in% c("https://doi.org/10.1007/s00276-025-03680-2",
+                              "https://doi.org/10.1007/10.1016/j.dss.2016.06.007",
+                              "https://doi.org/10.1007/10.1016/j.dss.2016.06.007",
+                              "https://doi.org/10.1007/10.2991/ifsa-eusflat-15.2015.94")), ]
+  
   pub_mod <- pub$authorships %>% 
     lapply(., function(x) {x$display_name %>% str_flatten(., collapse = ", ")}) %>% 
     unlist() %>% 

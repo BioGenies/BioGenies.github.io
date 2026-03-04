@@ -31,6 +31,11 @@ pub <- openalexR::oa_fetch(entity ="works",
                            author.id = c(openalex_ids))
                    # author.id = c("A5015968787", "A5072021711"))
 
+pub <- pub[!(pub$doi %in% c("https://doi.org/10.1007/s00276-025-03680-2",
+                     "https://doi.org/10.1007/10.1016/j.dss.2016.06.007",
+                     "https://doi.org/10.1007/10.1016/j.dss.2016.06.007",
+                     "https://doi.org/10.1007/10.2991/ifsa-eusflat-15.2015.94")), ]
+
 # pub <- openalexR::oa_fetch(entity ="works", grants.funder = "f4320322511")
 
 pub_mod <- pub$authorships %>% 
@@ -45,8 +50,9 @@ pub_mod <- pub$authorships %>%
 pub_mod %>% 
   filter(type != "dataset") %>% 
   filter(type != "preprint") %>%
+  filter(type != "other") %>%
   select(title, authors, doi, publication_date, type, source_display_name, host_organization_name) %>% 
-  # drop_na(., doi) %>%
+  drop_na(., doi) %>%
   mutate(doi = paste0('<a  target=_blank href=', doi, '>', doi %>% str_remove(., "https://doi.org/"),'</a>'),
          journal = source_display_name %>% as.factor(),
          publisher = host_organization_name %>% as.factor(),
