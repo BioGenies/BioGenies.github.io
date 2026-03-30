@@ -1,8 +1,10 @@
 # BioGenies news
 
-##### New BioGenies paper in Bioinformatics - meet HaDeX2! 📄🧬
+##### HaDeX2: HDX-MS analysis tool for protein dynamics (Bioinformatics 2026) 🧬
 
-Our new Bioinformatics paper introduces HaDeX2 🧬 - a tool for multi-dimensional analysis of HDX-MS data. Explore it via web server or R package.
+HaDeX2 is a bioinformatics tool for hydrogen–deuterium exchange mass spectrometry (HDX-MS) data analysis, enabling multi-dimensional statistical analysis and visualization…
+
+BioGenies Lab
 
 Mar 16, 2026
 

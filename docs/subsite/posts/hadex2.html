@@ -6,10 +6,12 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="BioGenies Lab">
 <meta name="dcterms.date" content="2026-03-16">
-<meta name="description" content="Our new Bioinformatics paper introduces HaDeX2 🧬 - a tool for multi-dimensional analysis of HDX-MS data. Explore it via web server or R package.">
+<meta name="keywords" content="HDX-MS, hydrogen deuterium exchange, protein dynamics, mass spectrometry, bioinformatics tool, structural proteomics, R package">
+<meta name="description" content="HaDeX2 is a bioinformatics tool for hydrogen–deuterium exchange mass spectrometry (HDX-MS) data analysis, enabling multi-dimensional statistical analysis and visualization of protein dynamics.">
 
-<title>New BioGenies paper in Bioinformatics - meet HaDeX2! 📄🧬 – BioGenies</title>
+<title>HaDeX2: HDX-MS analysis tool for protein dynamics (Bioinformatics 2026) 🧬 – BioGenies</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -110,12 +112,12 @@ cookieconsent.run({
 <link rel="stylesheet" href="../../navbar_hover.css">
 <link rel="stylesheet" href="../../sidebar_mods.css">
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="New BioGenies paper in Bioinformatics - meet HaDeX2! 📄🧬 – BioGenies">
-<meta property="og:description" content="Our new Bioinformatics paper introduces HaDeX2 🧬 - a tool for multi-dimensional analysis of HDX-MS data. Explore it via web server or R package.">
+<meta property="og:title" content="HaDeX2: HDX-MS analysis tool for protein dynamics (Bioinformatics 2026) 🧬 – BioGenies">
+<meta property="og:description" content="HaDeX2 is a bioinformatics tool for hydrogen–deuterium exchange mass spectrometry (HDX-MS) data analysis, enabling multi-dimensional statistical analysis and visualization of protein dynamics.">
 <meta property="og:image" content="../fig/tools/hadex.png">
 <meta property="og:site_name" content="BioGenies">
-<meta name="twitter:title" content="New BioGenies paper in Bioinformatics - meet HaDeX2! 📄🧬 – BioGenies">
-<meta name="twitter:description" content="Our new Bioinformatics paper introduces HaDeX2 🧬 - a tool for multi-dimensional analysis of HDX-MS data. Explore it via web server or R package.">
+<meta name="twitter:title" content="HaDeX2: HDX-MS analysis tool for protein dynamics (Bioinformatics 2026) 🧬 – BioGenies">
+<meta name="twitter:description" content="HaDeX2 is a bioinformatics tool for hydrogen–deuterium exchange mass spectrometry (HDX-MS) data analysis, enabling multi-dimensional statistical analysis and visualization of protein dynamics.">
 <meta name="twitter:image" content="../fig/tools/hadex.png">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -401,7 +403,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">New BioGenies paper in Bioinformatics - meet HaDeX2! 📄🧬</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">HaDeX2: HDX-MS analysis tool for protein dynamics (Bioinformatics 2026) 🧬</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -470,10 +472,12 @@ cookieconsent.run({
     <h2 id="toc-title">../../</h2>
    
   <ul>
-  <li><a href="#try-it-yourself" id="toc-try-it-yourself" class="nav-link active" data-scroll-target="#try-it-yourself">🔗 Try it yourself</a></li>
-  <li><a href="#prefer-listening" id="toc-prefer-listening" class="nav-link" data-scroll-target="#prefer-listening">🎧 Prefer listening?</a></li>
-  <li><a href="#what-is-it-about" id="toc-what-is-it-about" class="nav-link" data-scroll-target="#what-is-it-about">🔬 What is it about?</a></li>
-  <li><a href="#key-takeaways" id="toc-key-takeaways" class="nav-link" data-scroll-target="#key-takeaways">📊 Key takeaways</a></li>
+  <li><a href="#hadex2-web-server-and-source-code" id="toc-hadex2-web-server-and-source-code" class="nav-link active" data-scroll-target="#hadex2-web-server-and-source-code">🔗 HaDeX2: web server and source code</a></li>
+  <li><a href="#audio-summary-quick-explanation" id="toc-audio-summary-quick-explanation" class="nav-link" data-scroll-target="#audio-summary-quick-explanation">🎧 Audio summary (quick explanation)</a></li>
+  <li><a href="#what-is-hadex2" id="toc-what-is-hadex2" class="nav-link" data-scroll-target="#what-is-hadex2">🔬 What is HaDeX2?</a></li>
+  <li><a href="#features-of-hadex2" id="toc-features-of-hadex2" class="nav-link" data-scroll-target="#features-of-hadex2">⚙️ Features of HaDeX2</a></li>
+  <li><a href="#key-conclusions" id="toc-key-conclusions" class="nav-link" data-scroll-target="#key-conclusions">📊 Key conclusions</a></li>
+  <li><a href="#why-this-matters" id="toc-why-this-matters" class="nav-link" data-scroll-target="#why-this-matters">🧠 Why this matters</a></li>
   <li><a href="#team-effort" id="toc-team-effort" class="nav-link" data-scroll-target="#team-effort">💚 Team effort</a></li>
   </ul>
 </nav>
@@ -484,7 +488,7 @@ cookieconsent.run({
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">New BioGenies paper in Bioinformatics - meet HaDeX2! 📄🧬</h1>
+<h1 class="title">HaDeX2: HDX-MS analysis tool for protein dynamics (Bioinformatics 2026) 🧬</h1>
   <div class="quarto-categories">
     <div class="quarto-category">HaDeX</div>
     <div class="quarto-category">publications</div>
@@ -493,13 +497,19 @@ cookieconsent.run({
 
 <div>
   <div class="description">
-    Our new Bioinformatics paper introduces HaDeX2 🧬 - a tool for multi-dimensional analysis of HDX-MS data. Explore it via web server or R package.
+    HaDeX2 is a bioinformatics tool for hydrogen–deuterium exchange mass spectrometry (HDX-MS) data analysis, enabling multi-dimensional statistical analysis and visualization of protein dynamics.
   </div>
 </div>
 
 
 <div class="quarto-title-meta column-body">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>BioGenies Lab </p>
+          </div>
+  </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
@@ -512,63 +522,142 @@ cookieconsent.run({
   </div>
   
 
+<div>
+  <div class="keywords">
+    <div class="block-title">Keywords</div>
+    <p>HDX-MS, hydrogen deuterium exchange, protein dynamics, mass spectrometry, bioinformatics tool, structural proteomics, R package</p>
+  </div>
+</div>
 
 </header>
 
 
 <hr>
-<p>🎉 <strong>New paper out!</strong> We’re happy to share that our latest work has been published in <strong>Bioinformatics</strong> 📄🧬</p>
-<p>👉 https://academic.oup.com/bioinformatics/article/42/3/btag128/8524920</p>
-<hr>
-<section id="try-it-yourself" class="level1">
-<h1>🔗 Try it yourself</h1>
+<p>📌 <strong>Project highlights</strong></p>
 <ul>
-<li>🌐 Web server: <a href="https://hadex2.mslab-ibb.pl/">Open HaDeX2 Web App</a><br>
+<li>🧬 Multi-dimensional analysis of <strong>HDX-MS data</strong> (sequence, time, state, charge, replicates)<br>
 </li>
-<li>💻 GitHub (R package): <a href="https://github.com/hadexversum/HaDeX2">HaDeX2 on GitHub</a></li>
+<li>⚙️ Standardized and <strong>reproducible workflow</strong> for structural proteomics<br>
+</li>
+<li>📊 Built-in <strong>statistical inference and uncertainty propagation</strong><br>
+</li>
+<li>🧊 Visualization including <strong>heatmaps, uptake curves, and 3D protein mapping</strong><br>
+</li>
+<li>🌐 Available as <strong>web server and R package</strong></li>
 </ul>
-<p>HaDeX2 is freely available both as an <strong>R package and web server</strong>, making it easy to use regardless of your workflow.</p>
+<hr>
+<p>🎉 <strong>New paper out!</strong> Another BioGenies contribution just landed in <em>Bioinformatics</em> 📄🧬</p>
+<p>👉 <a href="https://academic.oup.com/bioinformatics/article/42/3/btag128/8524920">HaDeX2: multi-dimensional analysis of hydrogen–deuterium exchange mass spectrometry data</a></p>
+<hr>
+<section id="hadex2-web-server-and-source-code" class="level1">
+<h1>🔗 HaDeX2: web server and source code</h1>
+<p>HaDeX2 is available both as a <strong>web-based interface</strong> and an <strong>R package</strong>, making it accessible to experimentalists and computational researchers alike.</p>
+<ul>
+<li><a href="https://hadex2.mslab-ibb.pl/">🌐 Web server</a></li>
+<li><a href="https://github.com/hadexversum/HaDeX2">💻 GitHub</a></li>
+</ul>
 <hr>
 </section>
-<section id="prefer-listening" class="level1">
-<h1>🎧 Prefer listening?</h1>
-<p>We know HDX-MS and structural proteomics can get a bit… intense 😄</p>
-<p>That’s why we’ve also prepared a <strong>short audio explanation 🎧</strong> of the paper — perfect if you want the big picture without diving into all the details.</p>
+<section id="audio-summary-quick-explanation" class="level1">
+<h1>🎧 Audio summary (quick explanation)</h1>
+<p>Not everyone wants to dive straight into HDX-MS plots and statistics 😄</p>
+<p>👉 We’ve attached a <strong>short audio explanation 🎧</strong> of the paper, perfect for a quick overview before going deeper.</p>
 <audio controls="">
 <source src="../audio/HaDeX2.m4a" type="audio/x-m4a">
 <p>Your browser does not support the audio element. </p>
+{{&lt; audio "../audio/HaDeX2.m4a" &gt;}}
 <hr>
 </audio></section>
-<section id="what-is-it-about" class="level1">
-<h1>🔬 What is it about?</h1>
-<p>The paper introduces <strong>HaDeX2</strong>, a tool for analyzing <strong>hydrogen–deuterium exchange mass spectrometry (HDX-MS)</strong> data — a key technique for studying <strong>protein structure and dynamics</strong>.</p>
-<p>HDX-MS experiments generate complex data across multiple dimensions (time, sequence, experimental conditions, replicates), which makes interpretation challenging.</p>
-<p>HaDeX2 addresses this by providing a <strong>standardized, multi-dimensional analysis framework</strong> that integrates these aspects into a single workflow.</p>
+<section id="what-is-hadex2" class="level1">
+<h1>🔬 What is HaDeX2?</h1>
+<p><strong>HaDeX2 is a bioinformatics tool for analyzing hydrogen–deuterium exchange mass spectrometry (HDX-MS) data</strong>, a technique used to study <strong>protein structure, dynamics, and interactions</strong>.</p>
+<p>HDX-MS measures how proteins exchange hydrogen atoms with deuterium over time, producing data across multiple dimensions:</p>
+<ul>
+<li>protein sequence<br>
+</li>
+<li>time<br>
+</li>
+<li>biological conditions<br>
+</li>
+<li>peptide charge<br>
+</li>
+<li>experimental replicates</li>
+</ul>
+<p>This complexity makes analysis difficult and often inconsistent between tools.</p>
+<p>👉 HaDeX2 solves this by providing a <strong>unified, multi-dimensional analysis framework</strong>.</p>
 <hr>
 </section>
-<section id="key-takeaways" class="level1">
-<h1>📊 Key takeaways</h1>
+<section id="features-of-hadex2" class="level1">
+<h1>⚙️ Features of HaDeX2</h1>
+<p>HaDeX2 provides a <strong>complete analysis pipeline</strong> for HDX-MS experiments:</p>
 <ul>
-<li>🧬 HDX-MS data should be analyzed <strong>across multiple dimensions simultaneously</strong><br>
+<li>📥 Data import and validation<br>
 </li>
-<li>⚙️ HaDeX2 provides a <strong>reproducible and standardized workflow</strong><br>
+<li>🧪 Quality control and preprocessing<br>
 </li>
-<li>📈 It enables <strong>statistical inference and clear visualization</strong> of protein dynamics<br>
+<li>📊 Data aggregation with <strong>uncertainty propagation</strong><br>
 </li>
-<li>💻 Works both as a <strong>web tool and R package</strong>, lowering the barrier for users</li>
+<li>📈 Statistical analysis and significance testing<br>
+</li>
+<li>🧬 Multi-dimensional integration across experimental variables<br>
+</li>
+<li>🧊 Visualization tools:
+<ul>
+<li>uptake curves<br>
+</li>
+<li>heatmaps<br>
+</li>
+<li>differential plots<br>
+</li>
+<li>3D structure mapping</li>
+</ul></li>
 </ul>
-<p>In short:</p>
-<p>👉 <strong>HaDeX2 helps turn complex HDX-MS data into interpretable biological insights</strong></p>
+<p>The tool also supports <strong>publication-quality figure generation</strong> and reproducible workflows.</p>
+<hr>
+</section>
+<section id="key-conclusions" class="level1">
+<h1>📊 Key conclusions</h1>
+<ul>
+<li>🧬 HDX-MS data require <strong>multi-dimensional analysis</strong>, not simplified approaches<br>
+</li>
+<li>⚙️ A standardized workflow improves <strong>reproducibility and comparability</strong><br>
+</li>
+<li>📈 Statistical integration enables <strong>more reliable biological interpretation</strong><br>
+</li>
+<li>🧊 Visualization is essential for translating raw data into insight</li>
+</ul>
+<p>👉 In short:<br>
+<strong>HaDeX2 helps convert complex HDX-MS data into interpretable protein dynamics.</strong></p>
+<hr>
+</section>
+<section id="why-this-matters" class="level1">
+<h1>🧠 Why this matters</h1>
+<p>HDX-MS is widely used in:</p>
+<ul>
+<li>structural biology<br>
+</li>
+<li>protein interaction studies<br>
+</li>
+<li>drug discovery</li>
+</ul>
+<p>…but analysis pipelines are often fragmented.</p>
+<p>HaDeX2 addresses this by providing a <strong>consistent, reproducible and extensible framework</strong>, reducing variability and improving interpretation across studies.</p>
 <hr>
 </section>
 <section id="team-effort" class="level1">
 <h1>💚 Team effort</h1>
-<p>Huge thanks to everyone involved in this project - from development to validation and writing 🙌</p>
-<p>We’re excited to see how <strong>HaDeX2</strong> will be used by the community to better understand protein dynamics 🧬✨</p>
-<p><img src="../fig/tools/hadex.png" title="HaDeX2 - multi-dimensional analysis of HDX-MS data" class="img-fluid"></p>
-
-
+<p>Huge thanks to everyone involved, from experiments to software development 🙌</p>
+<p>This is what happens when <strong>mass spectrometry + bioinformatics + persistence</strong> come together 😄</p>
+<p>We’re excited to see how the community will use <strong>HaDeX2</strong> 🧬✨</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../fig/tools/hadex.png" title="HaDeX2 - multi-dimensional analysis of HDX-MS data" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
 </section>
+
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
