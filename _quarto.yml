@@ -9,6 +9,7 @@ website:
   title: "BioGenies"
   reader-mode: true
   page-footer: "&copy; 2026 Website developed by BioGenies team.<br><a href='/subsite/GDPR.html'>Privacy Policy</a>"
+  llms-txt: true
   cookie-consent:
     type: implied
     style: simple

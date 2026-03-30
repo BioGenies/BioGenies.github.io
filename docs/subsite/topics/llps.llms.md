@@ -1,0 +1,27 @@
+# Liquid-liquid phase separation
+
+## Beyond the basics
+
+Liquid-liquid phase separation (LLPS) is a fundamental biophysical process that underlies the organization and compartmentalization within cells, without relying on membrane-bound structures. This phenomenon occurs when a homogenous solution of macromolecules, such as proteins and nucleic acids, spontaneously demixes into two coexisting liquid phases: a dense phase enriched in these macromolecules and a dilute phase that is relatively depleted of them. This phase separation is driven by weak, multivalent interactions among the molecules, including electrostatic interactions, hydrophobic effects, and specific binding domains.
+
+### Mechanisms of LLPS
+
+The driving forces behind LLPS involve a delicate balance between attractive and repulsive interactions among macromolecules. Key factors influencing LLPS include:
+
+Multivalency: Proteins and nucleic acids with multiple interaction sites can engage in many weak interactions simultaneously, promoting phase separation. Intrinsic Disorder: Proteins with intrinsically disordered regions (IDRs) often undergo LLPS due to their flexible, dynamic nature, which allows for transient interactions. Post-translational Modifications: Phosphorylation, methylation, and ubiquitination can modulate protein-protein interactions, thereby influencing LLPS. Environmental Conditions: Changes in temperature, pH, ionic strength, and concentration of macromolecules can trigger or inhibit phase separation.
+
+### Biological Functions of LLPS
+
+LLPS is pivotal in forming various membrane-less organelles (MLOs) or biomolecular condensates that compartmentalize cellular components to enhance reaction kinetics, protect sensitive molecules, and regulate biological processes. Some key examples include:
+
+Nucleoli: Sites of ribosomal RNA (rRNA) synthesis and ribosome assembly within the nucleus. Stress Granules: Cytoplasmic aggregates that form in response to cellular stress, sequestering untranslated mRNAs and associated proteins. P-bodies: Cytoplasmic structures involved in mRNA decay and storage. Centrosomes: Organizing centers for microtubule nucleation during cell division.
+
+### Implications of LLPS in Health and Disease
+
+LLPS has profound implications for understanding cellular organization and disease mechanisms. Aberrant phase separation can lead to pathological aggregates associated with diseases such as:
+
+Neurodegenerative Diseases: Dysregulated phase separation can contribute to the formation of toxic protein aggregates in diseases like ALS, Alzheimer’s, and Parkinson’s. Cancer: Altered phase separation dynamics can affect signaling pathways and gene expression, contributing to tumorigenesis.
+
+## Our aims
+
+## Projects

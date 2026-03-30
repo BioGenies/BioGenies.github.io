@@ -1,0 +1,57 @@
+# Guest researchers
+
+## 🌍 Erasmus+ and international internship opportunities 🌍
+
+Are you a student or a graduate passionate about bioinformatics and/or amyloids? Interested in gaining hands-on research experience abroad? Look no further! Our lab is actively welcoming **Erasmus+ and international internship students** who want to contribute to exciting projects, learn new techniques, and be a part **BioGenies**. 💡🔬
+
+## Why join us?
+
+We offer a collaborative and enriching environment for **you** at all stages of your academic journey. Here’s what you can expect when you join our lab:
+
+- **Research opportunities**: work on cutting-edge projects in **multiomics**, **liquid-liquid phase separation (LLPS)**, **amyloids**, **antimicrobial peptides (AMP)**, and more.
+
+- **Skill development**: gain practical experience with advanced tools, data analysis techniques, and research methodologies tailored to bioinformatics and structural biology.
+
+- **Full support**: we assist with all necessary **administrative paperwork**, provide **guidance on Erasmus+ documentation**, and help you settle in quickly so you can focus on research.
+
+## Our guest researchers
+
+![](fig/ppl/ea.png "Eva Arribas")
+
+Eva Arribas 🇪🇸
+
+> **NOTE:**
+>
+> My Erasmus experience in Białystok has been truly unforgettable, thanks to the amazing team I had the privilege to work with. From the very beginning, they made my integration seamless, even going the extra mile to set up a fully equipped kitchen, providing everything from casseroles to cutlery. Beyond that, they fostered a strong sense of fellowship by organizing regular team-building activities, such as trips and fun dinners together.
+>
+> What really stood out, though, was how outstanding this team is in the field of Bioinformatics. They are not only highly active in conducting cutting-edge research with multiple ongoing projects and publications, but they also offer exceptional mentorship. Whenever I had doubts, they were always there to guide me, providing valuable insights that helped me improve my skills and grow as a researcher. This experience has truly been enriching, both personally and professionally.
+>
+> BioGenies truly became my small Polish family during my time in Białystok.
+
+![](fig/ppl/rt.jpg "Ronja Tittel")
+
+Ronja Tittel 🇩🇪
+
+> **NOTE:**
+>
+> From the very first moment, I felt incredibly welcomed by the group—it was honestly amazing! Everyone was so kind and supportive, always ready to help with any research, answer my questions, or just be there whenever I needed something.
+>
+> They organized so many fun activities to explore Białystok and the surrounding areas, making it really easy to get to know the city and meet new people. They also helped me with all the necessary paperwork, which was such a relief. Finding a place to stay was completely stress-free because they quickly helped me organize a flat in the student dorms. On top of that, they even provided kitchen necessities, so I didn’t have to buy anything for five months—such a thoughtful gesture!
+>
+> One thing I truly appreciated was how much effort they put into helping me find a riding stable that suited me. Even though it turned out to be a bit difficult for me in the surrounding area, they still did everything they could to help, which meant a lot.
+>
+> The work atmosphere here is just incredible. I always felt comfortable and knew I could trust everyone with any problem. It’s not just a group—it feels like a community where everyone looks out for each other. I couldn’t have asked for a better experience! Thank you for letting me stay with you!
+
+![](fig/ppl/mr.jpeg "Mariia Solovianova")
+
+Mariia Solovianova 🇩🇪/🇺🇦
+
+> **NOTE:**
+>
+> My Erasmus stay in Białystok has been an incredible experience so far! The group welcomed me with open arms, and they are always eager to teach me new things and help me grow. Whenever I have any questions, they are quick to lend a hand and offer support. The social life here is fantastic, and it’s a great opportunity to experience the true spirit of Podlasie. We’ve had amazing integrative trips, such as to Białowieża, and we’re soon going to Suprasl. I’ve also had the chance to explore traditional Podlaskie cuisine, which has been a delightful experience. I’m really looking forward to the rest of my time here!
+
+## Reach us out!
+
+If you’re motivated to work in a collaborative, international environment and ready to expand your research experience, we’d love to hear from you! **Apply now to become a part of our team through Erasmus+ or other international internship programs.**
+
+📧 If you have questions feel free to reach out to us at [BioGenies](mailto:biogenies@umb.edu.pl) or directly to BioGenies members!

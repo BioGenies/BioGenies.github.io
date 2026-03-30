@@ -1,0 +1,70 @@
+---
+title: "New BioGenies paper in Bioinformatics - meet HaDeX2! 📄🧬"
+date: "03/16/2026"
+categories:
+  - HaDeX
+  - publications
+description: "Our new Bioinformatics paper introduces HaDeX2 🧬 - a tool for multi-dimensional analysis of HDX-MS data. Explore it via web server or R package."
+# image: "../fig/tools/hadex.png"
+---
+
+---
+
+🎉 **New paper out!** We’re happy to share that our latest work has been published in **Bioinformatics** 📄🧬  
+
+👉 https://academic.oup.com/bioinformatics/article/42/3/btag128/8524920  
+
+---
+
+# 🔗 Try it yourself
+
+- 🌐 Web server: [Open HaDeX2 Web App](https://hadex2.mslab-ibb.pl/)  
+- 💻 GitHub (R package): [HaDeX2 on GitHub](https://github.com/hadexversum/HaDeX2)  
+
+HaDeX2 is freely available both as an **R package and web server**, making it easy to use regardless of your workflow.
+
+---
+
+# 🎧 Prefer listening?
+
+We know HDX-MS and structural proteomics can get a bit… intense 😄 
+
+That’s why we’ve also prepared a **short audio explanation 🎧** of the paper — perfect if you want the big picture without diving into all the details.
+
+<audio controls>
+  <source src="../audio/HaDeX2.m4a" type="audio/x-m4a">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+# 🔬 What is it about?
+
+The paper introduces **HaDeX2**, a tool for analyzing **hydrogen–deuterium exchange mass spectrometry (HDX-MS)** data — a key technique for studying **protein structure and dynamics**.  
+
+HDX-MS experiments generate complex data across multiple dimensions (time, sequence, experimental conditions, replicates), which makes interpretation challenging. 
+
+HaDeX2 addresses this by providing a **standardized, multi-dimensional analysis framework** that integrates these aspects into a single workflow.  
+
+---
+
+# 📊 Key takeaways
+
+- 🧬 HDX-MS data should be analyzed **across multiple dimensions simultaneously**  
+- ⚙️ HaDeX2 provides a **reproducible and standardized workflow**  
+- 📈 It enables **statistical inference and clear visualization** of protein dynamics  
+- 💻 Works both as a **web tool and R package**, lowering the barrier for users  
+
+In short:  
+
+👉 **HaDeX2 helps turn complex HDX-MS data into interpretable biological insights**  
+
+---
+
+# 💚 Team effort
+
+Huge thanks to everyone involved in this project - from development to validation and writing 🙌  
+
+We’re excited to see how **HaDeX2** will be used by the community to better understand protein dynamics 🧬✨
+
+![](../fig/tools/hadex.png "HaDeX2 - multi-dimensional analysis of HDX-MS data")
