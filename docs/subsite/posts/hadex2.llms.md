@@ -53,8 +53,6 @@ Not everyone wants to dive straight into HDX-MS plots and statistics 😄
 
 Your browser does not support the audio element.
 
-{{\< audio "../audio/HaDeX2.m4a" \>}}
-
 ------------------------------------------------------------------------
 
 # 🔬 What is HaDeX2?
@@ -135,7 +133,8 @@ We’re excited to see how the community will use **HaDeX2** 🧬✨
 - **Title:** HaDeX2: multi-dimensional analysis of Hydrogen–Deuterium Exchange Mass Spectrometry data  
 - **Journal:** Bioinformatics (Oxford University Press)  
 - **Year:** 2026  
-- **DOI:** https://doi.org/10.1093/bioinformatics/btag128  
+- **DOI:** https://doi.org/10.1093/bioinformatics/btag128
+- **Authors:** Weronika Puchała, Krystyna Grzesiak, Dominik Rafacz, Michał Kistowski, Jochem H. Smit, Julien Marcoux, Michał Dadlez, Michał Burdukiewicz
 - **Tool type:** Bioinformatics software  
 - **Domain:** Structural proteomics  
 - **Input:** HDX-MS experimental data  

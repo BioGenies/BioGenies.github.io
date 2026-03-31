@@ -10,7 +10,7 @@ Mar 16, 2026
 
 ##### Jarek and Julia escape winter at the ML4NGP Training School in Seville! 🧬🤖🌞🇪🇸
 
-arek and Julia attended the ML4NGP Training School in Seville 🇪🇸, learning about machine learning for non-globular proteins 🧬🤖 and temporarily escaping the -15°C Polish…
+Jarek and Julia attended the ML4NGP Training School in Seville 🇪🇸, learning about machine learning for non-globular proteins 🧬🤖 and temporarily escaping the -15°C Polish…
 
 Mar 6, 2026
 
@@ -68,9 +68,11 @@ Congrats to Valen 🎉 for receiving an NCN Miniatura grant! The LIMAD project w
 
 Sep 15, 2025
 
-##### 🎉 New open-access article in *Genome Biology*!
+##### LLPS datasets & benchmarking: bringing order to condensate chaos 🧬📊
 
-Our collaborative study led by Carlos is out—providing gold-standard LLPS datasets and evaluation tools! 🧠🧬🎉
+We present curated datasets of proteins involved in liquid–liquid phase separation (LLPS), enabling robust benchmarking and improved machine learning predictions in…
+
+BioGenies Lab
 
 Jul 9, 2025
 
@@ -114,9 +116,11 @@ Michał, Jarek, Valen and Mariia presented posters at the ML4NGP Meeting, a fant
 
 Jun 17, 2025
 
-##### 📢 New review article published in *Protein Science*!
+##### Amyloid cross-interactions: how proteins influence each other’s aggregation 🧬🧊
 
-We explore how experimental methods help unravel amyloid cross-interactions, a key aspect in understanding amyloid behavior in health and disease.
+A comprehensive review of experimental methods to study amyloid cross-interactions, highlighting how proteins modulate each other’s aggregation and why combining techniques…
+
+BioGenies Lab
 
 May 21, 2025
 
@@ -129,6 +133,14 @@ May 20, 2025
 ##### 🎉 Jarek awarded Horizon Europe ERA Talents grant!
 
 From MSCA near-miss to ERA Talents success, BioGenies score again! 🇪🇺💪 . Next stop: Life Sciences Center at Vilnius University
+
+May 19, 2025
+
+##### HRaDeX: high-resolution HDX–MS analysis made simple ⚙️🧬
+
+A new R package and web server (HRaDeX) enabling high-resolution analysis of HDX–MS data by reconstructing residue-level deuterium uptake rates from peptide-level…
+
+BioGenies Lab
 
 May 19, 2025
 
@@ -204,9 +216,11 @@ Exciting news! Michał and Jarek have received a grant from PARP (Polish Agency 
 
 Nov 1, 2024
 
-##### Our publication **Aggregating amyloid resources** is online!
+##### Amyloid databases: mapping the aggregation universe 🧬📊
 
-Our latest comprehensive review of databases on amyloid-like aggregation, now published in Computational and Structural Biotechnology Journal.
+A comprehensive review of amyloid-related databases, highlighting how experimental data and bioinformatics resources drive advances in protein aggregation research.
+
+BioGenies Lab
 
 Oct 30, 2024
 
@@ -281,6 +295,14 @@ Jul 4, 2024
 Krysia attends Metabolomics 2024 in Osaka, Japan! 🌏🇯🇵
 
 Jun 21, 2024
+
+##### ML + metabolomics in the clinic: promise vs reality 🧠🧬
+
+A critical review of machine learning-based clinical decision support systems built on metabolomics data, highlighting opportunities, pitfalls, and future directions.
+
+BioGenies Lab
+
+Jun 18, 2024
 
 ##### BioGenies visit to our colleagues from the Group of Amyloid Research at Vilnius University
 

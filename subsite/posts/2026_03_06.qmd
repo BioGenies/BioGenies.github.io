@@ -1,6 +1,6 @@
 ---
 title: "Jarek and Julia escape winter at the ML4NGP Training School in Seville! 🧬🤖🌞🇪🇸"
-description: "arek and Julia attended the ML4NGP Training School in Seville 🇪🇸, learning about machine learning for non-globular proteins 🧬🤖 and temporarily escaping the -15°C Polish winter for a pleasant +16°C Spanish spring 🌞"
+description: "Jarek and Julia attended the ML4NGP Training School in Seville 🇪🇸, learning about machine learning for non-globular proteins 🧬🤖 and temporarily escaping the -15°C Polish winter for a pleasant +16°C Spanish spring 🌞"
 date: "03/06/2026"
 categories:
   - Spain
