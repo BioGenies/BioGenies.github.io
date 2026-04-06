@@ -87,9 +87,11 @@ Typical pipeline:
 3.  📊 Data processing  
 4.  🤖 ML model → prediction
 
-📊 The *diagram on page 3* shows this full workflow clearly:
+📊 The *diagram* shows this full workflow clearly:
 
 - raw spectra → metabolites → clinical data → predictive model
+
+![](../fig/posts/publications/diagram_ml-based.png)
 
 ------------------------------------------------------------------------
 
@@ -225,7 +227,7 @@ Despite hype, major issues remain:
 
 # 🧠 Deeper problem: causality
 
-ML finds patterns—but:
+ML finds patterns but:
 
 👉 **correlation ≠ causation**
 
@@ -271,7 +273,7 @@ This fits perfectly with what we care about:
 - **Journal:** Trends in Analytical Chemistry  
 - **Year:** 2024  
 - **DOI:** https://doi.org/10.1016/j.trac.2024.117819  
-- **Authors:** Michał Burdukiewicz, Jarosław Chilimoniuk, Krystyna Grzesiak, Adam Krętowski, Michał Ciborowski :contentReferenceoaicite:7  
+- **Authors:** Michał Burdukiewicz, Jarosław Chilimoniuk, Krystyna Grzesiak, Adam Krętowski, Michał Ciborowski  
 - **Type:** Review  
 - **Focus:** ML, metabolomics, clinical decision systems
 

@@ -1,0 +1,246 @@
+# imputomics: taming missing values in metabolomics data 🧬🧩
+
+publications
+
+metabolomics
+
+imputomics is a web server and R package providing a unified interface for 40+ missing value imputation algorithms, enabling robust and reproducible metabolomics data analysis.
+
+Author
+
+BioGenies Lab
+
+Published
+
+February 20, 2024
+
+Keywords
+
+imputomics, missing data, metabolomics, imputation, bioinformatics tools, machine learning, data preprocessing
+
+------------------------------------------------------------------------
+
+📌 **Project highlights**
+
+- 🧬 Integrates **41+ missing value imputation algorithms (MVIAs)**  
+- ⚙️ Provides **R package + web server**  
+- 📊 Enables **benchmark-based method selection**  
+- 🔍 Supports **MCAR, MAR, MNAR missingness simulation**  
+- 🚀 Improves **reproducibility and usability of imputation workflows**
+
+------------------------------------------------------------------------
+
+🎉 **New paper out!** This one tackles a *very real problem*:
+
+👉 missing values quietly breaking your omics analysis 😄
+
+👉 [imputomics: web server and R package for missing values imputation in metabolomics data](https://doi.org/10.1093/bioinformatics/btae098)
+
+------------------------------------------------------------------------
+
+# 🔗 Try it yourself
+
+- [🌐 Web server](https://biogenies.info/imputomics-ws)  
+- [💻 GitHub](https://github.com/BioGenies/imputomics)
+
+👉 Everything in one place, no dependency hell 🙃
+
+------------------------------------------------------------------------
+
+# 🎧 Audio summary
+
+Missing values, 50+ algorithms, and no clear best choice?  
+Yeah… welcome to metabolomics 😄
+
+👉 Here’s a **short audio overview 🎧** explaining what imputomics actually solves:
+
+Your browser does not support the audio element.
+
+👉 Perfect if you want the **big picture before diving into 40+ methods**
+
+------------------------------------------------------------------------
+
+# 🔬 What is this about?
+
+Missing values are everywhere in metabolomics data:
+
+- instrument sensitivity limits  
+- sample variability  
+- technical noise
+
+👉 and ignoring them leads to:
+
+- biased results  
+- reduced statistical power  
+- broken ML models
+
+------------------------------------------------------------------------
+
+# ⚙️ The core problem
+
+There are **many imputation methods**…
+
+👉 too many 😄
+
+- 52 MVIAs  
+- 70 implementations  
+- scattered across packages
+
+👉 and they come with:
+
+- dependency issues  
+- missing documentation  
+- unstable implementations
+
+------------------------------------------------------------------------
+
+# 🧠 What we built
+
+👉 **imputomics = unified wrapper + benchmark + interface**
+
+### 🔧 Core idea:
+
+- one interface  
+- many methods  
+- consistent behavior
+
+------------------------------------------------------------------------
+
+# ⚙️ Key features
+
+## 🧬 Massive method coverage
+
+- integrates **41 out of 52 MVIAs**  
+- includes baseline (random imputation)
+
+👉 largest practical collection in one tool
+
+------------------------------------------------------------------------
+
+## ⚙️ Unified interface (this is HUGE)
+
+Each method is wrapped to:
+
+- accept consistent inputs  
+- return standardized outputs  
+- avoid breaking your pipeline
+
+👉 no more fighting R packages 😄
+
+------------------------------------------------------------------------
+
+## 📊 Built-in benchmarking
+
+The tool helps answer:
+
+👉 *which method should I use?*
+
+- evaluates performance (NRMSE)  
+- compares speed  
+- tracks stability
+
+👉 because there is **no universal best method**
+
+------------------------------------------------------------------------
+
+## 🧪 Missingness simulation
+
+Supports:
+
+- MCAR (random)  
+- MAR (dependent)  
+- MNAR (censored / LOD)
+
+👉 mirrors real-world metabolomics scenarios
+
+------------------------------------------------------------------------
+
+## 🌐 Web server for humans
+
+Not everyone wants to code in R:
+
+👉 imputomics provides a **Shiny app**:
+
+- visualize missingness  
+- run imputation  
+- compare methods
+
+👉 accessible to non-programmers
+
+------------------------------------------------------------------------
+
+# 📊 Key insights from the paper
+
+## ⚠️ Many methods are unreliable
+
+- ~40% of methods fail in some scenarios  
+- some don’t outperform random baseline
+
+👉 yes… random can win 😄
+
+------------------------------------------------------------------------
+
+## ⚡ Speed ≠ quality
+
+- no strong correlation between runtime and performance
+
+👉 fast ≠ good
+
+------------------------------------------------------------------------
+
+## 🧬 Best method depends on data
+
+Different winners depending on missingness:
+
+- MCAR → Random Forest  
+- MAR → EM-based methods  
+- MNAR → minimum-based approaches
+
+👉 context matters
+
+------------------------------------------------------------------------
+
+# 🚀 Why this matters
+
+Missing value handling is:
+
+👉 one of the **most underestimated steps** in omics
+
+And yet it affects:
+
+- statistical tests  
+- ML models  
+- biological interpretation
+
+👉 imputomics turns this into a **controlled, testable step**
+
+------------------------------------------------------------------------
+
+# 💚 BioGenies perspective
+
+This is exactly our philosophy:
+
+- don’t hide preprocessing  
+- don’t trust defaults  
+- benchmark everything
+
+👉 because **bad preprocessing = bad science**
+
+![](../fig/tools/imputomics.png)
+
+# 📌 Publication metadata
+
+- **Title:** imputomics: web server and R package for missing values imputation in metabolomics data  
+- **Journal:** Bioinformatics  
+- **Year:** 2024  
+- **DOI:** https://doi.org/10.1093/bioinformatics/btae098  
+- **Authors:** Jarosław Chilimoniuk, Krystyna Grzesiak, Jakub Kała, Dominik Nowakowski, Adam Krętowski, Rafał Kolenda, Michał Ciborowski, Michał Burdukiewicz  
+- **Type:** Application note  
+- **Domain:** metabolomics / data preprocessing  
+- **Focus:** missing value imputation
+
+------------------------------------------------------------------------
+
+# 🏷️ Keywords
+
+missing data, metabolomics, imputation, imputomics, machine learning preprocessing, bioinformatics tools, data quality, omics analysis

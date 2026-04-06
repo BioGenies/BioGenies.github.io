@@ -327,3 +327,59 @@ May 18, 2024
 🎉 Official launch of Bioinformatics and Multiomics Analysis Laboratory! 🎉
 
 May 1, 2024
+
+##### NanoString nCounter data analysis: challenges, workflows & best practices 🧬📊
+
+A comprehensive review of NanoString nCounter data processing workflows, highlighting key steps, challenges and available bioinformatics tools for mRNA and miRNA analysis.
+
+BioGenies Lab
+
+Apr 30, 2024
+
+##### imputomics: taming missing values in metabolomics data 🧬🧩
+
+imputomics is a web server and R package providing a unified interface for 40+ missing value imputation algorithms, enabling robust and reproducible metabolomics data…
+
+BioGenies Lab
+
+Feb 20, 2024
+
+##### aSynPEP-DB: mining peptides against Parkinson’s 🧬🧠
+
+A database of biogenic peptides predicted to inhibit α-synuclein aggregation, enabling peptide-based therapeutic discovery.
+
+BioGenies Lab
+
+Nov 27, 2023
+
+##### Amyloids don’t aggregate alone 🤝🧬 Meet AmyloGraph
+
+AmyloGraph is a curated database of experimentally validated amyloid–amyloid interactions, enabling systematic exploration of cross-seeding and aggregation modulation.
+
+BioGenies Lab
+
+Oct 16, 2023
+
+##### PlastoGram: decoding protein localization inside plastids 🌿🧬
+
+PlastoGram is an ensemble machine learning model for predicting subplastid localization and protein origin, enabling more accurate plastid protein annotation.
+
+BioGenies Lab
+
+May 24, 2023
+
+##### Short amyloids ≠ antimicrobial peptides? 🧬❌🦠
+
+Experimental validation reveals that predicted antimicrobial amyloids lack real activity, highlighting a major gap in AMP datasets.
+
+BioGenies Lab
+
+Jan 2, 2023
+
+##### Are AMP models lying to us? 🤖🧬 The benchmarking problem
+
+A large-scale study reveals that antimicrobial peptide predictors are heavily biased due to how negative datasets are constructed.
+
+BioGenies Lab
+
+Sep 1, 2022

@@ -190,6 +190,18 @@ This review helps:
 - multi-protein diseases  
 - cross-talk between aggregation pathways
 
+------------------------------------------------------------------------
+
+# 💚 BioGenies perspective
+
+This is *exactly* in our playground:
+
+- amyloids 🧊  
+- aggregation prediction 🧠  
+- phase separation ⚡
+
+👉 And reinforces a key idea we keep seeing **you cannot understand aggregation without considering interactions**
+
 ![](../fig/posts/publications/pro70151-fig-0001-m.jpg)
 
 ------------------------------------------------------------------------

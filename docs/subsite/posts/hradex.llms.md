@@ -190,6 +190,18 @@ It enables:
 
 👉 Still a major step forward compared to standard pipelines
 
+------------------------------------------------------------------------
+
+# 💚 BioGenies perspective
+
+This work fits directly into our focus on:
+
+- protein dynamics 🧬  
+- structural interpretation ⚙️  
+- computational biology 🔍
+
+👉 and reinforces a key idea **better models = more information from the same data**
+
 ![](../fig/tools/hradex.png)
 
 # 📌 Publication metadata

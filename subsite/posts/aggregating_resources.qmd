@@ -163,6 +163,19 @@ Future directions:
 - integration of datasets  
 - ML models using **multi-dimensional data**  
 
+---
+
+# 💚 BioGenies perspective
+
+This is basically our playground:
+
+- AmyloGraph 🔗  
+- CARs DB 🧬  
+- aggregation prediction 🧠  
+
+👉 And a key takeaway we strongly agree with **data integration is the next big step in amyloid research**
+
+
 ::: {.content-visible when-format="llms-txt"}
 
 # 📌 Publication metadata

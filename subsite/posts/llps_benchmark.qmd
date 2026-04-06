@@ -173,6 +173,18 @@ This project connects directly to our interests in:
 
 👉 and gives us a **solid foundation for future tools and models**
 
+---
+
+# 💚 BioGenies perspective
+
+This project connects directly to our interests in:
+
+- amyloids 🧬  
+- protein aggregation 🧊  
+- phase separation ⚡  
+
+👉 and gives us a **solid foundation for future tools and models**
+
 ![](../fig/posts/publications/13059_2025_3668_Figa_HTML.png){fig-align="center"}
 
 
