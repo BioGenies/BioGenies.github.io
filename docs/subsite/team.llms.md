@@ -38,7 +38,7 @@ Weronika Puchała ![](fig/logo/IBB_logo.png "Institute of Biochemistry and Bioph
 
 Mariia Rutkowska ![](fig/logo/MUB_logo.png "Medical University of Białystok")
 
-[![](ig/temp_profile.png "temporary profile pic")](team/mr.llms.md)
+[![](fig/temp_profile.png "temporary profile pic")]()
 
 Damian Wilary ![](fig/logo/MUB_logo.png "Medical University of Białystok")
 
