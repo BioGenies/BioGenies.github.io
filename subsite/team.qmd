@@ -23,6 +23,7 @@ title: "BioGenies team"
 
 [![Mariia Rutkowska ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/mr.jpeg "Mariia Solovianova"){}](team/mr.html)
 
+[![Damian Wilary ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/temp_profile.png "temporary profile pic"){}](team/mr.html)
 :::
 
 ```{r, include=FALSE}

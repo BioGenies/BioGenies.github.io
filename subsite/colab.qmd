@@ -2,7 +2,7 @@
 title: "BioGenies collaborators"
 ---
 
-### ![](fig/logo/UAB_logo.png){width="10%"} Autonomous University of Barcelona
+### ![](fig/logo/UAB_logo.png){width="15%"} Autonomous University of Barcelona
 ::: {layout-ncol=5}
 [![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){}](colab/ea.html)
 
@@ -11,16 +11,26 @@ title: "BioGenies collaborators"
 [![Carlos Pintado-Grima](fig/ppl/cp.png "Carlos Pintado-Grima"){}](colab/cpg.html)
 :::
 
-### ![](fig/logo/BTU_logo.png){width="10%"} Brandenburg University of Technology Cottbus-Senftenberg
+### ![](fig/logo/BTU_logo.png){width="15%"} Brandenburg University of Technology Cottbus-Senftenberg
 ::: {layout-ncol=5}
 [![Stefan Rödiger](fig/temp_profile.png "temporary profile pic"){}]()
 
 [![Ronja Tittel](fig/ppl/rt.jpg "Ronja Tittel"){}](colab/rt.html)
 :::
 
-### ![](fig/logo/UP_logo.png){width="10%"} University of Porto
+### ![](fig/logo/nencki_logo.png){width="15%"} Nencki Institute of Experimental Biology PAS
+::: {layout-ncol=5}
+[![Kinga Nazaruk](fig/temp_profile.png "temporary profile pic"){}]()
+:::
+
+### ![](fig/logo/UP_logo.png){width="15%"} University of Porto
 ::: {layout-ncol=5}
 [![Martyna Podlasiak](fig/ppl/mpo.jpg "Martyna Podlasiak"){}](team/mpo.html)
+:::
+
+### ![](fig/logo/UW_logo.png){width="10%"} University of Warsaw
+::: {layout-ncol=5}
+[![Julia Szkóp](fig/ppl/jsz.jpeg "Julia Szkóp"){}](team/jsz.html)
 :::
 
 ### ![](fig/logo/QI_logo.png){width="10%"} Quadram Institute
@@ -30,7 +40,3 @@ title: "BioGenies collaborators"
 [![Katarzyna (Kasia) Sidorczuk](fig/temp_profile.png "temporary profile pic"){}](colab/ks.html)
 :::
 
-### ![](fig/logo/UW_logo.png){width="10%"} University of Warsaw
-::: {layout-ncol=5}
-[![Julia Szkóp](fig/ppl/jsz.jpeg "Julia Szkóp"){}](team/jsz.html)
-:::

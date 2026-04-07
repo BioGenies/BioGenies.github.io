@@ -10,7 +10,7 @@ format:
       gutter-width: 1.5rem
 ---
 
-```{r, echo=FALSE, message=FALSE}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(openalexR)
 library(tidyverse)
 library(DT)
@@ -31,10 +31,15 @@ pub <- openalexR::oa_fetch(entity ="works",
                            author.id = c(openalex_ids))
                    # author.id = c("A5015968787", "A5072021711"))
 
+# remove publications (impostor Valen)
 pub <- pub[!(pub$doi %in% c("https://doi.org/10.1007/s00276-025-03680-2",
                      "https://doi.org/10.1007/10.1016/j.dss.2016.06.007",
                      "https://doi.org/10.1007/10.1016/j.dss.2016.06.007",
                      "https://doi.org/10.1007/10.2991/ifsa-eusflat-15.2015.94")), ]
+
+
+pub <- pub[!(pub$source_display_name %in% c("Faculty of 1000 Research Ltd")), ]
+
 
 # pub <- openalexR::oa_fetch(entity ="works", grants.funder = "f4320322511")
 

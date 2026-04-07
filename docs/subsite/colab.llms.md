@@ -24,11 +24,23 @@ Stefan Rödiger
 
 Ronja Tittel
 
+### ![](fig/logo/nencki_logo.png) Nencki Institute of Experimental Biology PAS
+
+[![](fig/temp_profile.png "temporary profile pic")]()
+
+Kinga Nazaruk
+
 ### ![](fig/logo/UP_logo.png) University of Porto
 
 [![](fig/ppl/mpo.jpg "Martyna Podlasiak")](team/mpo.llms.md)
 
 Martyna Podlasiak
+
+### ![](fig/logo/UW_logo.png) University of Warsaw
+
+[![](fig/ppl/jsz.jpeg "Julia Szkóp")](team/jsz.llms.md)
+
+Julia Szkóp
 
 ### ![](fig/logo/QI_logo.png) Quadram Institute
 
@@ -39,9 +51,3 @@ Rafał Kolenda
 [![](fig/temp_profile.png "temporary profile pic")](colab/ks.llms.md)
 
 Katarzyna (Kasia) Sidorczuk
-
-### ![](fig/logo/UW_logo.png) University of Warsaw
-
-[![](fig/ppl/jsz.jpeg "Julia Szkóp")](team/jsz.llms.md)
-
-Julia Szkóp
