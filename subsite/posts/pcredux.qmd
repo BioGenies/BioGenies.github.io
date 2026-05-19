@@ -1,0 +1,265 @@
+---
+title: "qPCR curves, but make it ML 🤖🧬 Introducing PCRedux"
+description: "PCRedux is an R toolkit for feature extraction and machine learning on qPCR amplification curves, enabling reproducible and explainable analysis."
+date: "08/21/2022"
+categories:
+  - publications
+keywords: ["qPCR", "machine learning", "PCRedux", "feature extraction", "bioinformatics", "R package", "explainable AI"]
+author: "BioGenies Lab"
+---
+
+
+---
+
+📌 **Project highlights**
+
+- 🧬 Extracts **90+ quantitative features** from qPCR curves  
+- 🤖 Enables **machine learning on amplification curves**  
+- 📊 Supports **classification: positive / negative / ambiguous**  
+- ⚙️ Provides **R package for reproducible workflows**  
+- 🔍 Focuses on **explainable ML (not black boxes!)**  
+
+---
+
+🎉 **New paper out!** This one tackles a *very practical problem*:  
+
+👉 qPCR curves that don’t behave nicely 😄  
+
+👉 [PCRedux: A Quantitative PCR Machine Learning Toolkit](https://doi.org/10.21105/joss.04407)  
+
+---
+
+# 🔗 Try it yourself
+
+- [💻 GitHub](https://github.com/PCRuniversum/PCRedux)  
+- 📦 CRAN / install in R: `install.packages("PCRedux")`  
+
+👉 turn your qPCR curves into **ML-ready data in one step**  
+
+---
+
+# 🎧 Audio summary
+
+qPCR is everywhere:
+
+👉 diagnostics  
+👉 gene expression  
+👉 pathogen detection  
+
+But curve interpretation?
+
+👉 often subjective 😅  
+
+👉 Here’s a **short audio overview 🎧** explaining PCRedux:
+
+<audio controls>
+  <source src="../audio/pcredux.m4a" type="audio/x-m4a">
+  Your browser does not support the audio element.
+</audio>
+
+👉 Perfect if you want the **big picture of ML for qPCR**
+
+---
+
+# 🔬 What is this about?
+
+Quantitative PCR (qPCR):
+
+- 🧬 measures DNA abundance  
+- 📈 produces **amplification curves (ACs)**  
+- 🔬 used in diagnostics, medicine, forensics
+
+👉 In theory:
+
+- curves are **nice and sigmoidal**
+
+👉 In practice:
+
+- noisy  
+- weird shapes  
+- ambiguous  
+
+💥 And interpretation becomes:
+
+👉 subjective  
+👉 inconsistent  
+👉 hard to scale  
+
+---
+
+# ⚠️ The core problem
+
+Most pipelines:
+
+- focus on curve fitting  
+- calculate Cq values  
+
+BUT:
+
+❌ no machine learning integration  
+❌ no standardized feature extraction  
+❌ limited reproducibility  
+
+👉 especially problematic for:
+
+- high-throughput experiments  
+- automated diagnostics  
+
+---
+
+# 🧠 What we have built
+
+## ⚙️ PCRedux
+
+👉 an **R package for qPCR data mining + ML**
+
+---
+
+## 🧬 Feature extraction
+
+- **90+ descriptors per curve**  
+- numerical + statistical features 
+
+👉 turning:
+
+📈 raw curves → 📊 ML-ready vectors  
+
+---
+
+## 🤖 Machine learning ready
+
+Supports:
+
+- classification  
+- clustering  
+- downstream modeling  
+
+👉 works with:
+
+- positive curves  
+- negative curves  
+- ambiguous cases  
+
+---
+
+## 🔍 Explainable ML
+
+Unlike deep learning-only approaches:
+
+👉 features are interpretable  
+
+Examples:
+
+- curve shape  
+- slope  
+- noise patterns  
+
+
+👉 so you know **WHY a curve is classified** (not just that it is)
+
+---
+
+## 📊 Additional utilities
+
+- Cq estimation  
+- amplification efficiency  
+- curve visualization  
+- dataset handling 
+
+---
+
+# 🔍 Key insights
+
+## 🧬 Curves are richer than you think
+
+qPCR data is not just:
+
+👉 one number (Cq)  
+
+👉 it contains:
+
+- dynamic information  
+- shape characteristics  
+- hidden patterns  
+
+---
+
+## 🤖 ML needs structured input
+
+PCRedux solves:
+
+👉 feature engineering bottleneck  
+
+---
+
+## ⚠️ Human bias is real
+
+Manual classification:
+
+- subjective  
+- inconsistent  
+
+👉 PCRedux enables **standardized + reproducible decisions**
+
+---
+
+# 🚀 Why this matters
+
+## 🧪 For diagnostics
+
+- more robust classification  
+- fewer ambiguous results  
+
+---
+
+## 🤖 For ML pipelines
+
+- plug-and-play feature extraction  
+- scalable workflows  
+
+---
+
+## 🔬 For research
+
+- reproducibility  
+- comparability across studies  
+
+---
+
+# 💚 BioGenies perspective
+
+This is a **classic BioGenies move** 😄  
+
+👉 take a messy biological signal  
+👉 structure it properly  
+👉 make it ML-ready  
+
+Not flashy deep learning.
+
+👉 just **solid feature engineering + reproducibility**
+
+And honestly that’s what most pipelines are missing.  
+
+
+![](../fig/tools/pcredux.png){fig-align="center"}
+
+::: {.content-visible when-format="llms-txt"}
+
+# 📌 Publication metadata
+
+- **Title:** PCRedux: A Quantitative PCR Machine Learning Toolkit  
+- **Journal:** Journal of Open Source Software (JOSS)  
+- **Year:** 2022  
+- **DOI:** https://doi.org/10.21105/joss.04407  
+- **Authors:** Michał Burdukiewicz, Andrej-Nikolai Spiess, Dominik Rafacz, Konstantin Blagodatskikh, Stefan Rödiger 
+- **Type:** Software paper (R package)  
+- **Domain:** bioinformatics / machine learning  
+- **Focus:** qPCR data analysis  
+
+---
+
+# 🏷️ Keywords
+
+qPCR, machine learning, feature extraction, PCRedux, amplification curves, explainable AI, bioinformatics, R
+
+:::

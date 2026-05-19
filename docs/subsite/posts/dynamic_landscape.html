@@ -6,8 +6,12 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="BioGenies Lab">
+<meta name="dcterms.date" content="2022-11-24">
+<meta name="keywords" content="peptides, machine learning, deep learning, bioinformatics, AMP, reproducibility, prediction tools">
+<meta name="description" content="A large-scale review of peptide activity prediction tools reveals rapid growth, reproducibility issues and emerging trends in ML-based peptide bioinformatics.">
 
-<title>Conferences etc. – BioGenies</title>
+<title>The peptide prediction ecosystem is exploding 🤯🧬 – BioGenies</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,29 +30,29 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../bg_logo.png" rel="icon" type="image/png">
-<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-45745004f921e051d690a6ab03e0af10.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-1cb75670f2dcdad76767171cd9eec637.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-45745004f921e051d690a6ab03e0af10.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../bg_logo.png" rel="icon" type="image/png">
+<script src="../../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-45745004f921e051d690a6ab03e0af10.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-1cb75670f2dcdad76767171cd9eec637.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-45745004f921e051d690a6ab03e0af10.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -103,33 +107,19 @@ cookieconsent.run({
 });
 </script> 
   
-<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
-
-<link href="../site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet">
-
-<script src="../site_libs/datatables-binding-0.34.0/datatables.js"></script>
-
-<script src="../site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-
-<link href="../site_libs/dt-core-1.13.6/css/jquery.dataTables.min.css" rel="stylesheet">
-
-<link href="../site_libs/dt-core-1.13.6/css/jquery.dataTables.extra.css" rel="stylesheet">
-
-<script src="../site_libs/dt-core-1.13.6/js/jquery.dataTables.min.js"></script>
-
-<link href="../site_libs/crosstalk-1.2.2/css/crosstalk.min.css" rel="stylesheet">
-
-<script src="../site_libs/crosstalk-1.2.2/js/crosstalk.min.js"></script>
 
 
-
-<link rel="stylesheet" href="../navbar_hover.css">
-<link rel="stylesheet" href="../sidebar_mods.css">
-<link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Conferences etc. – BioGenies">
+<link rel="stylesheet" href="../../navbar_hover.css">
+<link rel="stylesheet" href="../../sidebar_mods.css">
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="The peptide prediction ecosystem is exploding 🤯🧬 – BioGenies">
+<meta property="og:description" content="A large-scale review of peptide activity prediction tools reveals rapid growth, reproducibility issues and emerging trends in ML-based peptide bioinformatics.">
+<meta property="og:image" content="../fig/posts/publications/dynamic_landscape2.jpg">
 <meta property="og:site_name" content="BioGenies">
-<meta name="twitter:title" content="Conferences etc. – BioGenies">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="The peptide prediction ecosystem is exploding 🤯🧬 – BioGenies">
+<meta name="twitter:description" content="A large-scale review of peptide activity prediction tools reveals rapid growth, reproducibility issues and emerging trends in ML-based peptide bioinformatics.">
+<meta name="twitter:image" content="../fig/posts/publications/dynamic_landscape2.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-sidebar floating nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -301,7 +291,7 @@ cookieconsent.run({
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">BioGenies</span>
     </a>
   </div>
@@ -312,7 +302,7 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -321,23 +311,23 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-team">    
         <li>
-    <a class="dropdown-item" href="../subsite/team.html">
+    <a class="dropdown-item" href="../../subsite/team.html">
  <span class="dropdown-text">BioGenies team</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../subsite/colab.html">
+    <a class="dropdown-item" href="../../subsite/colab.html">
  <span class="dropdown-text">BioGenies collaborators</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../subsite/guest.html">
+    <a class="dropdown-item" href="../../subsite/guest.html">
  <span class="dropdown-text">Guest researchers</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../subsite/alumni.html">
+    <a class="dropdown-item" href="../../subsite/alumni.html">
  <span class="dropdown-text">Former BioGenies members</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../subsite/about.html">
+    <a class="dropdown-item" href="../../subsite/about.html">
  <span class="dropdown-text">About BioGenies</span></a>
   </li>  
     </ul>
@@ -348,49 +338,49 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-our-projects">    
         <li>
-    <a class="dropdown-item" href="../subsite/projects/OneTick.html">
+    <a class="dropdown-item" href="../../subsite/projects/OneTick.html">
  <span class="dropdown-text">OneTick</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../subsite/projects/AMI-cryoEM.html">
+    <a class="dropdown-item" href="../../subsite/projects/AMI-cryoEM.html">
  <span class="dropdown-text">AMI‑CryoML</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../subsite/projects/AmyloGraph2.html">
+    <a class="dropdown-item" href="../../subsite/projects/AmyloGraph2.html">
  <span class="dropdown-text">AmyloGraph&nbsp;2.0</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../subsite/projects/LIMAD.html">
+    <a class="dropdown-item" href="../../subsite/projects/LIMAD.html">
  <span class="dropdown-text">LIMAD</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../subsite/projects/imputomics2.html">
+    <a class="dropdown-item" href="../../subsite/projects/imputomics2.html">
  <span class="dropdown-text">imputomics 2.0</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../fibrea.html">
+    <a class="dropdown-item" href="../../fibrea.html">
  <span class="dropdown-text">FIBREA</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../subsite/software.html"> 
+    <a class="nav-link" href="../../subsite/software.html"> 
 <span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../subsite/seminars.html"> 
+    <a class="nav-link" href="../../subsite/seminars.html"> 
 <span class="menu-text">Seminars</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../subsite/publications.html"> 
+    <a class="nav-link" href="../../subsite/publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../subsite/conferences.html" aria-current="page"> 
+    <a class="nav-link" href="../../subsite/conferences.html"> 
 <span class="menu-text">Conferences etc.</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../subsite/theses.html"> 
+    <a class="nav-link" href="../../subsite/theses.html"> 
 <span class="menu-text">Theses and dissertations</span></a>
   </li>  
 </ul>
@@ -413,7 +403,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Conferences etc.</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">The peptide prediction ecosystem is exploding 🤯🧬</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -424,9 +414,9 @@ cookieconsent.run({
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
-      <a href="../index.html" class="sidebar-logo-link">
-      <img src="../bg_logo.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
-      <img src="../bg_logo.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
+      <a href="../../index.html" class="sidebar-logo-link">
+      <img src="../../bg_logo.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="../../bg_logo.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
       </a>
       </div>
     <div class="sidebar-menu-container"> 
@@ -442,31 +432,31 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../subsite/topics/amyloids.html" class="sidebar-item-text sidebar-link">
+  <a href="../../subsite/topics/amyloids.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Amyloids</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../subsite/topics/llps.html" class="sidebar-item-text sidebar-link">
+  <a href="../../subsite/topics/llps.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Liquid-liquid phase separation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../subsite/topics/amp.html" class="sidebar-item-text sidebar-link">
+  <a href="../../subsite/topics/amp.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Antimicrobial peptides</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../subsite/topics/mvi.html" class="sidebar-item-text sidebar-link">
+  <a href="../../subsite/topics/mvi.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Missing value imputation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../subsite/topics/hdxms.html" class="sidebar-item-text sidebar-link">
+  <a href="../../subsite/topics/hdxms.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">HDX-MS</span></a>
   </div>
 </li>
@@ -477,38 +467,378 @@ cookieconsent.run({
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">../../</h2>
+   
+  <ul>
+  <li><a href="#explore-the-peptide-prediction-landscape" id="toc-explore-the-peptide-prediction-landscape" class="nav-link active" data-scroll-target="#explore-the-peptide-prediction-landscape">🔗 Explore the peptide prediction landscape</a></li>
+  <li><a href="#audio-summary" id="toc-audio-summary" class="nav-link" data-scroll-target="#audio-summary">🎧 Audio summary</a></li>
+  <li><a href="#what-is-this-about" id="toc-what-is-this-about" class="nav-link" data-scroll-target="#what-is-this-about">🔬 What is this about?</a></li>
+  <li><a href="#the-scale-of-the-problem" id="toc-the-scale-of-the-problem" class="nav-link" data-scroll-target="#the-scale-of-the-problem">📊 The scale of the problem</a></li>
+  <li><a href="#the-core-problem" id="toc-the-core-problem" class="nav-link" data-scroll-target="#the-core-problem">⚠️ The core problem</a></li>
+  <li><a href="#what-they-analyzed" id="toc-what-they-analyzed" class="nav-link" data-scroll-target="#what-they-analyzed">🧠 What they analyzed</a>
+  <ul class="collapse">
+  <li><a href="#trends-in-peptide-ml" id="toc-trends-in-peptide-ml" class="nav-link" data-scroll-target="#trends-in-peptide-ml">📊 Trends in peptide ML</a></li>
+  <li><a href="#deep-learning-explosion" id="toc-deep-learning-explosion" class="nav-link" data-scroll-target="#deep-learning-explosion">🤖 Deep learning explosion</a></li>
+  <li><a href="#most-common-activities" id="toc-most-common-activities" class="nav-link" data-scroll-target="#most-common-activities">🧬 Most common activities</a></li>
+  <li><a href="#most-common-ml-models" id="toc-most-common-ml-models" class="nav-link" data-scroll-target="#most-common-ml-models">⚙️ Most common ML models</a></li>
+  </ul></li>
+  <li><a href="#key-insights" id="toc-key-insights" class="nav-link" data-scroll-target="#key-insights">🔍 Key insights</a>
+  <ul class="collapse">
+  <li><a href="#reproducibility-crisis" id="toc-reproducibility-crisis" class="nav-link" data-scroll-target="#reproducibility-crisis">⚠️ Reproducibility crisis 🚨</a></li>
+  <li><a href="#web-servers-matter-more-than-reproducibility" id="toc-web-servers-matter-more-than-reproducibility" class="nav-link" data-scroll-target="#web-servers-matter-more-than-reproducibility">🌐 Web servers matter more than reproducibility</a></li>
+  <li><a href="#deep-learning-hype-is-real" id="toc-deep-learning-hype-is-real" class="nav-link" data-scroll-target="#deep-learning-hype-is-real">🤖 Deep learning hype is real</a></li>
+  </ul></li>
+  <li><a href="#why-this-matters" id="toc-why-this-matters" class="nav-link" data-scroll-target="#why-this-matters">🚀 Why this matters</a>
+  <ul class="collapse">
+  <li><a href="#for-peptide-therapeutics" id="toc-for-peptide-therapeutics" class="nav-link" data-scroll-target="#for-peptide-therapeutics">🧠 For peptide therapeutics</a></li>
+  <li><a href="#for-bioinformatics" id="toc-for-bioinformatics" class="nav-link" data-scroll-target="#for-bioinformatics">⚠️ For bioinformatics</a></li>
+  <li><a href="#for-users" id="toc-for-users" class="nav-link" data-scroll-target="#for-users">🌍 For users</a></li>
+  </ul></li>
+  <li><a href="#biogenies-perspective" id="toc-biogenies-perspective" class="nav-link" data-scroll-target="#biogenies-perspective">💚 BioGenies perspective</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page-right" id="quarto-document-content">
+<main class="content column-body" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Conferences etc.</h1>
+<h1 class="title">The peptide prediction ecosystem is exploding 🤯🧬</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">publications</div>
+    <div class="quarto-category">peptides</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    A large-scale review of peptide activity prediction tools reveals rapid growth, reproducibility issues and emerging trends in ML-based peptide bioinformatics.
+  </div>
 </div>
 
 
+<div class="quarto-title-meta column-body">
 
-<div class="quarto-title-meta column-page-right">
-
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>BioGenies Lab </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">November 24, 2022</p>
+    </div>
+  </div>
   
     
   </div>
   
 
+<div>
+  <div class="keywords">
+    <div class="block-title">Keywords</div>
+    <p>peptides, machine learning, deep learning, bioinformatics, AMP, reproducibility, prediction tools</p>
+  </div>
+</div>
 
 </header>
 
 
-<div class="cell">
-<div class="cell-output-display">
-<div id="htmlwidget-fb882f1db44a399e1b82" style="width:100%;height:1000px;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-fb882f1db44a399e1b82">{"x":{"filter":"none","vertical":false,"data":[["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54","55","56","57","58","59","60","61","62","63","64","65","66","67","68","69","70","71","72","73","74","75","76","77","78","79","80","81","82","83","84","85","86","87","88","89","90","91","92","93","94","95","96","97","98","99","100","101","102","103","104","105","106","107","108","109","110","111","112","113","114","115"],["Meeting on Machine Learning and Non-Globular Proteins","Meeting on Machine Learning and Non-Globular Proteins","Meeting on Machine Learning and Non-Globular Proteins","Meeting on Machine Learning and Non-Globular Proteins","Metabolomics","Metabolomics","Metabolomics","Symposium of the Polish Bioinformatics Society","Symposium of the Polish Bioinformatics Society","Symposium of the Polish Bioinformatics Society","Symposium of the Polish Bioinformatics Society","Symposium of the Polish Bioinformatics Society","Konferencja Zastosowań Matematyki","Human Proteome Organisation World Congress","Human Proteome Organisation World Congress","Human Proteome Organisation World Congress","Human Proteome Organisation World Congress","Intelligent Systems For Molecular Biology","Intelligent Systems For Molecular Biology","Metabolomics","Meeting on Machine Learning and Non-Globular Proteins","Meeting on Machine Learning and Non-Globular Proteins","Meeting on Machine Learning and Non-Globular Proteins","Symposium of the Polish Bioinformatics Society","Symposium of the Polish Bioinformatics Society","Symposium of the Polish Bioinformatics Society","Symposium of the Polish Bioinformatics Society","Functional Amyloid Meeting","Center for Advanced Systems Understanding workshops","International Biotech Innovation Days","International Biotech Innovation Days","Metabolomics Circle","Meeting on Machine Learning and Non-Globular Proteins","Meeting on Machine Learning and Non-Globular Proteins","PhasAGE international conference","PhasAGE training school","Symposium of Bioinformatics and Genomics","Institute of Biotechnology, Vilnius University","Center for Advanced Systems Understanding workshops","UWr-HZDR-CASUS International Conference on Advanced Systems Research CASUSCON","Faculty of Mathematics, Informatics, and Mechanics, University of Warsaw","Hasso Plattner Institute, University of Potsdam","Human Proteome Organisation World Congress","Faculty of Mathematics and Computer Science, University of Wrocław","EMBO Young Scientists' Forum (EYSF)","German Conference on Bioinformatics","Meeting of the Society for Virology","Polish Conference on Biocybernetics and Biomedical Engineering","Joint Microbiology &amp; Infection Conference of the German Society for Hygiene and Microbiology and the Association of General and Applied Microbiology","International Biotech Innovation Days","Why R? Conference","Symposium: Multiomics to Mechanisms - Challenges in Data Integration","Congress of the European Proteomic Association","German Conference on Bioinformatics","International Mass Spectrometry School","International Mass Spectrometry School","Intelligent Systems For Molecular Biology and the European Conference on Computational Biology","Symposium of the Polish Bioinformatics Society","Symposium of the Polish Bioinformatics Society","Conference for users of the R Language","Conference for users of the R Language","Conference for users of the R Language","Meeting of the Society for Molecular Biology and Evolution","Symposium on Structural Proteomics","Symposium on Structural Proteomics","Conference of the Association for General and Applied Microbiology","Why R? Conference","Why R? Conference","American Society for Microbiology Conference on Biofilms","International Biotech Innovation Days","International Biotech Innovation Days","University of Michigan","NGP-Net Winter School on non-globular proteins","NGP-Net Symposium on non-globular proteins","NGP-Net Symposium on non-globular proteins","Polish View on Machine Learning","Polish View on Machine Learning","Polish View on Machine Learning","Symposium of the Polish Bioinformatics Society","Symposium of the Polish Bioinformatics Society","Interdisciplinary Nanoscience Center &amp; Department of Molecular Biology and Genetics, Aarhus University","Conference of the Association for General and Applied Microbiology","Brandenburg University of Technology \nCottbus-Senftenberg","Intelligent Systems For Molecular Biology and the European Conference on Computational Biology","NGP-Net Symposium on non-globular proteins","qPCR dPCR &amp; NGS","Symposium of Bioinformatics and Genomics","useR!","useR!","Wrocław Biofilm Symposium","International Conference BIFI 2016 on Molecular Recognition","Congress of the Polish Biochemistry, Cell Biology, Biophysics and Bioinformatics","BioInformatics in Toruń","CHARME of standardisation in life sciences","European Conference on Computational Biology","European R Users Meeting","European Student Council Symposium","German Conference on Bioinformatics","Innovation Forum Senftenberg","Innovation Forum Senftenberg","NGP-Net Winter School on non-globular proteins","Symposium of the Polish Bioinformatics Society","Symposium of Bioinformatics and Genomics","German Conference on Bioinformatics","Potsdam Days on Bioanalysis","Symposium of the Polish Bioinformatics Society","qPCR dPCR &amp; NGS","qPCR dPCR &amp; NGS","International Conference on Research in Computational Molecular Biology","Congress of the Polish Biochemistry, Cell Biology, Biophysics and Bioinformatics","Joint Microbiology &amp; Infection Conference of the German Society for Hygiene and Microbiology and the Association of General and Applied Microbiology","Technical University Dresden","qPCR dPCR &amp; NGS","BioHackaton","4th BioHackaton"],["2025","2025","2025","2025","2025","2025","2025","2025","2025","2025","2025","2025","2025","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2023","2023","2023","2023","2023","2023","2023","2023","2023","2022","2022","2022","2022","2022","2022","2022","2021","2021","2021","2021","2020","2020","2020","2019","2019","2019","2019","2019","2019","2019","2019","2019","2019","2019","2019","2019","2019","2019","2019","2019","2018","2018","2018","2018","2018","2018","2018","2018","2018","2018","2018","2018","2018","2018","2017","2017","2017","2017","2017","2017","2017","2017","2016","2016","2016","2016","2016","2016","2016","2016","2016","2016","2016","2016","2016","2015","2015","2015","2015","2015","2015","2014","2014","2014","2014",null,null],["Vilnius, Lithuania","Vilnius, Lithuania","Vilnius, Lithuania","Vilnius, Lithuania","Prague, Czech Republic","Prague, Czech Republic","Prague, Czech Republic","Białystok, Poland","Białystok, Poland","Białystok, Poland","Białystok, Poland","Białystok, Poland","Kościelisko, Poland","Dresden, Germany","Dresden, Germany","Dresden, Germany","Dresden, Germany","Montreal, Canada","Montreal, Canada","Osaka, Japan","Thessaloniki, Greece","Thessaloniki, Greece","Thessaloniki, Greece","Warsaw, Poland","Warsaw, Poland","Warsaw, Poland","Warsaw, Poland","Hamburg, Germany","Wrocław, Poland","Senftenberg, Germany","Senftenberg, Germany","Wrocław, Poland","Bratislava, Slovakia","Bratislava, Slovakia","Porto, Portugal","Porto, Portugal","Barcelona, Spain","Vilnius, Lithuania","Wrocław, Poland","Wrocław, Poland","Warsaw, Poland","Potsdam, Germany","Cancún, Mexico","Wrocław, Poland","Warsaw, Poland","online, online","online, online","Warsaw, Poland","Leipzig, Germany","Senftenberg, Germany","Warszawa, Poland","Heidelberg, Germany","Potsdam, Germany","Heidelberg, Germany","Sitges, Spain","Sitges, Spain","Basel, Switzerland","Krakow, Poland","Cracow, Poland","Gdańsk, Poland","Gdańsk, Poland","Gdańsk, Poland","Manchester, United Kingdom","Göttingen, Germany","Gottingen, Germany","Mainz, Germany","Warszawa, Poland","Warszawa, Poland","Washington DC, USA","Senftenberg, Germany","Senftenberg, Germany","Michigan, USA","Nicossia, Cyprus","Druskininkai, Lithuania","Budapest, Hungary","Warsaw, Poland","Warsaw, Poland","Warsaw, Poland","Wrocław, Poland","Wrocław, Poland","Aarhus, Denmark","Wolfsburg, Germany","Senftenberg, Germany","Prague, Czech Republic","Košice, Slovakia","Freising, Germany","Barcelona, Spain","Brussels, Belgium","Brussels, Belgium","Wrocław, Poland","Zaragoza, Spain","Wrocław, Polska","Toruń, Poland","Warsaw, Poland","Hague, Netherlands","Poznań, Poland","Hague, Netherlands","Berlin, Germany","Senftenberg, Germany","Senftenberg, Germany","Brixen, Italy","Białystok, Poland","Barcelona, Spain","Dortmund, Germany","Potsdam, Germany","Lublin, Poland","Freising-Weihenstephan, Germany","Freising-Weihenstephan, Germany","Warsaw, Poland","Warsaw, Poland","Dresden, Germany","Dresden, Germany","Lyon, France","Berlin, Germany","Wals, Germany"],["poster","poster","poster","poster","poster","poster","poster","talk","poster","talk","poster","poster","poster","poster","poster","poster","poster","poster","poster","poster","poster","poster","poster","poster","poster","poster","poster","poster","talk","talk","keynote","talk","talk","talk","poster","training","talk","keynote","talk","poster","keynote","keynote","poster","keynote","poster","talk","poster","poster","poster","talk","talk","poster","poster","poster","poster","talk","poster","talk","talk","talk","talk","talk","poster","poster","poster","poster","talk","talk","poster","poster","workshops","keynote","training","talk","training","poster","poster","poster","talk","talk","keynote","poster","keynote","poster","talk","talk","poster","poster","poster","talk","talk","poster","poster","poster","talk","poster","poster","talk","poster","talk","training","talk","poster","poster","poster","poster","poster","poster","poster","talk","poster","keynote","poster","workshops","workshops"],["Aggregating amyloid resources","Liquid-liquid phase separation (LLPS) as a sensing and adaptation mechanism: An evidence-based hypothesis on AP2 transcription factors in the malaria parasite","Development of AmyloGraph Antibody database","Comprehensive protein datasets and benchmarking for liquid-liquid phase separation","MetaboCrates: An open-source pipeline for quality-aware analysis of targeted metabolomics data","Leveraging SLOPE Regularization for Variable Clustering in Metabolomics","imputomics evolved: expanding imputation methods and redesigning benchmarks for missing data imputation","DeepSkim: Towards Automated Assessment of Publication Content","Aggregating amyloid resources: comprehensive list of amyloid-like aggregation databases","A4D Antibody Aggregation Database (A4D-ABDB): identifying and optimizing aggregation propensity for ttherapeutic antibodies","Development of AmyloGraph Antibody database","MetaboCrates: An open-source pipeline for quality-aware analysis of targeted metabolomics data","imputomics: how to impute metabolomics data","hadexversum: tools for HDX-MS analysis","imputomics 2.0: bridging data gaps in proteomics with missing value imputation algorithms and their benchmark","Feature screening and model regularization for k-mer representations of biological sequences","Confident protein datasets for liquid-liquid phase separation studies","imputomics: web server and R package for missing values imputation in metabolomics data","hadexversum: the family of HDX-MS tools","Imputomics: Simplifying Metabolomics Data Imputation with All-in-One Access","imputomics 2.0: comprehensive R package for missing data imputation in proteomics data","Confident dataset generation for the specific prediction and benchmarking of client, driver and negative proteins in liquid-liquid phase separation","A3D Model Organism Database (A3D-MODB): a database for proteome aggregation predictions in model organisms.","Confident datasets of client, driver and negative proteins in liquid-liquid phase separation","imputomics 2.0: comprehensive R package for missing data imputation in proteomics data","hadexversum: HDX-MS analysis made easy","Feature screening and model regularization for k-mer representations of biological sequences","Aggregating amyloid resources","Imputomics: comprehensive missing value imputation for metabolomics data","Imputomics: comprehensive R package for missing data imputation in metabolomics data","AmyloGraph: mapping the landscape of amyloid-amyloid interactions","Imputomics: imputation of missing values for ‘omics’ dat","Incorporating protein microenvironmental influence on protein compaction prediction.","AmyloGraph: A comprehensive database of amyloid-amyloid interactions","A3D Model Organism Database (A3D-MODB): a database for proteome aggregation predictions in model organisms.","Protein aggregation, intrinsic disorder and phase separation in the era of machine learning","A3D Model Organism Database (A3D-MODB): a database for proteome aggregation predictions in model organisms.","Pitfalls of machine learning for peptide analysis","A novel semiparametric model for hydrogen deuterium exchange monitored by mass spectrometry data","Differentation anticancer from antimicrobial pepides using Cancergram","The impact of negative data sampling on antimicrobial peptide prediction","Sampling of negative datasets",null,"Pułapki w analizie danych peptydowych","The impact of negative data sampling on antimicrobial peptides prediction","The impact of negative data sampling on antimicrobial peptide prediction","AntiViroGram - proteome-wide prediction of antiviral peptide precursors","Negative data set sampling as the source of bias in prediction of antimicrobial peptides","AmpGram – a novel tool for prediction of antimicrobial peptides","countfitteR: count data analysis for precision medicine","Count data analysis with countfitteR","Analysis of data from hydrogen-deuterium exchange mass spectrometry experiments","AmyloGram: prediction of amyloid sequences in R","autobiogramML: towards automated machine learning in protein function prediction","HaDeX - web-server for analysis of data from hydrogen-deuterium exchange-mass spectrometry experiments","HaDeX - web-server for analysis of data from hydrogen-deuterium exchange-mass spectrometry experiments","HaDeX - analysis of data from hydrogen-deuterium exchange-mass spectrometry experiments","HaDeX: an R package and web-server for analysis of data from hydrogen-deuterium exchange mass spectrometry experiments","Did the targeting signals for mitochondria and plastids evolve from antimicrobial peptides?","HaDeX - analysis of HDX-MS data","AmyloGram: prediction of amyloid sequences in R","predPCR: an automated classification of qPCR curves","Did the targeting signals for mitochondria and plastids evolve from ancient antimicrobial peptides?","HaDeX: tool for analysis of HDX-MS data","Just give me a p-value: statistical analysis of deuterium uptake curves in HDX-MS","Co-evolution of curli components CsgA and CsgB","R for experimentalists: HDX-MS example","AmyloGram: the R package and a Shiny server for amyloid prediction","CsgA, CsgB and CsgC - evolutionary Interplay in curli biogenesis","PhyMet2: database and algorithm predicting culturing conditions of methanogens","Introduction to basic R","Amyloid stretches in proteinous scaffolds of biofilms",null,"Evaluation of mutational impact on prion-like proteins aggregation propensity.",null,"AmyloGram: prediction of amyloid sequences in R","PCRedux: machine learning helper tool for sigmoid curves","PCRedux: machine learning helper tool for sigmoid curves","PhyMet2: a database and toolkit for phylogenetic and metabolic analyses of methanogens","predPCR: automated classification of sigmoid curves","Challenges in the computational prediction of peptide amyloidogenicity","PhyMet2: complex database containing records on methanogens with unique feature (MethanoGram) allowing prediction of culture conditions based on 16S rRNA","Modelling amyloidogenic scaffolds of biofilms","Computational and experimental validation of amyloid databases","Challenges in the computational prediction of peptide amyloidogenicity","dpcReport: web server and software suite for unified analysis of digital PCRs and digital assays","AMYCO: Evaluation of mutational impact on prion-like proteins aggregation propensity.","AmyloGram: prediction of amyloid sequences in R","Integrated analysis of digital PCR experiments in R","Predicting properties of biological sequences using n-gram analysis","PrionW: a server to identify proteins containing glutamine/asparagine rich prion-like domains and their amyloid cores.","AmyloGram: analysis and prediction of amyloids using n-grams","AmyloGram: n-gram analysis of amyloids","Biogram: standardization of biological n-gram analysis in R","AmyloGram: a novel predictor of amyloidogenicity","N-gram analysis of biological sequences in R","AmyloGram: a novel predictor of amyloidogenicity","Prediction of malarial signal peptides","dpcR: web server and R package for analysis of digital PCR experiments","biogram: a toolkit for biological n-gram analysis",null,"SignalHsmm: prediction of malarial signal peptides","PrionW: a server to identify proteins containing glutamine/asparagine rich prion-like domains and their amyloid cores.","N-gram analysis of amyloid data","dpcReport -- Mobile-Health analysis framework","biogram: a toolkit for n-gram analysis","The dpcR Package – a Framework for Analysis and Visualization of Digital PCR Experiments","Methods of Comparing Digital PCR Experiments","Predicting eukaryotic signal peptides using hidden Markov models","Signal peptide prediction using hidden Markov models","Prevalence of Shiga toxin-producing, enterohemorrhagic and enteropathogenic Escherichia coli – a systematic review","Prediction of eukaryotic signal peptides using hidden semi-Markov models","dpcR: an R package for the analysis of digital PCR",null,null],["Jarosław (Jarek) Chilimoniuk","Valentín Iglesias","Mariia Rutkowska","Michał Burdukiewicz","Michał Burdukiewicz","Krystyna (Krysia) Grzesiak","Jarosław (Jarek) Chilimoniuk","Michał Burdukiewicz","Jarosław (Jarek) Chilimoniuk","Valentín Iglesias","Mariia Rutkowska","Joanna (Asia) Pokora","Krystyna (Krysia) Grzesiak","Weronika Puchała","Jarosław (Jarek) Chilimoniuk","Krystyna (Krysia) Grzesiak","Michał Burdukiewicz","Krystyna (Krysia) Grzesiak","Weronika Puchała","Krystyna (Krysia) Grzesiak","Jarosław (Jarek) Chilimoniuk","Michał Burdukiewicz","Valentín Iglesias","Michał Burdukiewicz","Jarosław (Jarek) Chilimoniuk","Weronika Puchała","Krystyna (Krysia) Grzesiak","Michał Burdukiewicz","Krystyna (Krysia) Grzesiak","Jarosław (Jarek) Chilimoniuk","Michał Burdukiewicz","Jarosław (Jarek) Chilimoniuk","Valentín Iglesias","Michał Burdukiewicz","Valentín Iglesias","Valentín Iglesias","Valentín Iglesias","Michał Burdukiewicz","Krystyna (Krysia) Grzesiak","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Weronika Puchała","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Jarosław (Jarek) Chilimoniuk","Jarosław (Jarek) Chilimoniuk","Jarosław (Jarek) Chilimoniuk","Weronika Puchała","Jarosław (Jarek) Chilimoniuk","Michał Burdukiewicz","Weronika Puchała","Weronika Puchała","Weronika Puchała","Michał Burdukiewicz","Michał Burdukiewicz","Weronika Puchała","Jarosław (Jarek) Chilimoniuk","Michał Burdukiewicz","Michał Burdukiewicz","Weronika Puchała","Michał Burdukiewicz","Jarosław (Jarek) Chilimoniuk","Weronika Puchała","Jarosław (Jarek) Chilimoniuk","Jarosław (Jarek) Chilimoniuk","Jarosław (Jarek) Chilimoniuk","Michał Burdukiewicz","Michał Burdukiewicz","Valentín Iglesias","Valentín Iglesias","Valentín Iglesias","Jarosław (Jarek) Chilimoniuk","Michał Burdukiewicz","Michał Burdukiewicz","Jarosław (Jarek) Chilimoniuk","Michał Burdukiewicz","Michał Burdukiewicz","Jarosław (Jarek) Chilimoniuk","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Valentín Iglesias","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Valentín Iglesias","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Valentín Iglesias","Michał Burdukiewicz","Valentín Iglesias","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Michał Burdukiewicz","Valentín Iglesias"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>event<\/th>\n      <th>year<\/th>\n      <th>place<\/th>\n      <th>type<\/th>\n      <th>title<\/th>\n      <th>presenting<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"orderable":false,"targets":0},{"name":" ","targets":0},{"name":"event","targets":1},{"name":"year","targets":2},{"name":"place","targets":3},{"name":"type","targets":4},{"name":"title","targets":5},{"name":"presenting","targets":6}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<hr>
+<p>📌 <strong>Project highlights</strong></p>
+<ul>
+<li>🧬 Reviews <strong>140 peptide prediction tools</strong><br>
+</li>
+<li>🤖 Covers <strong>AMP, anticancer, antiviral &amp; more</strong><br>
+</li>
+<li>📊 Tracks rise of <strong>deep learning in peptide ML</strong><br>
+</li>
+<li>⚠️ Reveals major <strong>reproducibility crisis</strong><br>
+</li>
+<li>🌐 Provides curated peptide prediction resource database</li>
+</ul>
+<hr>
+<p>🎉 <strong>New paper out!</strong> This one tackles a <em>very meta problem</em>:</p>
+<p>👉 there are now SO MANY peptide predictors that choosing one became a challenge itself 😄</p>
+<p>👉 <a href="https://doi.org/10.1016/j.csbj.2022.11.043">The dynamic landscape of peptide activity prediction</a></p>
+<hr>
+<section id="explore-the-peptide-prediction-landscape" class="level1">
+<h1>🔗 Explore the peptide prediction landscape</h1>
+<ul>
+<li>🌐 Tool list: https://biogenies.info/peptide-prediction-list/</li>
+</ul>
+<p>👉 one place to browse the chaotic peptide prediction universe 🌌</p>
+<hr>
+</section>
+<section id="audio-summary" class="level1">
+<h1>🎧 Audio summary</h1>
+<p>Antimicrobial predictors. Anticancer predictors. Antiviral predictors.<br>
+Deep learning everywhere. Broken web servers. Missing code 😅</p>
+<p>👉 Here’s a <strong>short audio overview 🎧</strong> explaining what is happening in peptide ML:</p>
+<audio controls="">
+<source src="../audio/dynamic_landscape.m4a" type="audio/x-m4a">
+<p>Your browser does not support the audio element. </p>
+<p>👉 Perfect if you want the <strong>big picture of peptide prediction tools</strong></p>
+<hr>
+</audio></section>
+<section id="what-is-this-about" class="level1">
+<h1>🔬 What is this about?</h1>
+<p>Peptides can do <em>a lot</em>:</p>
+<ul>
+<li>🦠 antimicrobial activity<br>
+</li>
+<li>🎯 anticancer effects<br>
+</li>
+<li>🧠 blood–brain barrier penetration<br>
+</li>
+<li>🔥 anti-inflammatory activity<br>
+</li>
+<li>🧬 anti-amyloid interactions</li>
+</ul>
+<hr>
+<p>Because of that:</p>
+<p>👉 researchers keep building ML predictors for peptide activity.</p>
+<p>And the field exploded 🚀</p>
+<hr>
+</section>
+<section id="the-scale-of-the-problem" class="level1">
+<h1>📊 The scale of the problem</h1>
+<p>This review identified:</p>
+<ul>
+<li><strong>140 peptide prediction tools</strong></li>
+<li>published between 2009–2022</li>
+</ul>
+<hr>
+<p>Activities included:</p>
+<ul>
+<li>antimicrobial peptides (AMPs)<br>
+</li>
+<li>anticancer peptides<br>
+</li>
+<li>antiviral peptides<br>
+</li>
+<li>antifungal peptides<br>
+</li>
+<li>cell-penetrating peptides<br>
+</li>
+<li>blood–brain barrier peptides</li>
+</ul>
+<p>…and many more 😅</p>
+<hr>
+</section>
+<section id="the-core-problem" class="level1">
+<h1>⚠️ The core problem</h1>
+<p>Too many tools.</p>
+<p>Too many datasets.</p>
+<p>Too many inconsistent definitions.</p>
+<hr>
+<p>Example:</p>
+<p>👉 “AMP” sometimes means:</p>
+<ul>
+<li>antibacterial only ❌<br>
+</li>
+<li>all antimicrobial peptides ✅</li>
+</ul>
+<p>depending on the paper</p>
+<hr>
+<p>And this creates:</p>
+<ul>
+<li>benchmark bias<br>
+</li>
+<li>incompatible predictors<br>
+</li>
+<li>reproducibility nightmares</li>
+</ul>
+<hr>
+</section>
+<section id="what-they-analyzed" class="level1">
+<h1>🧠 What they analyzed</h1>
+<section id="trends-in-peptide-ml" class="level2">
+<h2 class="anchored" data-anchor-id="trends-in-peptide-ml">📊 Trends in peptide ML</h2>
+<p>The study explored:</p>
+<ul>
+<li>predictive activities<br>
+</li>
+<li>ML architectures<br>
+</li>
+<li>citations<br>
+</li>
+<li>reproducibility<br>
+</li>
+<li>web server availability</li>
+</ul>
+<hr>
+</section>
+<section id="deep-learning-explosion" class="level2">
+<h2 class="anchored" data-anchor-id="deep-learning-explosion">🤖 Deep learning explosion</h2>
+<p>Before 2018:</p>
+<p>👉 basically no deep models.</p>
+<p>By 2021:</p>
+<p>👉 almost HALF of predictors used deep learning</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../fig/posts/publications/dynamic_landscape2.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="800"></p>
+</figure>
 </div>
+<hr>
+</section>
+<section id="most-common-activities" class="level2">
+<h2 class="anchored" data-anchor-id="most-common-activities">🧬 Most common activities</h2>
+<p>Top prediction targets were:</p>
+<ul>
+<li>anticancer peptides<br>
+</li>
+<li>antimicrobial peptides<br>
+</li>
+<li>antiviral peptides</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../fig/posts/publications/dynamic_landscape.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="800"></p>
+</figure>
 </div>
+<p>👉 AMP and anticancer prediction dominate the field.</p>
+<hr>
+</section>
+<section id="most-common-ml-models" class="level2">
+<h2 class="anchored" data-anchor-id="most-common-ml-models">⚙️ Most common ML models</h2>
+<p>The kings of peptide ML:</p>
+<ul>
+<li>🌲 Random Forests<br>
+</li>
+<li>📈 Support Vector Machines<br>
+</li>
+<li>🤖 Deep Learning architectures</li>
+</ul>
+<hr>
+<p>Interestingly:</p>
+<p>👉 deep learning is popular…</p>
+<p>BUT not always clearly better.</p>
+<hr>
+</section>
+</section>
+<section id="key-insights" class="level1">
+<h1>🔍 Key insights</h1>
+<section id="reproducibility-crisis" class="level2">
+<h2 class="anchored" data-anchor-id="reproducibility-crisis">⚠️ Reproducibility crisis 🚨</h2>
+<p>This was probably the biggest finding.</p>
+<p>Among 111 analyzed tools:</p>
+<ul>
+<li>only <strong>38</strong> met minimum reproducibility requirements<br>
+</li>
+<li>only <strong>9</strong> achieved “gold standard” reproducibility</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../fig/posts/publications/dynamic_landscape3.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="800"></p>
+</figure>
+</div>
+<hr>
+<p>Meaning:</p>
+<p>❌ missing code<br>
+❌ missing datasets<br>
+❌ broken workflows</p>
+<hr>
+<p>👉 and yes…</p>
+<p>many web servers were dead 😅</p>
+<hr>
+</section>
+<section id="web-servers-matter-more-than-reproducibility" class="level2">
+<h2 class="anchored" data-anchor-id="web-servers-matter-more-than-reproducibility">🌐 Web servers matter more than reproducibility</h2>
+<p>Surprisingly:</p>
+<p>👉 tools with active web servers got more citations</p>
+<p>even if they were less reproducible</p>
+<hr>
+<p>This creates a weird incentive:</p>
+<p>👉 flashy website &gt; robust science</p>
+<hr>
+</section>
+<section id="deep-learning-hype-is-real" class="level2">
+<h2 class="anchored" data-anchor-id="deep-learning-hype-is-real">🤖 Deep learning hype is real</h2>
+<p>Deep models became more cited over time.</p>
+<p>BUT:</p>
+<p>the review highlights that for AMP prediction:</p>
+<p>👉 DL often does <strong>not outperform shallow models</strong></p>
+<hr>
+</section>
+</section>
+<section id="why-this-matters" class="level1">
+<h1>🚀 Why this matters</h1>
+<section id="for-peptide-therapeutics" class="level2">
+<h2 class="anchored" data-anchor-id="for-peptide-therapeutics">🧠 For peptide therapeutics</h2>
+<p>Peptide ML is now central for:</p>
+<ul>
+<li>antimicrobial discovery<br>
+</li>
+<li>anticancer peptides<br>
+</li>
+<li>neurodegeneration research</li>
+</ul>
+<hr>
+</section>
+<section id="for-bioinformatics" class="level2">
+<h2 class="anchored" data-anchor-id="for-bioinformatics">⚠️ For bioinformatics</h2>
+<p>The field needs:</p>
+<ul>
+<li>better standards<br>
+</li>
+<li>fair benchmarking<br>
+</li>
+<li>reproducibility<br>
+</li>
+<li>maintenance of tools</li>
+</ul>
+<hr>
+</section>
+<section id="for-users" class="level2">
+<h2 class="anchored" data-anchor-id="for-users">🌍 For users</h2>
+<p>This review acts as:</p>
+<p>👉 a navigation map for peptide prediction tools.</p>
+<hr>
+</section>
+</section>
+<section id="biogenies-perspective" class="level1">
+<h1>💚 BioGenies perspective</h1>
+<p>This paper is basically:</p>
+<p>👉 “someone had to say it” 😄</p>
+<p>The peptide ML ecosystem is:</p>
+<ul>
+<li>powerful<br>
+</li>
+<li>exciting<br>
+</li>
+<li>rapidly growing</li>
+</ul>
+<p>BUT ALSO:</p>
+<ul>
+<li>fragmented<br>
+</li>
+<li>biased<br>
+</li>
+<li>difficult to reproduce</li>
+</ul>
+<p>And honestly:</p>
+<p>👉 this paper connects almost ALL our work together:</p>
+<ul>
+<li>AmpGram<br>
+</li>
+<li>CancerGram<br>
+</li>
+<li>AMP benchmarking<br>
+</li>
+<li>peptide therapeutics<br>
+</li>
+<li>reproducibility standards</li>
+</ul>
+<hr>
+</section>
+
 
 
 
@@ -933,7 +1263,7 @@ cookieconsent.run({
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>© 2026 Website developed by BioGenies team.<br><a href="../subsite/GDPR.html">Privacy Policy</a></p>
+<p>© 2026 Website developed by BioGenies team.<br><a href="../../subsite/GDPR.html">Privacy Policy</a></p>
 <div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;

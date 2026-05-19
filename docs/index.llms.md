@@ -376,6 +376,14 @@ BioGenies Lab
 
 Jan 2, 2023
 
+##### The peptide prediction ecosystem is exploding 🤯🧬
+
+A large-scale review of peptide activity prediction tools reveals rapid growth, reproducibility issues and emerging trends in ML-based peptide bioinformatics.
+
+BioGenies Lab
+
+Nov 24, 2022
+
 ##### Are AMP models lying to us? 🤖🧬 The benchmarking problem
 
 A large-scale study reveals that antimicrobial peptide predictors are heavily biased due to how negative datasets are constructed.
@@ -383,3 +391,19 @@ A large-scale study reveals that antimicrobial peptide predictors are heavily bi
 BioGenies Lab
 
 Sep 1, 2022
+
+##### qPCR curves, but make it ML 🤖🧬 Introducing PCRedux
+
+PCRedux is an R toolkit for feature extraction and machine learning on qPCR amplification curves, enabling reproducible and explainable analysis.
+
+BioGenies Lab
+
+Aug 21, 2022
+
+##### Can ML predictors detect mislabeled amyloids? 🧠🧬
+
+A fascinating study showing that amyloid prediction tools can identify misannotated training data, even when those wrong labels were part of the training set.
+
+BioGenies Lab
+
+Apr 26, 2021
