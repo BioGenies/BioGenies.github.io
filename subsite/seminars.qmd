@@ -8,7 +8,7 @@ title: "Seminars"
 library(tidyverse)
 library(RCurl)
 
-URL <- "https://raw.githubusercontent.com/BioGenies/seminar/master/README.md"
+URL <- "https://raw.githubusercontent.com/BioGenies/seminar/refs/heads/master/README.md"
 # all_lines <- iconv(strsplit(getURL(URL), "\n")[[1]], from = "UTF-8", to = "UTF-8")
 seminar_lines <- strsplit(getURL(URL, .encoding = "UTF-8"), "\n")[[1]] #%>% as_tibble()
 

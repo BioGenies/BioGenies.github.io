@@ -278,16 +278,6 @@ And sometimes:
 
 🤖 the model understands the biology better than the labels.
 
-It also nicely connects:
-
-- AmyloGram  
-- peptide aggregation  
-- reproducibility  
-- weak supervision  
-- experimental spectroscopy
-
-into one coherent story.
-
 ![](../fig/posts/publications/bioinformatic_methods.jpg)
 
 ------------------------------------------------------------------------

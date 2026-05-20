@@ -40,7 +40,7 @@ peptides, machine learning, deep learning, bioinformatics, AMP, reproducibility,
 
 # 🔗 Explore the peptide prediction landscape
 
-- 🌐 Tool list: https://biogenies.info/peptide-prediction-list/
+- 🌐 [Tool list](https://biogenies.info/peptide-prediction-list/)
 
 👉 one place to browse the chaotic peptide prediction universe 🌌
 
@@ -295,16 +295,6 @@ BUT ALSO:
 - fragmented  
 - biased  
 - difficult to reproduce
-
-And honestly:
-
-👉 this paper connects almost ALL our work together:
-
-- AmpGram  
-- CancerGram  
-- AMP benchmarking  
-- peptide therapeutics  
-- reproducibility standards
 
 ------------------------------------------------------------------------
 
