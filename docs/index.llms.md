@@ -1,5 +1,11 @@
 # BioGenies news
 
+##### BioGenies at the 4th ML4NGP Meeting in Warsaw! 🧬🤖🇵🇱
+
+Valen, Jarek, Mariia, Damian and Oriol joined the 4th ML4NGP Meeting in Warsaw 🇵🇱 - with posters, Oriol’s Thursday talk, sightseeing, craft beers, social dinner, good…
+
+Jun 8, 2026
+
 ##### HaDeX2: HDX-MS analysis tool for protein dynamics (Bioinformatics 2026) 🧬
 
 HaDeX2 is a bioinformatics tool for hydrogen–deuterium exchange mass spectrometry (HDX-MS) data analysis, enabling multi-dimensional statistical analysis and visualization…

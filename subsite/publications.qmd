@@ -56,14 +56,14 @@ pub_mod %>%
   filter(type != "dataset") %>% 
   filter(type != "preprint") %>%
   filter(type != "other") %>%
+  filter(! source_display_name %in% c("Figshare", "Krakowskie Studia Małopolskie")) %>% 
   select(title, authors, doi, publication_date, type, source_display_name, host_organization_name) %>% 
   drop_na(., doi) %>%
   mutate(doi = paste0('<a  target=_blank href=', doi, '>', doi %>% str_remove(., "https://doi.org/"),'</a>'),
          journal = source_display_name %>% as.factor(),
          publisher = host_organization_name %>% as.factor(),
          type = type %>% as.factor(),
-         `publication date` = publication_date %>% as_date()
-  ) %>% 
+         `publication date` = publication_date %>% as_date()) %>% 
   select(!c(source_display_name, host_organization_name, publication_date)) %>% 
   arrange(desc(`publication date`)) %>%
   DT::datatable(escape = F, 
