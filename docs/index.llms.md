@@ -1,8 +1,26 @@
 # BioGenies news
 
+##### BioGenies at PTBI 2026 in Poznań! 🧬🎤🇵🇱
+
+Michał, Krysia, Valen and Mariia represented BioGenies at PTBI 2026 in Poznań 🇵🇱🎤! From AI governance to amyloid–antibody interactions, imputation scoring and TickPacket.…
+
+BioGenies Lab
+
+Sep 18, 2026
+
+##### Asia conquers the SLOPE and defends her MSc! 🎓📊🥳
+
+Asia has successfully defended her MSc thesis at the University of Wrocław! 🎓📊 Her work brings Adaptive Bayesian SLOPE to binary classification, with Michał as…
+
+BioGenies Lab
+
+Sep 11, 2026
+
 ##### BioGenies at the 4th ML4NGP Meeting in Warsaw! 🧬🤖🇵🇱
 
 Valen, Jarek, Mariia, Damian and Oriol joined the 4th ML4NGP Meeting in Warsaw 🇵🇱 - with posters, Oriol’s Thursday talk, sightseeing, craft beers, social dinner, good…
+
+BioGenies Lab
 
 Jun 8, 2026
 
@@ -113,8 +131,6 @@ Jun 23, 2025
 Excited to host Prof. Krzysztof Poterlowicz (University of Bradford & ELIXIR‑UK) to support our lab’s journey toward full ELIXIR integration.
 
 Jun 18, 2025
-
-![](./subsite/fig/posts/2025_06_17/1000032681.jpg)
 
 ##### 🌟 Highlights from the 3rd ML4NGP Conference in Vilnius!🌟
 

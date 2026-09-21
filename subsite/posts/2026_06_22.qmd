@@ -7,7 +7,9 @@ categories:
   - ML4NGP
   - Conferences & events
 # image: "../fig/posts/2025_12_16/rector_merged.jpg"
+author: "BioGenies Lab"
 ---
+
 
 The **4th ML4NGP Meeting on Machine Learning and Non-globular Proteins** brought the BioGenies crew to **Warsaw** 🇵🇱 and this time we came in force: **Valen, Jarek, Mariia, Damian and Oriol** joined the final main meeting of the *ML4NGP COST Action* 🧬🤖🚀.
 
