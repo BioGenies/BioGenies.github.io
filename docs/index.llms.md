@@ -1,5 +1,13 @@
 # BioGenies news
 
+##### Next stop, Geneva! Krysia is heading for a postdoc 🇨🇭🎓🚀
+
+Krysia will soon begin a postdoc at the University of Geneva, working with Jeffrey Näf! 🇨🇭📊 We’re celebrating her next scientific chapter, while trying to work out how to…
+
+BioGenies Lab
+
+Sep 21, 2026
+
 ##### BioGenies at PTBI 2026 in Poznań! 🧬🎤🇵🇱
 
 Michał, Krysia, Valen and Mariia represented BioGenies at PTBI 2026 in Poznań 🇵🇱🎤! From AI governance to amyloid–antibody interactions, imputation scoring and TickPacket.…
@@ -15,6 +23,14 @@ Asia has successfully defended her MSc thesis at the University of Wrocław! �
 BioGenies Lab
 
 Sep 11, 2026
+
+##### Michał talks reproducibility at Bioinformatics Community Meetup \#5 💻🧬 🇵🇱
+
+Michał joined Bioinformatics Community Meetup \#5 in Kraków 🇵🇱 as a panelist discussing reproducible bioinformatics research. From good code and data sharing to the…
+
+BioGenies Lab
+
+Jul 11, 2026
 
 ##### BioGenies at the 4th ML4NGP Meeting in Warsaw! 🧬🤖🇵🇱
 
@@ -117,8 +133,6 @@ Jul 2, 2025
 Our team flew out to Prague for the Metabolomics 2025 meeting—posters, gifts, air conditioning and plenty of food!
 
 Jul 1, 2025
-
-![](./subsite/fig/posts/2025_06_23/1000051274.jpg%20)
 
 ##### 🌳 BioGenies retreat in Wrocław from June 4 till 7, 2025
 
