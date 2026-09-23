@@ -582,498 +582,498 @@
     "text": "📣 Cultural shift in science\nThe paper strongly argues:\n👉 publish negative results\n\nprevents bias\n\nimproves ML datasets\n\naccelerates discovery"
   },
   {
-    "objectID": "subsite/posts/2026_09_23.html",
-    "href": "subsite/posts/2026_09_23.html",
+    "objectID": "subsite/posts/2026_09_23_meetup_krk.html",
+    "href": "subsite/posts/2026_09_23_meetup_krk.html",
     "title": "Michał talks reproducibility at Bioinformatics Community Meetup #5 💻🧬 🇵🇱",
     "section": "",
     "text": "Michał represented BioGenies at Bioinformatics Community Meetup #5 in Kraków 🇵🇱, joining the expert panel:\n\n“Reproducible Bioinformatics Research: From Academia to Industry” 💻🔁\n\nThe discussion focused on a topic very close to our everyday work: how to make bioinformatics research actually reproducible. That means not only producing nice figures and significant p-values, but also sharing code and data properly, avoiding statistical and logical pitfalls, and making sure others can really build on the results 🧬📊✅.\nMichał joined panelists from academia and industry, bringing his perspective from Medical University of Białystok and Vilnius University. The panel also looked at what happens when unreliable research leaves academia and becomes the foundation for real products or analyses, where bad reproducibility can become a much more expensive problem 💸😅.\nFor BioGenies, this is a particularly relevant topic: with so much of our work involving machine learning, benchmarking, data analysis and software development, reproducibility is not an optional extra. It is part of doing the science properly.\nHuge thanks to the Bioinformatics Community PL team for inviting Michał to the discussion! 🤝🚀"
   },
   {
-    "objectID": "subsite/posts/2026_09_12.html",
-    "href": "subsite/posts/2026_09_12.html",
+    "objectID": "subsite/posts/2026_09_12_ptbi_poz.html",
+    "href": "subsite/posts/2026_09_12_ptbi_poz.html",
     "title": "BioGenies at PTBI 2026 in Poznań! 🧬🎤🇵🇱",
     "section": "",
     "text": "🎉 Another September, another PTBI meeting! This time, Michał, Krysia, Valen and Mariia headed to Poznań for the XIX Symposium of the Polish Bioinformatics Society, held on 16–18 September 2026 at Poznań University of Technology 🇵🇱🏛️.\nOur contribution? One talk, three flash presentations and three posters, covering AI governance, amyloid–antibody interactions, missing-value imputation and tick-borne disease data. Quite a range for a four-person delegation! 😎🧬📊"
   },
   {
-    "objectID": "subsite/posts/2026_09_12.html#valen-organising-amyloidantibody-knowledge",
-    "href": "subsite/posts/2026_09_12.html#valen-organising-amyloidantibody-knowledge",
+    "objectID": "subsite/posts/2026_09_12_ptbi_poz.html#valen-organising-amyloidantibody-knowledge",
+    "href": "subsite/posts/2026_09_12_ptbi_poz.html#valen-organising-amyloidantibody-knowledge",
     "title": "BioGenies at PTBI 2026 in Poznań! 🧬🎤🇵🇱",
     "section": "🧬 Valen: organising amyloid–antibody knowledge",
     "text": "🧬 Valen: organising amyloid–antibody knowledge\n\n“The AmyloGraph amyloid-antibody database: data acquisition, curation, extraction for amyloid-antibody interactions”\n\nHis presentation focused on the work behind organising information about amyloid–antibody interactions. Acquiring the data, curating it and extracting the information needed for the database 🗂️🔍\nA reminder that before researchers can explore a useful database, someone has to do the careful work of putting it together. The glamorous life of data curation! 📚🛠️"
   },
   {
-    "objectID": "subsite/posts/2026_09_12.html#krysia-filling-the-gaps-is-only-the-beginning",
-    "href": "subsite/posts/2026_09_12.html#krysia-filling-the-gaps-is-only-the-beginning",
+    "objectID": "subsite/posts/2026_09_12_ptbi_poz.html#krysia-filling-the-gaps-is-only-the-beginning",
+    "href": "subsite/posts/2026_09_12_ptbi_poz.html#krysia-filling-the-gaps-is-only-the-beginning",
     "title": "BioGenies at PTBI 2026 in Poznań! 🧬🎤🇵🇱",
     "section": "📊 Krysia: filling the gaps is only the beginning",
     "text": "📊 Krysia: filling the gaps is only the beginning\n\n“Iscores: proper scoring rules for evaluating missing-value imputation methods”\n\nHer topic tackled an important question: after a method estimates the missing values in a dataset, how do we evaluate the quality of those estimates? 🧩⚖️\nIscores provides tools for evaluating and comparing imputation methods using proper scoring rules. In other words, a dataset with no more NAs is not automatically a job well done. Someone still needs to check the homework!"
   },
   {
-    "objectID": "subsite/posts/2026_09_12.html#mariia-tickpacket-takes-the-stage",
-    "href": "subsite/posts/2026_09_12.html#mariia-tickpacket-takes-the-stage",
+    "objectID": "subsite/posts/2026_09_12_ptbi_poz.html#mariia-tickpacket-takes-the-stage",
+    "href": "subsite/posts/2026_09_12_ptbi_poz.html#mariia-tickpacket-takes-the-stage",
     "title": "BioGenies at PTBI 2026 in Poznań! 🧬🎤🇵🇱",
     "section": "🕷️ Mariia: TickPacket takes the stage",
     "text": "🕷️ Mariia: TickPacket takes the stage\nIntroduced within the OneTick project, TickPacket focuses on standardising data collection, helping bring information about patients and their clinical histories into a consistent format 📋🔗.\n\nDifferent research questions, one familiar challenge: making sure the data are organised before the analysis begins. A very BioGenies kind of problem! 🧬💚"
   },
   {
-    "objectID": "subsite/posts/2026_06_22.html",
-    "href": "subsite/posts/2026_06_22.html",
+    "objectID": "subsite/posts/2026_06_22_ml4ngp_waw.html",
+    "href": "subsite/posts/2026_06_22_ml4ngp_waw.html",
     "title": "BioGenies at the 4th ML4NGP Meeting in Warsaw! 🧬🤖🇵🇱",
     "section": "",
     "text": "The 4th ML4NGP Meeting on Machine Learning and Non-globular Proteins brought the BioGenies crew to Warsaw 🇵🇱 and this time we came in force: Valen, Jarek, Mariia, Damian and Oriol joined the final main meeting of the ML4NGP COST Action 🧬🤖🚀.\n\nThe conference took place on 19–22 May 2026 in Warsaw and focused on machine learning, non-globular proteins, intrinsically disordered regions, aggregation, phase separation, specialised bioinformatics tools and databases, in other words: very BioGenies-coded science 😎💚.\nThe official programme featured keynote speakers including Rohit Pappu, Ben Schuler, Andrea Sinz and Tuomas Knowles, plus invited and selected talks on protein language models, condensates, fibrils, IDPs, amyloid prediction and AI-based protein analysis.\n\n\n🧠 Big names, big science\nThe programme was packed with fantastic speakers and topics, from phase transitions of RNA-binding non-globular proteins to protein language models, cross-linking mass spectrometry, IDP phase behaviour, amyloid prediction and AI-based protein analysis.\nAmong the keynote speakers were:\n\n🧬 Prof. Rohit Pappu - phase transitions of RNA-binding NGPs\n\n⚡ Prof. Ben Schuler - rapid interaction dynamics of charged disordered proteins\n\n🧪 Prof. Andrea Sinz - IDPs studied by cross-linking mass spectrometry\n\n🌊 Prof. Tuomas Knowles - biophysical insights into IDP phase behaviour\n\nBasically: if a protein was disordered, fuzzy, aggregating, phase-separating or confusing ML models, it probably appeared somewhere in the schedule 🌀🤖.\n\n\n\n🎤 Posters, talks and BioGenies everywhere\nBioGenies had a strong presence throughout the meeting. We presented our work during poster sessions 🖼️🧬, discussed amyloids, fibrils, databases, predictors and all the strange protein behaviours we enjoy way too much.\nAnd on Thursday, Oriol gave a selected talk:\n“TMcluster: Nuanced clustering of protein structures using similarity matrices and dimensionality reduction” 🎤💪\n\nHis talk was part of the Thursday session focused on amyloid proteins, AI prediction tools, clustering, frustration analysis and other beautiful protein chaos.\nBetween posters, talks and coffee breaks, the team collected plenty of new ideas, feedback and “we should definitely test this” moments. Classic conference outcome 😅📚.\n\n\n\n🎒 Welcome pack = serious sightseeing support\nThe organisers welcomed participants with a very nice conference pack 🎁:\n\n🎒 ML4NGP backpack\n💧 Warsaw-logo water bottle\n🚋 four 24-hour public transportation tickets\n\nThat last part was especially appreciated, because it meant we could explore Warsaw properly between science sessions. Public transport tickets: small detail, huge sightseeing enabler 😎🚇.\n\n\n\n🏛️ Wednesday sightseeing, food and craft beers\nOn Wednesday, after a day full of talks, posters and discussions, we went sightseeing around Warsaw 🏛️📸.\nThen came the natural next step in any BioGenies conference workflow:\n\nscience 🧬\n\nsightseeing 🚶\n\nfood 🍲\n\ncraft beers 🍻\n\nmore science talk, but louder\n\nWarsaw delivered beautifully.\n\n\n\n🍽️ Social dinner and Mariia’s legendary stamina\nOn Thursday evening, the conference programme included the official social dinner at Kameralna Restauracja Warszawa. The food was okish but lacked variety and epecially traditional Polish cuisine - pierogi.\nAfter several packed conference days, most of us were already running on low battery 🔋😴.\nBut not Mariia.\nOnly Mariia still had enough energy to join the ML4NGP folks and continue the evening in a club 💃🔥. We are not saying this was the most impressive performance of the conference… but it was definitely up there.\n\n\n\n🪑 Venue review: cool place, tragic chairs\nThe conference venue, Targowa Creativity Centre, was a cool and atmospheric place for the meeting. However, we must report one important scientific observation:\n\nThe chairs were very, very uncomfortable 😭🪑\n\nLuckily, this was partially compensated by the fact that the food and lunches were good 🍽️✨. A balanced conference ecosystem: painful chairs, happy stomachs.\n\n\n\n🌍 The final main ML4NGP meeting\nThis Warsaw meeting was also special because it marked the 4th and final main meeting of the ML4NGP COST Action, a chance to celebrate the community built around machine learning and non-globular proteins.\nFor BioGenies, being part of this network has been a huge opportunity:\n\n🤝 strengthening collaborations across Europe\n\n🧠 staying close to the newest ideas in ML-based protein science\n\n🚀 connecting our amyloid, fibril and prediction work with the broader NGP community\n\n💚 showing that BioGenies is very much part of this scientific ecosystem\n\n\n\n\n💚 See you next time, ML4NGP!\nHuge thanks to the organisers, speakers and the whole ML4NGP community for such an inspiring meeting.\nBig applause to Valen, Jarek, Mariia, Damian and Oriol for representing BioGenies in Warsaw!\nWe return with fresh ideas, stronger collaborations, sore backs from the chairs, and even more motivation to keep exploring the strange and wonderful world of non-globular proteins 🚀💚."
   },
   {
-    "objectID": "subsite/posts/2025_12_16.html",
-    "href": "subsite/posts/2025_12_16.html",
+    "objectID": "subsite/posts/2025_12_16_rector_awards.html",
+    "href": "subsite/posts/2025_12_16_rector_awards.html",
     "title": "BioGenies shine at the Rector’s Awards! 🏆🎓✨",
     "section": "",
     "text": "🎉 What a moment for BioGenies! This year’s Rector’s Awards brought fantastic news for our team — a true celebration of hard work, great science, and persistence 🧬💚.\n\n\n🏆 Awards for publications\nWe’re incredibly proud to share that:\n🥇 Michał received a First Degree Rector’s Award for publications\n🥇 Jarek also received a First Degree Rector’s Award for publications\n🥈 Valen was awarded a Second Degree Rector’s Award for publications\nThese distinctions recognise consistent, high-quality research output and impact and we couldn’t be happier to see it acknowledged at the university level 📚✨.\n\n\n\nphoto by Medyk Białostocki\n\n\n\n\n\n🚀 Extra recognition for Michał\nAs if that wasn’t enough, Michał also received an additional Rector’s Award for securing his NCN SONATA grant 💶🎯.\nThis award highlights not only scientific excellence but also success in competitive national funding, a huge achievement and a major boost for our research directions 💪🧬.\n\n\n\nphoto by Medyk Białostocki\n\n\n\n\n\n📈 Jarek tops the young researchers list\nAnother amazing highlight:\nJarek ranked first among young researchers for the highest number of first-author publications with top Impact Factor (IF) 📊🔥.\n\n\n\nphoto by Medyk Białostocki\n\n\nThat’s a serious accomplishment, leading impactful papers while building an independent research profile is no small feat 🧠🚀.\n\n\n\n💚 Congratulations!\nThese awards are a powerful reminder that teamwork, curiosity, and perseverance pay off 🏆✨.\nHuge congratulations to Michał, Jarek, and Valen, and a big thank-you to everyone who collaborates, supports, reviews and challenges our work every day 💚🧬.\nOnward to more science, more papers, and more reasons to celebrate! 🥳🎉"
   },
   {
-    "objectID": "subsite/posts/2025_11_13.html",
-    "href": "subsite/posts/2025_11_13.html",
+    "objectID": "subsite/posts/2025_11_13_biohackaton.html",
+    "href": "subsite/posts/2025_11_13_biohackaton.html",
     "title": "Michał hacks away at BioHackathon Europe 2025 in Berlin! 💻🧬🚀",
     "section": "",
     "text": "This year, Michał traded our usual pizza-fueled evenings for something even more hardcore:\nhe headed to BioHackathon Europe 2025 in Berlin, organised by ELIXIR Europe 💻🧬🇪🇺.\nFor Michał, and for us as BioGenies, this is a huge opportunity to plug directly into the European bioinformatics & infrastructure ecosystem, contribute code and show what we can do on the international stage 🌍🚀.\n\n\n\n🧬 What is BioHackathon Europe?\nBioHackathon Europe is a community-driven event where participants:\n\n👨💻 team up on collaborative coding projects\n\n🧠 work on topics like FAIR data, metadata standards, ontologies and AI-ready workflows\n\n🧰 improve tools and infrastructure that support ELIXIR Platforms and Communities\n\nThe goal is simple and powerful:\n&gt; Write code that solves real problems in bioinformatics and accelerates open science.\n\n\n\n💻 What was Michał up to?\nFor a full week, Michał was immersed in:\n\n🧩 integrating and cleaning tricky biological data\n\n🛠️ hacking on tools that make bioinformatics workflows more robust and reproducible\n\n🤝 collaborating with researchers from all over Europe on ELIXIR-aligned projects\n\nDays were packed with coding sprints, project stand-ups and ad-hoc whiteboard sessions.\nNights… probably also coding (plus a bit of Berlin 🍻).\n\n\n\n🌍 Why it matters for BioGenies\nFor BioGenies, joining BioHackathon Europe is a big deal:\n\nIt connects us directly to the ELIXIR Europe community 🤝\n\nIt gives us a chance to shape standards, tools and best practices that everyone will use\n\nIt opens doors for future collaborations, grants and shared projects 💶🧬\n\nAnd it helps us make our own tools more visible, reusable and impactful across Europe 🌐\n\nMichał is coming back with fresh ideas for FAIRer, more interoperable data in our projects, new contacts across the ELIXIR ecosystem and plenty of inspiration to make our workflows even better 😎💡."
   },
   {
-    "objectID": "subsite/posts/2025_09_18.html",
-    "href": "subsite/posts/2025_09_18.html",
+    "objectID": "subsite/posts/2025_09_18_ptbi_bia.html",
+    "href": "subsite/posts/2025_09_18_ptbi_bia.html",
     "title": "BioGenies at PTBI 2025 in Białystok! 🧬🎤🥞",
     "section": "",
     "text": "🥳 What a conference! The Polish Bioinformatics Society (PTBI) 2025 meeting in Białystok was an absolute blast 🚀. The days were intense, filled with science 🧬, food 🍲, elections 🗳 and plenty of BioGenies energy 💚.\n\n\n\n🎤 Talks, posters & flash talks\n\nMichał and Valen delivered fantastic talks 💪👏.\n\nMariia, Asia and Jarek joined the poster + flash talk sessions, presenting their projects and sharing insights like pros! 🖼️🔬\n\nSpecial shout-out to Asia 🙌: her presentation file got corrupted right before her talk 😱💻💥… but she still gave a super talk without slides! 💯🔥 That’s what we call true conference skills 🥷✨.\n\n\n\n\n🌍 Joining the Polish Bioinformatics Society 🇵🇱\nBeyond the science, PTBI 2025 was also a milestone for BioGenies:\n\nWe officially joined the Polish Bioinformatics Society, becoming part of the national network of bioinformatics researchers.\n\nWe also cast our votes 🗳️ in the election for the society’s new CEO, contributing to shaping the future of Polish bioinformatics leadership.\n\n\n\n\n🍲 Food, food… and more food\nAs always, PTBI wasn’t just about science, it was also about eating A LOT 😋🍝🍰. Coffee breaks, conference dinner, late-night snacks… we powered through it all.\nAnd since it was Białystok, of course we ended with pancakes 🥞💚. A proper BioGenies tradition!"
   },
   {
-    "objectID": "subsite/posts/2025_09_16.html",
-    "href": "subsite/posts/2025_09_16.html",
+    "objectID": "subsite/posts/2025_09_16_sonor_msc.html",
+    "href": "subsite/posts/2025_09_16_sonor_msc.html",
     "title": "Sonor defends his MSc with flying colors! 🎓🥳",
     "section": "",
     "text": "🎉🥳 Big congratulations to Sonor! He has just successfully defended his MSc thesis, Biomedical Text Classification with Pre-trained Language Models, and scored the highest possible grade! 🌟💯👏\n\n\n📚 What was the thesis about? 🧾\nBiomedical science produces mountains of publications every year 📈📖. But finding the truly relevant papers, especially those about amyloids 🧩 and antibodies 🧪, can be slow and exhausting 😵.\nSonor set out to change that! 🚀✨ His thesis explored AI-powered text classification to help researchers filter the noise and find the gems 💎.\n\n\n\n🤖 How did he do it? ⚙️\n📝 Compared classical ML models (logistic regression, random forest 🌲) with transformer-based language models (BioMedBERT, SapBERT, BioMed RoBERTa 🧬🤖).\n🔎 Built a system that uses titles, abstracts, and journal names to decide if a paper is relevant.\n🌐 Automated the process by pulling data straight from PubMed 🩺📚.\n\n\n\n🚀 What did he achieve? 🏆\n✨ Reduced manual curation time drastically ⏱️⬇️.\n✨ Improved the ratio of relevant papers found by over 350% 📈🔥.\n✨ Created a tool that works like a supercharged search engine for biomedical literature 💡🔍.\nIn simple words: Sonor built a system that helps scientists find the right papers faster ⚡📚💪.\n\n\n\n🎓 Way to go, Sonor! 🌟👏\nWe’re so proud to celebrate Sonor’s incredible MSc journey 🎉🥂. He not only earned the top grade 🥇 but also showed how AI and ML can revolutionize biomedical research 🧬🤖💡."
   },
   {
-    "objectID": "subsite/posts/2025_07_04.html",
-    "href": "subsite/posts/2025_07_04.html",
+    "objectID": "subsite/posts/2025_07_04_miniatura.html",
+    "href": "subsite/posts/2025_07_04_miniatura.html",
     "title": "🎓 Career highlights: Mariia at UMB and Jarek’s NCN Poland Miniatura grant!",
     "section": "",
     "text": "🌿 Mariia joins UMB and gets ready for a PhD programme! 🎓✨\nWe’re happy to share that Mariia got a position at Medical University of Białystok (UMB). She’s also taking the first step toward a PhD journey, aiming to deepen her bioinformatics and biotech skills. 🧬📖\n\n\n\n🧠 Jarek scores NCN Miniatura grant for imputomics! 🧩💡\nHuge congrats to Jarek, who just received an NCN Miniatura grant to expand imputomics pipeline! This support (50 000 PLN) will enable gather more algorithms for missing data imputation in different omics data. Laying the groundwork for future publications and bigger grants 🚀\n\n👏 Join us in celebrating both Mariia’s and Jarek’s achievements. Onward to new discoveries and impactful science! 🌟"
   },
   {
-    "objectID": "subsite/posts/2025_07_01.html",
-    "href": "subsite/posts/2025_07_01.html",
-    "title": "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!",
+    "objectID": "subsite/posts/2025_07_01_metabolomics_cz.html",
+    "href": "subsite/posts/2025_07_01_metabolomics_cz.html",
+    "title": "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!",
     "section": "",
     "text": "Our metabolomics crew, Michał, Jarek, and Krysia, hit the ground in Prague for the 21st Annual Conference of the Metabolomics Society, held at the Prague Congress Centre from June 22–26.\n\n\n\nMichał and Jarek flew in, while Krysia arrived by train. To kick things off, the plane duo met her at the station with an energy drink in hand to keep the spirits high! 💥🛤️🥤\n\n\n\n\n\nThe venue was spacious and impressive, with large plenary halls and poster areas.\nBut the summer heat was fierce. Thankfully, we had cranked-up air conditioning inside, which kept us cool and focused throughout the event. ❄️🔥\n\n\n\n\n\n\nThe scientific program delivered engaging talks and flash sessions.\n\nWe walked away with some thoughtful conference gifts, always a nice treat! 🎁\n\n\n\n\n\n\n\nConference catering was solid—the coffee stations and coffee breaks kept us fueled. ☕🍪\n\nAnd yes… we made sure to indulge with extra food runs, because snacks = science fuel. 😋\n\n  \n\n\n\n\n\nBig thanks to the Metabolomics Society for organizing an exceptional meeting.\n\nWe made new connections with fellow researchers and, importantly, stayed cool in the AC!"
   },
   {
-    "objectID": "subsite/posts/2025_07_01.html#arrival-reunion",
-    "href": "subsite/posts/2025_07_01.html#arrival-reunion",
-    "title": "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!",
+    "objectID": "subsite/posts/2025_07_01_metabolomics_cz.html#arrival-reunion",
+    "href": "subsite/posts/2025_07_01_metabolomics_cz.html#arrival-reunion",
+    "title": "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!",
     "section": "",
     "text": "Michał and Jarek flew in, while Krysia arrived by train. To kick things off, the plane duo met her at the station with an energy drink in hand to keep the spirits high! 💥🛤️🥤"
   },
   {
-    "objectID": "subsite/posts/2025_07_01.html#conference-venue",
-    "href": "subsite/posts/2025_07_01.html#conference-venue",
-    "title": "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!",
+    "objectID": "subsite/posts/2025_07_01_metabolomics_cz.html#conference-venue",
+    "href": "subsite/posts/2025_07_01_metabolomics_cz.html#conference-venue",
+    "title": "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!",
     "section": "",
     "text": "The venue was spacious and impressive, with large plenary halls and poster areas.\nBut the summer heat was fierce. Thankfully, we had cranked-up air conditioning inside, which kept us cool and focused throughout the event. ❄️🔥"
   },
   {
-    "objectID": "subsite/posts/2025_07_01.html#talks-posters-perks",
-    "href": "subsite/posts/2025_07_01.html#talks-posters-perks",
-    "title": "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!",
+    "objectID": "subsite/posts/2025_07_01_metabolomics_cz.html#talks-posters-perks",
+    "href": "subsite/posts/2025_07_01_metabolomics_cz.html#talks-posters-perks",
+    "title": "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!",
     "section": "",
     "text": "The scientific program delivered engaging talks and flash sessions.\n\nWe walked away with some thoughtful conference gifts, always a nice treat! 🎁"
   },
   {
-    "objectID": "subsite/posts/2025_07_01.html#food-coffee-snacks",
-    "href": "subsite/posts/2025_07_01.html#food-coffee-snacks",
-    "title": "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!",
+    "objectID": "subsite/posts/2025_07_01_metabolomics_cz.html#food-coffee-snacks",
+    "href": "subsite/posts/2025_07_01_metabolomics_cz.html#food-coffee-snacks",
+    "title": "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!",
     "section": "",
     "text": "Conference catering was solid—the coffee stations and coffee breaks kept us fueled. ☕🍪\n\nAnd yes… we made sure to indulge with extra food runs, because snacks = science fuel. 😋"
   },
   {
-    "objectID": "subsite/posts/2025_07_01.html#highlights",
-    "href": "subsite/posts/2025_07_01.html#highlights",
-    "title": "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!",
+    "objectID": "subsite/posts/2025_07_01_metabolomics_cz.html#highlights",
+    "href": "subsite/posts/2025_07_01_metabolomics_cz.html#highlights",
+    "title": "🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!",
     "section": "",
     "text": "Big thanks to the Metabolomics Society for organizing an exceptional meeting.\n\nWe made new connections with fellow researchers and, importantly, stayed cool in the AC!"
   },
   {
-    "objectID": "subsite/posts/2025_06_18.html",
-    "href": "subsite/posts/2025_06_18.html",
+    "objectID": "subsite/posts/2025_06_18_krzys.html",
+    "href": "subsite/posts/2025_06_18_krzys.html",
     "title": "🌍 Welcoming Krzysztof Poterlowicz from ELIXIR‑UK! 🚀",
     "section": "",
     "text": "We’re thrilled to host Prof. Krzysztof Poterlowicz from the University of Bradford, a key connector for ELIXIR‑UK as their Training Coordinator and UK Node’s DaSH fellowship PI. Krzysztof brings rich expertise in FAIR data stewardship, Galaxy Training, and practical implementation of ELIXIR standards.\n\n\n\nPoland is not yet a formal ELIXIR member, and Krzysztof’s visit is a major step in our lab’s push toward joining the infrastructure. During his stay, we were discussing another MSCA Staff Exchanges project, the TAPESTRY! 🛠🌍️\n\nWe’re honored to welcome Krzysztof and grateful for the strategic support he brings 🙌"
   },
   {
-    "objectID": "subsite/posts/2025_06_18.html#why-his-visit-matters",
-    "href": "subsite/posts/2025_06_18.html#why-his-visit-matters",
+    "objectID": "subsite/posts/2025_06_18_krzys.html#why-his-visit-matters",
+    "href": "subsite/posts/2025_06_18_krzys.html#why-his-visit-matters",
     "title": "🌍 Welcoming Krzysztof Poterlowicz from ELIXIR‑UK! 🚀",
     "section": "",
     "text": "Poland is not yet a formal ELIXIR member, and Krzysztof’s visit is a major step in our lab’s push toward joining the infrastructure. During his stay, we were discussing another MSCA Staff Exchanges project, the TAPESTRY! 🛠🌍️\n\nWe’re honored to welcome Krzysztof and grateful for the strategic support he brings 🙌"
   },
   {
-    "objectID": "subsite/posts/2025_05_20.html",
-    "href": "subsite/posts/2025_05_20.html",
+    "objectID": "subsite/posts/2025_05_20_onetick.html",
+    "href": "subsite/posts/2025_05_20_onetick.html",
     "title": "🎉 OneTick project awarded MSCA Staff Exchanges grant!",
     "section": "",
     "text": "Just a few days after celebrating Jarek’s ERA Fellowship, we received another incredible notification from the European Commission.\n\n\n\nNot only is this our first project of this kind, we’re the only project coordinated from Poland among a total 19 proposals submitted by Polish-led consortia! 😲\n👏 Huge congratulations to Michał, who led the application and tirelessly coordinated with all the partners. Jarek and Valen were deeply involved in writing and structuring the proposal, but the heavy lifting, all those calls and negotiations, was on Michał’s shoulders. And he nailed it 💪\n\n\n\nOneTick investigates tick-borne diseases using a One Health approach, linking human, animal, and environmental health.\n\n\n\nImpact of climate change on tick behavior and presence in urban and peri-urban areas (parks, gardens, playgrounds)\nUse of AI-based modeling, epidemiology and field ecology to:\n\nImprove risk assessment\nUnderstand tick distribution\nInform control strategies\n\n\n\n\n\n\nThe project brings together 13 partners from 10 countries, including:\n\n🧭 Medical University of Białystok 🇵🇱\n🧪 Tick-radar GmbH 🇩🇪\n\n🧬 FUNDACION RIOJA SALUD 🇪🇸\n\n🎓 Södertörn University 🇸🇪\n\n🏥 Rigshospitalet 🇩🇰\n\n💊 Pfizer 🇦🇹\n\n🧠 Freie Universität Berlin 🇩🇪\n\n🐾 University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca 🇷🇴\n\n🏥 Region Jönköpings län 🇸🇪\n\n🏥 Sørlandet sykehus HF 🇳🇴\n\n🧫 RIVM National Institute for Public Health and the Environment 🇳🇱\n\n🔬 Biologické centrum AV ČR, v.v.i. 🇨🇿\n\n\n\nWe’re beyond excited to kick off this cross-disciplinary, cross-sector collaboration to tackle a growing public health challenge! 💚\nStay tuned for updates, ticks don’t rest, and neither do we 🕷️🌍"
   },
   {
-    "objectID": "subsite/posts/2025_05_20.html#our-onetick-project-has-been-awarded-msca-staff-exchanges",
-    "href": "subsite/posts/2025_05_20.html#our-onetick-project-has-been-awarded-msca-staff-exchanges",
+    "objectID": "subsite/posts/2025_05_20_onetick.html#our-onetick-project-has-been-awarded-msca-staff-exchanges",
+    "href": "subsite/posts/2025_05_20_onetick.html#our-onetick-project-has-been-awarded-msca-staff-exchanges",
     "title": "🎉 OneTick project awarded MSCA Staff Exchanges grant!",
     "section": "",
     "text": "Not only is this our first project of this kind, we’re the only project coordinated from Poland among a total 19 proposals submitted by Polish-led consortia! 😲\n👏 Huge congratulations to Michał, who led the application and tirelessly coordinated with all the partners. Jarek and Valen were deeply involved in writing and structuring the proposal, but the heavy lifting, all those calls and negotiations, was on Michał’s shoulders. And he nailed it 💪"
   },
   {
-    "objectID": "subsite/posts/2025_05_20.html#about-onetick",
-    "href": "subsite/posts/2025_05_20.html#about-onetick",
+    "objectID": "subsite/posts/2025_05_20_onetick.html#about-onetick",
+    "href": "subsite/posts/2025_05_20_onetick.html#about-onetick",
     "title": "🎉 OneTick project awarded MSCA Staff Exchanges grant!",
     "section": "",
     "text": "OneTick investigates tick-borne diseases using a One Health approach, linking human, animal, and environmental health.\n\n\n\nImpact of climate change on tick behavior and presence in urban and peri-urban areas (parks, gardens, playgrounds)\nUse of AI-based modeling, epidemiology and field ecology to:\n\nImprove risk assessment\nUnderstand tick distribution\nInform control strategies"
   },
   {
-    "objectID": "subsite/posts/2025_05_20.html#our-european-dream-team",
-    "href": "subsite/posts/2025_05_20.html#our-european-dream-team",
+    "objectID": "subsite/posts/2025_05_20_onetick.html#our-european-dream-team",
+    "href": "subsite/posts/2025_05_20_onetick.html#our-european-dream-team",
     "title": "🎉 OneTick project awarded MSCA Staff Exchanges grant!",
     "section": "",
     "text": "The project brings together 13 partners from 10 countries, including:\n\n🧭 Medical University of Białystok 🇵🇱\n🧪 Tick-radar GmbH 🇩🇪\n\n🧬 FUNDACION RIOJA SALUD 🇪🇸\n\n🎓 Södertörn University 🇸🇪\n\n🏥 Rigshospitalet 🇩🇰\n\n💊 Pfizer 🇦🇹\n\n🧠 Freie Universität Berlin 🇩🇪\n\n🐾 University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca 🇷🇴\n\n🏥 Region Jönköpings län 🇸🇪\n\n🏥 Sørlandet sykehus HF 🇳🇴\n\n🧫 RIVM National Institute for Public Health and the Environment 🇳🇱\n\n🔬 Biologické centrum AV ČR, v.v.i. 🇨🇿\n\n\n\nWe’re beyond excited to kick off this cross-disciplinary, cross-sector collaboration to tackle a growing public health challenge! 💚\nStay tuned for updates, ticks don’t rest, and neither do we 🕷️🌍"
   },
   {
-    "objectID": "subsite/posts/2025_05_18.html",
-    "href": "subsite/posts/2025_05_18.html",
+    "objectID": "subsite/posts/2025_05_18_ml_beast.html",
+    "href": "subsite/posts/2025_05_18_ml_beast.html",
     "title": "Jakub joins Google! 🚀 Our ML beast in the big leagues",
     "section": "",
     "text": "We’re thrilled to share that Jakub has officially joined Google! 🧠💻 Even more exciting? He’s working on projects for OpenAI! 🔥\n\n\n\n“Our favorite ML master is shifting focus to C++, diving deep into performance-heavy projects. It’s a big leap, but if anyone can handle that kind of compute muscle-flexing, it’s Jakub.\n\n“Less time for BioGenies… but still a BioGenie.” 💙\nWe’ll take it!\n\n\n\n\nThe rumors are true – Google takes care of its people. Jakub reports:\n\n✅ Free breakfast, lunch, dinner, and even supper 🍳🍱🍜\n✅ Access to a gym to burn all those free calories 💪\n❌ But don’t try to crash overnight ,you’ll get kicked out 😅\n\nAlmost sounds like a place you could live in… if only they’d let you stay past bedtime!\n\nWe’re super proud of Jakub and his journey from lab notebooks to massive production servers. We miss you in the daily grind, but once a BioGenie – always a BioGenie. 💙🚀"
   },
   {
-    "objectID": "subsite/posts/2025_05_18.html#shifting-gears-python-to-c",
-    "href": "subsite/posts/2025_05_18.html#shifting-gears-python-to-c",
+    "objectID": "subsite/posts/2025_05_18_ml_beast.html#shifting-gears-python-to-c",
+    "href": "subsite/posts/2025_05_18_ml_beast.html#shifting-gears-python-to-c",
     "title": "Jakub joins Google! 🚀 Our ML beast in the big leagues",
     "section": "",
     "text": "“Our favorite ML master is shifting focus to C++, diving deep into performance-heavy projects. It’s a big leap, but if anyone can handle that kind of compute muscle-flexing, it’s Jakub.\n\n“Less time for BioGenies… but still a BioGenie.” 💙\nWe’ll take it!"
   },
   {
-    "objectID": "subsite/posts/2025_05_18.html#the-perks-insider-scoop",
-    "href": "subsite/posts/2025_05_18.html#the-perks-insider-scoop",
+    "objectID": "subsite/posts/2025_05_18_ml_beast.html#the-perks-insider-scoop",
+    "href": "subsite/posts/2025_05_18_ml_beast.html#the-perks-insider-scoop",
     "title": "Jakub joins Google! 🚀 Our ML beast in the big leagues",
     "section": "",
     "text": "The rumors are true – Google takes care of its people. Jakub reports:\n\n✅ Free breakfast, lunch, dinner, and even supper 🍳🍱🍜\n✅ Access to a gym to burn all those free calories 💪\n❌ But don’t try to crash overnight ,you’ll get kicked out 😅\n\nAlmost sounds like a place you could live in… if only they’d let you stay past bedtime!\n\nWe’re super proud of Jakub and his journey from lab notebooks to massive production servers. We miss you in the daily grind, but once a BioGenie – always a BioGenie. 💙🚀"
   },
   {
-    "objectID": "subsite/posts/2025_02_24.html",
-    "href": "subsite/posts/2025_02_24.html",
-    "title": "Farewell to Ronja – our first Erasmus+ student! 🇩🇪💙",
+    "objectID": "subsite/posts/2025_02_24_ronja_leaving.html",
+    "href": "subsite/posts/2025_02_24_ronja_leaving.html",
+    "title": "Farewell to Ronja, our first Erasmus+ student! 🇩🇪💙",
     "section": "",
     "text": "Ronja’s Praxissemester with us has officially come to an end 😢. It feels like just yesterday she arrived, and now we’re saying goodbye to an amazing colleague and friend. We made sure her last days were filled with great memories!\n\n\nAs per BioGenies tradition, we ate a lot during these last days! 🥟🍰\n\n\n\n\nWe took a trip to Suprasł, where we learned how to read icons and soaked in the local history! 🎨\nRonja’s friend, Robin, also joined us to help her on her return trip, and he got to experience Supraśl with us as well! 🚗🌲\n \n \n\n\n\nBetween science and sightseeing, we even managed to learn some German and Polish together! 🇩🇪🇵🇱\n\n\n\n\n\n\n\n\nAnd of course, what would a BioGenies goodbye be without rushing to the train station at the last minute? As always, we were very late 😆 🏃‍♂️💨\n \nThe train station was bustling with people, and in a surprise twist, the Jagiellonia Białystok football team was also there, taking the train! ⚽😲\nRonja, thank you for everything – your dedication, hard work, and all the fun moments we shared. We’ll miss you, but we know you’ll do amazing things in the future! 💙"
   },
   {
-    "objectID": "subsite/posts/2025_02_24.html#eating-our-way-through-farewell-week",
-    "href": "subsite/posts/2025_02_24.html#eating-our-way-through-farewell-week",
-    "title": "Farewell to Ronja – our first Erasmus+ student! 🇩🇪💙",
+    "objectID": "subsite/posts/2025_02_24_ronja_leaving.html#eating-our-way-through-farewell-week",
+    "href": "subsite/posts/2025_02_24_ronja_leaving.html#eating-our-way-through-farewell-week",
+    "title": "Farewell to Ronja, our first Erasmus+ student! 🇩🇪💙",
     "section": "",
     "text": "As per BioGenies tradition, we ate a lot during these last days! 🥟🍰"
   },
   {
-    "objectID": "subsite/posts/2025_02_24.html#a-trip-to-supraśl-history-culture-icons",
-    "href": "subsite/posts/2025_02_24.html#a-trip-to-supraśl-history-culture-icons",
-    "title": "Farewell to Ronja – our first Erasmus+ student! 🇩🇪💙",
+    "objectID": "subsite/posts/2025_02_24_ronja_leaving.html#a-trip-to-supraśl-history-culture-icons",
+    "href": "subsite/posts/2025_02_24_ronja_leaving.html#a-trip-to-supraśl-history-culture-icons",
+    "title": "Farewell to Ronja, our first Erasmus+ student! 🇩🇪💙",
     "section": "",
     "text": "We took a trip to Suprasł, where we learned how to read icons and soaked in the local history! 🎨\nRonja’s friend, Robin, also joined us to help her on her return trip, and he got to experience Supraśl with us as well! 🚗🌲"
   },
   {
-    "objectID": "subsite/posts/2025_02_24.html#a-mix-of-languages",
-    "href": "subsite/posts/2025_02_24.html#a-mix-of-languages",
-    "title": "Farewell to Ronja – our first Erasmus+ student! 🇩🇪💙",
+    "objectID": "subsite/posts/2025_02_24_ronja_leaving.html#a-mix-of-languages",
+    "href": "subsite/posts/2025_02_24_ronja_leaving.html#a-mix-of-languages",
+    "title": "Farewell to Ronja, our first Erasmus+ student! 🇩🇪💙",
     "section": "",
     "text": "Between science and sightseeing, we even managed to learn some German and Polish together! 🇩🇪🇵🇱"
   },
   {
-    "objectID": "subsite/posts/2025_02_24.html#a-chaotic-but-memorable-farewell",
-    "href": "subsite/posts/2025_02_24.html#a-chaotic-but-memorable-farewell",
-    "title": "Farewell to Ronja – our first Erasmus+ student! 🇩🇪💙",
+    "objectID": "subsite/posts/2025_02_24_ronja_leaving.html#a-chaotic-but-memorable-farewell",
+    "href": "subsite/posts/2025_02_24_ronja_leaving.html#a-chaotic-but-memorable-farewell",
+    "title": "Farewell to Ronja, our first Erasmus+ student! 🇩🇪💙",
     "section": "",
     "text": "And of course, what would a BioGenies goodbye be without rushing to the train station at the last minute? As always, we were very late 😆 🏃‍♂️💨\n \nThe train station was bustling with people, and in a surprise twist, the Jagiellonia Białystok football team was also there, taking the train! ⚽😲\nRonja, thank you for everything – your dedication, hard work, and all the fun moments we shared. We’ll miss you, but we know you’ll do amazing things in the future! 💙"
   },
   {
-    "objectID": "subsite/posts/2025_01_30.html",
-    "href": "subsite/posts/2025_01_30.html",
-    "title": "Farewell to Eva – our first departing Erasmus+ student! 🎓💙",
+    "objectID": "subsite/posts/2025_01_30_eva_leaving.html",
+    "href": "subsite/posts/2025_01_30_eva_leaving.html",
+    "title": "Farewell to Eva, our first departing Erasmus+ student! 🎓💙",
     "section": "",
     "text": "This past week was bittersweet as we said goodbye to Eva, our second Erasmus student but the first to leave. Her time with us was filled with science, fun, and unforgettable moments, and we made sure to give her a proper BioGenies send-off! 🚀\n\n\n🟢 Thursday – Pierogi, kartacze and potato grandma 🤭 feast! 🥟 A classic Polish experience for a proper farewell.\n\n\n🟢 Friday – Sushi lunch 🍣 followed by the 4th International Karaoke Night at UMB! 🎤🌍\n\n\n🟢 Sunday – An adventure in Białowieża, walking the route to Jagiełło oak, followed by a delicious meal at Fanaberia restaurant 🍽️.\n\n\n\n🟢 Tuesday – Our last pancake night 🥞 with Jarek, Ronja, Eva, and Maria.\n Eva ordered sweet pancakes and managed to eat half, which we count as a victory! 🎉\n\n\n🟢 Final goodbye – On Wednesday, we went together to the train station to say our last goodbye in Białystok. 💔🚆\n\n\n\n\nEva didn’t leave BioGenies empty-handed — she left us some nice gifts! 🎁 We’re grateful for everything she brought to our lab and will truly miss her.\n\n\n\n\nIt is always sad to see another great researcher leaving academia. Eva has an incredible mind, and the academic world is losing a talented scientist. But wherever she goes next, we know she will make a difference and continue to excel! 💙\nEva, we wish you all the best in your future adventures! 🚀💙"
   },
   {
-    "objectID": "subsite/posts/2025_01_30.html#a-week-of-goodbyes-great-memories",
-    "href": "subsite/posts/2025_01_30.html#a-week-of-goodbyes-great-memories",
-    "title": "Farewell to Eva – our first departing Erasmus+ student! 🎓💙",
+    "objectID": "subsite/posts/2025_01_30_eva_leaving.html#a-week-of-goodbyes-great-memories",
+    "href": "subsite/posts/2025_01_30_eva_leaving.html#a-week-of-goodbyes-great-memories",
+    "title": "Farewell to Eva, our first departing Erasmus+ student! 🎓💙",
     "section": "",
     "text": "🟢 Thursday – Pierogi, kartacze and potato grandma 🤭 feast! 🥟 A classic Polish experience for a proper farewell.\n\n\n🟢 Friday – Sushi lunch 🍣 followed by the 4th International Karaoke Night at UMB! 🎤🌍\n\n\n🟢 Sunday – An adventure in Białowieża, walking the route to Jagiełło oak, followed by a delicious meal at Fanaberia restaurant 🍽️.\n\n\n\n🟢 Tuesday – Our last pancake night 🥞 with Jarek, Ronja, Eva, and Maria.\n Eva ordered sweet pancakes and managed to eat half, which we count as a victory! 🎉\n\n\n🟢 Final goodbye – On Wednesday, we went together to the train station to say our last goodbye in Białystok. 💔🚆"
   },
   {
-    "objectID": "subsite/posts/2025_01_30.html#gifts-and-gratitude",
-    "href": "subsite/posts/2025_01_30.html#gifts-and-gratitude",
-    "title": "Farewell to Eva – our first departing Erasmus+ student! 🎓💙",
+    "objectID": "subsite/posts/2025_01_30_eva_leaving.html#gifts-and-gratitude",
+    "href": "subsite/posts/2025_01_30_eva_leaving.html#gifts-and-gratitude",
+    "title": "Farewell to Eva, our first departing Erasmus+ student! 🎓💙",
     "section": "",
     "text": "Eva didn’t leave BioGenies empty-handed — she left us some nice gifts! 🎁 We’re grateful for everything she brought to our lab and will truly miss her."
   },
   {
-    "objectID": "subsite/posts/2025_01_30.html#another-great-scientist-leaving-academia",
-    "href": "subsite/posts/2025_01_30.html#another-great-scientist-leaving-academia",
-    "title": "Farewell to Eva – our first departing Erasmus+ student! 🎓💙",
+    "objectID": "subsite/posts/2025_01_30_eva_leaving.html#another-great-scientist-leaving-academia",
+    "href": "subsite/posts/2025_01_30_eva_leaving.html#another-great-scientist-leaving-academia",
+    "title": "Farewell to Eva, our first departing Erasmus+ student! 🎓💙",
     "section": "",
     "text": "It is always sad to see another great researcher leaving academia. Eva has an incredible mind, and the academic world is losing a talented scientist. But wherever she goes next, we know she will make a difference and continue to excel! 💙\nEva, we wish you all the best in your future adventures! 🚀💙"
   },
   {
-    "objectID": "subsite/posts/2025_01_09.html",
-    "href": "subsite/posts/2025_01_09.html",
+    "objectID": "subsite/posts/2025_01_09_onetick.html",
+    "href": "subsite/posts/2025_01_09_onetick.html",
     "title": "Writing OneTick Grant for Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges 🎯",
     "section": "",
     "text": "Exciting times for BioGenies as Michał, Jarek, and Valen dive into the process of preparing a OneTick proposal for the MSCA Staff Exchanges program! 🏗️ This endeavor involves a lot of administrative work, but the potential rewards for international collaboration make it all worthwhile 💪.\n\n\n\nOur proposed consortium could bring together 11 participants from Europe, representing:\n🇵🇱 Poland | 🇩🇪 Germany | 🇸🇪 Sweden | 🇩🇰 Denmark | 🇨🇿 Czech Republic | 🇪🇸 Spain | 🇫🇷 France | 🇮🇪 Ireland | 🇳🇱 Netherlands | 🇦🇺 Australia | 🇳🇴 Norway.\nSuch a diverse and interdisciplinary team would be a fantastic opportunity to advance our research and strengthen international networks 🤝.\n\n\n\n\nThe process involves:\n\nFinalizing partnerships and collaborations 🤝\nDrafting the project proposal ✍️\nCoordinating with institutions across 11 countries 🌍\nManaging all the nitty-gritty admin"
   },
   {
-    "objectID": "subsite/posts/2025_01_09.html#european-consortium",
-    "href": "subsite/posts/2025_01_09.html#european-consortium",
+    "objectID": "subsite/posts/2025_01_09_onetick.html#european-consortium",
+    "href": "subsite/posts/2025_01_09_onetick.html#european-consortium",
     "title": "Writing OneTick Grant for Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges 🎯",
     "section": "",
     "text": "Our proposed consortium could bring together 11 participants from Europe, representing:\n🇵🇱 Poland | 🇩🇪 Germany | 🇸🇪 Sweden | 🇩🇰 Denmark | 🇨🇿 Czech Republic | 🇪🇸 Spain | 🇫🇷 France | 🇮🇪 Ireland | 🇳🇱 Netherlands | 🇦🇺 Australia | 🇳🇴 Norway.\nSuch a diverse and interdisciplinary team would be a fantastic opportunity to advance our research and strengthen international networks 🤝."
   },
   {
-    "objectID": "subsite/posts/2025_01_09.html#behind-the-scenes",
-    "href": "subsite/posts/2025_01_09.html#behind-the-scenes",
+    "objectID": "subsite/posts/2025_01_09_onetick.html#behind-the-scenes",
+    "href": "subsite/posts/2025_01_09_onetick.html#behind-the-scenes",
     "title": "Writing OneTick Grant for Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges 🎯",
     "section": "",
     "text": "The process involves:\n\nFinalizing partnerships and collaborations 🤝\nDrafting the project proposal ✍️\nCoordinating with institutions across 11 countries 🌍\nManaging all the nitty-gritty admin"
   },
   {
-    "objectID": "subsite/posts/2024_11_19.html",
-    "href": "subsite/posts/2024_11_19.html",
+    "objectID": "subsite/posts/2024_11_19_party.html",
+    "href": "subsite/posts/2024_11_19_party.html",
     "title": "Celebrating our successes 🎉",
     "section": "",
     "text": "On November 14, BioGenies gathered for a special celebration of small successes and to express our heartfelt gratitude to the wonderful people who support us behind the scenes 💪💪💪\nThe evening was dedicated to thanking:\n\nMagda and Agnieszka from the grant acquisition team, whose dedication ensures our projects keep moving forward 🚀\nSylwia from the NAWA office, whose expertise has been vital in guiding us through paperwork, just to go for a scientific stay and conferences 🌍\n\n\n\nThe party was a warm and joyful occasion, attended by:\n\nFrom BioGenies and their relatives: Michał, Jarek, Valen, Eva, Ronja, Mariia, Asia, Jarek’s mom, and Alicja 🥳\nOur supportive collaborators: Magda, Agnieszka, and Sylwia 🤝🏻\n\n\n\n\nWith delicious food, lively conversations, and shared laughter, we celebrated our milestones and reflected on the teamwork that made them possible. It was a beautiful evening to strengthen our connections and share gratitude.\nA big thank you to everyone who joined us and helped make the event so memorable. Here’s to more successes and celebrations in the future! 🥂✨"
   },
   {
-    "objectID": "subsite/posts/2024_11_19.html#guests",
-    "href": "subsite/posts/2024_11_19.html#guests",
+    "objectID": "subsite/posts/2024_11_19_party.html#guests",
+    "href": "subsite/posts/2024_11_19_party.html#guests",
     "title": "Celebrating our successes 🎉",
     "section": "",
     "text": "The party was a warm and joyful occasion, attended by:\n\nFrom BioGenies and their relatives: Michał, Jarek, Valen, Eva, Ronja, Mariia, Asia, Jarek’s mom, and Alicja 🥳\nOur supportive collaborators: Magda, Agnieszka, and Sylwia 🤝🏻"
   },
   {
-    "objectID": "subsite/posts/2024_11_19.html#a-toast-to-teamwork",
-    "href": "subsite/posts/2024_11_19.html#a-toast-to-teamwork",
+    "objectID": "subsite/posts/2024_11_19_party.html#a-toast-to-teamwork",
+    "href": "subsite/posts/2024_11_19_party.html#a-toast-to-teamwork",
     "title": "Celebrating our successes 🎉",
     "section": "",
     "text": "With delicious food, lively conversations, and shared laughter, we celebrated our milestones and reflected on the teamwork that made them possible. It was a beautiful evening to strengthen our connections and share gratitude.\nA big thank you to everyone who joined us and helped make the event so memorable. Here’s to more successes and celebrations in the future! 🥂✨"
   },
   {
-    "objectID": "subsite/posts/2024_11_04.html",
-    "href": "subsite/posts/2024_11_04.html",
+    "objectID": "subsite/posts/2024_11_04_eva.html",
+    "href": "subsite/posts/2024_11_04_eva.html",
     "title": "Welcome Eva Arribas to the Lab!",
     "section": "",
     "text": "We’re excited to welcome Eva to our lab! Eva joins us from the Institut de Biotecnologia i de Biomedicina at the Universitat Autònoma de Barcelona, where she completed her master’s research in Salvador Ventura’s lab 🎓🔬. She’s here as part of her Erasmus traineeship, diving into the fascinating world of liquid-liquid phase separation (LLPS)!\n\n\nEva arrived on 1st November, a big holiday in Poland 🇵🇱, which made it an especially busy day for travel. With everything bustling and crowded, even trains to Białystok were packed! 🚆 So, we took a trip to the airport to greet her and ensure she had a smooth arrival – and to give her a warm BioGenies welcome 🌟.\n\n\n\n\nDuring her traineeship, Eva will be working on LLPS, a critical phenomenon in biomolecular condensates that has big implications for understanding cell organization and disease processes. We’re looking forward to the fresh insights and new ideas she’ll bring to our LLPS projects!\nEva, we’re thrilled to have you with us – welcome to the team! 🎉"
   },
   {
-    "objectID": "subsite/posts/2024_11_04.html#arrival-day-on-1st-november",
-    "href": "subsite/posts/2024_11_04.html#arrival-day-on-1st-november",
+    "objectID": "subsite/posts/2024_11_04_eva.html#arrival-day-on-1st-november",
+    "href": "subsite/posts/2024_11_04_eva.html#arrival-day-on-1st-november",
     "title": "Welcome Eva Arribas to the Lab!",
     "section": "",
     "text": "Eva arrived on 1st November, a big holiday in Poland 🇵🇱, which made it an especially busy day for travel. With everything bustling and crowded, even trains to Białystok were packed! 🚆 So, we took a trip to the airport to greet her and ensure she had a smooth arrival – and to give her a warm BioGenies welcome 🌟."
   },
   {
-    "objectID": "subsite/posts/2024_11_04.html#research-focus-llps",
-    "href": "subsite/posts/2024_11_04.html#research-focus-llps",
+    "objectID": "subsite/posts/2024_11_04_eva.html#research-focus-llps",
+    "href": "subsite/posts/2024_11_04_eva.html#research-focus-llps",
     "title": "Welcome Eva Arribas to the Lab!",
     "section": "",
     "text": "During her traineeship, Eva will be working on LLPS, a critical phenomenon in biomolecular condensates that has big implications for understanding cell organization and disease processes. We’re looking forward to the fresh insights and new ideas she’ll bring to our LLPS projects!\nEva, we’re thrilled to have you with us – welcome to the team! 🎉"
   },
   {
-    "objectID": "subsite/posts/2024_10_28.html",
-    "href": "subsite/posts/2024_10_28.html",
+    "objectID": "subsite/posts/2024_10_28_hupo_de.html",
+    "href": "subsite/posts/2024_10_28_hupo_de.html",
     "title": "HUPO 2024 Conference Wrap-Up",
     "section": "",
-    "text": "Our BioGenies team – Michał, Jarek, Krysia, Weronika, and Oriol – had an unforgettable week at HUPO 2024 in Dresden! Here’s the highlight reel:\n\n\nWe started the week with a stroll to explore the conference site and snapped a photo of the iconic Yenidze, a former cigarette factory with a unique design 🕌.\n\nThat evening, we picked up Oriol from the airport ✈️ and headed to Sophienkeller to dive into local Dresden delicacies 🥨🍖.\n\n\n\n\nSunday night kicked off with the opening ceremony and welcome reception 🍾, followed by an Early Career Researchers Networking Night. Despite the darkness on our boat tour 🌌, we made the most of it by networking with fellow researchers. The highlight? Watching as they joined two boats together – an unexpected twist to the night! 🚢\n\n\n\n\nMonday saw some friendly rivalry when Jarek and Krysia discovered an air hockey table! After an intense game, it ended in a tie 🤝.\n\nLater, Krysia reunited with our colleague Dominik in the plenary hall,\n\nand Jarek, Weronika, and Oriol snapped some fun group photos 📸.\n\n\n\n\nEach of us had poster sessions on different days, and it was exciting to see such strong interest in our research 🧬📈. The steady traffic at our posters highlighted the growing excitement around our work!\n\n\n\n\nBetween sessions, we sampled even more homemade Dresden dishes – fueling our research discussions and conference exploration 🥘💪.\n\n\n\n\nWe carved out some time to visit the famous Bastei Bridge. Though the heavy fog limited the view 🌫️, it added a mystique that made for an unforgettable (and chilly) adventure! 🏞️\n \n\n\n\nOriol’s return flight was suddenly canceled due to an airport strike 😱. But no worries – Michał, Jarek, and Weronika swooped in 🚗, picking him up from his hotel to drive him back to the airport.\n\n\n\nAfter the conference wrapped up, Weronika and Jarek spent Friday exploring the beautiful Dresdner Zwinger – a perfect way to close out a memorable week of science and sightseeing 🏛️✨.\n\nThanks, HUPO 2024, for the inspiring talks, new connections, and unforgettable memories! Until next time, Dresden! 🇩🇪💫"
+    "text": "Our BioGenies team: Michał, Jarek, Krysia, Weronika and Oriol, had an unforgettable week at HUPO 2024 in Dresden! Here’s the highlight reel:\n\n\nWe started the week with a stroll to explore the conference site and snapped a photo of the iconic Yenidze, a former cigarette factory with a unique design 🕌.\n\nThat evening, we picked up Oriol from the airport ✈️ and headed to Sophienkeller to dive into local Dresden delicacies 🥨🍖.\n\n\n\n\nSunday night kicked off with the opening ceremony and welcome reception 🍾, followed by an Early Career Researchers Networking Night. Despite the darkness on our boat tour 🌌, we made the most of it by networking with fellow researchers. The highlight? Watching as they joined two boats together – an unexpected twist to the night! 🚢\n\n\n\n\nMonday saw some friendly rivalry when Jarek and Krysia discovered an air hockey table! After an intense game, it ended in a tie 🤝.\n\nLater, Krysia reunited with our colleague Dominik in the plenary hall,\n\nand Jarek, Weronika, and Oriol snapped some fun group photos 📸.\n\n\n\n\nEach of us had poster sessions on different days, and it was exciting to see such strong interest in our research 🧬📈. The steady traffic at our posters highlighted the growing excitement around our work!\n\n\n\n\nBetween sessions, we sampled even more homemade Dresden dishes – fueling our research discussions and conference exploration 🥘💪.\n\n\n\n\nWe carved out some time to visit the famous Bastei Bridge. Though the heavy fog limited the view 🌫️, it added a mystique that made for an unforgettable (and chilly) adventure! 🏞️\n \n\n\n\nOriol’s return flight was suddenly canceled due to an airport strike 😱. But no worries – Michał, Jarek, and Weronika swooped in 🚗, picking him up from his hotel to drive him back to the airport.\n\n\n\nAfter the conference wrapped up, Weronika and Jarek spent Friday exploring the beautiful Dresdner Zwinger – a perfect way to close out a memorable week of science and sightseeing 🏛️✨.\n\nThanks, HUPO 2024, for the inspiring talks, new connections, and unforgettable memories! Until next time, Dresden! 🇩🇪💫"
   },
   {
-    "objectID": "subsite/posts/2024_10_28.html#sunday-arrival-sightseeing",
-    "href": "subsite/posts/2024_10_28.html#sunday-arrival-sightseeing",
+    "objectID": "subsite/posts/2024_10_28_hupo_de.html#sunday-arrival-sightseeing",
+    "href": "subsite/posts/2024_10_28_hupo_de.html#sunday-arrival-sightseeing",
     "title": "HUPO 2024 Conference Wrap-Up",
     "section": "",
     "text": "We started the week with a stroll to explore the conference site and snapped a photo of the iconic Yenidze, a former cigarette factory with a unique design 🕌.\n\nThat evening, we picked up Oriol from the airport ✈️ and headed to Sophienkeller to dive into local Dresden delicacies 🥨🍖."
   },
   {
-    "objectID": "subsite/posts/2024_10_28.html#opening-ceremony-networking",
-    "href": "subsite/posts/2024_10_28.html#opening-ceremony-networking",
+    "objectID": "subsite/posts/2024_10_28_hupo_de.html#opening-ceremony-networking",
+    "href": "subsite/posts/2024_10_28_hupo_de.html#opening-ceremony-networking",
     "title": "HUPO 2024 Conference Wrap-Up",
     "section": "",
     "text": "Sunday night kicked off with the opening ceremony and welcome reception 🍾, followed by an Early Career Researchers Networking Night. Despite the darkness on our boat tour 🌌, we made the most of it by networking with fellow researchers. The highlight? Watching as they joined two boats together – an unexpected twist to the night! 🚢"
   },
   {
-    "objectID": "subsite/posts/2024_10_28.html#monday-air-hockey-more-connections",
-    "href": "subsite/posts/2024_10_28.html#monday-air-hockey-more-connections",
+    "objectID": "subsite/posts/2024_10_28_hupo_de.html#monday-air-hockey-more-connections",
+    "href": "subsite/posts/2024_10_28_hupo_de.html#monday-air-hockey-more-connections",
     "title": "HUPO 2024 Conference Wrap-Up",
     "section": "",
     "text": "Monday saw some friendly rivalry when Jarek and Krysia discovered an air hockey table! After an intense game, it ended in a tie 🤝.\n\nLater, Krysia reunited with our colleague Dominik in the plenary hall,\n\nand Jarek, Weronika, and Oriol snapped some fun group photos 📸."
   },
   {
-    "objectID": "subsite/posts/2024_10_28.html#poster-sessions-interest",
-    "href": "subsite/posts/2024_10_28.html#poster-sessions-interest",
+    "objectID": "subsite/posts/2024_10_28_hupo_de.html#poster-sessions-interest",
+    "href": "subsite/posts/2024_10_28_hupo_de.html#poster-sessions-interest",
     "title": "HUPO 2024 Conference Wrap-Up",
     "section": "",
     "text": "Each of us had poster sessions on different days, and it was exciting to see such strong interest in our research 🧬📈. The steady traffic at our posters highlighted the growing excitement around our work!"
   },
   {
-    "objectID": "subsite/posts/2024_10_28.html#dresdens-culinary-gems",
-    "href": "subsite/posts/2024_10_28.html#dresdens-culinary-gems",
+    "objectID": "subsite/posts/2024_10_28_hupo_de.html#dresdens-culinary-gems",
+    "href": "subsite/posts/2024_10_28_hupo_de.html#dresdens-culinary-gems",
     "title": "HUPO 2024 Conference Wrap-Up",
     "section": "",
     "text": "Between sessions, we sampled even more homemade Dresden dishes – fueling our research discussions and conference exploration 🥘💪."
   },
   {
-    "objectID": "subsite/posts/2024_10_28.html#foggy-adventure-at-bastei-bridge",
-    "href": "subsite/posts/2024_10_28.html#foggy-adventure-at-bastei-bridge",
+    "objectID": "subsite/posts/2024_10_28_hupo_de.html#foggy-adventure-at-bastei-bridge",
+    "href": "subsite/posts/2024_10_28_hupo_de.html#foggy-adventure-at-bastei-bridge",
     "title": "HUPO 2024 Conference Wrap-Up",
     "section": "",
     "text": "We carved out some time to visit the famous Bastei Bridge. Though the heavy fog limited the view 🌫️, it added a mystique that made for an unforgettable (and chilly) adventure! 🏞️"
   },
   {
-    "objectID": "subsite/posts/2024_10_28.html#oriols-travel-twist",
-    "href": "subsite/posts/2024_10_28.html#oriols-travel-twist",
+    "objectID": "subsite/posts/2024_10_28_hupo_de.html#oriols-travel-twist",
+    "href": "subsite/posts/2024_10_28_hupo_de.html#oriols-travel-twist",
     "title": "HUPO 2024 Conference Wrap-Up",
     "section": "",
     "text": "Oriol’s return flight was suddenly canceled due to an airport strike 😱. But no worries – Michał, Jarek, and Weronika swooped in 🚗, picking him up from his hotel to drive him back to the airport."
   },
   {
-    "objectID": "subsite/posts/2024_10_28.html#friday-dresdner-zwinger-exploration",
-    "href": "subsite/posts/2024_10_28.html#friday-dresdner-zwinger-exploration",
+    "objectID": "subsite/posts/2024_10_28_hupo_de.html#friday-dresdner-zwinger-exploration",
+    "href": "subsite/posts/2024_10_28_hupo_de.html#friday-dresdner-zwinger-exploration",
     "title": "HUPO 2024 Conference Wrap-Up",
     "section": "",
     "text": "After the conference wrapped up, Weronika and Jarek spent Friday exploring the beautiful Dresdner Zwinger – a perfect way to close out a memorable week of science and sightseeing 🏛️✨.\n\nThanks, HUPO 2024, for the inspiring talks, new connections, and unforgettable memories! Until next time, Dresden! 🇩🇪💫"
   },
   {
-    "objectID": "subsite/posts/2024_10_01.html",
-    "href": "subsite/posts/2024_10_01.html",
+    "objectID": "subsite/posts/2024_10_01_sonata_postdoc.html",
+    "href": "subsite/posts/2024_10_01_sonata_postdoc.html",
     "title": "Post-doc position in the AmyloGraph 2.0 project",
     "section": "",
     "text": "Amyloids are proteins implicated in numerous serious diseases, including Alzheimer’s, Parkinson’s, Creutzfeldt-Jakob’s disease, and type 2 diabetes. These proteins are known for their ability to self-aggregate into unique supramolecular fibrils, a process that plays a critical role in disease progression.\nOur team has previously developed AmyloGraph, database of amyloid interactions, which you can explore here. In this new phase of our research, we aim to take AmyloGraph to the next level. We will design and implement machine learning-based tools to analyze the data more effectively and revamp the user interface to make it easier for researchers to access the latest information.\nBut that’s not all. The data collected during this project will be used to train predictive models, with the ultimate goal of designing new chemical compounds that can inhibit amyloid self-aggregation. These compounds hold great promise for the treatment of various amyloid-related diseases."
   },
   {
-    "objectID": "subsite/posts/2024_10_01.html#about-the-project",
-    "href": "subsite/posts/2024_10_01.html#about-the-project",
+    "objectID": "subsite/posts/2024_10_01_sonata_postdoc.html#about-the-project",
+    "href": "subsite/posts/2024_10_01_sonata_postdoc.html#about-the-project",
     "title": "Post-doc position in the AmyloGraph 2.0 project",
     "section": "",
     "text": "Amyloids are proteins implicated in numerous serious diseases, including Alzheimer’s, Parkinson’s, Creutzfeldt-Jakob’s disease, and type 2 diabetes. These proteins are known for their ability to self-aggregate into unique supramolecular fibrils, a process that plays a critical role in disease progression.\nOur team has previously developed AmyloGraph, database of amyloid interactions, which you can explore here. In this new phase of our research, we aim to take AmyloGraph to the next level. We will design and implement machine learning-based tools to analyze the data more effectively and revamp the user interface to make it easier for researchers to access the latest information.\nBut that’s not all. The data collected during this project will be used to train predictive models, with the ultimate goal of designing new chemical compounds that can inhibit amyloid self-aggregation. These compounds hold great promise for the treatment of various amyloid-related diseases."
   },
   {
-    "objectID": "subsite/posts/2024_10_01.html#details",
-    "href": "subsite/posts/2024_10_01.html#details",
+    "objectID": "subsite/posts/2024_10_01_sonata_postdoc.html#details",
+    "href": "subsite/posts/2024_10_01_sonata_postdoc.html#details",
     "title": "Post-doc position in the AmyloGraph 2.0 project",
     "section": "Details",
     "text": "Details\n\n Employment conditions\n Place: Bioinformatics and Multiomics Analyses Laboratory, Medical University of Białystok, Białystok, Poland\n Salary: 11666.67 PLN gross per month (with workloads for employer and employee, approx. 6,4k net)\n Planned start date for project work: 12.11.2024\n Duration: 12 months (with a possibility of extension up to 36 months)\n\n\n Important dates\n Submission deadline: 07.10.2024, 15:00 (GMT+2)\n Interviews (MS Teams): 14-16.10.2024\n\n\n\n Tasks\n\nAutomating the search for new sources of information.\nDeveloping tools for automated data validation.\nCreating tools for automated data acquisition from new sources.\nDesigning and implementing a new version of the AmyloGraph database.\nImplementing the new version of the AmyloGraph database.\nTraining and conducting a comparative analysis of the prediction model for modulators.\nImplementing generative models for designing small molecules.\n\n\n\n Skills\n\nProficiency in designing machine learning models.\nExperience in creating and implementing databases.\nAdvanced knowledge of the R language, particularly within the tidyverse environment and the Shiny package.\nKnowledge of Python and JavaScript is an advantage.\nFamiliarity with version control systems.\nStrong teamwork skills and motivation to conduct research.\n\nDon’t worry if you don’t have all the required skills—if you’re eager to learn, don’t hesitate to apply!"
   },
   {
-    "objectID": "subsite/posts/2024_10_01.html#how-to-apply",
-    "href": "subsite/posts/2024_10_01.html#how-to-apply",
+    "objectID": "subsite/posts/2024_10_01_sonata_postdoc.html#how-to-apply",
+    "href": "subsite/posts/2024_10_01_sonata_postdoc.html#how-to-apply",
     "title": "Post-doc position in the AmyloGraph 2.0 project",
     "section": "How to apply",
     "text": "How to apply\nSubmit your:\n\ncover letter\nContact details to at least 2 persons who may provide references sent directly to michal.burdukiewicz@umb.edu.pl by persons issuing the references\nCV including:\n\n\nscholarships, internships, workshops, attended conferences, participation in scientific projects\ncertificates confirming skills needed to perform tasks in the project\ncurrent email and phone number\n\n\nPhD diploma (diplomas from outside of EOG will need to be nostrified)\nList of publications confirming experience on project topic including copies of publications in PDF format.\nsigned GDPR consent form\n\nto biogenies@umb.edu.pl or michal.burdukiewicz@umb.edu.pl with the subject line: “post-doc in project no. 2023/51/D/NZ7/02847”.\nCandidate should present documents confirming achievements and scientific experience included in the CV during the interview.\nOfficial document with announcement"
   },
   {
-    "objectID": "subsite/posts/2024_09_13.html",
-    "href": "subsite/posts/2024_09_13.html",
+    "objectID": "subsite/posts/2024_09_13_ptbi_waw.html",
+    "href": "subsite/posts/2024_09_13_ptbi_waw.html",
     "title": "PTBI 2024 Conference wrap-up",
     "section": "",
     "text": "And that’s a wrap for the PTBI 2024 conference! It was filled with insightful talks 🎤, a vibrant poster session 📊, and, of course, great company 🤝. From exciting discussions to memorable reunions, here’s are some of the highlights!\n\n\nKasia and Michał kicked off the event with their early arrivals. \nJarek, Krysia and Weronika joined shortly after, ready for action and collaboration. \nMeanwhile, Valen had the special opportunity to meet with the Undersecretary of State in the Ministry of Science in the evening, making it a memorable encounter! \n\n\n\nWe attended a series of fascinating presentations throughout the event. But the standout? Kasia’s talk on Strain-resolved metagenomics in analysis of gut microbiota dynamics within families stole the show, at least for us! \nOf course, we also couldn’t miss Weronika’s impressive poster presentation! \n\n\n\nAfter a packed first day, we set out to grab some ice cream to unwind, but, to our surprise, every shop was closed! During the adventure of hunting for an open place, we even temporarily “lost” Jarek and Krysia for a bit! 😅\n\n\n\n\nAnd finally, the ultimate highlight—our fun-filled BioGenies reunion! Catching up with old friends and creating new memories was the perfect end to an incredible conference.\n\n\n\n\nOur next big adventure? The HUPO 2024 conference in Dresden! You’ll find Michał, Jarek, Krysia, Weronika, and Oriol representing us there. We can’t wait to see you there!"
   },
   {
-    "objectID": "subsite/posts/2024_09_13.html#early-birds",
-    "href": "subsite/posts/2024_09_13.html#early-birds",
+    "objectID": "subsite/posts/2024_09_13_ptbi_waw.html#early-birds",
+    "href": "subsite/posts/2024_09_13_ptbi_waw.html#early-birds",
     "title": "PTBI 2024 Conference wrap-up",
     "section": "",
     "text": "Kasia and Michał kicked off the event with their early arrivals. \nJarek, Krysia and Weronika joined shortly after, ready for action and collaboration. \nMeanwhile, Valen had the special opportunity to meet with the Undersecretary of State in the Ministry of Science in the evening, making it a memorable encounter!"
   },
   {
-    "objectID": "subsite/posts/2024_09_13.html#conference-highlights",
-    "href": "subsite/posts/2024_09_13.html#conference-highlights",
+    "objectID": "subsite/posts/2024_09_13_ptbi_waw.html#conference-highlights",
+    "href": "subsite/posts/2024_09_13_ptbi_waw.html#conference-highlights",
     "title": "PTBI 2024 Conference wrap-up",
     "section": "",
     "text": "We attended a series of fascinating presentations throughout the event. But the standout? Kasia’s talk on Strain-resolved metagenomics in analysis of gut microbiota dynamics within families stole the show, at least for us! \nOf course, we also couldn’t miss Weronika’s impressive poster presentation!"
   },
   {
-    "objectID": "subsite/posts/2024_09_13.html#post-conference-day-adventures",
-    "href": "subsite/posts/2024_09_13.html#post-conference-day-adventures",
+    "objectID": "subsite/posts/2024_09_13_ptbi_waw.html#post-conference-day-adventures",
+    "href": "subsite/posts/2024_09_13_ptbi_waw.html#post-conference-day-adventures",
     "title": "PTBI 2024 Conference wrap-up",
     "section": "",
     "text": "After a packed first day, we set out to grab some ice cream to unwind, but, to our surprise, every shop was closed! During the adventure of hunting for an open place, we even temporarily “lost” Jarek and Krysia for a bit! 😅"
   },
   {
-    "objectID": "subsite/posts/2024_09_13.html#the-biogenies-reunion",
-    "href": "subsite/posts/2024_09_13.html#the-biogenies-reunion",
+    "objectID": "subsite/posts/2024_09_13_ptbi_waw.html#the-biogenies-reunion",
+    "href": "subsite/posts/2024_09_13_ptbi_waw.html#the-biogenies-reunion",
     "title": "PTBI 2024 Conference wrap-up",
     "section": "",
     "text": "And finally, the ultimate highlight—our fun-filled BioGenies reunion! Catching up with old friends and creating new memories was the perfect end to an incredible conference."
   },
   {
-    "objectID": "subsite/posts/2024_09_13.html#next-stop-hupo-2024",
-    "href": "subsite/posts/2024_09_13.html#next-stop-hupo-2024",
+    "objectID": "subsite/posts/2024_09_13_ptbi_waw.html#next-stop-hupo-2024",
+    "href": "subsite/posts/2024_09_13_ptbi_waw.html#next-stop-hupo-2024",
     "title": "PTBI 2024 Conference wrap-up",
     "section": "",
     "text": "Our next big adventure? The HUPO 2024 conference in Dresden! You’ll find Michał, Jarek, Krysia, Weronika, and Oriol representing us there. We can’t wait to see you there!"
   },
   {
-    "objectID": "subsite/posts/2024_08_19.html",
-    "href": "subsite/posts/2024_08_19.html",
+    "objectID": "subsite/posts/2024_08_19_sonata_students.html",
+    "href": "subsite/posts/2024_08_19_sonata_students.html",
     "title": "Big annoucement!",
     "section": "",
     "text": "Amyloids are proteins implicated in numerous serious diseases, including Alzheimer’s, Parkinson’s, Creutzfeldt-Jakob’s disease, and type 2 diabetes. These proteins are known for their ability to self-aggregate into unique supramolecular fibrils, a process that plays a critical role in disease progression.\nOur team has previously developed AmyloGraph, database of amyloid interactions, which you can explore here. In this new phase of our research, we aim to take AmyloGraph to the next level. We will design and implement machine learning-based tools to analyze the data more effectively and revamp the user interface to make it easier for researchers to access the latest information.\nBut that’s not all. The data collected during this project will be used to train predictive models, with the ultimate goal of designing new chemical compounds that can inhibit amyloid self-aggregation. These compounds hold great promise for the treatment of various amyloid-related diseases."
   },
   {
-    "objectID": "subsite/posts/2024_08_19.html#about-the-project",
-    "href": "subsite/posts/2024_08_19.html#about-the-project",
+    "objectID": "subsite/posts/2024_08_19_sonata_students.html#about-the-project",
+    "href": "subsite/posts/2024_08_19_sonata_students.html#about-the-project",
     "title": "Big annoucement!",
     "section": "",
     "text": "Amyloids are proteins implicated in numerous serious diseases, including Alzheimer’s, Parkinson’s, Creutzfeldt-Jakob’s disease, and type 2 diabetes. These proteins are known for their ability to self-aggregate into unique supramolecular fibrils, a process that plays a critical role in disease progression.\nOur team has previously developed AmyloGraph, database of amyloid interactions, which you can explore here. In this new phase of our research, we aim to take AmyloGraph to the next level. We will design and implement machine learning-based tools to analyze the data more effectively and revamp the user interface to make it easier for researchers to access the latest information.\nBut that’s not all. The data collected during this project will be used to train predictive models, with the ultimate goal of designing new chemical compounds that can inhibit amyloid self-aggregation. These compounds hold great promise for the treatment of various amyloid-related diseases."
   },
   {
-    "objectID": "subsite/posts/2024_08_19.html#details",
-    "href": "subsite/posts/2024_08_19.html#details",
+    "objectID": "subsite/posts/2024_08_19_sonata_students.html#details",
+    "href": "subsite/posts/2024_08_19_sonata_students.html#details",
     "title": "Big annoucement!",
     "section": "Details",
     "text": "Details\n\n Employment conditions\n Place: Remotely or at Bioinformatics and Multiomics Analyses Laboratory, Clinical Research Centre, Medical University of Białystok, Poland\n Scholarship/salary: 2500 PLN per month (tax-free for students under 26 yo)\n Planned start date for project work: 01.10.2024\n\n\n Important dates\n Submission deadline: 06.09.2024, 15:00 (GMT+2)\n Interviews (Google Meet): 16-17.09.2024"
   },
   {
-    "objectID": "subsite/posts/2024_08_19.html#tasks-and-skills",
-    "href": "subsite/posts/2024_08_19.html#tasks-and-skills",
+    "objectID": "subsite/posts/2024_08_19_sonata_students.html#tasks-and-skills",
+    "href": "subsite/posts/2024_08_19_sonata_students.html#tasks-and-skills",
     "title": "Big annoucement!",
     "section": "Tasks and skills",
     "text": "Tasks and skills\n\n student 1\n\n Tasks:\n\nAutomating the search for new sources of information.\nDeveloping tools for automated data validation.\nCreating tools for automated data acquisition from new sources.\nDesigning and implementing a new version of the AmyloGraph database.\nImplementing the new version of the AmyloGraph database.\nTraining and conducting a comparative analysis of the prediction model for modulators.\nImplementing generative models for designing small molecules.\n\n\n\n Skills:\n\nProficiency in designing machine learning models.\nExperience in creating and implementing databases.\nAdvanced knowledge of the R language, particularly within the tidyverse environment and the Shiny package.\nKnowledge of Python and JavaScript is an advantage.\nFamiliarity with version control systems.\nStrong teamwork skills and motivation to conduct research.\n\n\n\n\n student 2\n\n Tasks:\n\nExpanded maintenance of existing data sources.\nData curation from new sources for the AmyloGraph database.\nDesigning existing databases.\nDesigning and creating a system for browsing databases of small molecular compounds.\nTraining and conducting a comparative analysis of the prediction model for modulators.\n\n\n\n Skills:\n\nExpertise in verifying biological data and data management.\nKnowledge of amyloid aggregation and methods for testing it.\nProficiency in topology and network analysis.\nExperience with methods of biological data processing in machine learning models, particularly for small molecular compounds and proteins.\nAdvanced proficiency in the R language, especially within the tidyverse environment and Shiny package.\nFamiliarity with the TeX language.\nAbility to work with version control systems.\nStrong teamwork skills and motivation to conduct research.\nVery good command of English, both written and oral.\n\nDon’t worry if you don’t have all the required skills—if you’re eager to learn, don’t hesitate to apply!\n\n\n\nHow to apply\nSubmit your:\n\ncover letter\nCV\nproof of student status (can be sent at the start of scholarship)\nsigned GDPR consent form\n\nto michal.burdukiewicz@umb.edu.pl with the subject line: “Scholarship holder in project no. 2023/51/D/NZ7/02847”.\nMore detailed info about requirements and needed documents: student 1, student 2"
   },
   {
-    "objectID": "subsite/posts/2024_07_16.html",
-    "href": "subsite/posts/2024_07_16.html",
+    "objectID": "subsite/posts/2024_07_16_ismb_ca.html",
+    "href": "subsite/posts/2024_07_16_ismb_ca.html",
     "title": "BioGenies went to Canada for a conference",
     "section": "",
-    "text": "We’re excited to announce that Krysia and Weronika from our BioGenies team went to Montreal, Canada for Intelligent Systems for Molecular Biology (ISMB) 2024 conference! 🧬🤖"
+    "text": "We’re excited to announce that Krysia and Weronika from our BioGenies team went to Montreal, Canada for Intelligent Systems for Molecular Biology (ISMB) 2024 conference! 🧬🤖\n\nWeronika presented her poster &gt;hadexversum: the family of HDX-MS tools\n\nAnd Krysia: &gt;imputomics: web server and R package for missing values imputation in metabolomics data"
   },
   {
-    "objectID": "subsite/posts/2024_07_04.html",
-    "href": "subsite/posts/2024_07_04.html",
+    "objectID": "subsite/posts/2024_07_04_bialowieza.html",
+    "href": "subsite/posts/2024_07_04_bialowieza.html",
     "title": "BioGenies from University of Wrocław and Institute of Biochemistry and Biophysics, PAS visit BioGenies HQ in Białystok",
     "section": "",
     "text": "We’re thrilled to share that the BioGenies team from the University of Wrocław (Krysia, Asia, Filip) and Weronika from Institute of Biochemistry and Biophysics recently visited our BioGenies HQ in Białystok! 🏢🤝\nDuring this productive visit, we collaborated on exciting projects and celebrated our hard work.\n\nBut that’s not all! The team also took the opportunity to explore the stunning Białowieża Primeval Forest, immersing themselves in its natural beauty and historical significance. 🌳🌲\n  \nAs a highlight of the trip, the team gave an engaging interview on TV but only Krysia was shown. 📺✨\n \nAs always we ate a lot!"
   },
   {
-    "objectID": "subsite/posts/2024_06_05.html",
-    "href": "subsite/posts/2024_06_05.html",
+    "objectID": "subsite/posts/2024_06_05_trakai.html",
+    "href": "subsite/posts/2024_06_05_trakai.html",
     "title": "BioGenies visit to our colleagues from the Group of Amyloid Research at Vilnius University",
     "section": "",
-    "text": "BioGenies (Michał, Jarek and Valen) recently had an inspiring visit to Vilnius, where they connected with our esteemed colleagues from the Group of Amyloid Research at Vilnius University. 🧬🤝\n\nThis visit was a fantastic opportunity to exchange ideas, explore new collaborations, and dive deep into the latest advancements in amyloid research.\nBut the adventure didn’t stop there! On the way back, the team took some time to explore the historic Trakai Island Castle, soaking in the rich history and breathtaking views. 🏰\n\nAnd of course it was eaten, Lithuanian kolduny and potato pancake :)"
+    "text": "BioGenies (Michał, Jarek and Valen) recently had an inspiring visit to Vilnius, where they connected with our esteemed colleagues from the Group of Amyloid Research at Vilnius University 🧬🤝.\n\nThis visit was a fantastic opportunity to exchange ideas, explore new collaborations, and dive deep into the latest advancements in amyloid research.\nBut the adventure didn’t stop there! On the way back, the team took some time to explore the historic Trakai Island Castle, soaking in the rich history and breathtaking views 🏰.\n\nAnd of course it was eaten, Lithuanian kolduny and potato pancake :)"
   },
   {
-    "objectID": "subsite/posts/2024_05_18.html",
-    "href": "subsite/posts/2024_05_18.html",
+    "objectID": "subsite/posts/2024_05_18_ml4ngp_gr.html",
+    "href": "subsite/posts/2024_05_18_ml4ngp_gr.html",
     "title": "2nd Machine Learning 4 Non-Globular Proteins Meeting 2024",
     "section": "",
     "text": "We’re excited to share that our team members Michał, Valen, and Jarek have embarked on an incredible journey to Thessaloniki, Greece, to attend the 2nd Machine Learning for Non-Globular Proteins conference! 🤖🧬\nThis conference brings together leading experts and innovators to explore the latest advancements in applying machine learning techniques to understand and predict the behavior of non-globular proteins. It’s a fantastic opportunity for BioGenies to connect with global researchers, exchange ideas, and bring back cutting-edge knowledge to enhance our ongoing projects.\n\nDuring the conference we tried some Greek food."
@@ -1195,7 +1195,7 @@
     "href": "index.html",
     "title": "BioGenies news",
     "section": "",
-    "text": "Next stop, Geneva! Krysia is heading for a postdoc 🇨🇭🎓🚀\n\n\n\nTeam\n\n\n\nKrysia will soon begin a postdoc at the University of Geneva, working with Jeffrey Näf! 🇨🇭📊 We’re celebrating her next scientific chapter, while trying to work out how to…\n\n\n\nBioGenies Lab\n\n\nSep 21, 2026\n\n\n\n\n\n\n\n\n\n\n\nBioGenies at PTBI 2026 in Poznań! 🧬🎤🇵🇱\n\n\n\nConferences & events\n\nPoland\n\n\n\nMichał, Krysia, Valen and Mariia represented BioGenies at PTBI 2026 in Poznań 🇵🇱🎤! From AI governance to amyloid–antibody interactions, imputation scoring and TickPacket.…\n\n\n\nBioGenies Lab\n\n\nSep 18, 2026\n\n\n\n\n\n\n\n\n\n\n\nAsia conquers the SLOPE and defends her MSc! 🎓📊🥳\n\n\n\nAchievements\n\nTeam\n\n\n\nAsia has successfully defended her MSc thesis at the University of Wrocław! 🎓📊 Her work brings Adaptive Bayesian SLOPE to binary classification, with Michał as…\n\n\n\nBioGenies Lab\n\n\nSep 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nMichał talks reproducibility at Bioinformatics Community Meetup #5 💻🧬 🇵🇱\n\n\n\nPoland\n\nConferences & events\n\n\n\nMichał joined Bioinformatics Community Meetup #5 in Kraków 🇵🇱 as a panelist discussing reproducible bioinformatics research. From good code and data sharing to the…\n\n\n\nBioGenies Lab\n\n\nJul 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nBioGenies at the 4th ML4NGP Meeting in Warsaw! 🧬🤖🇵🇱\n\n\n\nPoland\n\nML4NGP\n\nConferences & events\n\n\n\nValen, Jarek, Mariia, Damian and Oriol joined the 4th ML4NGP Meeting in Warsaw 🇵🇱 - with posters, Oriol’s Thursday talk, sightseeing, craft beers, social dinner, good…\n\n\n\nBioGenies Lab\n\n\nJun 8, 2026\n\n\n\n\n\n\n\n\n\n\n\nHaDeX2: HDX-MS analysis tool for protein dynamics (Bioinformatics 2026) 🧬\n\n\n\nHaDeX\n\npublications\n\n\n\nHaDeX2 is a bioinformatics tool for hydrogen–deuterium exchange mass spectrometry (HDX-MS) data analysis, enabling multi-dimensional statistical analysis and visualization…\n\n\n\nBioGenies Lab\n\n\nMar 16, 2026\n\n\n\n\n\n\n\n\n\n\n\nJarek and Julia escape winter at the ML4NGP Training School in Seville! 🧬🤖🌞🇪🇸\n\n\n\nSpain\n\nML4NGP\n\nConferences & events\n\n\n\nJarek and Julia attended the ML4NGP Training School in Seville 🇪🇸, learning about machine learning for non-globular proteins 🧬🤖 and temporarily escaping the -15°C Polish…\n\n\n\n\n\n\nMar 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies shine at the Rector’s Awards! 🏆🎓✨\n\n\n\nMUB\n\nawards\n\nachievements\n\n\n\nA proud day for BioGenies! 🎉 Michał and Jarek received First Degree Rector’s Awards for publications 🏆📚, Valen earned a Second Degree award, Michał was additionally…\n\n\n\n\n\n\nDec 16, 2025\n\n\n\n\n\n\n\n\n\n\n\nOriol visits BioGenies from sunny Barcelona! 🇪🇸🧬🕷️\n\n\n\nteam\n\nNAWA\n\nMUB\n\n\n\nOur collaborator Oriol from the Autonomous University of Barcelona 🇪🇸 visited Białystok through the NAWA STER programme 🇵🇱 to work with Michał on StriFi — a…\n\n\n\n\n\n\nDec 8, 2025\n\n\n\n\n\n\n\n\n\n\n\nMichał hacks away at BioHackathon Europe 2025 in Berlin! 💻🧬🚀\n\n\n\nachievements\n\nconference\n\nGermany\n\nELIXIR\n\n\n\nMichał joined BioHackathon Europe 2025 in Berlin, organised by ELIXIR Europe 💻🧬, an intense week of coding, data wrangling and open science, and a huge opportunity for…\n\n\n\n\n\n\nNov 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeronika defends her PhD with distinction! 🎓🌟\n\n\n\nachievements\n\ncelebration\n\ndefence\n\nteam\n\n\n\nHuge congratulations to Weronika, who defended her PhD thesis on high-resolution H/D exchange MS data 🎓🔬 with distinction! Weronika celebrated first at IBB PAS and then…\n\n\n\n\n\n\nNov 12, 2025\n\n\n\n\n\n\n\n\n\n\n\nBioGenies at PTBI 2025 in Białystok! 🧬🎤🥞\n\n\n\nconference\n\nPTBI\n\nPoland\n\n\n\nBioGenies rocked PTBI 2025 in Białystok! 🎉 Michał and Valen gave talks, Mariia, Asia and Jarek flash talks + posters, we joined PTBI 🇵🇱, voted for a new CEO 🗳, and…\n\n\n\n\n\n\nSep 18, 2025\n\n\n\n\n\n\n\n\n\n\n\nMariia starts her PhD at UMB! 🎓🦠\n\n\n\nteam\n\ncelebration\n\n\n\n🎉 Huge congratulations to Mariia, who just joined the international PhD programme at the Medical University of Białystok! 🌍 She’ll be developing cutting-edge…\n\n\n\n\n\n\nSep 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSonor defends his MSc with flying colors! 🎓🥳\n\n\n\nMSc\n\ndefence\n\n\n\nHuge congratulations to Sonor, who just defended his MSc thesis Biomedical Text Classification with Pre-trained Language Models with the best possible grade 💯🌟! His work…\n\n\n\n\n\n\nSep 16, 2025\n\n\n\n\n\n\n\n\n\n\n\nFrom microbes to medicine 💊🦠, Valen’s NCN Miniatura grant success!\n\n\n\ngrants\n\nachievements\n\nNCN\n\namyloids\n\n\n\nCongrats to Valen 🎉 for receiving an NCN Miniatura grant! The LIMAD project will explore how microbes 🦠 influence harmful protein build-up in Alzheimer’s and Parkinson’s…\n\n\n\n\n\n\nSep 15, 2025\n\n\n\n\n\n\n\n\n\n\n\nLLPS datasets & benchmarking: bringing order to condensate chaos 🧬📊\n\n\n\npublications\n\nLLPS\n\n\n\nWe present curated datasets of proteins involved in liquid–liquid phase separation (LLPS), enabling robust benchmarking and improved machine learning predictions in…\n\n\n\nBioGenies Lab\n\n\nJul 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n🎓 Career highlights: Mariia at UMB and Jarek’s NCN Poland Miniatura grant!\n\n\n\ngrants\n\nachievements\n\ncelebration\n\nNCN\n\n\n\nBig news, Mariia starts at UMB and applies for a PhD, while Jarek gets NCN Miniatura to grow his imputomics project! 🎉\n\n\n\n\n\n\nJul 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n🏅 Ronja wins BTU Women’s Advancement Award! 🌟!\n\n\n\nawards\n\nErasmus+\n\ncelebration\n\n\n\nCelebrating Ronja Tittel’s outstanding contribution in her praxissemester with us and her award at BTU Cottbus-Senftenberg!\n\n\n\n\n\n\nJul 2, 2025\n\n\n\n\n\n\n\n\n\n\n\n🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!\n\n\n\nconference\n\nCzech Republic\n\nMetabolomics\n\n\n\nOur team flew out to Prague for the Metabolomics 2025 meeting—posters, gifts, air conditioning and plenty of food!\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n🌳 BioGenies retreat in Wrocław from June 4 till 7, 2025\n\n\n\nretreat\n\nreunion\n\nteam\n\nnews\n\nPoland\n\n\n\nTeam fun and productivity at our Wrocław retreat: pizzas, sta,p hunt at Arboretum, seminars, hiking, cocktails (healthy, non-alchocholic) and more 😄\n\n\n\n\n\n\nJun 23, 2025\n\n\n\n\n\n\n\n\n\n\n\n🌍 Welcoming Krzysztof Poterlowicz from ELIXIR‑UK! 🚀\n\n\n\nELIXIR\n\nnews\n\nbioinformatics\n\n\n\nExcited to host Prof. Krzysztof Poterlowicz (University of Bradford & ELIXIR‑UK) to support our lab’s journey toward full ELIXIR integration.\n\n\n\n\n\n\nJun 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n🌟 Highlights from the 3rd ML4NGP Conference in Vilnius!🌟\n\n\n\nconference\n\nCOST Actions\n\nLithuania\n\nML4NGP\n\n\n\nMichał, Jarek, Valen and Mariia presented posters at the ML4NGP Meeting, a fantastic mix of science, food and networking!\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\nAmyloid cross-interactions: how proteins influence each other’s aggregation 🧬🧊\n\n\n\namyloids\n\npublications\n\n\n\nA comprehensive review of experimental methods to study amyloid cross-interactions, highlighting how proteins modulate each other’s aggregation and why combining techniques…\n\n\n\nBioGenies Lab\n\n\nMay 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n🎉 OneTick project awarded MSCA Staff Exchanges grant!\n\n\n\nMSCA\n\nHorizon Europe\n\nticks\n\ngrants\n\n\n\nAnother huge win for BioGenies! Our first MSCA Staff Exchanges project, OneTick, officially funded by the European Commission!\n\n\n\n\n\n\nMay 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n🎉 Jarek awarded Horizon Europe ERA Talents grant!\n\n\n\nAmyloGraph\n\namyloids\n\nLithuania\n\nMSCA\n\nHorizon Europe\n\nWIDERA\n\nERA Talents\n\n\n\nFrom MSCA near-miss to ERA Talents success, BioGenies score again! 🇪🇺💪 . Next stop: Life Sciences Center at Vilnius University\n\n\n\n\n\n\nMay 19, 2025\n\n\n\n\n\n\n\n\n\n\n\nHRaDeX: high-resolution HDX–MS analysis made simple ⚙️🧬\n\n\n\nHaDeX\n\npublications\n\n\n\nA new R package and web server (HRaDeX) enabling high-resolution analysis of HDX–MS data by reconstructing residue-level deuterium uptake rates from peptide-level…\n\n\n\nBioGenies Lab\n\n\nMay 19, 2025\n\n\n\n\n\n\n\n\n\n\n\nJakub joins Google! 🚀 Our ML beast in the big leagues\n\n\n\ncelebration\n\nachievements\n\n\n\nFrom BioGenies to Google, Jakub is now working on C++ projects for OpenAI but he’s still part of the family!\n\n\n\n\n\n\nMay 18, 2025\n\n\n\n\n\n\n\n\n\n\n\nTicks, trails & travel – Science and short city break adventures 🧬🧗‍♀️🌍\n\n\n\nconference\n\nFrance\n\nvia ferrata\n\nGermany\n\nholidays\n\n\n\nMichał shared urban tick research in Weimar, while Jarek, Weronika, and Krysia took a well-earned adventure break in Montpellier!\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFarewell to Ronja – our first Erasmus+ student! 🇩🇪💙\n\n\n\nErasmus+\n\nfarewell\n\nPraxissemester\n\n\n\nRonja’s Praxissemester with us has come to an end. From food feasts to cultural trips and a dramatic train station farewell – here’s how we spent the last days together!\n\n\n\n\n\n\nFeb 24, 2025\n\n\n\n\n\n\n\n\n\n\n\nOneTick proposal submitted & Michał’s well-deserved break! 🚀🌴\n\n\n\nMSCA\n\nticks\n\ngrants\n\nholidays\n\n\n\nWe’ve officially submitted our OneTick proposal for MSCA Staff Exchanges, and Michał is finally taking a holiday after seven years!\n\n\n\n\n\n\nFeb 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFarewell to Eva – our first departing Erasmus+ student! 🎓💙\n\n\n\nErasmus+\n\nfarewell\n\nparty\n\n\n\nAfter an amazing Erasmus experience, Eva says goodbye to our lab. A week full of memories, pierogi, karaoke, and adventures!\n\n\n\n\n\n\nJan 30, 2025\n\n\n\n\n\n\n\n\n\n\n\nValen Featured on NAWA Podcast! 🎙️\n\n\n\npodcast\n\noutreach\n\nNAWA\n\n\n\nValen discusses our lab’s exciting science and research projects on the NAWA podcast.\n\n\n\n\n\n\nJan 10, 2025\n\n\n\n\n\n\n\n\n\n\n\nWriting OneTick Grant for Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges 🎯\n\n\n\ngrants\n\nMSCA\n\ncollaboration\n\nticks\n\n\n\nMichał, Jarek, and Valen are hard at work preparing a OneTick grant for the MSCA Staff Exchanges application with a potential consortium of 11 participants!\n\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\n\n\n\n\n\n\nMichał receives First Degree Award from Rector of Medical University of Białystok 🎉\n\n\n\nawards\n\nachievements\n\n\n\nCongratulations to Michał on being honored with the prestigious First Degree Award for his outstanding publications from 2023!\n\n\n\n\n\n\nDec 6, 2024\n\n\n\n\n\n\n\n\n\n\n\nCelebrating our successes 🎉\n\n\n\nteam\n\nparty\n\ncelebration\n\n\n\nOn November 14 Michał organised a small party to celebrate our achievements and thank amazing people supporting our journey!\n\n\n\n\n\n\nNov 19, 2024\n\n\n\n\n\n\n\n\n\n\n\nWelcome Mariia, from BTU to the BioGenies!\n\n\n\nteam\n\nErasmus+\n\nLLPS\n\namyloids\n\n\n\nWe’re excited to welcome Mariia Solovianova from BTU, a biotechnology master with wet lab expertise, joining our lab to work on a bioinformatics project involving antibodies…\n\n\n\n\n\n\nNov 12, 2024\n\n\n\n\n\n\n\n\n\n\n\nWelcome Eva Arribas to the Lab!\n\n\n\nteam\n\nErasmus+\n\nLLPS\n\namyloids\n\n\n\nWe’re thrilled to welcome Eva Arribas, a master’s graduate from Salvador Ventura’s lab at the Universitat Autònoma de Barcelona, as she joins us for her Erasmus traineeship!\n\n\n\n\n\n\nNov 4, 2024\n\n\n\n\n\n\n\n\n\n\n\nMichał and Jarek secure PARP ‘Granty na Eurogranty’ grant! 🎉\n\n\n\ngrants\n\nachievements\n\nMSCA\n\n\n\nExciting news! Michał and Jarek have received a grant from PARP (Polish Agency for Enterprise Development) to support the preparation of their MSCA Staff Exchanges…\n\n\n\n\n\n\nNov 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nAmyloid databases: mapping the aggregation universe 🧬📊\n\n\n\npublications\n\namyloids\n\n\n\nA comprehensive review of amyloid-related databases, highlighting how experimental data and bioinformatics resources drive advances in protein aggregation research.\n\n\n\nBioGenies Lab\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\nHUPO 2024 Conference Wrap-Up\n\n\n\nconference\n\nHUPO\n\nGermany\n\nreunion\n\n\n\nHighlights from an inspiring week in Dresden with the BioGenies team, filled with scientific sessions, networking, and a taste of Dresden’s culture.\n\n\n\n\n\n\nOct 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n🎉 Valen signs a contract with Medical University of Białystok! 🎉\n\n\n\nnews\n\nMUB\n\n\n\nFrom now on, Valen is an official employee of the Clinical Research Centre at the Medical University of Białystok 🏢🎓.\n\n\n\n\n\n\nOct 18, 2024\n\n\n\n\n\n\n\n\n\n\n\nPost-doc position in the AmyloGraph 2.0 project\n\n\n\nnews\n\nAmyloGraph\n\namyloids\n\nhiring\n\nNCN\n\n\n\nWe are looking for a post-doc to join our team in AmyloGraph 2.0 project (2023/51/D/NZ7/02847)\n\n\n\n\n\n\nOct 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nArrival of Ronja - our new collaborator\n\n\n\nteam\n\nErasmus+\n\nAmyloGraph\n\n\n\nWelcoming Ronja, our new collaborator from Brandenburg University of Technology Cottbus-Senftenberg, who joins our group for her practical semester.\n\n\n\n\n\n\nSep 30, 2024\n\n\n\n\n\n\n\n\n\n\n\nPTBI 2024 Conference wrap-up\n\n\n\nconference\n\nPTBI\n\nPoland\n\nreunion\n\n\n\nThe PTBI 2024 conference brought together brilliant minds 🧠, exciting discussions 💬, and memorable moments with colleagues 🤝. From insightful talks 🎤 to fun reunions 🎉…\n\n\n\n\n\n\nSep 13, 2024\n\n\n\n\n\n\n\n\n\n\n\nBioGenies are heading to Warsaw!\n\n\n\nconference\n\nPTBI\n\nPoland\n\n\n\n🌟 BioGenies will reunite at the PTBI conference in Warsaw! 🇵🇱🌟\n\n\n\n\n\n\nSep 4, 2024\n\n\n\n\n\n\n\n\n\n\n\nBig annoucement!\n\n\n\nnews\n\nAmyloGraph\n\namyloids\n\nhiring\n\nNCN\n\n\n\nWe are thrilled to announce that we are looking for two talented students to join our team for AmyloGraph 2.0 project (2023/51/D/NZ7/02847)\n\n\n\n\n\n\nAug 27, 2024\n\n\n\n\n\n\n\n\n\n\n\nBioGenies on adventure\n\n\n\ntrip\n\nholidays\n\nItaly\n\nDolomites\n\nvia ferrata\n\n\n\nJarek and Krysia conquer the Dolomites on their short summer vacations!\n\n\n\n\n\n\nAug 12, 2024\n\n\n\n\n\n\n\n\n\n\n\nBioGenies went to Canada for a conference\n\n\n\nconference\n\nISBM\n\nCanada\n\n\n\nKrysia and Weronika at Intelligent Systems for Molecular Biology (ISMB) conference\n\n\n\n\n\n\nJul 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n🎓 Celebrating Eva’s MSc Defense! 🎓\n\n\n\nMSc\n\ndefence\n\n\n\nWe are thrilled to announce that Eva has successfully defended her MSc thesis! 🏆📚\n\n\n\n\n\n\nJul 12, 2024\n\n\n\n\n\n\n\n\n\n\n\nBioGenies from University of Wrocław and Institute of Biochemistry and Biophysics, PAS visit BioGenies HQ in Białystok\n\n\n\nnews\n\nreunion\n\ntrip\n\n\n\n🌟 BioGenies reunion at HQ and visit beyond! 🌟\n\n\n\n\n\n\nJul 4, 2024\n\n\n\n\n\n\n\n\n\n\n\nBioGenies went to Japan on a conference\n\n\n\nconference\n\nMetabolomics\n\nJapan\n\n\n\nKrysia attends Metabolomics 2024 in Osaka, Japan! 🌏🇯🇵\n\n\n\n\n\n\nJun 21, 2024\n\n\n\n\n\n\n\n\n\n\n\nML + metabolomics in the clinic: promise vs reality 🧠🧬\n\n\n\npublications\n\nmetabolomics\n\n\n\nA critical review of machine learning-based clinical decision support systems built on metabolomics data, highlighting opportunities, pitfalls, and future directions.\n\n\n\nBioGenies Lab\n\n\nJun 18, 2024\n\n\n\n\n\n\n\n\n\n\n\nBioGenies visit to our colleagues from the Group of Amyloid Research at Vilnius University\n\n\n\nnews\n\nLithuania\n\ntrip\n\n\n\n🌍 🇱🇹 BioGenies on the move: Visiting Vilnius University and Trakai Island Castle!\n\n\n\n\n\n\nJun 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n🎉 Exciting news: Michał awarded NCN Sonata 19 Grant! 🎉\n\n\n\ngrants\n\nNCN\n\nnews\n\n\n\nResults of the Sonata 19 grant contest organized by the National Science Center Poland were announced today!\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n2nd Machine Learning 4 Non-Globular Proteins Meeting 2024\n\n\n\nconference\n\nML4NGP\n\nCOST Actions\n\nGreece\n\n\n\nMichał, Valen and Jarek went on a conference 🏛🔱🌊🇬🇷\n\n\n\n\n\n\nMay 18, 2024\n\n\n\n\n\n\n\n\n\n\n\nOfficial beginning of Bioinformatics and Multiomics Analysis Laboratory\n\n\n\nnews\n\n\n\n🎉 Official launch of Bioinformatics and Multiomics Analysis Laboratory! 🎉\n\n\n\n\n\n\nMay 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nNanoString nCounter data analysis: challenges, workflows & best practices 🧬📊\n\n\n\npublications\n\n\n\nA comprehensive review of NanoString nCounter data processing workflows, highlighting key steps, challenges and available bioinformatics tools for mRNA and miRNA analysis.\n\n\n\nBioGenies Lab\n\n\nApr 30, 2024\n\n\n\n\n\n\n\n\n\n\n\nimputomics: taming missing values in metabolomics data 🧬🧩\n\n\n\npublications\n\nmetabolomics\n\n\n\nimputomics is a web server and R package providing a unified interface for 40+ missing value imputation algorithms, enabling robust and reproducible metabolomics data…\n\n\n\nBioGenies Lab\n\n\nFeb 20, 2024\n\n\n\n\n\n\n\n\n\n\n\naSynPEP-DB: mining peptides against Parkinson’s 🧬🧠\n\n\n\npublications\n\npeptides\n\n\n\nA database of biogenic peptides predicted to inhibit α-synuclein aggregation, enabling peptide-based therapeutic discovery.\n\n\n\nBioGenies Lab\n\n\nNov 27, 2023\n\n\n\n\n\n\n\n\n\n\n\nAmyloids don’t aggregate alone 🤝🧬 Meet AmyloGraph\n\n\n\npublications\n\namyloids\n\n\n\nAmyloGraph is a curated database of experimentally validated amyloid–amyloid interactions, enabling systematic exploration of cross-seeding and aggregation modulation.\n\n\n\nBioGenies Lab\n\n\nOct 16, 2023\n\n\n\n\n\n\n\n\n\n\n\nPlastoGram: decoding protein localization inside plastids 🌿🧬\n\n\n\npublications\n\n\n\nPlastoGram is an ensemble machine learning model for predicting subplastid localization and protein origin, enabling more accurate plastid protein annotation.\n\n\n\nBioGenies Lab\n\n\nMay 24, 2023\n\n\n\n\n\n\n\n\n\n\n\nShort amyloids ≠ antimicrobial peptides? 🧬❌🦠\n\n\n\npublications\n\npeptides\n\n\n\nExperimental validation reveals that predicted antimicrobial amyloids lack real activity, highlighting a major gap in AMP datasets.\n\n\n\nBioGenies Lab\n\n\nJan 2, 2023\n\n\n\n\n\n\n\n\n\n\n\nThe peptide prediction ecosystem is exploding 🤯🧬\n\n\n\npublications\n\npeptides\n\n\n\nA large-scale review of peptide activity prediction tools reveals rapid growth, reproducibility issues and emerging trends in ML-based peptide bioinformatics.\n\n\n\nBioGenies Lab\n\n\nNov 24, 2022\n\n\n\n\n\n\n\n\n\n\n\nAre AMP models lying to us? 🤖🧬 The benchmarking problem\n\n\n\npublications\n\npeptides\n\n\n\nA large-scale study reveals that antimicrobial peptide predictors are heavily biased due to how negative datasets are constructed.\n\n\n\nBioGenies Lab\n\n\nSep 1, 2022\n\n\n\n\n\n\n\n\n\n\n\nqPCR curves, but make it ML 🤖🧬 Introducing PCRedux\n\n\n\npublications\n\n\n\nPCRedux is an R toolkit for feature extraction and machine learning on qPCR amplification curves, enabling reproducible and explainable analysis.\n\n\n\nBioGenies Lab\n\n\nAug 21, 2022\n\n\n\n\n\n\n\n\n\n\n\nCan ML predictors detect mislabeled amyloids? 🧠🧬\n\n\n\npublications\n\namyloids\n\n\n\nA fascinating study showing that amyloid prediction tools can identify misannotated training data, even when those wrong labels were part of the training set.\n\n\n\nBioGenies Lab\n\n\nApr 26, 2021\n\n\n\n\n\n\nNo matching items"
+    "text": "Next stop, Geneva! Krysia is heading for a postdoc 🇨🇭🎓🚀\n\n\n\nTeam\n\n\n\nKrysia will soon begin a postdoc at the University of Geneva, working with Jeffrey Näf 🇨🇭📊! We’re celebrating her next scientific chapter, while trying to work out how to…\n\n\n\nBioGenies Lab\n\n\nSep 21, 2026\n\n\n\n\n\n\n\n\n\n\n\nBioGenies at PTBI 2026 in Poznań! 🧬🎤🇵🇱\n\n\n\nConferences & events\n\nPoland\n\nPTBI\n\n\n\nMichał, Krysia, Valen and Mariia represented BioGenies at PTBI 2026 in Poznań 🇵🇱🎤! From AI governance to amyloid–antibody interactions, imputation scoring and TickPacket.…\n\n\n\nBioGenies Lab\n\n\nSep 18, 2026\n\n\n\n\n\n\n\n\n\n\n\nAsia conquers the SLOPE and defends her MSc! 🎓📊🥳\n\n\n\nAchievements\n\nTeam\n\n\n\nAsia has successfully defended her MSc thesis at the University of Wrocław! 🎓📊 Her work brings Adaptive Bayesian SLOPE to binary classification, with Michał as…\n\n\n\nBioGenies Lab\n\n\nSep 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nMichał talks reproducibility at Bioinformatics Community Meetup #5 💻🧬 🇵🇱\n\n\n\nPoland\n\nConferences & events\n\n\n\nMichał joined Bioinformatics Community Meetup #5 in Kraków 🇵🇱 as a panelist discussing reproducible bioinformatics research. From good code and data sharing to the…\n\n\n\nBioGenies Lab\n\n\nJul 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nBioGenies at the 4th ML4NGP Meeting in Warsaw! 🧬🤖🇵🇱\n\n\n\nPoland\n\nCOST Actions\n\nConferences & events\n\n\n\nValen, Jarek, Mariia, Damian and Oriol joined the 4th ML4NGP Meeting in Warsaw 🇵🇱 - with posters, Oriol’s Thursday talk, sightseeing, craft beers, social dinner, good…\n\n\n\nBioGenies Lab\n\n\nJun 8, 2026\n\n\n\n\n\n\n\n\n\n\n\nHaDeX2: HDX-MS analysis tool for protein dynamics (Bioinformatics 2026) 🧬\n\n\n\nPublications\n\n\n\nHaDeX2 is a bioinformatics tool for hydrogen–deuterium exchange mass spectrometry (HDX-MS) data analysis, enabling multi-dimensional statistical analysis and visualization…\n\n\n\nBioGenies Lab\n\n\nMar 16, 2026\n\n\n\n\n\n\n\n\n\n\n\nJarek and Julia escape winter at the ML4NGP Training School in Seville! 🧬🤖🌞🇪🇸\n\n\n\nSpain\n\nCOST Actions\n\nConferences & events\n\n\n\nJarek and Julia attended the ML4NGP Training School in Seville 🇪🇸, learning about machine learning for non-globular proteins 🧬🤖 and temporarily escaping the -15°C Polish…\n\n\n\nBioGenies Lab\n\n\nMar 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBioGenies shine at the Rector’s Awards! 🏆🎓✨\n\n\n\nAchievements\n\n\n\nA proud day for BioGenies! 🎉 Michał and Jarek received First Degree Rector’s Awards for publications 🏆📚, Valen earned a Second Degree award, Michał was additionally…\n\n\n\nBioGenies Lab\n\n\nDec 16, 2025\n\n\n\n\n\n\n\n\n\n\n\nOriol visits BioGenies from sunny Barcelona! 🇪🇸🧬🕷️\n\n\n\nTeam\n\nNAWA\n\n\n\nOur collaborator Oriol from the Autonomous University of Barcelona 🇪🇸 visited Białystok through the NAWA STER programme 🇵🇱 to work with Michał on StriFi — a…\n\n\n\nBioGenies Lab\n\n\nDec 8, 2025\n\n\n\n\n\n\n\n\n\n\n\nMichał hacks away at BioHackathon Europe 2025 in Berlin! 💻🧬🚀\n\n\n\nConferences & events\n\nGermany\n\nELIXIR\n\n\n\nMichał joined BioHackathon Europe 2025 in Berlin, organised by ELIXIR Europe 💻🧬, an intense week of coding, data wrangling and open science, and a huge opportunity for…\n\n\n\nBioGenies Lab\n\n\nNov 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeronika defends her PhD with distinction! 🎓🌟\n\n\n\nTeam\n\nAchievements\n\n\n\nHuge congratulations to Weronika, who defended her PhD thesis on high-resolution H/D exchange MS data 🎓🔬 with distinction! Weronika celebrated first at IBB PAS and then…\n\n\n\nBioGenies Lab\n\n\nNov 12, 2025\n\n\n\n\n\n\n\n\n\n\n\nBioGenies at PTBI 2025 in Białystok! 🧬🎤🥞\n\n\n\nConferences & events\n\nPTBI\n\nPoland\n\n\n\nBioGenies rocked PTBI 2025 in Białystok! 🎉 Michał and Valen gave talks, Mariia, Asia and Jarek flash talks + posters, we joined PTBI 🇵🇱, voted for a new CEO 🗳, and…\n\n\n\nBioGenies Lab\n\n\nSep 18, 2025\n\n\n\n\n\n\n\n\n\n\n\nMariia starts her PhD at UMB! 🎓🦠\n\n\n\nTeam\n\nAchievements\n\n\n\n🎉 Huge congratulations to Mariia, who just joined the international PhD programme at the Medical University of Białystok! 🌍 She’ll be developing cutting-edge…\n\n\n\nBioGenies Lab\n\n\nSep 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSonor defends his MSc with flying colors! 🎓🥳\n\n\n\nTeam\n\nAchievements\n\n\n\nHuge congratulations to Sonor, who just defended his MSc thesis Biomedical Text Classification with Pre-trained Language Models with the best possible grade 💯🌟! His work…\n\n\n\nBioGenies Lab\n\n\nSep 16, 2025\n\n\n\n\n\n\n\n\n\n\n\nFrom microbes to medicine 💊🦠, Valen’s NCN Miniatura grant success!\n\n\n\nGrants\n\nNCN\n\n\n\nCongrats to Valen 🎉 for receiving an NCN Miniatura grant! The LIMAD project will explore how microbes 🦠 influence harmful protein build-up in Alzheimer’s and Parkinson’s…\n\n\n\nBioGenies Lab\n\n\nSep 15, 2025\n\n\n\n\n\n\n\n\n\n\n\nLLPS datasets & benchmarking: bringing order to condensate chaos 🧬📊\n\n\n\nPublications\n\n\n\nWe present curated datasets of proteins involved in liquid–liquid phase separation (LLPS), enabling robust benchmarking and improved machine learning predictions in…\n\n\n\nBioGenies Lab\n\n\nJul 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n🎓 Career highlights: Mariia at UMB and Jarek’s NCN Poland Miniatura grant!\n\n\n\nTeam\n\nGrants\n\nNCN\n\n\n\nBig news, Mariia starts at UMB and applies for a PhD, while Jarek gets NCN Miniatura to grow his imputomics project! 🎉\n\n\n\nBioGenies Lab\n\n\nJul 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n🏅 Ronja wins BTU Women’s Advancement Award! 🌟!\n\n\n\nAchievements\n\nErasmus+\n\n\n\nCelebrating Ronja Tittel’s outstanding contribution in her praxissemester with us and her award at BTU Cottbus-Senftenberg!\n\n\n\nBioGenies Lab\n\n\nJul 2, 2025\n\n\n\n\n\n\n\n\n\n\n\n🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!\n\n\n\nConferences & events\n\nCzech Republic\n\nMetabolomics\n\n\n\nOur team flew out to Prague for the Metabolomics 2025 meeting—posters, gifts, air conditioning and plenty of food!\n\n\n\nBioGenies Lab\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n🌳 BioGenies retreat in Wrocław from June 4 till 7, 2025\n\n\n\nTeam\n\nPoland\n\n\n\nTeam fun and productivity at our Wrocław retreat: pizzas, stamp hunt at Arboretum, seminars, hiking, cocktails (healthy, non-alchocholic) and more 😄\n\n\n\nBioGenies Lab\n\n\nJun 23, 2025\n\n\n\n\n\n\n\n\n\n\n\n🌍 Welcoming Krzysztof Poterlowicz from ELIXIR‑UK! 🚀\n\n\n\nELIXIR\n\nTeam\n\n\n\nExcited to host Prof. Krzysztof Poterlowicz (University of Bradford & ELIXIR‑UK) to support our lab’s journey toward full ELIXIR integration.\n\n\n\nBioGenies Lab\n\n\nJun 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n🌟 Highlights from the 3rd ML4NGP Conference in Vilnius!🌟\n\n\n\nConferences & events\n\nCOST Actions\n\nLithuania\n\n\n\nMichał, Jarek, Valen and Mariia presented posters at the ML4NGP Meeting, a fantastic mix of science, food and networking!\n\n\n\nBioGenies Lab\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\nAmyloid cross-interactions: how proteins influence each other’s aggregation 🧬🧊\n\n\n\nPublications\n\n\n\nA comprehensive review of experimental methods to study amyloid cross-interactions, highlighting how proteins modulate each other’s aggregation and why combining techniques…\n\n\n\nBioGenies Lab\n\n\nMay 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n🎉 OneTick project awarded MSCA Staff Exchanges grant!\n\n\n\nGrants\n\nMarie Skłodowska-Curie Actions\n\nHorizon Europe\n\n\n\nAnother huge win for BioGenies! Our first MSCA Staff Exchanges project, OneTick, officially funded by the European Commission!\n\n\n\nBioGenies Lab\n\n\nMay 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n🎉 Jarek awarded Horizon Europe ERA Talents grant!\n\n\n\nMarie Skłodowska-Curie Actions\n\nHorizon Europe\n\nWIDERA\n\n\n\nFrom MSCA near-miss to ERA Talents success, BioGenies score again! 🇪🇺💪 . Next stop: Life Sciences Center at Vilnius University\n\n\n\nBioGenies Lab\n\n\nMay 19, 2025\n\n\n\n\n\n\n\n\n\n\n\nHRaDeX: high-resolution HDX–MS analysis made simple ⚙️🧬\n\n\n\nPublications\n\n\n\nA new R package and web server (HRaDeX) enabling high-resolution analysis of HDX–MS data by reconstructing residue-level deuterium uptake rates from peptide-level…\n\n\n\nBioGenies Lab\n\n\nMay 19, 2025\n\n\n\n\n\n\n\n\n\n\n\nJakub joins Google! 🚀 Our ML beast in the big leagues\n\n\n\nTeam\n\nAchievements\n\n\n\nFrom BioGenies to Google, Jakub is now working on C++ projects for OpenAI but he’s still part of the family!\n\n\n\nBioGenies Lab\n\n\nMay 18, 2025\n\n\n\n\n\n\n\n\n\n\n\nTicks, trails & travel, Science and short city break adventures 🧬🧗‍♀️🌍\n\n\n\nConferences & events\n\nFrance\n\nGermany\n\nTeam\n\n\n\nMichał shared urban tick research in Weimar, while Jarek, Weronika, and Krysia took a well-earned adventure break in Montpellier!\n\n\n\nBioGenies Lab\n\n\nApr 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFarewell to Ronja, our first Erasmus+ student! 🇩🇪💙\n\n\n\nErasmus+\n\nTeam\n\n\n\nRonja’s Praxissemester with us has come to an end. From food feasts to cultural trips and a dramatic train station farewell – here’s how we spent the last days together!\n\n\n\nBioGenies Lab\n\n\nFeb 24, 2025\n\n\n\n\n\n\n\n\n\n\n\nOneTick proposal submitted & Michał’s well-deserved break! 🚀🌴\n\n\n\nGrants\n\nMarie Skłodowska-Curie Actions\n\n\n\nWe’ve officially submitted our OneTick proposal for MSCA Staff Exchanges and Michał is finally taking a holiday after seven years!\n\n\n\nBioGenies Lab\n\n\nFeb 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFarewell to Eva, our first departing Erasmus+ student! 🎓💙\n\n\n\nErasmus+\n\nTeam\n\n\n\nAfter an amazing Erasmus experience, Eva says goodbye to our lab. A week full of memories, pierogi, karaoke, and adventures!\n\n\n\nBioGenies Lab\n\n\nJan 30, 2025\n\n\n\n\n\n\n\n\n\n\n\nValen Featured on NAWA Podcast! 🎙️\n\n\n\nTeam\n\nNAWA\n\n\n\nValen discusses our lab’s exciting science and research projects on the NAWA podcast.\n\n\n\nBioGenies Lab\n\n\nJan 10, 2025\n\n\n\n\n\n\n\n\n\n\n\nWriting OneTick Grant for Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges 🎯\n\n\n\nGrants\n\nMarie Skłodowska-Curie Actions\n\n\n\nMichał, Jarek, and Valen are hard at work preparing a OneTick grant for the MSCA Staff Exchanges application with a potential consortium of 11 participants!\n\n\n\nBioGenies Lab\n\n\nJan 9, 2025\n\n\n\n\n\n\n\n\n\n\n\nMichał receives First Degree Award from Rector of Medical University of Białystok 🎉\n\n\n\nAchievements\n\n\n\nCongratulations to Michał on being honored with the prestigious First Degree Award for his outstanding publications from 2023!\n\n\n\nBioGenies Lab\n\n\nDec 6, 2024\n\n\n\n\n\n\n\n\n\n\n\nCelebrating our successes 🎉\n\n\n\nTeam\n\nConferences & events\n\n\n\nOn November 14 Michał organised a small party to celebrate our achievements and thank amazing people supporting our journey!\n\n\n\nBioGenies Lab\n\n\nNov 19, 2024\n\n\n\n\n\n\n\n\n\n\n\nWelcome Mariia, from BTU to the BioGenies!\n\n\n\nTeam\n\nErasmus+\n\n\n\nWe’re excited to welcome Mariia Solovianova from BTU, a biotechnology master with wet lab expertise, joining our lab to work on a bioinformatics project involving antibodies…\n\n\n\nBioGenies Lab\n\n\nNov 12, 2024\n\n\n\n\n\n\n\n\n\n\n\nWelcome Eva Arribas to the Lab!\n\n\n\nTeam\n\nErasmus+\n\n\n\nWe’re thrilled to welcome Eva Arribas, a master’s graduate from Salvador Ventura’s lab at the Universitat Autònoma de Barcelona, as she joins us for her Erasmus traineeship!\n\n\n\nBioGenies Lab\n\n\nNov 4, 2024\n\n\n\n\n\n\n\n\n\n\n\nMichał and Jarek secure PARP ‘Granty na Eurogranty’ grant! 🎉\n\n\n\nGrants\n\nPARP\n\n\n\nExciting news! Michał and Jarek have received a grant from PARP (Polish Agency for Enterprise Development) to support the preparation of their MSCA Staff Exchanges…\n\n\n\nBioGenies Lab\n\n\nNov 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nAmyloid databases: mapping the aggregation universe 🧬📊\n\n\n\nPublications\n\n\n\nA comprehensive review of amyloid-related databases, highlighting how experimental data and bioinformatics resources drive advances in protein aggregation research.\n\n\n\nBioGenies Lab\n\n\nOct 30, 2024\n\n\n\n\n\n\n\n\n\n\n\nHUPO 2024 Conference Wrap-Up\n\n\n\nConferences & events\n\nHUPO\n\nGermany\n\n\n\nHighlights from an inspiring week in Dresden with the BioGenies team, filled with scientific sessions, networking, and a taste of Dresden’s culture.\n\n\n\nBioGenies Lab\n\n\nOct 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n🎉 Valen signs a contract with Medical University of Białystok! 🎉\n\n\n\nTeam\n\n\n\nFrom now on, Valen is an official employee of the Clinical Research Centre at the Medical University of Białystok 🏢🎓.\n\n\n\nBioGenies Lab\n\n\nOct 18, 2024\n\n\n\n\n\n\n\n\n\n\n\nPost-doc position in the AmyloGraph 2.0 project\n\n\n\nTeam\n\nNCN\n\nRecruiting\n\n\n\nWe are looking for a post-doc to join our team in AmyloGraph 2.0 project (2023/51/D/NZ7/02847)\n\n\n\nBioGenies Lab\n\n\nOct 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nArrival of Ronja, our new collaborator\n\n\n\nTeam\n\nErasmus+\n\n\n\nWelcoming Ronja, our new collaborator from Brandenburg University of Technology Cottbus-Senftenberg, who joins our group for her practical semester.\n\n\n\nBioGenies Lab\n\n\nSep 30, 2024\n\n\n\n\n\n\n\n\n\n\n\nPTBI 2024 Conference wrap-up\n\n\n\nConferences & events\n\nPTBI\n\nPoland\n\n\n\nThe PTBI 2024 conference brought together brilliant minds 🧠, exciting discussions 💬, and memorable moments with colleagues 🤝. From insightful talks 🎤 to fun reunions 🎉…\n\n\n\nBioGenies Lab\n\n\nSep 13, 2024\n\n\n\n\n\n\n\n\n\n\n\nBioGenies are heading to Warsaw!\n\n\n\nConferences & events\n\nPTBI\n\nPoland\n\n\n\n🌟 BioGenies will reunite at the PTBI conference in Warsaw! 🇵🇱🌟\n\n\n\nBioGenies Lab\n\n\nSep 4, 2024\n\n\n\n\n\n\n\n\n\n\n\nBig annoucement!\n\n\n\nTeam\n\nNCN\n\nRecruiting\n\n\n\nWe are thrilled to announce that we are looking for two talented students to join our team for AmyloGraph 2.0 project (2023/51/D/NZ7/02847)\n\n\n\nBioGenies Lab\n\n\nAug 27, 2024\n\n\n\n\n\n\n\n\n\n\n\nBioGenies on adventure\n\n\n\nTeam\n\nItaly\n\n\n\nJarek and Krysia conquer the Dolomites on their short summer vacations!\n\n\n\nBioGenies Lab\n\n\nAug 12, 2024\n\n\n\n\n\n\n\n\n\n\n\nBioGenies went to Canada for a conference\n\n\n\nConferences & events\n\nISMB\n\nCanada\n\n\n\nKrysia and Weronika at Intelligent Systems for Molecular Biology (ISMB) conference\n\n\n\nBioGenies Lab\n\n\nJul 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n🎓 Celebrating Eva’s MSc Defense! 🎓\n\n\n\nTeam\n\nAchievements\n\n\n\nWe are thrilled to announce that Eva has successfully defended her MSc thesis! 🏆📚\n\n\n\nBioGenies Lab\n\n\nJul 12, 2024\n\n\n\n\n\n\n\n\n\n\n\nBioGenies from University of Wrocław and Institute of Biochemistry and Biophysics, PAS visit BioGenies HQ in Białystok\n\n\n\nTeam\n\n\n\n🌟 BioGenies reunion at HQ and visit beyond! 🌟\n\n\n\nBioGenies Lab\n\n\nJul 4, 2024\n\n\n\n\n\n\n\n\n\n\n\nBioGenies went to Japan on a conference\n\n\n\nConferences & events\n\nMetabolomics\n\nJapan\n\n\n\nKrysia attends Metabolomics 2024 in Osaka, Japan! 🌏🇯🇵\n\n\n\nBioGenies Lab\n\n\nJun 21, 2024\n\n\n\n\n\n\n\n\n\n\n\nML + metabolomics in the clinic: promise vs reality 🧠🧬\n\n\n\nPublications\n\n\n\nA critical review of machine learning-based clinical decision support systems built on metabolomics data, highlighting opportunities, pitfalls, and future directions.\n\n\n\nBioGenies Lab\n\n\nJun 18, 2024\n\n\n\n\n\n\n\n\n\n\n\nBioGenies visit to our colleagues from the Group of Amyloid Research at Vilnius University\n\n\n\nTeam\n\nLithuania\n\n\n\n🌍 🇱🇹 BioGenies on the move: Visiting Vilnius University and Trakai Island Castle!\n\n\n\nBioGenies Lab\n\n\nJun 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n🎉 Exciting news: Michał awarded NCN Sonata 19 Grant! 🎉\n\n\n\nGrants\n\nNCN\n\n\n\nResults of the Sonata 19 grant contest organized by the National Science Center Poland were announced today!\n\n\n\nBioGenies Lab\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n2nd Machine Learning 4 Non-Globular Proteins Meeting 2024\n\n\n\nConferences & events\n\nGreece\n\nCOST Actions\n\n\n\nMichał, Valen and Jarek went on a conference 🏛🔱🌊🇬🇷\n\n\n\nBioGenies Lab\n\n\nMay 18, 2024\n\n\n\n\n\n\n\n\n\n\n\nOfficial beginning of Bioinformatics and Multiomics Analysis Laboratory\n\n\n\nTeam\n\n\n\n🎉 Official launch of Bioinformatics and Multiomics Analysis Laboratory! 🎉\n\n\n\nBioGenies Lab\n\n\nMay 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nNanoString nCounter data analysis: challenges, workflows & best practices 🧬📊\n\n\n\nPublications\n\n\n\nA comprehensive review of NanoString nCounter data processing workflows, highlighting key steps, challenges and available bioinformatics tools for mRNA and miRNA analysis.\n\n\n\nBioGenies Lab\n\n\nApr 30, 2024\n\n\n\n\n\n\n\n\n\n\n\nimputomics: taming missing values in metabolomics data 🧬🧩\n\n\n\nPublications\n\n\n\nimputomics is a web server and R package providing a unified interface for 40+ missing value imputation algorithms, enabling robust and reproducible metabolomics data…\n\n\n\nBioGenies Lab\n\n\nFeb 20, 2024\n\n\n\n\n\n\n\n\n\n\n\naSynPEP-DB: mining peptides against Parkinson’s 🧬🧠\n\n\n\nPublications\n\n\n\nA database of biogenic peptides predicted to inhibit α-synuclein aggregation, enabling peptide-based therapeutic discovery.\n\n\n\nBioGenies Lab\n\n\nNov 27, 2023\n\n\n\n\n\n\n\n\n\n\n\nAmyloids don’t aggregate alone 🤝🧬 Meet AmyloGraph\n\n\n\nPublications\n\n\n\nAmyloGraph is a curated database of experimentally validated amyloid–amyloid interactions, enabling systematic exploration of cross-seeding and aggregation modulation.\n\n\n\nBioGenies Lab\n\n\nOct 16, 2023\n\n\n\n\n\n\n\n\n\n\n\nPlastoGram: decoding protein localization inside plastids 🌿🧬\n\n\n\nPublications\n\n\n\nPlastoGram is an ensemble machine learning model for predicting subplastid localization and protein origin, enabling more accurate plastid protein annotation.\n\n\n\nBioGenies Lab\n\n\nMay 24, 2023\n\n\n\n\n\n\n\n\n\n\n\nShort amyloids ≠ antimicrobial peptides? 🧬❌🦠\n\n\n\nPublications\n\n\n\nExperimental validation reveals that predicted antimicrobial amyloids lack real activity, highlighting a major gap in AMP datasets.\n\n\n\nBioGenies Lab\n\n\nJan 2, 2023\n\n\n\n\n\n\n\n\n\n\n\nThe peptide prediction ecosystem is exploding 🤯🧬\n\n\n\nPublications\n\n\n\nA large-scale review of peptide activity prediction tools reveals rapid growth, reproducibility issues and emerging trends in ML-based peptide bioinformatics.\n\n\n\nBioGenies Lab\n\n\nNov 24, 2022\n\n\n\n\n\n\n\n\n\n\n\nAre AMP models lying to us? 🤖🧬 The benchmarking problem\n\n\n\nPublications\n\n\n\nA large-scale study reveals that antimicrobial peptide predictors are heavily biased due to how negative datasets are constructed.\n\n\n\nBioGenies Lab\n\n\nSep 1, 2022\n\n\n\n\n\n\n\n\n\n\n\nqPCR curves, but make it ML 🤖🧬 Introducing PCRedux\n\n\n\nPublications\n\n\n\nPCRedux is an R toolkit for feature extraction and machine learning on qPCR amplification curves, enabling reproducible and explainable analysis.\n\n\n\nBioGenies Lab\n\n\nAug 21, 2022\n\n\n\n\n\n\n\n\n\n\n\nCan ML predictors detect mislabeled amyloids? 🧠🧬\n\n\n\nPublications\n\n\n\nA fascinating study showing that amyloid prediction tools can identify misannotated training data, even when those wrong labels were part of the training set.\n\n\n\nBioGenies Lab\n\n\nApr 26, 2021\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "fibrea.html",
@@ -1237,14 +1237,14 @@
     "href": "fibrea.html#consortium",
     "title": "Functional Interfaces and Biomolecular Rules for Engineered Amyloids",
     "section": "Consortium",
-    "text": "Consortium\n\nFIBREA unites complementary expertise across bioinformatics, simulations, amyloid biology and synthetic biology.\n\n\n\n\nMedical University of Białystok (PL)\n\n\nCoordinator · WP1 and WP6 Leader\n\n\n Computational design\n\n\n Project management\n\n\nLeads molecular grammar development and overall coordination. Expertise in protein informatics, machine learning for amyloids and peptides and FAIR/DOME-compliant data workflows.\n\nLeader:\n\n\n\n\nMichał Burdukiewicz\n\n\n\n\n\n\nVilnius University (LT)\n\n\nWP4 Leader\n\n\n Aggregation assays\n\n\n cryo-EM / TEM / AFM\n\n\nExperimental amyloid specialists performing biophysical characterization, structural validation and independent reproducibility checks.\n\nLeader:\n\n\n\n\nDarius Šulskis\n\n\n\n\n\n\nUniversity of Copenhagen (DK)\n\n\nWP2 Leader\n\n\n Coarse-grained simulations\n\n\nDevelopers of CALVADOS and world leaders in protein folding and aggregation modeling. Provide physics-based constraints and structural descriptors for CFAMs.\n\nLeader:\n\n\n\n\nKresten Lindorff-Larsen\n\n\n\n\n\n\nBilkent University – UNAM (TR)\n\n\nWP3 Leader\n\n\n Curli expression systems\n\n\nExperts in curli-based nanomaterials and biofilm engineering. Optimize host strains, codon usage, fermentation and purification for CFAM production.\n\nLeader:\n\n\n\n\nUrartu Ozgur Safak Seker / Urartu Özgür Şafak Şeker\n\n\n\n\n\n\nAutonomous University of Barcelona (ES)\n\n\nWP5 Leader\n\n\n Functional amyloids\n\n\nFocus on functional CFAMs carrying fluorescent and enzymatic modules. Demonstrate catalytic CFAMs and FRET-based co-assembly.\n\nLeader:\n\n\n\n\nJavier Garcia Pardo"
+    "text": "Consortium\n\nFIBREA unites complementary expertise across bioinformatics, simulations, amyloid biology and synthetic biology.\n\n\n\n\nMedical University of Białystok (PL)\n\n\nCoordinator · WP1 and WP6 Leader\n\n\n Computational design\n\n\n Project management\n\n\nLeads molecular grammar development and overall coordination. Expertise in protein informatics, machine learning for amyloids and peptides and FAIR/DOME-compliant data workflows.\n\nLeader:\n\n\n\n\nMichał Burdukiewicz\n\n\n\n\n\n\nVilnius University (LT)\n\n\nWP4 Leader\n\n\n Aggregation assays\n\n\n cryo-EM / TEM / AFM\n\n\nExperimental amyloid specialists performing biophysical characterization, structural validation and independent reproducibility checks.\n\nLeader:\n\n\n\n\nDarius Šulskis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiddle East Technical University\n\n\nWP3 Leader\n\n\n Curli expression systems\n\n\nExperts in curli-based nanomaterials and biofilm engineering. Optimize host strains, codon usage, fermentation and purification for CFAM production.\n\nLeader:\n\n\n\n\nUrartu Ozgur Safak Seker / Urartu Özgür Şafak Şeker\n\n\n\n\n\n\nAutonomous University of Barcelona (ES)\n\n\nWP5 Leader\n\n\n Functional amyloids\n\n\nFocus on functional CFAMs carrying fluorescent and enzymatic modules. Demonstrate catalytic CFAMs and FRET-based co-assembly.\n\nLeader:\n\n\n\n\nJavier Garcia Pardo"
   },
   {
     "objectID": "fibrea.html#work-packages",
     "href": "fibrea.html#work-packages",
     "title": "Functional Interfaces and Biomolecular Rules for Engineered Amyloids",
     "section": "Work packages",
-    "text": "Work packages\n\nThe work plan is organized into six interlinked WPs, forming a closed design–build–test–learn loop.\n\n\n\n\nWP1\n\n\nDesign of the molecular grammar for CFAMs\n\n\nLead: PL · Type: research (TRL 1–2)\n\n\n AI and sequence design\n\n\n\nDefine biological constraints for secretion-competent constructs.\n\n\nLearn CsgA variability and co-evolution with CsgC.\n\n\nDevelop conditional diffusion models for CFAM design.\n\n\nIntegrate feedback from simulations (WP2) and experiments (WP3–5).\n\n\n\n\n\nWP2\n\n\nCoarse-grained modeling of CFAMs\n\n\nLead: DK · Type: research (TRL 1–2)\n\n\n CALVADOS\n\n\n\nSet up CALVADOS simulations for CFAMs and inhibitors.\n\n\nScreen engineered sequences in silico.\n\n\nExtract structural descriptors for morphology and stability.\n\n\nCalibrate against data from WP3 and WP4.\n\n\n\n\n\nWP3\n\n\nOptimization of the CFAM expression system\n\n\nLead: TR · Type: development (TRL 2–3)\n\n\n Bioprocess\n\n\n\nSelect host systems and design synthetic genes.\n\n\nOptimize codon usage and expression constructs.\n\n\nCompare batch vs continuous fermentation.\n\n\nImprove purification and confirm functional integrity.\n\n\n\n\n\nWP4\n\n\nAssessment of uniform amyloid fibrillation\n\n\nLead: LT · Type: research (TRL 2–3)\n\n\n Structure\n\n\n\nBiophysical assays (ThT, Congo Red, Amytracker, CD, FTIR).\n\n\nTEM and AFM imaging of fibrils.\n\n\nCryo-EM structures of selected CFAM fibrils.\n\n\nInhibition studies with CsgC variants.\n\n\n\n\n\nWP5\n\n\nHarnessing material properties of CFAMs\n\n\nLead: ES · Type: development and demo (TRL 3)\n\n\n Function\n\n\n\nAssess amyloid aggregation of functional CFAM fusions.\n\n\nValidate GFP/YFP-based co-assembly and FRET.\n\n\nDemonstrate dual-enzyme CFAM catalytic cascades.\n\n\nTest inter-lab reproducibility of fibrillization and activity.\n\n\n\n\n\nWP6\n\n\nConsortium management and dissemination\n\n\nLead: PL\n\n\n Coordination\n\n\n\nScientific, administrative, and financial coordination.\n\n\nMattermost-based internal communication and data sharing.\n\n\nOpen Science, FAIR data, and RRI implementation.\n\n\nWebsite, outreach, and training for early-career researchers."
+    "text": "Work packages\n\nThe work plan is organized into six interlinked WPs, forming a closed design–build–test–learn loop.\n\n\n\n\nWP1\n\n\nDesign of the molecular grammar for CFAMs\n\n\nLead: PL · Type: research (TRL 1–2)\n\n\n AI and sequence design\n\n\n\nDefine biological constraints for secretion-competent constructs.\n\n\nLearn CsgA variability and co-evolution with CsgC.\n\n\nDevelop conditional diffusion models for CFAM design.\n\n\nIntegrate feedback from simulations (WP2) and experiments (WP3–5).\n\n\n\n\n\nWP2\n\n\nCoarse-grained modeling of CFAMs\n\n\nLead: PL and ES · Type: research (TRL 1–2)\n\n\n CALVADOS\n\n\n\nSet up CALVADOS simulations for CFAMs and inhibitors.\n\n\nScreen engineered sequences in silico.\n\n\nExtract structural descriptors for morphology and stability.\n\n\nCalibrate against data from WP3 and WP4.\n\n\n\n\n\nWP3\n\n\nOptimization of the CFAM expression system\n\n\nLead: TR · Type: development (TRL 2–3)\n\n\n Bioprocess\n\n\n\nSelect host systems and design synthetic genes.\n\n\nOptimize codon usage and expression constructs.\n\n\nCompare batch vs continuous fermentation.\n\n\nImprove purification and confirm functional integrity.\n\n\n\n\n\nWP4\n\n\nAssessment of uniform amyloid fibrillation\n\n\nLead: LT · Type: research (TRL 2–3)\n\n\n Structure\n\n\n\nBiophysical assays (ThT, Congo Red, Amytracker, CD, FTIR).\n\n\nTEM and AFM imaging of fibrils.\n\n\nCryo-EM structures of selected CFAM fibrils.\n\n\nInhibition studies with CsgC variants.\n\n\n\n\n\nWP5\n\n\nHarnessing material properties of CFAMs\n\n\nLead: ES · Type: development and demo (TRL 3)\n\n\n Function\n\n\n\nAssess amyloid aggregation of functional CFAM fusions.\n\n\nValidate GFP/YFP-based co-assembly and FRET.\n\n\nDemonstrate dual-enzyme CFAM catalytic cascades.\n\n\nTest inter-lab reproducibility of fibrillization and activity.\n\n\n\n\n\nWP6\n\n\nConsortium management and dissemination\n\n\nLead: PL\n\n\n Coordination\n\n\n\nScientific, administrative, and financial coordination.\n\n\nMattermost-based internal communication and data sharing.\n\n\nOpen Science, FAIR data, and RRI implementation.\n\n\nWebsite, outreach, and training for early-career researchers."
   },
   {
     "objectID": "fibrea.html#sustainability-rri-and-data-management",
@@ -1373,337 +1373,337 @@
     "text": "How to withdraw cookie consent:\n\nClear cookies in your browser settings, or\n\nUse the “cookie preferences” link (if shown in the banner)\n\nFor any GDPR-related requests, contact us at the email above."
   },
   {
-    "objectID": "subsite/posts/2024_05_01.html",
-    "href": "subsite/posts/2024_05_01.html",
+    "objectID": "subsite/posts/2024_05_01_start.html",
+    "href": "subsite/posts/2024_05_01_start.html",
     "title": "Official beginning of Bioinformatics and Multiomics Analysis Laboratory",
     "section": "",
     "text": "We are thrilled to announce the official beginning of our Bioinformatics and Multiomics Analysis Laboratory! 🚀\nThis state-of-the-art facility is dedicated to unlocking the mysteries of biological data through cutting-edge computational tools and integrative multiomics approaches.\nOur mission is to empower researchers and scientists with the resources and expertise to analyze complex biological datasets, bridging the gap between raw data and meaningful insights. Whether it’s genomics, transcriptomics, proteomics, or metabolomics, our lab is equipped to provide comprehensive analysis and innovative solutions.\nStay tuned for exciting research projects, collaborations, and workshops that will shape the future!\n🔬 Advancing Science Together!"
   },
   {
-    "objectID": "subsite/posts/2024_05_24.html",
-    "href": "subsite/posts/2024_05_24.html",
+    "objectID": "subsite/posts/2024_05_24_sonata.html",
+    "href": "subsite/posts/2024_05_24_sonata.html",
     "title": "🎉 Exciting news: Michał awarded NCN Sonata 19 Grant! 🎉",
     "section": "",
     "text": "We are proud to announce that Michał has been awarded the prestigious NCN Sonata 19 grant for his project titled “Taming aggregation with AmyloGraph 2.0: a database and prediction models of amyloid self-assembly modulators” 🧬✨\nThis innovative research will focus on expanding AmyloGraph, a comprehensive amyloid interactions database aimed at understanding and controlling the self-assembly of amyloid proteins. Michał’s work promises to make significant contributions to the field of protein aggregation, with potential implications for tackling diseases linked to amyloid formation.\nWe have planned three new positions for the project. Stay tuned for the announcement at the end of summer vacation!"
   },
   {
-    "objectID": "subsite/posts/2024_06_21.html",
-    "href": "subsite/posts/2024_06_21.html",
+    "objectID": "subsite/posts/2024_06_21_metabolomics_jp.html",
+    "href": "subsite/posts/2024_06_21_metabolomics_jp.html",
     "title": "BioGenies went to Japan on a conference",
     "section": "",
     "text": "We’re excited to share that Krysia from our BioGenies team has traveled to Osaka, Japan to participate in the Metabolomics 2024 conference! 🧪✨ This event is a gathering of leading minds in the field of metabolomics, offering a platform to explore the latest research, tools, and technologies that are shaping the future of metabolic studies.\nKrysia engaged with global experts, presenting our team’s work (imputomics), and brought back invaluable insights to push our research forward.\n\nSome new Japanese food\n and original Takoyaki from Osaka."
   },
   {
-    "objectID": "subsite/posts/2024_07_12.html",
-    "href": "subsite/posts/2024_07_12.html",
+    "objectID": "subsite/posts/2024_07_12_eva_msc.html",
+    "href": "subsite/posts/2024_07_12_eva_msc.html",
     "title": "🎓 Celebrating Eva’s MSc Defense! 🎓",
     "section": "",
     "text": "Eva’s presentation was a showcase of her hard work, dedication, and the impressive research she’s conducted.\nThis milestone marks a significant achievement and the culmination of her journey in advancing our understanding in her field.\n\nCongratulations, Eva, on this incredible accomplishment! We’re proud of your achievements and excited to see where your expertise and passion will take you next."
   },
   {
-    "objectID": "subsite/posts/2024_08_12.html",
-    "href": "subsite/posts/2024_08_12.html",
+    "objectID": "subsite/posts/2024_08_12_alleghe.html",
+    "href": "subsite/posts/2024_08_12_alleghe.html",
     "title": "BioGenies on adventure",
     "section": "",
     "text": "This summer, Jarek and Krysia from our BioGenies team took their holiday spirit to new heights by tackling the thrilling via ferrata routes in the Dolomites, near the iconic Mount Civetta! 🧗‍♂️⛰️\n\nAmidst breathtaking views and rugged terrain, they embraced the challenge and adventure of these exhilarating mountain trails. It was a perfect blend of adrenaline and nature, offering a well-deserved break from the lab while exploring one of the most stunning landscapes in the world.\n   \n\nWe didn’t forgot to try Italian pizza!"
   },
   {
-    "objectID": "subsite/posts/2024_09_04.html",
-    "href": "subsite/posts/2024_09_04.html",
+    "objectID": "subsite/posts/2024_09_04_ptbi_waw.html",
+    "href": "subsite/posts/2024_09_04_ptbi_waw.html",
     "title": "BioGenies are heading to Warsaw!",
     "section": "",
-    "text": "We’re beyond excited to announce that the BioGenies —Michał, Jarek, Valen, Krysia, Weronika, and Kasia— are on our way to the Symposium of the Polish Bioinformatics Society!\nThis is your chance to connect with our team and explore the cutting edge of bioinformatics. Whether you’re eager to discuss our latest research 🔬, explore exciting collaboration opportunities 🤝, or simply want to chat with us about our work, we’d love to meet you!\nFeel free to reach out if you want to schedule a meeting or just want to connect over a coffee ☕.\nWe can’t wait to see you in Warsaw! 🎉\nPTBI conference details:\n📅 Date: 11/09/2024 - 13/09/2024\n📍 Venue: Faculty of Electronics and Information Technology, Warsaw University of Technology"
+    "text": "We’re beyond excited to announce that the BioGenies: Michał, Jarek, Valen, Krysia, Weronika, and Kasia are on our way to the Symposium of the Polish Bioinformatics Society!\nThis is your chance to connect with our team and explore the cutting edge of bioinformatics. Whether you’re eager to discuss our latest research 🔬, explore exciting collaboration opportunities 🤝, or simply want to chat with us about our work, we’d love to meet you!\nFeel free to reach out if you want to schedule a meeting or just want to connect over a coffee ☕.\nWe can’t wait to see you in Warsaw! 🎉\nPTBI conference details:\n📅 Date: 11/09/2024 - 13/09/2024\n📍 Venue: Faculty of Electronics and Information Technology, Warsaw University of Technology"
   },
   {
-    "objectID": "subsite/posts/2024_09_30.html",
-    "href": "subsite/posts/2024_09_30.html",
-    "title": "Arrival of Ronja - our new collaborator",
+    "objectID": "subsite/posts/2024_09_30_ronja.html",
+    "href": "subsite/posts/2024_09_30_ronja.html",
+    "title": "Arrival of Ronja, our new collaborator",
     "section": "",
     "text": "We are thrilled to welcome Ronja, our new collaborator from BTU Cottbus-Senftenberg, who has joined us for a practical semester here in Białystok. Ronja’s internship will be a fantastic opportunity for collaboration, exchange of ideas, and shared learning. 🤝\n\n\n\nTo kick off her time here, we decided to explore some of the local flavors and landmarks. Over the weekend, we had the chance to indulge in pierogis 🥟, a beloved Polish dish.\n \nAlong with the food, we also did some sightseeing around Białystok. From the Branicki Palace 🏰 to the scenic parks 🌳, it was a lovely introduction to the city’s history and culture.\n\n\n\nRonja will be working closely with our team on the AmyloGraph 2.0 project, where her contributions will be vital in developing new tools and expanding the database for studying amyloid–amyloid interactions. We’re excited to see the fresh perspectives and energy she will bring to the team. 💡\nWelcome, Ronja, and we hope your stay in Białystok will be both professionally rewarding and personally enriching! 🎓🌟"
   },
   {
-    "objectID": "subsite/posts/2024_09_30.html#first-weekend-pierogis-sightseeing",
-    "href": "subsite/posts/2024_09_30.html#first-weekend-pierogis-sightseeing",
-    "title": "Arrival of Ronja - our new collaborator",
+    "objectID": "subsite/posts/2024_09_30_ronja.html#first-weekend-pierogis-sightseeing",
+    "href": "subsite/posts/2024_09_30_ronja.html#first-weekend-pierogis-sightseeing",
+    "title": "Arrival of Ronja, our new collaborator",
     "section": "",
     "text": "To kick off her time here, we decided to explore some of the local flavors and landmarks. Over the weekend, we had the chance to indulge in pierogis 🥟, a beloved Polish dish.\n \nAlong with the food, we also did some sightseeing around Białystok. From the Branicki Palace 🏰 to the scenic parks 🌳, it was a lovely introduction to the city’s history and culture."
   },
   {
-    "objectID": "subsite/posts/2024_09_30.html#whats-next",
-    "href": "subsite/posts/2024_09_30.html#whats-next",
-    "title": "Arrival of Ronja - our new collaborator",
+    "objectID": "subsite/posts/2024_09_30_ronja.html#whats-next",
+    "href": "subsite/posts/2024_09_30_ronja.html#whats-next",
+    "title": "Arrival of Ronja, our new collaborator",
     "section": "",
     "text": "Ronja will be working closely with our team on the AmyloGraph 2.0 project, where her contributions will be vital in developing new tools and expanding the database for studying amyloid–amyloid interactions. We’re excited to see the fresh perspectives and energy she will bring to the team. 💡\nWelcome, Ronja, and we hope your stay in Białystok will be both professionally rewarding and personally enriching! 🎓🌟"
   },
   {
-    "objectID": "subsite/posts/2024_10_18.html",
-    "href": "subsite/posts/2024_10_18.html",
+    "objectID": "subsite/posts/2024_10_18_valen_contract.html",
+    "href": "subsite/posts/2024_10_18_valen_contract.html",
     "title": "🎉 Valen signs a contract with Medical University of Białystok! 🎉",
     "section": "",
     "text": "After months of preparation and overcoming several hurdles, we are delighted to announce that Valen is now officially part of the Bioinformatics and Multiomics Analyses Laboratory in Clinical Research Centre at the Medical University of Białystok. 🎓📝\nWhile it’s always exciting to welcome new talent to the team, the road to making this happen was challenging. Navigating complexities of paperwork 📝 and bureaucratic processes 🏢 can often feel like a marathon 🏃💨. Opening the position, getting all the documents in order, and coordinating between many people took plenty of determination 💪! But in the end, we triumphed! 🎉✨\n\n\nTo celebrate this exciting milestone, we headed to Choroszcz to enjoy some delicious food 🍽️. Known for its famous mental hospital 🏥, the town offered a unique backdrop for our celebration, and we couldn’t have picked a better place to mark the occasion!\n\n\n\n\nAs Valen settles into his new role, we still have to do some stuff at tax office.\nBut with enough time in Białystok, Valen may become so immersed in the Polish way of life that we’ll soon have to start calling him Walentyn Kościelny! 😄🇵🇱🥟\nWelcome on aboard, Valen! 🚀🎉"
   },
   {
-    "objectID": "subsite/posts/2024_10_18.html#food-fun-and-festivities",
-    "href": "subsite/posts/2024_10_18.html#food-fun-and-festivities",
+    "objectID": "subsite/posts/2024_10_18_valen_contract.html#food-fun-and-festivities",
+    "href": "subsite/posts/2024_10_18_valen_contract.html#food-fun-and-festivities",
     "title": "🎉 Valen signs a contract with Medical University of Białystok! 🎉",
     "section": "",
     "text": "To celebrate this exciting milestone, we headed to Choroszcz to enjoy some delicious food 🍽️. Known for its famous mental hospital 🏥, the town offered a unique backdrop for our celebration, and we couldn’t have picked a better place to mark the occasion!"
   },
   {
-    "objectID": "subsite/posts/2024_10_18.html#a-new-beginning-walentyn-kościelny",
-    "href": "subsite/posts/2024_10_18.html#a-new-beginning-walentyn-kościelny",
+    "objectID": "subsite/posts/2024_10_18_valen_contract.html#a-new-beginning-walentyn-kościelny",
+    "href": "subsite/posts/2024_10_18_valen_contract.html#a-new-beginning-walentyn-kościelny",
     "title": "🎉 Valen signs a contract with Medical University of Białystok! 🎉",
     "section": "",
     "text": "As Valen settles into his new role, we still have to do some stuff at tax office.\nBut with enough time in Białystok, Valen may become so immersed in the Polish way of life that we’ll soon have to start calling him Walentyn Kościelny! 😄🇵🇱🥟\nWelcome on aboard, Valen! 🚀🎉"
   },
   {
-    "objectID": "subsite/posts/2024_11_01.html",
-    "href": "subsite/posts/2024_11_01.html",
+    "objectID": "subsite/posts/2024_11_01_parp.html",
+    "href": "subsite/posts/2024_11_01_parp.html",
     "title": "Michał and Jarek secure PARP ‘Granty na Eurogranty’ grant! 🎉",
     "section": "",
     "text": "We’re proud to announce that Michał and Jarek have been awarded a PARP (Polish Agency for Enterprise Development) “Granty na Eurogranty” grant worth 58,225 PLN! 💰🎉 This funding will support the preparation of their Marie Skłodowska-Curie Actions Staff Exchanges application, paving the way for exciting international collaborations.\nSecuring this grant is a significant step toward creating impactful research collaborations and broadening the horizons of the BioGenies lab.\n\n\nThe MSCA Staff Exchanges program promotes international and interdisciplinary cooperation between academic and non-academic sectors. With this grant, Michał and Jarek aim to lay the groundwork for a competitive proposal, bringing together partners across Europe and beyond 🌍.\n\n\n\nThis funding will help cover essential activities like: - Partner identification and communication 🤝.\n- Proposal writing and consultations ✍️.\n- Administrative support for submission 📑."
   },
   {
-    "objectID": "subsite/posts/2024_11_01.html#boosting-msca-staff-exchanges",
-    "href": "subsite/posts/2024_11_01.html#boosting-msca-staff-exchanges",
+    "objectID": "subsite/posts/2024_11_01_parp.html#boosting-msca-staff-exchanges",
+    "href": "subsite/posts/2024_11_01_parp.html#boosting-msca-staff-exchanges",
     "title": "Michał and Jarek secure PARP ‘Granty na Eurogranty’ grant! 🎉",
     "section": "",
     "text": "The MSCA Staff Exchanges program promotes international and interdisciplinary cooperation between academic and non-academic sectors. With this grant, Michał and Jarek aim to lay the groundwork for a competitive proposal, bringing together partners across Europe and beyond 🌍."
   },
   {
-    "objectID": "subsite/posts/2024_11_01.html#whats-next",
-    "href": "subsite/posts/2024_11_01.html#whats-next",
+    "objectID": "subsite/posts/2024_11_01_parp.html#whats-next",
+    "href": "subsite/posts/2024_11_01_parp.html#whats-next",
     "title": "Michał and Jarek secure PARP ‘Granty na Eurogranty’ grant! 🎉",
     "section": "",
     "text": "This funding will help cover essential activities like: - Partner identification and communication 🤝.\n- Proposal writing and consultations ✍️.\n- Administrative support for submission 📑."
   },
   {
-    "objectID": "subsite/posts/2024_11_12.html",
-    "href": "subsite/posts/2024_11_12.html",
+    "objectID": "subsite/posts/2024_11_12_mariia.html",
+    "href": "subsite/posts/2024_11_12_mariia.html",
     "title": "Welcome Mariia, from BTU to the BioGenies!",
     "section": "",
     "text": "We’re thrilled to introduce Mariia Solovianova to our lab! A biotechnology master’s graduate from BTU Cottbus-Senftenberg with solid wet lab experience 🧬, Mariia is here to dive into bioinformatics. Her first project? Collaborating with Valen and Ronja on amyloid aggregation modulators!\n\n\n\nMariia’s hands-on background in biotechnology will be gathering and organizing data on antibody-amyloid interactions. This project holds exciting potential for insights into therapeutic small molecule design and understanding amyloid diseases at a molecular level. As she transitions to bioinformatics, Mariia will bring her analytical skills into action with our team’s support.\nWelcome aboard, Mariia! 🎉 We’re thrilled to have you in the BioGenies and excited to see the discoveries you and Valen will make together."
   },
   {
-    "objectID": "subsite/posts/2024_11_12.html#bringing-bioinformatics-and-biotechnology-together",
-    "href": "subsite/posts/2024_11_12.html#bringing-bioinformatics-and-biotechnology-together",
+    "objectID": "subsite/posts/2024_11_12_mariia.html#bringing-bioinformatics-and-biotechnology-together",
+    "href": "subsite/posts/2024_11_12_mariia.html#bringing-bioinformatics-and-biotechnology-together",
     "title": "Welcome Mariia, from BTU to the BioGenies!",
     "section": "",
     "text": "Mariia’s hands-on background in biotechnology will be gathering and organizing data on antibody-amyloid interactions. This project holds exciting potential for insights into therapeutic small molecule design and understanding amyloid diseases at a molecular level. As she transitions to bioinformatics, Mariia will bring her analytical skills into action with our team’s support.\nWelcome aboard, Mariia! 🎉 We’re thrilled to have you in the BioGenies and excited to see the discoveries you and Valen will make together."
   },
   {
-    "objectID": "subsite/posts/2024_12_06.html",
-    "href": "subsite/posts/2024_12_06.html",
+    "objectID": "subsite/posts/2024_12_06_rector_award.html",
+    "href": "subsite/posts/2024_12_06_rector_award.html",
     "title": "Michał receives First Degree Award from Rector of Medical University of Białystok 🎉",
     "section": "",
     "text": "We’re thrilled to announce that Michał has been awarded the First Degree Award by the Rector of the Medical University of Białystok in recognition of his exceptional publications from 2023. 🎉📚\nThis award highlights Michał’s dedication to advancing science and his contributions to the field of bioinformatics. His research and publications continue to set high standards and bring pride to our team. 🌟\n\n\nThe entire BioGenies team celebrates this well-deserved recognition and looks forward to seeing Michał achieve even greater milestones in the future. 🥂 Here’s to more success, inspiration, and groundbreaking discoveries ahead!\n\n\n\nphoto by MUB"
   },
   {
-    "objectID": "subsite/posts/2024_12_06.html#congratulations-michał",
-    "href": "subsite/posts/2024_12_06.html#congratulations-michał",
+    "objectID": "subsite/posts/2024_12_06_rector_award.html#congratulations-michał",
+    "href": "subsite/posts/2024_12_06_rector_award.html#congratulations-michał",
     "title": "Michał receives First Degree Award from Rector of Medical University of Białystok 🎉",
     "section": "",
     "text": "The entire BioGenies team celebrates this well-deserved recognition and looks forward to seeing Michał achieve even greater milestones in the future. 🥂 Here’s to more success, inspiration, and groundbreaking discoveries ahead!\n\n\n\nphoto by MUB"
   },
   {
-    "objectID": "subsite/posts/2025_01_10.html",
-    "href": "subsite/posts/2025_01_10.html",
+    "objectID": "subsite/posts/2025_01_10_podcast.html",
+    "href": "subsite/posts/2025_01_10_podcast.html",
     "title": "Valen Featured on NAWA Podcast! 🎙️",
     "section": "",
     "text": "We’re thrilled to share that Valen was featured on the NAWA podcast! 🎙️ In this episode, Valen talked about the fascinating science we’re working on in the lab and highlighted our innovative projects and international collaborations 🌍🔬.\nYou can listen to the podcast here:\n👉 NAWA Podcast - Episode S01E19\n\n\nValen shared insights into:\n- Our lab’s research in amyloids 🔍.\n- The international collaborations and exchange programs that drive our projects 🤝.\n- The challenges and rewards of advancing science in an interdisciplinary environment 🚀.\n\n\n\nA big thank you to NAWA for providing this platform to showcase our work and connect with the broader scientific community 💡.\nTune in to learn more about the exciting work happening at BioGenies!\n\n\n\nPhoto by NAWA"
   },
   {
-    "objectID": "subsite/posts/2025_01_10.html#topics-covered",
-    "href": "subsite/posts/2025_01_10.html#topics-covered",
+    "objectID": "subsite/posts/2025_01_10_podcast.html#topics-covered",
+    "href": "subsite/posts/2025_01_10_podcast.html#topics-covered",
     "title": "Valen Featured on NAWA Podcast! 🎙️",
     "section": "",
     "text": "Valen shared insights into:\n- Our lab’s research in amyloids 🔍.\n- The international collaborations and exchange programs that drive our projects 🤝.\n- The challenges and rewards of advancing science in an interdisciplinary environment 🚀."
   },
   {
-    "objectID": "subsite/posts/2025_01_10.html#thank-you-nawa",
-    "href": "subsite/posts/2025_01_10.html#thank-you-nawa",
+    "objectID": "subsite/posts/2025_01_10_podcast.html#thank-you-nawa",
+    "href": "subsite/posts/2025_01_10_podcast.html#thank-you-nawa",
     "title": "Valen Featured on NAWA Podcast! 🎙️",
     "section": "",
     "text": "A big thank you to NAWA for providing this platform to showcase our work and connect with the broader scientific community 💡.\nTune in to learn more about the exciting work happening at BioGenies!\n\n\n\nPhoto by NAWA"
   },
   {
-    "objectID": "subsite/posts/2025_02_10.html",
-    "href": "subsite/posts/2025_02_10.html",
+    "objectID": "subsite/posts/2025_02_10_onetick.html",
+    "href": "subsite/posts/2025_02_10_onetick.html",
     "title": "OneTick proposal submitted & Michał’s well-deserved break! 🚀🌴",
     "section": "",
     "text": "✅ OneTick Proposal Submitted & Michał’s First Holiday in 7 Years! 🌍🎉\nBig news from BioGenies! After weeks of hard work, paperwork, and coordination, we have officially submitted the OneTick proposal for MSCA Staff Exchanges! 📝🚀 Our consortium consists of 11 amazing participants spanning PL, DE, SE, DK, CZ, ES, FR, IR, NL, AU, and NO. Now, fingers crossed for good results! 🤞\nOn top of that, another milestone—Michał is finally on holiday! 🌴 After seven years of non-stop work, he’s taking a well-deserved break. No grants, no deadlines, just pure relaxation (or at least we hope so! 😆).\nWishing Michał a fantastic holiday and hoping for positive news on OneTick! 🎊"
   },
   {
-    "objectID": "subsite/posts/2025_04_01.html",
-    "href": "subsite/posts/2025_04_01.html",
-    "title": "Ticks, trails & travel – Science and short city break adventures 🧬🧗‍♀️🌍",
+    "objectID": "subsite/posts/2025_04_01_montpellier.html",
+    "href": "subsite/posts/2025_04_01_montpellier.html",
+    "title": "Ticks, trails & travel, Science and short city break adventures 🧬🧗‍♀️🌍",
     "section": "",
     "text": "🧬 Michał at the International Symposium on Ticks and Tick-borne Diseases 🇩🇪\nFrom March 26–28, 2025, Michał attended the International Symposium on Ticks and Tick-borne Diseases in Weimar, where he presented his poster titled:\n\n🪳 “Ticks and the city: investigating ticks and tick-borne diseases in urban and peri-urban environments”\n\nMichał was there together with Prof. Anna Moniuszko-Malinowska, Head of the Department of Infectious Diseases and Neuroinfection, and a key figure in the field. Great to have strong representation from our MUB team! 👏\n\nHe also had the opportunity to do a bit of networking with OneTick consortium members (our MSCA Staff Exchanges proposal is still under evaluation – fingers crossed!) 🧬💬.\n\n\n\n🧗‍♀️ BioGenies’ city break – Montpellier edition 🇫🇷\nWhile Michał was in full science mode, Jarek, Weronika, and Krysia decided to hit pause on lab life and dive into a spontaneous short city break adventure in Montpellier!\n\n🛤️✈️ Train to Wrocław → Flight to Montpellier\nThe adventure begins!\n\n\n\n🧗 Day 1 – First via ferrata\nSunny skies but cold wind in the shadows made the climb extra challenging.\n   \n\n\n🏛️ Quick sightseeing in Montpellier\n\nThe aqueducts were closed, but Jarek tried going around the fence anyway 🙈\n\n\n\n🧗‍♂️ Day 2 – River via ferrata & zipline\nSecond via ferrata directly above the river, with a super fun zipline ride!\n  Video\n\n\n\n🕳️ Cave exploration near Pic Saint-Loup\nBefore heading to the beach, we visited a cool cave near Pic Saint-Loup, mysterious and refreshing!\n\n\n\n🌊 Afternoon at the beach\nCollected seashells and saw beautiful flamingos 🦩\n\n\n\n\n🇵🇱 Return to Poland\nLanded in Cracow, where we were greeted by Pope John Paul II 🧳🇵🇱\n Sometimes you need a dose of nature and adventure to recharge, and that’s exactly what they did! 💙\n\nThis spontaneous journey was the perfect mix of adventure, fun, and relaxation, and a great reminder that BioGenies know how to balance science and life 💙."
   },
   {
-    "objectID": "subsite/posts/2025_05_19.html",
-    "href": "subsite/posts/2025_05_19.html",
+    "objectID": "subsite/posts/2025_05_19_jarek_fellowship.html",
+    "href": "subsite/posts/2025_05_19_jarek_fellowship.html",
     "title": "🎉 Jarek awarded Horizon Europe ERA Talents grant!",
     "section": "",
     "text": "We’re thrilled to announce that Jarek has received a Horizon Europe ERA Talents Postdoctoral Fellowship! 🌟 This came as a surprise twist after he submitted a MSCA Postdoctoral Fellowship proposal, which, while not funded, still passed all threshold points. For a first European-level application, that’s already a huge win! 💪\nBut here’s the plot twist: 💡 his application was automatically moved to the ERA Talents scheme. We had already lost hope…\n…Until last week, out of the blue, we received a notification from the European Commission:\n\n“Congratulations. Your proposal has reached the stage of Grant Agreement preparation.”\n\n\nCue the celebration! 🎊🥳🎊🥳🎊🥳\n\n\nStarting early next year, Jarek will begin a two-year research stay at Vilnius University 🇱🇹. There, he’ll:\n\n🔬 Study the impact of small molecules on amyloid polymorphism\n\n🧩 Apply the findings to expand the AmyloGraph database\n\n🤝 Collaborate closely with top researchers in the field\n\nThis project promises to push forward our understanding of amyloid structures and interactions and feed valuable insights into our growing infrastructure!\n\n\nWe’re incredibly proud of Jarek for this achievement and perseverance. From nearly missing out to scoring an amazing opportunity, this grant will open new doors for international collaboration and career development!"
   },
   {
-    "objectID": "subsite/posts/2025_05_19.html#two-year-adventure-in-vilnius",
-    "href": "subsite/posts/2025_05_19.html#two-year-adventure-in-vilnius",
+    "objectID": "subsite/posts/2025_05_19_jarek_fellowship.html#two-year-adventure-in-vilnius",
+    "href": "subsite/posts/2025_05_19_jarek_fellowship.html#two-year-adventure-in-vilnius",
     "title": "🎉 Jarek awarded Horizon Europe ERA Talents grant!",
     "section": "",
     "text": "Starting early next year, Jarek will begin a two-year research stay at Vilnius University 🇱🇹. There, he’ll:\n\n🔬 Study the impact of small molecules on amyloid polymorphism\n\n🧩 Apply the findings to expand the AmyloGraph database\n\n🤝 Collaborate closely with top researchers in the field\n\nThis project promises to push forward our understanding of amyloid structures and interactions and feed valuable insights into our growing infrastructure!\n\n\nWe’re incredibly proud of Jarek for this achievement and perseverance. From nearly missing out to scoring an amazing opportunity, this grant will open new doors for international collaboration and career development!"
   },
   {
-    "objectID": "subsite/posts/2025_06_17.html",
-    "href": "subsite/posts/2025_06_17.html",
+    "objectID": "subsite/posts/2025_06_17_ml4ngp_lt.html",
+    "href": "subsite/posts/2025_06_17_ml4ngp_lt.html",
     "title": "🌟 Highlights from the 3rd ML4NGP Conference in Vilnius!🌟",
     "section": "",
     "text": "We have returned from the 3rd ML4NGP Meeting, top-tier conference on machine learning for non-globular proteins, held May 20–23 in vibrant city of Vilnius 🇱🇹.\n\nFrom our team Michał, Jarek, Valen and Mariia actively proudly presented their posters and actively participated in engaging scientific discussions with global peers 🌍✨\n\n\n\nWhat better way to start a scientific adventure than with a classic fuel-up at the iconic Golden Arches in Augustów, our always stop when visiting Vilnius? Our first stop was a hearty break for some quick, comfort food, because brilliant minds run on good food! 😋🍔\n\n\n\n\nThe very first evening brought a heartwarming reunion with colleagues from the Autonomous University of Barcelona 🇪🇸 and the Technical University of Denmark 🇩🇰 during a cozy dinner at London Grill restaurant. Great food, great company and lots of laughs! 🥂🍽️\n \n\n\n\nThe first day was packed with fascinating lectures, groundbreaking research and vibrant discussions. Every session challenged and inspired us to think deeper and push further, exactly what ML4NGP is all about 💡💻\n\n\n\nThe day ended at the historic Vilnius University main building with the Welcome Reception, followed by a fun evening at local food trucks. Party was top-notch! 🌇🎉🌮\n\n\n\nOne of the best parts of any conference is meeting incredible people and ML4NGP 2025 was no exception. We connected with inspiring researchers from Spain 🇪🇸, Germany 🇩🇪, Canada 🇨🇦, Armenia 🇦🇲, Italy 🇮🇹, Argentina 🇦🇷 and beyond! 🌐✨\nHere’s a joyful group photo after our final lunch, a perfect snapshot capturing the spirit of collaboration and friendship forged over these unforgettable days 📸❤️\n\n\n\n\nWe’re incredibly grateful to have been part of such a dynamic and forward-thinking community. ML4NGP 2025 has fueled our passion and sparked new ideas that will shape our amyloid and LLPS work ahead.\nCan’t wait to see what the next year holds! 🚀🔬💙"
   },
   {
-    "objectID": "subsite/posts/2025_06_17.html#arrival-and-foodie-adventures",
-    "href": "subsite/posts/2025_06_17.html#arrival-and-foodie-adventures",
+    "objectID": "subsite/posts/2025_06_17_ml4ngp_lt.html#arrival-and-foodie-adventures",
+    "href": "subsite/posts/2025_06_17_ml4ngp_lt.html#arrival-and-foodie-adventures",
     "title": "🌟 Highlights from the 3rd ML4NGP Conference in Vilnius!🌟",
     "section": "",
     "text": "What better way to start a scientific adventure than with a classic fuel-up at the iconic Golden Arches in Augustów, our always stop when visiting Vilnius? Our first stop was a hearty break for some quick, comfort food, because brilliant minds run on good food! 😋🍔"
   },
   {
-    "objectID": "subsite/posts/2025_06_17.html#reunion-under-the-london-grill",
-    "href": "subsite/posts/2025_06_17.html#reunion-under-the-london-grill",
+    "objectID": "subsite/posts/2025_06_17_ml4ngp_lt.html#reunion-under-the-london-grill",
+    "href": "subsite/posts/2025_06_17_ml4ngp_lt.html#reunion-under-the-london-grill",
     "title": "🌟 Highlights from the 3rd ML4NGP Conference in Vilnius!🌟",
     "section": "",
     "text": "The very first evening brought a heartwarming reunion with colleagues from the Autonomous University of Barcelona 🇪🇸 and the Technical University of Denmark 🇩🇰 during a cozy dinner at London Grill restaurant. Great food, great company and lots of laughs! 🥂🍽️"
   },
   {
-    "objectID": "subsite/posts/2025_06_17.html#busy-days-and-brilliant-science",
-    "href": "subsite/posts/2025_06_17.html#busy-days-and-brilliant-science",
+    "objectID": "subsite/posts/2025_06_17_ml4ngp_lt.html#busy-days-and-brilliant-science",
+    "href": "subsite/posts/2025_06_17_ml4ngp_lt.html#busy-days-and-brilliant-science",
     "title": "🌟 Highlights from the 3rd ML4NGP Conference in Vilnius!🌟",
     "section": "",
     "text": "The first day was packed with fascinating lectures, groundbreaking research and vibrant discussions. Every session challenged and inspired us to think deeper and push further, exactly what ML4NGP is all about 💡💻"
   },
   {
-    "objectID": "subsite/posts/2025_06_17.html#welcome-reception-and-food-truck-fiesta",
-    "href": "subsite/posts/2025_06_17.html#welcome-reception-and-food-truck-fiesta",
+    "objectID": "subsite/posts/2025_06_17_ml4ngp_lt.html#welcome-reception-and-food-truck-fiesta",
+    "href": "subsite/posts/2025_06_17_ml4ngp_lt.html#welcome-reception-and-food-truck-fiesta",
     "title": "🌟 Highlights from the 3rd ML4NGP Conference in Vilnius!🌟",
     "section": "",
     "text": "The day ended at the historic Vilnius University main building with the Welcome Reception, followed by a fun evening at local food trucks. Party was top-notch! 🌇🎉🌮"
   },
   {
-    "objectID": "subsite/posts/2025_06_17.html#new-connections-and-lasting-memories",
-    "href": "subsite/posts/2025_06_17.html#new-connections-and-lasting-memories",
+    "objectID": "subsite/posts/2025_06_17_ml4ngp_lt.html#new-connections-and-lasting-memories",
+    "href": "subsite/posts/2025_06_17_ml4ngp_lt.html#new-connections-and-lasting-memories",
     "title": "🌟 Highlights from the 3rd ML4NGP Conference in Vilnius!🌟",
     "section": "",
     "text": "One of the best parts of any conference is meeting incredible people and ML4NGP 2025 was no exception. We connected with inspiring researchers from Spain 🇪🇸, Germany 🇩🇪, Canada 🇨🇦, Armenia 🇦🇲, Italy 🇮🇹, Argentina 🇦🇷 and beyond! 🌐✨\nHere’s a joyful group photo after our final lunch, a perfect snapshot capturing the spirit of collaboration and friendship forged over these unforgettable days 📸❤️"
   },
   {
-    "objectID": "subsite/posts/2025_06_17.html#looking-ahead",
-    "href": "subsite/posts/2025_06_17.html#looking-ahead",
+    "objectID": "subsite/posts/2025_06_17_ml4ngp_lt.html#looking-ahead",
+    "href": "subsite/posts/2025_06_17_ml4ngp_lt.html#looking-ahead",
     "title": "🌟 Highlights from the 3rd ML4NGP Conference in Vilnius!🌟",
     "section": "",
     "text": "We’re incredibly grateful to have been part of such a dynamic and forward-thinking community. ML4NGP 2025 has fueled our passion and sparked new ideas that will shape our amyloid and LLPS work ahead.\nCan’t wait to see what the next year holds! 🚀🔬💙"
   },
   {
-    "objectID": "subsite/posts/2025_06_23.html",
-    "href": "subsite/posts/2025_06_23.html",
+    "objectID": "subsite/posts/2025_06_23_arboretum.html",
+    "href": "subsite/posts/2025_06_23_arboretum.html",
     "title": "🌳 BioGenies retreat in Wrocław from June 4 till 7, 2025",
     "section": "",
     "text": "Our lab had an amazing team retreat in Wrocław, packed with 🍕 pizza, 🎂 cake pops, forest adventures, board games and seminars, a mix of fun and productivity!\n\n\n\n\nWe kicked off our retreat with doing big groceries 🧺🍓🍉🥑🥦🍆\n\n\n\nKicked off with a pizza fest and Asia’s cake pops (they where so filling 😋)\n\n\n\nMichał presented last year’s achievements and future goals—cheers to all the team’s hard work! 🥂\n\n\n\n🤞🏻 Fingers cross for Weronika and her PhD defence this year. Thesis was finally submitted and she is ready to defend it in September 🎉\nCaught up with friends from STWUR, and Medical University of Wrocław sparking energizing conversations.\n\n\n\n\n\n\nWe ventured to the lush Arboretum Wojsławice (a stunning botanical garden near Niemcza) 🌳🌸🦋🪑\n\nHighlights included:\n\nA guided walk with the Arboretum director and UWr rector.\n\n\n\nHunting down collectible stamps around the trails—and earning prizes 🏅\n\n\n\nSpotting a friendly cat that Krysia & Jarek couldn’t resist petting 😻\n\n\n\nWeronika, Krysia and Valen hugged a tree to absorb its positive energy 🌳💚\n\n\n\nTopped it off with delicious apple cake and ice cream! 🍰\n\n\n\nWhen the Rector had to leave, we continued hunting stamps and snacking on fresh cherries 🍒\n\n \n\nWrapped the evening with board games and team bonding\n\n\n\n\n\n\nWe also celebrated Valen’s and Eva’s birthdays 🎉 with cake and warm wishes—lots of smiles and shared joy! 🎂\n\n\n\n\n\n\nMichał delivered a fantastic seminar at the Faculty of Mathematics, University of Wrocław 🎓\n\n\n\nThen we set off on a hike to Ślęża, through forests and past an old castle.  \nDespite the castle’s dwindling water supply, the views were breathtaking, although Jarek died on the trail 🤭🫣\n\n\n\n\n\n\n\nOn the last day we had a brakefast together, with full bellies we went our ways.\n\n\n\nMichał traveled to Łódź for doctoral school evaluations and later to Vilnius University\n\n\n\nJarek and Weronika stopped by Krysia and Józek’s place before hopping on the train, where Krysia treated them to amazing homemade cocktails🍹"
   },
   {
-    "objectID": "subsite/posts/2025_06_23.html#day-1-june-4-pizza-party-and-yearly-review",
-    "href": "subsite/posts/2025_06_23.html#day-1-june-4-pizza-party-and-yearly-review",
+    "objectID": "subsite/posts/2025_06_23_arboretum.html#day-1-june-4-pizza-party-and-yearly-review",
+    "href": "subsite/posts/2025_06_23_arboretum.html#day-1-june-4-pizza-party-and-yearly-review",
     "title": "🌳 BioGenies retreat in Wrocław from June 4 till 7, 2025",
     "section": "",
     "text": "We kicked off our retreat with doing big groceries 🧺🍓🍉🥑🥦🍆\n\n\n\nKicked off with a pizza fest and Asia’s cake pops (they where so filling 😋)\n\n\n\nMichał presented last year’s achievements and future goals—cheers to all the team’s hard work! 🥂\n\n\n\n🤞🏻 Fingers cross for Weronika and her PhD defence this year. Thesis was finally submitted and she is ready to defend it in September 🎉\nCaught up with friends from STWUR, and Medical University of Wrocław sparking energizing conversations."
   },
   {
-    "objectID": "subsite/posts/2025_06_23.html#day-2-june-5-arboretum-wojsławice-and-nature-fun",
-    "href": "subsite/posts/2025_06_23.html#day-2-june-5-arboretum-wojsławice-and-nature-fun",
+    "objectID": "subsite/posts/2025_06_23_arboretum.html#day-2-june-5-arboretum-wojsławice-and-nature-fun",
+    "href": "subsite/posts/2025_06_23_arboretum.html#day-2-june-5-arboretum-wojsławice-and-nature-fun",
     "title": "🌳 BioGenies retreat in Wrocław from June 4 till 7, 2025",
     "section": "",
     "text": "We ventured to the lush Arboretum Wojsławice (a stunning botanical garden near Niemcza) 🌳🌸🦋🪑\n\nHighlights included:\n\nA guided walk with the Arboretum director and UWr rector.\n\n\n\nHunting down collectible stamps around the trails—and earning prizes 🏅\n\n\n\nSpotting a friendly cat that Krysia & Jarek couldn’t resist petting 😻\n\n\n\nWeronika, Krysia and Valen hugged a tree to absorb its positive energy 🌳💚\n\n\n\nTopped it off with delicious apple cake and ice cream! 🍰\n\n\n\nWhen the Rector had to leave, we continued hunting stamps and snacking on fresh cherries 🍒\n\n \n\nWrapped the evening with board games and team bonding"
   },
   {
-    "objectID": "subsite/posts/2025_06_23.html#birthday-twist-on-day",
-    "href": "subsite/posts/2025_06_23.html#birthday-twist-on-day",
+    "objectID": "subsite/posts/2025_06_23_arboretum.html#birthday-twist-on-day",
+    "href": "subsite/posts/2025_06_23_arboretum.html#birthday-twist-on-day",
     "title": "🌳 BioGenies retreat in Wrocław from June 4 till 7, 2025",
     "section": "",
     "text": "We also celebrated Valen’s and Eva’s birthdays 🎉 with cake and warm wishes—lots of smiles and shared joy! 🎂"
   },
   {
-    "objectID": "subsite/posts/2025_06_23.html#day-3-june-6-seminar-ślęża-hike",
-    "href": "subsite/posts/2025_06_23.html#day-3-june-6-seminar-ślęża-hike",
+    "objectID": "subsite/posts/2025_06_23_arboretum.html#day-3-june-6-seminar-ślęża-hike",
+    "href": "subsite/posts/2025_06_23_arboretum.html#day-3-june-6-seminar-ślęża-hike",
     "title": "🌳 BioGenies retreat in Wrocław from June 4 till 7, 2025",
     "section": "",
     "text": "Michał delivered a fantastic seminar at the Faculty of Mathematics, University of Wrocław 🎓\n\n\n\nThen we set off on a hike to Ślęża, through forests and past an old castle.  \nDespite the castle’s dwindling water supply, the views were breathtaking, although Jarek died on the trail 🤭🫣"
   },
   {
-    "objectID": "subsite/posts/2025_06_23.html#day-4-june-7-farewells-and-cocktails",
-    "href": "subsite/posts/2025_06_23.html#day-4-june-7-farewells-and-cocktails",
+    "objectID": "subsite/posts/2025_06_23_arboretum.html#day-4-june-7-farewells-and-cocktails",
+    "href": "subsite/posts/2025_06_23_arboretum.html#day-4-june-7-farewells-and-cocktails",
     "title": "🌳 BioGenies retreat in Wrocław from June 4 till 7, 2025",
     "section": "",
     "text": "On the last day we had a brakefast together, with full bellies we went our ways.\n\n\n\nMichał traveled to Łódź for doctoral school evaluations and later to Vilnius University\n\n\n\nJarek and Weronika stopped by Krysia and Józek’s place before hopping on the train, where Krysia treated them to amazing homemade cocktails🍹"
   },
   {
-    "objectID": "subsite/posts/2025_07_02.html",
-    "href": "subsite/posts/2025_07_02.html",
+    "objectID": "subsite/posts/2025_07_02_ronja_award.html",
+    "href": "subsite/posts/2025_07_02_ronja_award.html",
     "title": "🏅 Ronja wins BTU Women’s Advancement Award! 🌟!",
     "section": "",
     "text": "We’re beyond proud to share that Ronja Tittel, who spent her Praxissemester with us, has been honored with the prestigious Women’s Advancement (Frauenförderpreis) by Frauen‑Hilfswerk Cottbus e.V. at BTU Cottbus‑Senftenberg! 🏅🇩🇪\n\n\n\n\nRonja, now in her 6th semester of Biotechnology, was recognized not only for excellent academic performance but also for her amazing leadership and dedication:\n\nDeputy chair of the Biotechnology & Materials Chemistry Student Council since 2023\n\nOrganizer of the BTU Christmas Market and the first Senftenberg Snowflake Ball\n\nEvent MC at poetry slams and youth ceremonies via Märkische Jugendweihe e.V. since 2019\n\nThe award was presented on June 27, 2025, during BTU’s “Kulturcampus Sachsendorf” campus festival.\n\nRonja’s drive and organization have been valuable both during her time with us and beyond. We’re proud to have had her as part of the team. Congratulations, Ronja! 🎉"
   },
   {
-    "objectID": "subsite/posts/2025_07_02.html#what-makes-this-award-special",
-    "href": "subsite/posts/2025_07_02.html#what-makes-this-award-special",
+    "objectID": "subsite/posts/2025_07_02_ronja_award.html#what-makes-this-award-special",
+    "href": "subsite/posts/2025_07_02_ronja_award.html#what-makes-this-award-special",
     "title": "🏅 Ronja wins BTU Women’s Advancement Award! 🌟!",
     "section": "",
     "text": "Ronja, now in her 6th semester of Biotechnology, was recognized not only for excellent academic performance but also for her amazing leadership and dedication:\n\nDeputy chair of the Biotechnology & Materials Chemistry Student Council since 2023\n\nOrganizer of the BTU Christmas Market and the first Senftenberg Snowflake Ball\n\nEvent MC at poetry slams and youth ceremonies via Märkische Jugendweihe e.V. since 2019\n\nThe award was presented on June 27, 2025, during BTU’s “Kulturcampus Sachsendorf” campus festival.\n\nRonja’s drive and organization have been valuable both during her time with us and beyond. We’re proud to have had her as part of the team. Congratulations, Ronja! 🎉"
   },
   {
-    "objectID": "subsite/posts/2025_09_15.html",
-    "href": "subsite/posts/2025_09_15.html",
+    "objectID": "subsite/posts/2025_09_15_miniatura.html",
+    "href": "subsite/posts/2025_09_15_miniatura.html",
     "title": "From microbes to medicine 💊🦠, Valen’s NCN Miniatura grant success!",
     "section": "",
     "text": "🎉🥳 Big news alert! our very own Valen has just secured an NCN Miniatura grant for the project LIMAD: Large-scale identification of microorganism products impacting amyloid diseases! 🧬🦠💡\n\n\n🧠 Why this matters\nDiseases like Alzheimer’s 🧩, Parkinson’s 🎭 and ALS 🌀 are linked to clumps of harmful proteins called amyloids. These aggregates damage cells and are central to the progression of these conditions.\nBut here’s the twist: 🦠👀 microbes may be part of the story!. From gut bacteria to fungi in the brain, there’s growing evidence that microorganisms might help trigger or accelerate protein misfolding. That means the microbes around us (and inside us) could be influencing how these diseases develop.\n\n\n\n🔬 What LIMAD will do\nValen’s project will take on this challenge by:\n✨ Spotting microbes most linked to Alzheimer’s and Parkinson’s through careful review of scientific studies ✨ Checking their proteins with powerful computational tools to see if they have “myloid potential 💻⚡\n✨ Testing interactions with human proteins like Aβ42 and α-synuclein using cutting-edge ML and structural biology 🤖🔍\nTogether, this will give us clues about which microbes might secretly push amyloid diseases forward.\n\n\n\n🚀 What it means for the future\nIf LIMAD uncovers microbial proteins that drive amyloid formation, they could become new drug targets 💊✨. Imagine tackling neurodegenerative diseases not just through the brain, but by also looking at the microbiome 🌱🧫. That’s the big-picture vision!\n\n\n\n🎉 Huge congratulations, Valen! 🙌\nWe’re beyond proud to see you take on this ambitious project with NCN’s support 🇵🇱👏. It’s an amazing step forward for BioGenies 💚🧬 and for the fight against neurodegenerative diseases worldwide 🌍✨.\nStay tuned, we’ll be sharing updates from the LIMAD journey here! 📢🔥"
   },
   {
-    "objectID": "subsite/posts/2025_09_17.html",
-    "href": "subsite/posts/2025_09_17.html",
+    "objectID": "subsite/posts/2025_09_17_mariia_phd_school.html",
+    "href": "subsite/posts/2025_09_17_mariia_phd_school.html",
     "title": "Mariia starts her PhD at UMB! 🎓🦠",
     "section": "",
     "text": "🥳 Fantastic news, Mariia is now officially a PhD student! She has joined the international doctoral programme at the Medical University of Białystok 🌍🎓. We couldn’t be more excited to see her continue her journey with us and take on such an important project! 💚🧬\n\n\n🕷️ What will Mariia work on?\nHer PhD project is titled:\n“Development of Bioinformatics Methods for the Study of Tick-Borne Diseases”\nTick-borne diseases (TBDs) like Lyme disease, anaplasmosis and tick-borne encephalitis are a growing health threat in Europe ⚠️. Climate change 🌦️, land-use patterns 🏞 and expanding tick habitats mean more people are at risk. Co-infections make diagnosis and treatment even trickier.\nMariia’s mission:\n✨ Build databases and interactive maps 📊🗺️ to track ticks and pathogens.\n✨ Develop machine learning models 🤖 to predict infection risk after a tick bite.\n✨ Analyze omics data 🧬 to find biomarkers that improve diagnosis and guide treatments.\n✨ Study how co-infections and different treatment methods impact patient outcomes.\n\n\n\n🔬 Collaboration & impact\nThis project will be carried out in close collaboration with the OneTick consortium 🤝, led by Professor Anna Moniuszko-Malinowska and our very own Michał Burdukiewicz. With access to unique clinical, epidemiological and omics datasets, Mariia’s research will:\n\nProvide new biomarkers to better diagnose TBDs.\n\nOffer predictive models to support clinicians.\n\nHelp design evidence-based public health strategies to monitor and manage tick-borne diseases. 🏥🌍\n\n\n\n\n🎉 Congratulations, Mariia!\nWe’re beyond proud of Mariia’s achievement and thrilled to see her research grow in such an impactful direction 🌟. Tackling tick-borne diseases is no small feat, but with her dedication and skills, we’re sure she’ll make a big difference."
   },
   {
-    "objectID": "subsite/posts/2025_11_12.html",
-    "href": "subsite/posts/2025_11_12.html",
+    "objectID": "subsite/posts/2025_11_12_weronika_phd.html",
+    "href": "subsite/posts/2025_11_12_weronika_phd.html",
     "title": "Weronika defends her PhD with distinction! 🎓🌟",
     "section": "",
     "text": "🎉 Massive congratulations to Weronika! on 4 November 2025 she successfully defended her PhD thesis:\n\n“High-resolution analysis of hydrogen/deuterium exchange monitored by mass spectrometry experiment data” 🔬💧\n\nand received a distinction for her work! 🎓💯✨\nWe’re unbelievably proud of her and the years of effort behind this achievement.\n\n\n\n🎓 The big day\nThe defence took place at the Institute of Biochemistry and Biophysics of the Polish Academy of Sciences (IBB PAS) 🏛️🧬\nWeronika walked the committee through the world of high-resolution hydrogen/deuterium exchange (H/DX) mass spectrometry, a powerful way to study protein dynamics and structure at an incredibly detailed level 📈🧪\nAfter a successful defence and the news of the distinction 🥇, there was a small celebration at IBB PAS 🎂☕ , the perfect way to close this long PhD journey.\n\n\n\n\n🍕 Night party with (cardboard) Michał 😄\nOf course, one party was definitely not enough for Weronika 😎. So we organised another celebration with:\nWeronika and Tomek, Jarek, Jakub, Dominik, Kasia, Mariia, Julia and…\ncardboard Michał 😅, because real Michał was at BioHackathon 2025 in Berlin, but we still wanted him “there” for the photos 📸🧍♂️🧻\n\n\n\n\n👨🍳 Jarek made pizza, lots of it 🍕🔥\nWe ate, talked, laughed and shared stories the whole night 🌙💬. It was the perfect mix of science gossip, future plans and pure chill.\n\n\n\n\n🍲 Hot pot, Marcinek & Thursday follow-up\nAnd because good news deserves several rounds of celebration…\nOn Thursday, when Krysia could finally make it to Warsaw, we had yet another mini-party with Weronika, Krysia and Jarek:\n\nWe went out for hot pot 🍲🔥 — perfect comfort food + gossip combo\n\nThen headed to Weronika’s place for dessert: the legendary Marcinek cake 🎂 (leftover from Tuesday, but still absolutely top tier 😋)\n\nAnd, of course, more long conversations, laughs and decompression after the rollercoaster of the defence week 💬💛\n\n\n\n\n\n\n💚 Congrats, Weronika!\nWeronika, your dedication, persistence and brilliant science have paid off in the best possible way, PhD with distinction 🎓🌟\nWe’re incredibly happy to celebrate this milestone with you and can’t wait to see what you do next 🚀\nHuge, huge congratulations! 🥳🍾💚"
   },
   {
-    "objectID": "subsite/posts/2025_12_08.html",
-    "href": "subsite/posts/2025_12_08.html",
+    "objectID": "subsite/posts/2025_12_08_oriol_mub.html",
+    "href": "subsite/posts/2025_12_08_oriol_mub.html",
     "title": "Oriol visits BioGenies from sunny Barcelona! 🇪🇸🧬🕷️",
     "section": "",
     "text": "🎉 New collaboration energy incoming!\nThis month, we were thrilled to host Oriol, our collaborator from the Autonomous University of Barcelona 🇪🇸. He came to Białystok through the NAWA STER programme 🇵🇱 to work closely with Michał on StriFi, the Comprehensive Database of Fibril Structures 🧬📊.\nAnd he was in luck, the first snow of the season fell the day after he arrived! ❄️⛄\nA perfect welcome to Poland (and a dramatic contrast to Barcelona’s sunshine ☀️➡️❄️).\n\n\n\n🧠 Work & collaboration\nTogether, Oriol and Michał spent an intense week deep-diving into data pipelines, annotation workflows, and database design 💻💾. The StriFi prototype keeps growing, and Oriol’s expertise was crucial in shaping how we handle metadata and fibril structure representation 💡\nTheir discussions covered everything from data harmonization to possible links with AmyloGraph, lots of science, plenty of ideas, and a few “aha!” moments along the way 🧬✨.\n\n\n\n🥟 Food adventures\nOf course, no BioGenies visit is complete without a proper Polish food marathon 😋🇵🇱.\nWe introduced Oriol to:\n\n🥟 Pierogi\n\n🍖 Kartacze\n\n🥘 Babka ziemniaczana\n\n🌯 And the legendary Polish kebab\n\nHe bravely tried everything and survived. Respect. 💚\n    \n\n\n\n\n🌲 Trip to Białowieża\nWe took Oriol on a trip to Białowieża, our beloved escape to nature 🌳🦌.\nHis review?\n\n“I’ve never seen a flatter forest!” 😅\n\nWe’re pretty sure he meant it lovingly.\n\n\n\n\n🎓 A special visitor\nDuring Oriol’s stay, we were also visited by Weronika, who dropped by to celebrate her freshly defended PhD 🎓🥂 with Michał and the team. Perfect timing for a double celebration!\n\n\n\n\n❄️ Snow, science & good company\nPolish winter greeted Oriol right away —\nfirst snow, first babka ziemniaczana, first BioGenies adventures.\nNot a bad combo. 😉"
   },
   {
-    "objectID": "subsite/posts/2026_03_06.html",
-    "href": "subsite/posts/2026_03_06.html",
+    "objectID": "subsite/posts/2026_03_06_seville_workshop.html",
+    "href": "subsite/posts/2026_03_06_seville_workshop.html",
     "title": "Jarek and Julia escape winter at the ML4NGP Training School in Seville! 🧬🤖🌞🇪🇸",
     "section": "",
     "text": "This winter, two brave BioGenies, Jarek and Julia, embarked on a scientific expedition to Seville, Spain 🇪🇸, where they attended the ML4NGP Training School: Introduction to Machine Learning for Non-globular Proteins.\nThe trip started in proper Polish fashion:\n❄️ -15°C in Białystok and Warsaw\n➡️ a few hours later\n🌞 +16°C in Seville\nWe suspect the machine learning models were not the only things warming up during the training school 🌞🌞🌞\n\n\n🧠 Machine learning meets protein chaos\nThe training school is part of the ML4NGP COST Action, a European network exploring how machine learning can help understand non-globular proteins. Especially intrinsically disordered proteins and other flexible molecular troublemakers.\nDuring several intense days of lectures and hands-on sessions, participants explored topics such as:\n\n🤖 machine learning methods for biological data\n\n🧬 prediction of intrinsically disordered proteins (IDPs)\n\n🧪 integrating experimental and computational datasets\n\n📊 evaluating ML models and avoiding common pitfalls\n\nPlenty of notebooks were executed and questions asked, exactly what a proper training school should look like.\n\n\n\n🌍 Science, networking… and Spanish sunshine\nBesides learning, the event was also a fantastic opportunity to meet other researchers:\n\n🤝 exchanging ideas with fellow ML4NGP members\n\n💡 discussing new approaches for studying protein disorder and aggregation\n\n☕ having those classic “conference coffee break breakthroughs”\n\nAnd of course, doing all that while enjoying Seville’s February sunshine 🌞, something that felt almost surreal after leaving a frozen Poland.\n\n\n\n🧬 Bringing new ideas back to BioGenies\nTraining schools like this are an important part of the ML4NGP COST Action, helping early-career researchers gain practical skills and build collaborations across Europe.\nJarek and Julia returned with:\n\n🧠 new ideas\n\n🧬 knowledge about simulation tools like CALVADOS\n\n📚 plenty of notes\n\n🌞 and probably a mild shock when remembering what Polish winter feels like"
   },
   {
-    "objectID": "subsite/posts/2026_09_11.html",
-    "href": "subsite/posts/2026_09_11.html",
+    "objectID": "subsite/posts/2026_09_11_asia_msc.html",
+    "href": "subsite/posts/2026_09_11_asia_msc.html",
     "title": "Asia conquers the SLOPE and defends her MSc! 🎓📊🥳",
     "section": "",
     "text": "🎉 Another MSc milestone for BioGenies! Asia has successfully defended her thesis, “Logistic Adaptive Bayesian SLOPE”, at the University of Wrocław! 🎓👏🌟\nIt might have been a challenging SLOPE to climb, but Asia has made it to the top 🔝 of this particular academic mountain 🧗‍♀️🏁😄\n\n\n🔎 Finding the signal in the noise\nBiomedical datasets can contain far more measurements than samples, with many measurements carrying little useful information about the outcome. The challenge is not just making a prediction, it is working out which variables actually matter.\nAsia’s work builds on Adaptive Bayesian SLOPE, a statistical method designed to select useful variables while estimating their effects. Her thesis extends it to binary classification: problems where the outcome belongs to one of two groups.\nIn everyday terms: moving from “What numerical value should we expect?” to “Which of these two groups does this sample belong to?” 📊🔍\n\n\n\n💻 From equations to working code\nThis was not just a theoretical exercise!️ Asia reworked the implementation into a standalone C++ library with an R interface, bringing the statistical method into software that researchers can use.\nShe also evaluated the logistic approach against LASSO, SLOPE and spike-and-slab LASSO using simulated datasets, examining prediction errors and the balance between finding real signals and selecting false positives.\nNot just “Does it run?”, but “What does it get right, and what might it miss?” A very BioGenies approach to a machine learning project 😎\nFor the code-curious, the work is available through the slobe R package and the libslobe C++ library 📦\n\n\n\n🤝 A special shout-out to Krysia\nMichał co-supervised the thesis alongside Prof. Małgorzata Bogdan.\nAnd a particularly big thank-you goes to Krysia, who was the main person guiding and supporting Asia through the work, helping her bring the thesis to completion 🧭💚👏\nHer hands-on guidance deserves a proper place in this celebration. Good research needs good methods and good people in your corner! 💡🤝\n\n\n\n📸 One picture, plenty of pride\nOur photo collection from the defence is rather compact: one picture. Our enthusiasm? Considerably less restrained 📷🥳\n\n\n\n\n💚 Congratulations, Asia!\nA thesis defended, a challenging project completed. Huge congratulations, Asia! We’re proud of you and grateful to everyone who helped along the way. Here’s to new challenges, interesting datasets, and perhaps a slightly gentler SLOPE for the next few days! 🥳🏔️💚"
   },
   {
-    "objectID": "subsite/posts/2026_09_22.html",
-    "href": "subsite/posts/2026_09_22.html",
+    "objectID": "subsite/posts/2026_09_22_krysia_postdoc.html",
+    "href": "subsite/posts/2026_09_22_krysia_postdoc.html",
     "title": "Next stop, Geneva! Krysia is heading for a postdoc 🇨🇭🎓🚀",
     "section": "",
     "text": "🎉 Big news for Krysia! 🥹💚\nKrysia will soon start a postdoctoral position at the University of Geneva, where she will work with Prof. Jeffrey Näf, an assistant professor at the University of Geneva who completed his PhD in statistics at ETH Zurich 🎓🤝\nHis research focuses on missing values, distributional prediction and robust estimation, topics concerned with learning from incomplete data, understanding more than a single predicted outcome and developing methods that remain reliable when assumptions do not quite match reality.\nWith Krysia’s work on evaluating missing value imputation methods, including Iscores, there is plenty of scientific common ground 💻⚖️.\nNew countries, new office but missing values are not getting rid of her that easily 😄\n\n\n💚 More than the research\nKrysia’s contribution to BioGenies goes beyond her own projects. It is also about helping others move their research forward, sharing knowledge and being there when a challenging project needs guidance. 🧭🤝\nMost recently, she played a central role in guiding and supporting Asia through her MSc work, helping her bring the thesis to completion. 🎓👏 That kind of hands-on support deserves just as much appreciation as the code, analyses and presentations.\nWe’ll miss having her around, both for the science and for everything that makes working together more than just a collection of projects 🧬💬💚."

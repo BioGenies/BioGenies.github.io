@@ -169,17 +169,17 @@ Leader:
 <div>![Darius Šulskis](subsite/fig/fibrea/DariusS.png "Darius Šulskis")</div>
 </div>
 
-<div class="partner-card">
-<div class="partner-name">University of Copenhagen (DK)</div>
-<div class="partner-role">WP2 Leader</div>
-<div class="pill"><i class="bi bi-mesh"></i> Coarse-grained simulations</div>
-<p>Developers of CALVADOS and world leaders in protein folding and aggregation modeling. Provide physics-based constraints and structural descriptors for CFAMs.</p>
-Leader:
-<div>![Kresten Lindorff-Larsen](subsite/fig/fibrea/KDVS-KRESTEN.jpg "Kresten Lindorff-Larsen")</div>
-</div>
+<!-- <div class="partner-card"> -->
+<!-- <div class="partner-name">University of Copenhagen (DK)</div> -->
+<!-- <div class="partner-role">WP2 Leader</div> -->
+<!-- <div class="pill"><i class="bi bi-mesh"></i> Coarse-grained simulations</div> -->
+<!-- <p>Developers of CALVADOS and world leaders in protein folding and aggregation modeling. Provide physics-based constraints and structural descriptors for CFAMs.</p> -->
+<!-- Leader: -->
+<!-- <div>![Kresten Lindorff-Larsen](subsite/fig/fibrea/KDVS-KRESTEN.jpg "Kresten Lindorff-Larsen")</div> -->
+<!-- </div> -->
 
 <div class="partner-card">
-<div class="partner-name">Bilkent University – UNAM (TR)</div>
+<div class="partner-name">Middle East Technical University</div>
 <div class="partner-role">WP3 Leader</div>
 <div class="pill"><i class="bi bi-bacteria"></i> Curli expression systems</div>
 <p>Experts in curli-based nanomaterials and biofilm engineering. Optimize host strains, codon usage, fermentation and purification for CFAM production.</p>
@@ -224,7 +224,7 @@ The work plan is organized into six interlinked WPs, forming a closed design–b
 <div class="wp-card">
 <div class="wp-label">WP2</div>
 <div class="wp-title">Coarse-grained modeling of CFAMs</div>
-<div class="wp-meta">Lead: DK · Type: research (TRL 1–2)</div>
+<div class="wp-meta">Lead: PL and ES · Type: research (TRL 1–2)</div>
 <div class="badge-soft"><i class="bi bi-mesh"></i> CALVADOS</div>
 <ul>
   <li>Set up CALVADOS simulations for CFAMs and inhibitors.</li>

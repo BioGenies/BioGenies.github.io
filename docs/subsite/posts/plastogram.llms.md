@@ -1,6 +1,6 @@
 # PlastoGram: decoding protein localization inside plastids 🌿🧬
 
-publications
+Publications
 
 PlastoGram is an ensemble machine learning model for predicting subplastid localization and protein origin, enabling more accurate plastid protein annotation.
 

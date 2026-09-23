@@ -1,8 +1,6 @@
 # imputomics: taming missing values in metabolomics data 🧬🧩
 
-publications
-
-metabolomics
+Publications
 
 imputomics is a web server and R package providing a unified interface for 40+ missing value imputation algorithms, enabling robust and reproducible metabolomics data analysis.
 

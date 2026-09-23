@@ -1,8 +1,6 @@
 # Amyloid databases: mapping the aggregation universe 🧬📊
 
-publications
-
-amyloids
+Publications
 
 A comprehensive review of amyloid-related databases, highlighting how experimental data and bioinformatics resources drive advances in protein aggregation research.
 

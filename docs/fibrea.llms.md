@@ -131,21 +131,7 @@ Leader:
 
 Darius Šulskis
 
-University of Copenhagen (DK)
-
-WP2 Leader
-
-Coarse-grained simulations
-
-Developers of CALVADOS and world leaders in protein folding and aggregation modeling. Provide physics-based constraints and structural descriptors for CFAMs.
-
-Leader:
-
-![](subsite/fig/fibrea/KDVS-KRESTEN.jpg "Kresten Lindorff-Larsen")
-
-Kresten Lindorff-Larsen
-
-Bilkent University – UNAM (TR)
+Middle East Technical University
 
 WP3 Leader
 
@@ -196,7 +182,7 @@ WP2
 
 Coarse-grained modeling of CFAMs
 
-Lead: DK · Type: research (TRL 1–2)
+Lead: PL and ES · Type: research (TRL 1–2)
 
 CALVADOS
 

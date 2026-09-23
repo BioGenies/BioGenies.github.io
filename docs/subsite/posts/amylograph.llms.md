@@ -1,8 +1,6 @@
 # Amyloids don’t aggregate alone 🤝🧬 Meet AmyloGraph
 
-publications
-
-amyloids
+Publications
 
 AmyloGraph is a curated database of experimentally validated amyloid–amyloid interactions, enabling systematic exploration of cross-seeding and aggregation modulation.
 

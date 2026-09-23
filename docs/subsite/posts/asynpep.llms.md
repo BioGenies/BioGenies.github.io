@@ -1,8 +1,6 @@
 # aSynPEP-DB: mining peptides against Parkinson’s 🧬🧠
 
-publications
-
-peptides
+Publications
 
 A database of biogenic peptides predicted to inhibit α-synuclein aggregation, enabling peptide-based therapeutic discovery.
 

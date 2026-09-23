@@ -1,8 +1,6 @@
 # LLPS datasets & benchmarking: bringing order to condensate chaos 🧬📊
 
-publications
-
-LLPS
+Publications
 
 We present curated datasets of proteins involved in liquid–liquid phase separation (LLPS), enabling robust benchmarking and improved machine learning predictions in condensate biology.
 

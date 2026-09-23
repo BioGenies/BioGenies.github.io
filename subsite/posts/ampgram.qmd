@@ -3,8 +3,7 @@ title: "Short amyloids ≠ antimicrobial peptides? 🧬❌🦠"
 description: "Experimental validation reveals that predicted antimicrobial amyloids lack real activity, highlighting a major gap in AMP datasets."
 date: "01/02/2023"
 categories:
-  - publications
-  - peptides
+  - Publications
 keywords: ["amyloids", "antimicrobial peptides", "AMP", "machine learning", "AmpGram", "negative dataset", "bioinformatics"]
 author: "BioGenies Lab"
 ---

@@ -3,8 +3,7 @@ title: "aSynPEP-DB: mining peptides against Parkinson’s 🧬🧠"
 description: "A database of biogenic peptides predicted to inhibit α-synuclein aggregation, enabling peptide-based therapeutic discovery."
 date: "11/27/2023"
 categories:
-  - publications
-  - peptides
+  - Publications
 keywords: ["alpha-synuclein", "Parkinson's disease", "peptides", "database", "bioinformatics", "AMP", "neuropeptides"]
 author: "BioGenies Lab"
 ---

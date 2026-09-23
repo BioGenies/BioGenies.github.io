@@ -1,0 +1,114 @@
+---
+title: "Big annoucement!"
+description: "We are thrilled to announce that we are looking for two talented students to join our team for AmyloGraph 2.0 project (2023/51/D/NZ7/02847)"
+date: "8/27/2024"
+categories:
+  - Team
+  - NCN
+  - Recruiting
+# image: "../fig/posts/"
+author: "BioGenies Lab"
+---
+
+```{r, echo=FALSE, message=FALSE}
+# library(devtools)
+# install_github("mitchelloharawild/icons")
+# icons::download_academicons()
+# icons::download_bioicons()
+# icons::download_fontawesome()
+# icons::download_google_material()
+library("fontawesome")
+```
+
+## About the Project
+Amyloids are proteins implicated in numerous serious diseases, including Alzheimer’s, Parkinson's, Creutzfeldt-Jakob's disease, and type 2 diabetes. These proteins are known for their ability to self-aggregate into unique supramolecular fibrils, a process that plays a critical role in disease progression.
+
+Our team has previously developed AmyloGraph, database of amyloid interactions, which you can explore [here](https://amylograph.com/). In this new phase of our research, we aim to take AmyloGraph to the next level. We will design and implement machine learning-based tools to analyze the data more effectively and revamp the user interface to make it easier for researchers to access the latest information.
+
+But that’s not all. The data collected during this project will be used to train predictive models, with the ultimate goal of designing new chemical compounds that can inhibit amyloid self-aggregation. These compounds hold great promise for the treatment of various amyloid-related diseases.
+
+## Details
+### `r fontawesome::fa("briefcase", fill = "black", height = "1.5em")` Employment conditions
+
+`r fontawesome::fa("location-dot", fill = "pink", height = "1em")` **Place**: Remotely or at Bioinformatics and Multiomics Analyses Laboratory, Clinical Research Centre, Medical University of Białystok, Poland
+
+`r fontawesome::fa("sack-dollar", fill = "pink", height = "1em")` **Scholarship/salary**: 2500 PLN per month (tax-free for students under 26 yo)
+
+`r fontawesome::fa("hourglass-start", fill = "pink", height = "1em")` **Planned start date for project work**: 01.10.2024
+
+### `r fontawesome::fa("calendar", fill = "black", height = "1.5em")` Important dates
+
+`r fontawesome::fa("hourglass-end", fill = "pink", height = "1em")` **Submission deadline**: 06.09.2024, 15:00 (GMT+2)
+
+`r fontawesome::fa("comments", fill = "pink", height = "1em")` **Interviews (Google Meet)**: 16-17.09.2024
+
+## Tasks and skills
+
+### `r fontawesome::fa("graduation-cap", fill = "black", height = "1.5em")` student 1
+
+#### `r fontawesome::fa("list-check", fill = "pink", height = "1em")` Tasks:
+
+1. Automating the search for new sources of information.
+2. Developing tools for automated data validation.
+3. Creating tools for automated data acquisition from new sources.
+4. Designing and implementing a new version of the AmyloGraph database.
+5. Implementing the new version of the AmyloGraph database.
+6. Training and conducting a comparative analysis of the prediction model for modulators.
+7. Implementing generative models for designing small molecules.
+
+#### `r fontawesome::fa("hammer", fill = "pink", height = "1em")` Skills:
+
+* Proficiency in designing machine learning models.
+* Experience in creating and implementing databases.
+* Advanced knowledge of the R language, particularly within the tidyverse environment and the Shiny package.
+* Knowledge of Python and JavaScript is an advantage.
+* Familiarity with version control systems.
+* Strong teamwork skills and motivation to conduct research.
+
+
+### `r fontawesome::fa("graduation-cap", fill = "black", height = "1.5em")` student 2
+
+#### `r fontawesome::fa("list-check", fill = "pink", height = "1em")` Tasks:
+
+1. Expanded maintenance of existing data sources.
+2. Data curation from new sources for the AmyloGraph database.
+3. Designing existing databases.
+4. Designing and creating a system for browsing databases of small molecular compounds.
+5. Training and conducting a comparative analysis of the prediction model for modulators.
+
+#### `r fontawesome::fa("hammer", fill = "pink", height = "1em")` Skills:
+
+* Expertise in verifying biological data and data management.
+* Knowledge of amyloid aggregation and methods for testing it.
+*	Proficiency in topology and network analysis.
+*	Experience with methods of biological data processing in machine learning models, particularly for small molecular compounds and proteins.
+*	Advanced proficiency in the R language, especially within the tidyverse environment and Shiny package.
+*	Familiarity with the TeX language.
+*	Ability to work with version control systems.
+*	Strong teamwork skills and motivation to conduct research.
+*	Very good command of English, both written and oral.
+
+
+**Don’t worry if you don’t have all the required skills—if you’re eager to learn, don’t hesitate to apply!**
+
+### How to apply
+
+**Submit your**: 
+
+1. cover letter 
+2. CV 
+3. proof of student status (can be sent at the start of scholarship)
+4. signed [GDPR consent form](../download_files/GDPR_MUB_recruitment.pdf)
+
+**to michal.burdukiewicz@umb.edu.pl with the subject line: "Scholarship holder in project no. 2023/51/D/NZ7/02847".**
+
+
+
+
+
+**More detailed info about requirements and needed documents**: [student 1](../download_files/stud1.pdf), [student 2](../download_files/stud2.pdf)
+
+
+
+![](../fig/posts/2024_08_19/ag2.jpeg)
+![](../fig/ncn_logo.png)

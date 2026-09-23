@@ -1,8 +1,6 @@
 # Can ML predictors detect mislabeled amyloids? 🧠🧬
 
-publications
-
-amyloids
+Publications
 
 A fascinating study showing that amyloid prediction tools can identify misannotated training data, even when those wrong labels were part of the training set.
 

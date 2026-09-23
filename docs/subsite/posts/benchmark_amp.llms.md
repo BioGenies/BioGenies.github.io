@@ -1,8 +1,6 @@
 # Are AMP models lying to us? 🤖🧬 The benchmarking problem
 
-publications
-
-peptides
+Publications
 
 A large-scale study reveals that antimicrobial peptide predictors are heavily biased due to how negative datasets are constructed.
 

@@ -1,8 +1,6 @@
 # Amyloid cross-interactions: how proteins influence each other’s aggregation 🧬🧊
 
-amyloids
-
-publications
+Publications
 
 A comprehensive review of experimental methods to study amyloid cross-interactions, highlighting how proteins modulate each other’s aggregation and why combining techniques is essential.
 

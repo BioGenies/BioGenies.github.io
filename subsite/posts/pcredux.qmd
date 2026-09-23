@@ -3,7 +3,7 @@ title: "qPCR curves, but make it ML 🤖🧬 Introducing PCRedux"
 description: "PCRedux is an R toolkit for feature extraction and machine learning on qPCR amplification curves, enabling reproducible and explainable analysis."
 date: "08/21/2022"
 categories:
-  - publications
+  - Publications
 keywords: ["qPCR", "machine learning", "PCRedux", "feature extraction", "bioinformatics", "R package", "explainable AI"]
 author: "BioGenies Lab"
 ---

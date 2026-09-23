@@ -3,8 +3,7 @@ title: "LLPS datasets & benchmarking: bringing order to condensate chaos 🧬�
 description: "We present curated datasets of proteins involved in liquid–liquid phase separation (LLPS), enabling robust benchmarking and improved machine learning predictions in condensate biology."
 date: "07/09/2025"
 categories:
-  - publications
-  - LLPS
+  - Publications
 keywords: ["LLPS", "liquid-liquid phase separation", "biomolecular condensates", "protein datasets", "machine learning", "bioinformatics", "benchmarking"]
 author: "BioGenies Lab"
 #image: "../fig/posts/2025_06_23/1000051274.jpg"

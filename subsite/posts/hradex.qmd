@@ -3,8 +3,7 @@ title: "HRaDeX: high-resolution HDX–MS analysis made simple ⚙️🧬"
 description: "A new R package and web server (HRaDeX) enabling high-resolution analysis of HDX–MS data by reconstructing residue-level deuterium uptake rates from peptide-level measurements."
 date: "05/19/2025"
 categories:
-  - HaDeX
-  - publications
+  - Publications
 keywords: ["HDX-MS", "protein dynamics", "structural proteomics", "HRaDeX", "mass spectrometry", "protein folding", "bioinformatics tools"]
 author: "BioGenies Lab"
 # image: "../fig/tools/hadex.png"

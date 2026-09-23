@@ -3,8 +3,7 @@ title: "ML + metabolomics in the clinic: promise vs reality 🧠🧬"
 description: "A critical review of machine learning-based clinical decision support systems built on metabolomics data, highlighting opportunities, pitfalls, and future directions."
 date: "06/18/2024"
 categories:
-  - publications
-  - metabolomics
+  - Publications
 keywords: ["metabolomics", "machine learning", "clinical decision support", "CDSS", "biomarkers", "precision medicine", "AI"]
 author: "BioGenies Lab"
 ---

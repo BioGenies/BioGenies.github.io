@@ -1,8 +1,6 @@
 # Short amyloids ≠ antimicrobial peptides? 🧬❌🦠
 
-publications
-
-peptides
+Publications
 
 Experimental validation reveals that predicted antimicrobial amyloids lack real activity, highlighting a major gap in AMP datasets.
 

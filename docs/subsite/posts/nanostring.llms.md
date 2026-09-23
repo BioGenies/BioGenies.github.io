@@ -1,6 +1,6 @@
 # NanoString nCounter data analysis: challenges, workflows & best practices 🧬📊
 
-publications
+Publications
 
 A comprehensive review of NanoString nCounter data processing workflows, highlighting key steps, challenges and available bioinformatics tools for mRNA and miRNA analysis.
 

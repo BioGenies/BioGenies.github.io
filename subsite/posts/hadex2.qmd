@@ -3,8 +3,7 @@ title: "HaDeX2: HDX-MS analysis tool for protein dynamics (Bioinformatics 2026) 
 description: "HaDeX2 is a bioinformatics tool for hydrogen–deuterium exchange mass spectrometry (HDX-MS) data analysis, enabling multi-dimensional statistical analysis and visualization of protein dynamics."
 date: "03/16/2026"
 categories:
-  - HaDeX
-  - publications
+  - Publications
 keywords: ["HDX-MS", "hydrogen deuterium exchange", "protein dynamics", "mass spectrometry", "bioinformatics tool", "structural proteomics", "R package"]
 author: "BioGenies Lab"
 # image: "../fig/tools/hadex.png"

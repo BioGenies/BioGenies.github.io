@@ -3,8 +3,7 @@ title: "Are AMP models lying to us? 🤖🧬 The benchmarking problem"
 description: "A large-scale study reveals that antimicrobial peptide predictors are heavily biased due to how negative datasets are constructed."
 date: "09/01/2022"
 categories:
-  - publications
-  - peptides
+  - Publications
 keywords: ["AMP", "machine learning", "benchmarking", "negative dataset", "bias", "bioinformatics", "reproducibility"]
 author: "BioGenies Lab"
 ---

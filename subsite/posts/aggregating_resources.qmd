@@ -3,8 +3,7 @@ title: "Amyloid databases: mapping the aggregation universe 🧬📊"
 description: "A comprehensive review of amyloid-related databases, highlighting how experimental data and bioinformatics resources drive advances in protein aggregation research."
 date: "10/30/2024"
 categories:
-  - publications
-  - amyloids
+  - Publications
 keywords: ["amyloids", "protein aggregation", "databases", "bioinformatics", "amyloid prediction", "protein misfolding", "aggregation"]
 author: "BioGenies Lab"
 ---

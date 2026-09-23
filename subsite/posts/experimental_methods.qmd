@@ -3,8 +3,7 @@ title: "Amyloid cross-interactions: how proteins influence each other’s aggreg
 description: "A comprehensive review of experimental methods to study amyloid cross-interactions, highlighting how proteins modulate each other’s aggregation and why combining techniques is essential."
 date: "05/21/2025"
 categories:
-  - amyloids
-  - publications
+  - Publications
 keywords: ["amyloids", "protein aggregation", "cross-seeding", "cross-interactions", "protein misfolding", "neurodegeneration", "experimental methods", "bioinformatics"]
 author: "BioGenies Lab"
 # image: "../fig/posts/2025_05_22/"

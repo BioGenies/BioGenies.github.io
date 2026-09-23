@@ -1,8 +1,6 @@
 # ML + metabolomics in the clinic: promise vs reality 🧠🧬
 
-publications
-
-metabolomics
+Publications
 
 A critical review of machine learning-based clinical decision support systems built on metabolomics data, highlighting opportunities, pitfalls, and future directions.
 

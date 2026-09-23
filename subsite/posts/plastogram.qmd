@@ -3,7 +3,7 @@ title: "PlastoGram: decoding protein localization inside plastids 🌿🧬"
 description: "PlastoGram is an ensemble machine learning model for predicting subplastid localization and protein origin, enabling more accurate plastid protein annotation."
 date: "05/24/2023"
 categories:
-  - publications
+  - Publications
 keywords: ["PlastoGram", "protein localization", "plastids", "chloroplast", "machine learning", "bioinformatics", "sequence analysis"]
 author: "BioGenies Lab"
 ---

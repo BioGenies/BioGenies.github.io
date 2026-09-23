@@ -1,6 +1,6 @@
 # qPCR curves, but make it ML 🤖🧬 Introducing PCRedux
 
-publications
+Publications
 
 PCRedux is an R toolkit for feature extraction and machine learning on qPCR amplification curves, enabling reproducible and explainable analysis.
 

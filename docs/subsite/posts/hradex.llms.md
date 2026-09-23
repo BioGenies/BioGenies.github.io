@@ -1,8 +1,6 @@
 # HRaDeX: high-resolution HDX–MS analysis made simple ⚙️🧬
 
-HaDeX
-
-publications
+Publications
 
 A new R package and web server (HRaDeX) enabling high-resolution analysis of HDX–MS data by reconstructing residue-level deuterium uptake rates from peptide-level measurements.
 

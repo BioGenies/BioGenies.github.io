@@ -3,7 +3,7 @@ title: "NanoString nCounter data analysis: challenges, workflows & best practice
 description: "A comprehensive review of NanoString nCounter data processing workflows, highlighting key steps, challenges and available bioinformatics tools for mRNA and miRNA analysis."
 date: "04/30/2024"
 categories:
-  - publications
+  - Publications
 keywords: ["NanoString", "nCounter", "gene expression", "mRNA", "miRNA", "bioinformatics", "normalization", "differential expression"]
 author: "BioGenies Lab"
 ---

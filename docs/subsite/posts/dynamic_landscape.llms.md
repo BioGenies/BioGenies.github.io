@@ -1,8 +1,6 @@
 # The peptide prediction ecosystem is exploding 🤯🧬
 
-publications
-
-peptides
+Publications
 
 A large-scale review of peptide activity prediction tools reveals rapid growth, reproducibility issues and emerging trends in ML-based peptide bioinformatics.
 

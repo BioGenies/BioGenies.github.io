@@ -3,8 +3,7 @@ title: "Amyloids don’t aggregate alone 🤝🧬 Meet AmyloGraph"
 description: "AmyloGraph is a curated database of experimentally validated amyloid–amyloid interactions, enabling systematic exploration of cross-seeding and aggregation modulation."
 date: "10/16/2023"
 categories:
-  - publications
-  - amyloids
+  - Publications
 keywords: ["amyloids", "protein aggregation", "cross-seeding", "AmyloGraph", "database", "bioinformatics", "neurodegeneration"]
 author: "BioGenies Lab"
 ---

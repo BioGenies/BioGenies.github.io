@@ -2,7 +2,7 @@
 
 ##### Next stop, Geneva! Krysia is heading for a postdoc 🇨🇭🎓🚀
 
-Krysia will soon begin a postdoc at the University of Geneva, working with Jeffrey Näf! 🇨🇭📊 We’re celebrating her next scientific chapter, while trying to work out how to…
+Krysia will soon begin a postdoc at the University of Geneva, working with Jeffrey Näf 🇨🇭📊! We’re celebrating her next scientific chapter, while trying to work out how to…
 
 BioGenies Lab
 
@@ -52,6 +52,8 @@ Mar 16, 2026
 
 Jarek and Julia attended the ML4NGP Training School in Seville 🇪🇸, learning about machine learning for non-globular proteins 🧬🤖 and temporarily escaping the -15°C Polish…
 
+BioGenies Lab
+
 Mar 6, 2026
 
 ![](./subsite/fig/posts/2025_12_16/rector_merged.jpg)
@@ -60,17 +62,23 @@ Mar 6, 2026
 
 A proud day for BioGenies! 🎉 Michał and Jarek received First Degree Rector’s Awards for publications 🏆📚, Valen earned a Second Degree award, Michał was additionally…
 
+BioGenies Lab
+
 Dec 16, 2025
 
 ##### Oriol visits BioGenies from sunny Barcelona! 🇪🇸🧬🕷️
 
 Our collaborator Oriol from the Autonomous University of Barcelona 🇪🇸 visited Białystok through the NAWA STER programme 🇵🇱 to work with Michał on StriFi — a…
 
+BioGenies Lab
+
 Dec 8, 2025
 
 ##### Michał hacks away at BioHackathon Europe 2025 in Berlin! 💻🧬🚀
 
 Michał joined BioHackathon Europe 2025 in Berlin, organised by ELIXIR Europe 💻🧬, an intense week of coding, data wrangling and open science, and a huge opportunity for…
+
+BioGenies Lab
 
 Nov 13, 2025
 
@@ -80,17 +88,23 @@ Nov 13, 2025
 
 Huge congratulations to Weronika, who defended her PhD thesis on high-resolution H/D exchange MS data 🎓🔬 with distinction! Weronika celebrated first at IBB PAS and then…
 
+BioGenies Lab
+
 Nov 12, 2025
 
 ##### BioGenies at PTBI 2025 in Białystok! 🧬🎤🥞
 
 BioGenies rocked PTBI 2025 in Białystok! 🎉 Michał and Valen gave talks, Mariia, Asia and Jarek flash talks + posters, we joined PTBI 🇵🇱, voted for a new CEO 🗳, and…
 
+BioGenies Lab
+
 Sep 18, 2025
 
 ##### Mariia starts her PhD at UMB! 🎓🦠
 
 🎉 Huge congratulations to Mariia, who just joined the international PhD programme at the Medical University of Białystok! 🌍 She’ll be developing cutting-edge…
+
+BioGenies Lab
 
 Sep 17, 2025
 
@@ -100,11 +114,15 @@ Sep 17, 2025
 
 Huge congratulations to Sonor, who just defended his MSc thesis *Biomedical Text Classification with Pre-trained Language Models* with the best possible grade 💯🌟! His work…
 
+BioGenies Lab
+
 Sep 16, 2025
 
 ##### From microbes to medicine 💊🦠, Valen’s NCN Miniatura grant success!
 
 Congrats to Valen 🎉 for receiving an NCN Miniatura grant! The LIMAD project will explore how microbes 🦠 influence harmful protein build-up in Alzheimer’s and Parkinson’s…
+
+BioGenies Lab
 
 Sep 15, 2025
 
@@ -120,23 +138,31 @@ Jul 9, 2025
 
 Big news, Mariia starts at UMB and applies for a PhD, while Jarek gets NCN Miniatura to grow his imputomics project! 🎉
 
+BioGenies Lab
+
 Jul 4, 2025
 
 ##### 🏅 Ronja wins BTU Women’s Advancement Award! 🌟!
 
 Celebrating Ronja Tittel’s outstanding contribution in her praxissemester with us and her award at BTU Cottbus-Senftenberg!
 
+BioGenies Lab
+
 Jul 2, 2025
 
-##### 🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!
+##### 🌡️ Jarek, Michał & Krysia at Metabolomics 2025 in Prague!
 
 Our team flew out to Prague for the Metabolomics 2025 meeting—posters, gifts, air conditioning and plenty of food!
+
+BioGenies Lab
 
 Jul 1, 2025
 
 ##### 🌳 BioGenies retreat in Wrocław from June 4 till 7, 2025
 
-Team fun and productivity at our Wrocław retreat: pizzas, sta,p hunt at Arboretum, seminars, hiking, cocktails (healthy, non-alchocholic) and more 😄
+Team fun and productivity at our Wrocław retreat: pizzas, stamp hunt at Arboretum, seminars, hiking, cocktails (healthy, non-alchocholic) and more 😄
+
+BioGenies Lab
 
 Jun 23, 2025
 
@@ -144,11 +170,15 @@ Jun 23, 2025
 
 Excited to host Prof. Krzysztof Poterlowicz (University of Bradford & ELIXIR‑UK) to support our lab’s journey toward full ELIXIR integration.
 
+BioGenies Lab
+
 Jun 18, 2025
 
 ##### 🌟 Highlights from the 3rd ML4NGP Conference in Vilnius!🌟
 
 Michał, Jarek, Valen and Mariia presented posters at the ML4NGP Meeting, a fantastic mix of science, food and networking!
+
+BioGenies Lab
 
 Jun 17, 2025
 
@@ -164,11 +194,15 @@ May 21, 2025
 
 Another huge win for BioGenies! Our first MSCA Staff Exchanges project, OneTick, officially funded by the European Commission!
 
+BioGenies Lab
+
 May 20, 2025
 
 ##### 🎉 Jarek awarded Horizon Europe ERA Talents grant!
 
 From MSCA near-miss to ERA Talents success, BioGenies score again! 🇪🇺💪 . Next stop: Life Sciences Center at Vilnius University
+
+BioGenies Lab
 
 May 19, 2025
 
@@ -184,29 +218,39 @@ May 19, 2025
 
 From BioGenies to Google, Jakub is now working on C++ projects for OpenAI but he’s still part of the family!
 
+BioGenies Lab
+
 May 18, 2025
 
-##### Ticks, trails & travel – Science and short city break adventures 🧬🧗‍♀️🌍
+##### Ticks, trails & travel, Science and short city break adventures 🧬🧗‍♀️🌍
 
 Michał shared urban tick research in Weimar, while Jarek, Weronika, and Krysia took a well-earned adventure break in Montpellier!
 
+BioGenies Lab
+
 Apr 1, 2025
 
-##### Farewell to Ronja – our first Erasmus+ student! 🇩🇪💙
+##### Farewell to Ronja, our first Erasmus+ student! 🇩🇪💙
 
 Ronja’s Praxissemester with us has come to an end. From food feasts to cultural trips and a dramatic train station farewell – here’s how we spent the last days together!
+
+BioGenies Lab
 
 Feb 24, 2025
 
 ##### OneTick proposal submitted & Michał’s well-deserved break! 🚀🌴
 
-We’ve officially submitted our OneTick proposal for MSCA Staff Exchanges, and Michał is finally taking a holiday after seven years!
+We’ve officially submitted our OneTick proposal for MSCA Staff Exchanges and Michał is finally taking a holiday after seven years!
+
+BioGenies Lab
 
 Feb 10, 2025
 
-##### Farewell to Eva – our first departing Erasmus+ student! 🎓💙
+##### Farewell to Eva, our first departing Erasmus+ student! 🎓💙
 
 After an amazing Erasmus experience, Eva says goodbye to our lab. A week full of memories, pierogi, karaoke, and adventures!
+
+BioGenies Lab
 
 Jan 30, 2025
 
@@ -214,11 +258,15 @@ Jan 30, 2025
 
 Valen discusses our lab’s exciting science and research projects on the NAWA podcast.
 
+BioGenies Lab
+
 Jan 10, 2025
 
 ##### Writing OneTick Grant for Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges 🎯
 
 Michał, Jarek, and Valen are hard at work preparing a OneTick grant for the MSCA Staff Exchanges application with a potential consortium of 11 participants!
+
+BioGenies Lab
 
 Jan 9, 2025
 
@@ -226,11 +274,15 @@ Jan 9, 2025
 
 Congratulations to Michał on being honored with the prestigious First Degree Award for his outstanding publications from 2023!
 
+BioGenies Lab
+
 Dec 6, 2024
 
 ##### Celebrating our successes 🎉
 
 On November 14 Michał organised a small party to celebrate our achievements and thank amazing people supporting our journey!
+
+BioGenies Lab
 
 Nov 19, 2024
 
@@ -238,17 +290,23 @@ Nov 19, 2024
 
 We’re excited to welcome Mariia Solovianova from BTU, a biotechnology master with wet lab expertise, joining our lab to work on a bioinformatics project involving antibodies…
 
+BioGenies Lab
+
 Nov 12, 2024
 
 ##### Welcome Eva Arribas to the Lab!
 
 We’re thrilled to welcome Eva Arribas, a master’s graduate from Salvador Ventura’s lab at the Universitat Autònoma de Barcelona, as she joins us for her Erasmus traineeship!
 
+BioGenies Lab
+
 Nov 4, 2024
 
 ##### Michał and Jarek secure PARP ‘Granty na Eurogranty’ grant! 🎉
 
 Exciting news! Michał and Jarek have received a grant from PARP (Polish Agency for Enterprise Development) to support the preparation of their MSCA Staff Exchanges…
+
+BioGenies Lab
 
 Nov 1, 2024
 
@@ -264,11 +322,15 @@ Oct 30, 2024
 
 Highlights from an inspiring week in Dresden with the BioGenies team, filled with scientific sessions, networking, and a taste of Dresden’s culture.
 
+BioGenies Lab
+
 Oct 28, 2024
 
 ##### 🎉 Valen signs a contract with Medical University of Białystok! 🎉
 
 From now on, Valen is an official employee of the Clinical Research Centre at the Medical University of Białystok 🏢🎓.
+
+BioGenies Lab
 
 Oct 18, 2024
 
@@ -276,11 +338,15 @@ Oct 18, 2024
 
 We are looking for a post-doc to join our team in AmyloGraph 2.0 project (2023/51/D/NZ7/02847)
 
+BioGenies Lab
+
 Oct 1, 2024
 
-##### Arrival of Ronja - our new collaborator
+##### Arrival of Ronja, our new collaborator
 
 Welcoming Ronja, our new collaborator from Brandenburg University of Technology Cottbus-Senftenberg, who joins our group for her practical semester.
+
+BioGenies Lab
 
 Sep 30, 2024
 
@@ -288,11 +354,15 @@ Sep 30, 2024
 
 The PTBI 2024 conference brought together brilliant minds 🧠, exciting discussions 💬, and memorable moments with colleagues 🤝. From insightful talks 🎤 to fun reunions 🎉…
 
+BioGenies Lab
+
 Sep 13, 2024
 
 ##### BioGenies are heading to Warsaw!
 
 🌟 BioGenies will reunite at the PTBI conference in Warsaw! 🇵🇱🌟
+
+BioGenies Lab
 
 Sep 4, 2024
 
@@ -300,11 +370,15 @@ Sep 4, 2024
 
 We are thrilled to announce that we are looking for two talented students to join our team for AmyloGraph 2.0 project (2023/51/D/NZ7/02847)
 
+BioGenies Lab
+
 Aug 27, 2024
 
 ##### BioGenies on adventure
 
 Jarek and Krysia conquer the Dolomites on their short summer vacations!
+
+BioGenies Lab
 
 Aug 12, 2024
 
@@ -312,11 +386,15 @@ Aug 12, 2024
 
 Krysia and Weronika at Intelligent Systems for Molecular Biology (ISMB) conference
 
+BioGenies Lab
+
 Jul 17, 2024
 
 ##### 🎓 Celebrating Eva’s MSc Defense! 🎓
 
 We are thrilled to announce that Eva has successfully defended her MSc thesis! 🏆📚
+
+BioGenies Lab
 
 Jul 12, 2024
 
@@ -324,11 +402,15 @@ Jul 12, 2024
 
 🌟 BioGenies reunion at HQ and visit beyond! 🌟
 
+BioGenies Lab
+
 Jul 4, 2024
 
 ##### BioGenies went to Japan on a conference
 
 Krysia attends Metabolomics 2024 in Osaka, Japan! 🌏🇯🇵
+
+BioGenies Lab
 
 Jun 21, 2024
 
@@ -344,11 +426,15 @@ Jun 18, 2024
 
 🌍 🇱🇹 BioGenies on the move: Visiting Vilnius University and Trakai Island Castle!
 
+BioGenies Lab
+
 Jun 5, 2024
 
 ##### 🎉 Exciting news: Michał awarded NCN Sonata 19 Grant! 🎉
 
 Results of the Sonata 19 grant contest organized by the National Science Center Poland were announced today!
+
+BioGenies Lab
 
 May 24, 2024
 
@@ -356,11 +442,15 @@ May 24, 2024
 
 Michał, Valen and Jarek went on a conference 🏛🔱🌊🇬🇷
 
+BioGenies Lab
+
 May 18, 2024
 
 ##### Official beginning of Bioinformatics and Multiomics Analysis Laboratory
 
 🎉 Official launch of Bioinformatics and Multiomics Analysis Laboratory! 🎉
+
+BioGenies Lab
 
 May 1, 2024
 
