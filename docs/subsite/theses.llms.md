@@ -1,5 +1,11 @@
 # Theses and dissertations
 
+### 2026
+
+**Joanna Pokora**  
+MSc thesis  
+*[“Logistic Adaptive Bayesian SLOPE”](download_files/thesis/jp_msc.pdf)*
+
 ### 2025
 
 **Dawid Sonor Kubkowski**  
