@@ -33,3 +33,7 @@ As Valen settles into his new role, we still have to do some stuff at tax office
 But with enough time in **Białystok**, Valen may become so immersed in the Polish way of life that we’ll soon have to start calling him **Walentyn Kościelny**! 😄🇵🇱🥟
 
 Welcome on aboard, **Valen**! 🚀🎉
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

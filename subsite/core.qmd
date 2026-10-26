@@ -1,3 +1,7 @@
 ---
 title: "Our core facility"
 ---
+
+For information about research collaboration and available support, [contact BioGenies](mailto:biogenies@umb.edu.pl).
+
+Explore our [research topics](research.qmd#our-research-topics), [software and databases](software.qmd), and the [people in our group](team.qmd).

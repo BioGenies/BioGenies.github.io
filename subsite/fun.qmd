@@ -19,3 +19,11 @@ title: "BioGenies having fun"
 <!-- ![](fig/random/20240117_200548.jpg) -->
 <!-- ![](fig/random/DSC_3041.jpeg) -->
 <!-- ![](fig/random/20230804_160927.jpg) -->
+
+Research is also about the people around it. Explore a few moments from life in the group.
+
+- [A day at the arboretum](posts/2025_06_23_arboretum.qmd)
+- [Getting together as a team](posts/2024_11_19_party.qmd)
+- [Meet our extended team](team.qmd#the-extended-team)
+
+[More stories from BioGenies →](../index.qmd)

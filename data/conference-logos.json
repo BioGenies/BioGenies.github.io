@@ -1,0 +1,9 @@
+[
+  {"names":["PTBI"],"image":"conferences/ptbi.jpg","alt":"Polish Bioinformatics Society (PTBI) logo","url":"https://www.ptbi.org.pl/website/","kind":"society","source":"User-provided replacement: subsite/fig/logo/conferences/ptbi.jpg"},
+  {"names":["HUPO"],"image":"conferences/hupo.png","alt":"Human Proteome Organization (HUPO) logo","url":"https://hupo.org/","kind":"society","source":"https://hupo.org/wp-content/uploads/2025/06/HUPO-logo-retina-1.png"},
+  {"names":["Metabolomics"],"image":"conferences/metabolomics-society.png","alt":"Metabolomics Society logo","url":"https://metabolomicssociety.org/","kind":"society","source":"https://s3.amazonaws.com/xcdshared/metabolomics/Metabolomics_2025/Metabolomics%20Society%20Logo.png","source_page":"https://www.metabolomics2026.org/index.cfm?pgid=633"},
+  {"names":["ISMB"],"year":"2024","image":"conferences/ismb-2024-banner.png","alt":"ISMB 2024 Montréal conference logo","url":"https://www.iscb.org/ismb2024/home","kind":"conference","fit":"left-square","source":"https://www.iscb.org/images/banners/banner.ConferenceBanner.ISMB.2024.png"},
+  {"names":["ISMB","ISMB | ECCB"],"image":"conferences/iscb.png","alt":"International Society for Computational Biology (ISCB), conference organiser logo","url":"https://www.iscb.org/conferences-events","kind":"organiser","source":"https://www.iscb.org/images/logos/logo.ISCB.Header.2022.png"},
+  {"names":["Why R?"],"image":"conferences/why-r.png","alt":"Why R? conference series logo","url":"https://whyr.pl/","kind":"series","source":"https://whyr.pl/2019/img/logos/whyr2018_logo_kolko_bezwro.png","source_page":"https://whyr.pl/2019/"},
+  {"names":["ML4NGP"],"image":"ml4ngp_logo.png","alt":"ML4NGP research network logo","url":"https://ml4ngp.eu/","kind":"network","source":"Existing BioGenies asset: subsite/fig/logo/ml4ngp_logo.png"}
+]

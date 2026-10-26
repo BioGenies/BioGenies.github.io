@@ -86,3 +86,7 @@ Candidate should present documents confirming achievements and scientific experi
 [Official document with announcement](../download_files/post-doc.pdf)
 
 ![](../fig/posts/2024_08_19/ag2.jpeg) ![](../fig/ncn_logo.png)
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

@@ -101,3 +101,7 @@ But that’s not all. The data collected during this project will be used to tra
 **More detailed info about requirements and needed documents**: [student 1](../download_files/stud1.pdf), [student 2](../download_files/stud2.pdf)
 
 ![](../fig/posts/2024_08_19/ag2.jpeg) ![](../fig/ncn_logo.png)
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

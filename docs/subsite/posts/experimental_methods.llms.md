@@ -220,3 +220,9 @@ This is *exactly* in our playground:
 # 🏷️ Keywords
 
 amyloids, protein aggregation, cross-seeding, cross-interactions, fibril polymorphism, neurodegeneration, protein misfolding, experimental methods, structural biology
+
+## Explore related research
+
+- [Explore Amyloids & protein aggregation](../../subsite/topics/amyloids.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

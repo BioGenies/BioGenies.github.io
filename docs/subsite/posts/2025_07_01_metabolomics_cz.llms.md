@@ -61,3 +61,7 @@ But the summer heat was fierce. Thankfully, we had **cranked-up air conditioning
 
 - Big thanks to the **Metabolomics Society** for organizing an exceptional meeting.  
 - We made new connections with fellow researchers and, importantly, stayed cool in the AC!
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

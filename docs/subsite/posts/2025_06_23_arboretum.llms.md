@@ -83,7 +83,7 @@ Highlights included:
 
 We also celebrated **Valen’s and Eva’s birthdays** 🎉 with cake and warm wishes—lots of smiles and shared joy! 🎂
 
-![](../fig/posts/2025_06_23/1000051274.jpg "bday")
+![](../fig/posts/2025_06_23/1000051274.jpg%22bday%22)
 
 ------------------------------------------------------------------------
 
@@ -114,3 +114,7 @@ We also celebrated **Valen’s and Eva’s birthdays** 🎉 with cake and warm w
 - **Jarek and Weronika** stopped by **Krysia and Józek’s place** before hopping on the train, where **Krysia treated them to amazing homemade cocktails**🍹
 
 ![](../fig/posts/2025_06_23/IMG_0363.png "Jarek dying for the second time")
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

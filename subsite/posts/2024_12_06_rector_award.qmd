@@ -6,6 +6,7 @@ categories:
   - Achievements
 # image: "../fig/posts/"
 author: "BioGenies Lab"
+related-people: [mb]
 ---
 
 # 🏆 Michał Honored with First Degree Award by the Rector of MUB! 🏆

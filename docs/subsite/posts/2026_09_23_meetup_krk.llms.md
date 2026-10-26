@@ -29,3 +29,7 @@ For BioGenies, this is a particularly relevant topic: with so much of our work i
 Huge thanks to the Bioinformatics Community PL team for inviting Michał to the discussion! 🤝🚀
 
 ![](../fig/posts/2026_09_23/1784661250026.jpg "Photo by Bioinformatics Community PL")
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

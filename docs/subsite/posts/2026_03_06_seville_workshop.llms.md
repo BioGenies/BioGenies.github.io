@@ -66,3 +66,7 @@ Jarek and Julia returned with:
 - 🌞 and probably a mild shock when remembering what Polish winter feels like
 
 ![](../fig/posts/2026_03_06/1000012584.jpg "at the ml4ngp venue")
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

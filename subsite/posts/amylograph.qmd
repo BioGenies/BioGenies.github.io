@@ -8,6 +8,9 @@ keywords: ["amyloids", "protein aggregation", "cross-seeding", "AmyloGraph", "da
 author: "BioGenies Lab"
 ---
 
+[New to this topic? Read the plain-language story →](../stories.qmd#amylograph)
+
+
 📌 **Project highlights**
 
 - 🧬 First database of **amyloid–amyloid interactions**  
@@ -239,3 +242,6 @@ This is a **foundational dataset paper** 🧱
 amyloids, protein aggregation, cross-seeding, amyloid interactions, neurodegeneration, database, bioinformatics, systems biology
 
 :::
+
+
+Explore the [BioGenies publication catalogue](../publications.qmd) and the [software and databases behind our research](../software.qmd).

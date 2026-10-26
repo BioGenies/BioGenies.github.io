@@ -9,6 +9,9 @@ author: "BioGenies Lab"
 # image: "../fig/tools/hadex.png"
 ---
 
+[New to this topic? Read the plain-language story →](../stories.qmd#hadex2)
+
+
 ---
 
 📌 **Project highlights**
@@ -143,3 +146,6 @@ We’re excited to see how the community will use **HaDeX2** 🧬✨
 HDX-MS, hydrogen–deuterium exchange, mass spectrometry, protein dynamics, structural proteomics, bioinformatics software, R package, reproducible analysis, multi-dimensional data, protein structure
 
 :::
+
+
+Explore the [BioGenies publication catalogue](../publications.qmd) and the [software and databases behind our research](../software.qmd).

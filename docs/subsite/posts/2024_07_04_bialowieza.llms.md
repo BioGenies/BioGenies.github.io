@@ -29,3 +29,7 @@ As a highlight of the trip, the team gave an engaging interview on TV but only K
 As always we ate a lot!
 
 ![](../fig/posts/2024_07_04/20240630_193531.jpg) ![](../fig/posts/2024_07_04/20240630_204617.jpg)
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

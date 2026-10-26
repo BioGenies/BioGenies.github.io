@@ -246,3 +246,7 @@ This project is a perfect example of:
 # 🏷️ Keywords
 
 protein localization, plastids, chloroplast, machine learning, bioinformatics tools, sequence analysis, ensemble models
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

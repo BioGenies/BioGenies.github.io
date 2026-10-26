@@ -1,12 +1,16 @@
 ---
 title: 'Joanna (Asia) Pokora'
+description: "Research profile and academic CV of Joanna Pokora: publications, experience, education and BioGenies news."
+body-classes: researcher-profile
+profile-image: ../fig/ppl/jp.jpeg
+related-news: [2026_09_11_asia_msc]
 sidebar: false
 format:
   html:
     grid:
       sidebar-width: 0px
-      body-width: 1500px
-      margin-width: 300px
+      body-width: 1050px
+      margin-width: 220px
       gutter-width: 1.5rem
 knitr:
   opts_chunk:
@@ -30,11 +34,10 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
 
-# 📱 **Contact**
+## Contact
 
-------------------------------------------------------------------------
 
-[`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/JoannaPokora)
+[GitHub](https://github.com/JoannaPokora)
 
 
 <!-- # 🚀 **Research stays** -->
@@ -59,11 +62,9 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(education(whois)$new_col)` -->
 
-------------------------------------------------------------------------
 
-# 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
+## Conferences, workshops and training
 
-------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE}
 conf_work(whois)

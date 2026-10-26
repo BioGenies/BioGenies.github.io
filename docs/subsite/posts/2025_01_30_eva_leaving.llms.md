@@ -55,3 +55,7 @@ Eva didn’t leave BioGenies empty-handed — she **left us some nice gifts**! �
 It is always sad to see **another great researcher leaving academia**. Eva has an incredible mind, and the academic world is losing a talented scientist. But wherever she goes next, we know she will **make a difference** and **continue to excel**! 💙
 
 Eva, we wish you all the best in your future adventures! 🚀💙
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

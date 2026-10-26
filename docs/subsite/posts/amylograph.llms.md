@@ -16,6 +16,8 @@ Keywords
 
 amyloids, protein aggregation, cross-seeding, AmyloGraph, database, bioinformatics, neurodegeneration
 
+[New to this topic? Read the plain-language story →](../../subsite/stories.llms.md#amylograph)
+
 📌 **Project highlights**
 
 - 🧬 First database of **amyloid–amyloid interactions**  
@@ -240,3 +242,11 @@ This is a **foundational dataset paper** 🧱
 # 🏷️ Keywords
 
 amyloids, protein aggregation, cross-seeding, amyloid interactions, neurodegeneration, database, bioinformatics, systems biology
+
+Explore the [BioGenies publication catalogue](../../subsite/publications.llms.md) and the [software and databases behind our research](../../subsite/software.llms.md).
+
+## Explore related research
+
+- [Explore Amyloids & protein aggregation](../../subsite/topics/amyloids.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

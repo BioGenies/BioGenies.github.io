@@ -295,3 +295,9 @@ And sometimes:
 # 🏷️ Keywords
 
 amyloid, AmyloGram, machine learning, weak supervision, mislabeled data, IR spectroscopy, AFM, peptide aggregation, bioinformatics
+
+## Explore related research
+
+- [Explore Amyloids & protein aggregation](../../subsite/topics/amyloids.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

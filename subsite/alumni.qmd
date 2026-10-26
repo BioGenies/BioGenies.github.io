@@ -1,32 +1,17 @@
 ---
-title: "Former BioGenies members"
+title: "Part of our story"
+description: "Meet former BioGenies members and explore the people who contributed to our research community."
+body-classes: directory-page alumni-page
+sidebar: false
+toc: false
 ---
 
-::: {layout-ncol=6}
-[![Sonor Kubkowski ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/ppl/sonor.jpg "Dawid (Sonor) Kubkowski"){}](team/sk.html)
-
-[![Agnieszka Barbach ![](fig/logo/PWr_logo.png "Wrocław University of Science and Technology ­w"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
-
-[![Filip Gaj ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/ppl/fg.jpeg "Filip Gaj"){}]()
-
-[![Katarzyna Hubicka ![](fig/logo/PWr_logo.png "Wrocław University of Science and Technology ­"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
-
-[![Anita Karaszewska ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
-
-[![Dominika Kozakiewicz ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
-
-[![Anna Lassota ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
-
-[![Dominik Nowakowski ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
-
-[![Filip Pietluch ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
-
-[![Natalia Pludra ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
-
-[![Dominik Rafacz ![](fig/logo/PW_logo.png "Warsaw University of Technology"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
-
-[![Joanna Sikorska ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
-
-[![Jadwiga Słowik ![](fig/logo/PW_logo.png "Warsaw University of Technology"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
-
+::: {.team-intro}
+The people who have helped shape BioGenies. Our former members remain part of the group’s story.
 :::
+
+[Meet the current team](team.qmd) · [Our collaborators](colab.qmd)
+
+```{=html}
+<div class="people-grid directory-grid"><article class="person-card"><a class="person-photo" href="team/sk.html"><img src="fig/ppl/sonor.jpg" alt="Sonor Kubkowski" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="team/sk.html">Sonor Kubkowski</a></h3><p>University of Wrocław</p><div class="affiliation-logos"><a class="affiliation-link" href="https://uwr.edu.pl/en/" title="University of Wrocław"><img src="fig/logo/UWr_logo.png" alt="University of Wrocław logo" loading="lazy"></a></div><a class="person-action" href="team/sk.html">Research profile <span aria-hidden="true">↗</span></a></div></article><article class="person-card"><div class="person-photo"><span class="person-initials" aria-hidden="true">AB</span></div><div class="person-info"><h3>Agnieszka Barbach</h3><p>Wrocław University of Science and Technology</p><div class="affiliation-logos"><a class="affiliation-link" href="https://pwr.edu.pl/en/" title="Wrocław University of Science and Technology"><img src="fig/logo/PWr_logo.png" alt="Wrocław University of Science and Technology logo" loading="lazy"></a></div></div></article><article class="person-card"><div class="person-photo"><img src="fig/ppl/fg.jpeg" alt="Filip Gaj" loading="lazy"></div><div class="person-info"><h3>Filip Gaj</h3><p>University of Wrocław</p><div class="affiliation-logos"><a class="affiliation-link" href="https://uwr.edu.pl/en/" title="University of Wrocław"><img src="fig/logo/UWr_logo.png" alt="University of Wrocław logo" loading="lazy"></a></div></div></article><article class="person-card"><div class="person-photo"><span class="person-initials" aria-hidden="true">KH</span></div><div class="person-info"><h3>Katarzyna Hubicka</h3><p>Wrocław University of Science and Technology</p><div class="affiliation-logos"><a class="affiliation-link" href="https://pwr.edu.pl/en/" title="Wrocław University of Science and Technology"><img src="fig/logo/PWr_logo.png" alt="Wrocław University of Science and Technology logo" loading="lazy"></a></div></div></article><article class="person-card"><div class="person-photo"><span class="person-initials" aria-hidden="true">AK</span></div><div class="person-info"><h3>Anita Karaszewska</h3><p>University of Wrocław</p><div class="affiliation-logos"><a class="affiliation-link" href="https://uwr.edu.pl/en/" title="University of Wrocław"><img src="fig/logo/UWr_logo.png" alt="University of Wrocław logo" loading="lazy"></a></div></div></article><article class="person-card"><div class="person-photo"><span class="person-initials" aria-hidden="true">DK</span></div><div class="person-info"><h3>Dominika Kozakiewicz</h3><p>University of Wrocław</p><div class="affiliation-logos"><a class="affiliation-link" href="https://uwr.edu.pl/en/" title="University of Wrocław"><img src="fig/logo/UWr_logo.png" alt="University of Wrocław logo" loading="lazy"></a></div></div></article><article class="person-card"><div class="person-photo"><span class="person-initials" aria-hidden="true">AL</span></div><div class="person-info"><h3>Anna Lassota</h3><p>University of Wrocław</p><div class="affiliation-logos"><a class="affiliation-link" href="https://uwr.edu.pl/en/" title="University of Wrocław"><img src="fig/logo/UWr_logo.png" alt="University of Wrocław logo" loading="lazy"></a></div></div></article><article class="person-card"><div class="person-photo"><span class="person-initials" aria-hidden="true">DN</span></div><div class="person-info"><h3>Dominik Nowakowski</h3><p>Medical University of Białystok</p><div class="affiliation-logos"><a class="affiliation-link" href="https://www.umb.edu.pl/en" title="Medical University of Białystok"><img src="fig/logo/MUB_logo.png" alt="Medical University of Białystok logo" loading="lazy"></a></div></div></article><article class="person-card"><div class="person-photo"><span class="person-initials" aria-hidden="true">FP</span></div><div class="person-info"><h3>Filip Pietluch</h3><p>University of Wrocław</p><div class="affiliation-logos"><a class="affiliation-link" href="https://uwr.edu.pl/en/" title="University of Wrocław"><img src="fig/logo/UWr_logo.png" alt="University of Wrocław logo" loading="lazy"></a></div></div></article><article class="person-card"><div class="person-photo"><span class="person-initials" aria-hidden="true">NP</span></div><div class="person-info"><h3>Natalia Pludra</h3><p>University of Wrocław</p><div class="affiliation-logos"><a class="affiliation-link" href="https://uwr.edu.pl/en/" title="University of Wrocław"><img src="fig/logo/UWr_logo.png" alt="University of Wrocław logo" loading="lazy"></a></div></div></article><article class="person-card"><div class="person-photo"><span class="person-initials" aria-hidden="true">DR</span></div><div class="person-info"><h3>Dominik Rafacz</h3><p>Warsaw University of Technology</p><div class="affiliation-logos"><a class="affiliation-link" href="https://eng.pw.edu.pl/" title="Warsaw University of Technology"><img src="fig/logo/PW_logo.png" alt="Warsaw University of Technology logo" loading="lazy"></a></div></div></article><article class="person-card"><div class="person-photo"><span class="person-initials" aria-hidden="true">JS</span></div><div class="person-info"><h3>Joanna Sikorska</h3><p>University of Wrocław</p><div class="affiliation-logos"><a class="affiliation-link" href="https://uwr.edu.pl/en/" title="University of Wrocław"><img src="fig/logo/UWr_logo.png" alt="University of Wrocław logo" loading="lazy"></a></div></div></article><article class="person-card"><div class="person-photo"><span class="person-initials" aria-hidden="true">JS</span></div><div class="person-info"><h3>Jadwiga Słowik</h3><p>Warsaw University of Technology</p><div class="affiliation-logos"><a class="affiliation-link" href="https://eng.pw.edu.pl/" title="Warsaw University of Technology"><img src="fig/logo/PW_logo.png" alt="Warsaw University of Technology logo" loading="lazy"></a></div></div></article></div>
+```

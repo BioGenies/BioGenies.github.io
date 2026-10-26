@@ -169,15 +169,16 @@ window.Quarto = {
 <link rel="stylesheet" href="navbar_hover.css">
 <link rel="stylesheet" href="sidebar_mods.css">
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="research.css">
 <meta property="og:title" content="BioGenies news – BioGenies">
-<meta property="og:image" content="./subsite/fig/posts/2025_12_16/rector_merged.jpg">
+<meta property="og:image" content="https://biogenies.info/subsite/fig/posts/2025_12_16/rector_merged.jpg">
 <meta property="og:site_name" content="BioGenies">
 <meta name="twitter:title" content="BioGenies news – BioGenies">
-<meta name="twitter:image" content="./subsite/fig/posts/2025_12_16/rector_merged.jpg">
+<meta name="twitter:image" content="https://biogenies.info/subsite/fig/posts/2025_12_16/rector_merged.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-sidebar floating nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed news-page quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -346,6 +347,10 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./bg_logo.png" alt="BioGenies logo" class="navbar-logo light-content">
+    <img src="./bg_logo.png" alt="BioGenies logo" class="navbar-logo dark-content">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">BioGenies</span>
     </a>
@@ -367,19 +372,19 @@ window.Quarto = {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-team">    
         <li>
     <a class="dropdown-item" href="./subsite/team.html">
- <span class="dropdown-text">BioGenies team</span></a>
+ <span class="dropdown-text">People behind the science</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/colab.html">
- <span class="dropdown-text">BioGenies collaborators</span></a>
+ <span class="dropdown-text">Working together</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/guest.html">
- <span class="dropdown-text">Guest researchers</span></a>
+ <span class="dropdown-text">Come research with us</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/alumni.html">
- <span class="dropdown-text">Former BioGenies members</span></a>
+ <span class="dropdown-text">Part of our story</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/about.html">
@@ -393,16 +398,20 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-our-projects">    
         <li>
+    <a class="dropdown-item" href="./index_projects.html">
+ <span class="dropdown-text">All projects</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="./subsite/projects/OneTick.html">
  <span class="dropdown-text">OneTick</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/projects/AMI-cryoEM.html">
- <span class="dropdown-text">AMI‑CryoML</span></a>
+ <span class="dropdown-text">AMI-CryoML</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/projects/AmyloGraph2.html">
- <span class="dropdown-text">AmyloGraph&nbsp;2.0</span></a>
+ <span class="dropdown-text">AmyloGraph 2.0</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/projects/LIMAD.html">
@@ -418,25 +427,40 @@ window.Quarto = {
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./subsite/software.html"> 
-<span class="menu-text">Software</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research--impact" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Research &amp; impact</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research--impact">    
+        <li>
+    <a class="dropdown-item" href="./subsite/research.html">
+ <span class="dropdown-text">Overview</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./subsite/stories.html">
+ <span class="dropdown-text">Research stories</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./subsite/publications.html">
+ <span class="dropdown-text">Publications</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./subsite/software.html">
+ <span class="dropdown-text">Software &amp; databases</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./subsite/conferences.html">
+ <span class="dropdown-text">Conferences &amp; workshops</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./subsite/theses.html">
+ <span class="dropdown-text">Theses &amp; dissertations</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./subsite/seminars.html"> 
 <span class="menu-text">Seminars</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./subsite/publications.html"> 
-<span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./subsite/conferences.html"> 
-<span class="menu-text">Conferences etc.</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./subsite/theses.html"> 
-<span class="menu-text">Theses and dissertations</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -453,80 +477,15 @@ window.Quarto = {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">BioGenies news</li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-      <a href="./index.html" class="sidebar-logo-link">
-      <img src="./bg_logo.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
-      <img src="./bg_logo.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
-      </a>
-      </div>
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Our topics</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./subsite/topics/amyloids.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Amyloids</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./subsite/topics/llps.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Liquid-liquid phase separation</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./subsite/topics/amp.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Antimicrobial peptides</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./subsite/topics/mvi.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Missing value imputation</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./subsite/topics/hdxms.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">HDX-MS</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-cloud"><div class="category" data-category="QWNoaWV2ZW1lbnRz"><span class="quarto-category-count category-cloud-2">Achievements</span></div><div class="category" data-category="Q2FuYWRh"><span class="quarto-category-count category-cloud-1">Canada</span></div><div class="category" data-category="Q29uZmVyZW5jZXMlMjAlMjYlMjBldmVudHM="><span class="quarto-category-count category-cloud-3">Conferences &amp; events</span></div><div class="category" data-category="Q09TVCUyMEFjdGlvbnM="><span class="quarto-category-count category-cloud-1">COST Actions</span></div><div class="category" data-category="Q3plY2glMjBSZXB1YmxpYw=="><span class="quarto-category-count category-cloud-1">Czech Republic</span></div><div class="category" data-category="RUxJWElS"><span class="quarto-category-count category-cloud-1">ELIXIR</span></div><div class="category" data-category="RXJhc211cyUyQg=="><span class="quarto-category-count category-cloud-1">Erasmus+</span></div><div class="category" data-category="RnJhbmNl"><span class="quarto-category-count category-cloud-1">France</span></div><div class="category" data-category="R2VybWFueQ=="><span class="quarto-category-count category-cloud-1">Germany</span></div><div class="category" data-category="R3JhbnRz"><span class="quarto-category-count category-cloud-2">Grants</span></div><div class="category" data-category="R3JlZWNl"><span class="quarto-category-count category-cloud-1">Greece</span></div><div class="category" data-category="SG9yaXpvbiUyMEV1cm9wZQ=="><span class="quarto-category-count category-cloud-1">Horizon Europe</span></div><div class="category" data-category="SFVQTw=="><span class="quarto-category-count category-cloud-1">HUPO</span></div><div class="category" data-category="SVNNQg=="><span class="quarto-category-count category-cloud-1">ISMB</span></div><div class="category" data-category="SXRhbHk="><span class="quarto-category-count category-cloud-1">Italy</span></div><div class="category" data-category="SmFwYW4="><span class="quarto-category-count category-cloud-1">Japan</span></div><div class="category" data-category="TGl0aHVhbmlh"><span class="quarto-category-count category-cloud-1">Lithuania</span></div><div class="category" data-category="TWFyaWUlMjBTayVDNSU4Mm9kb3dza2EtQ3VyaWUlMjBBY3Rpb25z"><span class="quarto-category-count category-cloud-1">Marie Skłodowska-Curie Actions</span></div><div class="category" data-category="TWV0YWJvbG9taWNz"><span class="quarto-category-count category-cloud-1">Metabolomics</span></div><div class="category" data-category="TkFXQQ=="><span class="quarto-category-count category-cloud-1">NAWA</span></div><div class="category" data-category="TkNO"><span class="quarto-category-count category-cloud-1">NCN</span></div><div class="category" data-category="UEFSUA=="><span class="quarto-category-count category-cloud-1">PARP</span></div><div class="category" data-category="UG9sYW5k"><span class="quarto-category-count category-cloud-2">Poland</span></div><div class="category" data-category="UFRCSQ=="><span class="quarto-category-count category-cloud-1">PTBI</span></div><div class="category" data-category="UHVibGljYXRpb25z"><span class="quarto-category-count category-cloud-3">Publications</span></div><div class="category" data-category="UmVjcnVpdGluZw=="><span class="quarto-category-count category-cloud-1">Recruiting</span></div><div class="category" data-category="U3BhaW4="><span class="quarto-category-count category-cloud-1">Spain</span></div><div class="category" data-category="VGVhbQ=="><span class="quarto-category-count category-cloud-4">Team</span></div><div class="category" data-category="V0lERVJB"><span class="quarto-category-count category-cloud-1">WIDERA</span></div></div></div>
 <!-- main -->
-<main class="content column-body" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
@@ -536,7 +495,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-body">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -548,13 +507,40 @@ window.Quarto = {
 </header>
 
 
+<div id="start-here" class="start-here">
+<p><span class="eyebrow">NEW TO BIOGENIES?</span></p>
+<section id="start-with-what-brings-you-here." class="level2">
+<h2 class="anchored" data-anchor-id="start-with-what-brings-you-here.">Start with what brings you here.</h2>
+<div class="visitor-routes">
+<section id="im-a-student" class="level3 visitor-route">
+<h3 class="anchored" data-anchor-id="im-a-student">I’m a student</h3>
+<p>Meet the people, explore research questions and see examples of thesis work.</p>
+<p><a href="./subsite/start.html#students">Find your starting point →</a></p>
+</section>
+<section id="im-a-researcher" class="level3 visitor-route">
+<h3 class="anchored" data-anchor-id="im-a-researcher">I’m a researcher</h3>
+<p>Find shared interests, meet potential collaborators and explore our projects.</p>
+<p><a href="./subsite/start.html#collaborate">Explore connections →</a></p>
+</section>
+<section id="im-looking-for-a-tool" class="level3 visitor-route">
+<h3 class="anchored" data-anchor-id="im-looking-for-a-tool">I’m looking for a tool</h3>
+<p>Discover software and databases, or try a small hands-on introduction.</p>
+<p><a href="./subsite/start.html#tools">Find tools you can use →</a></p>
+</section>
+</div>
+<p><a href="./subsite/stories.html" class="discovery-link">Read the science in plain language</a></p>
+</section>
+</div>
+<section id="latest-news" class="level2">
+<h2 class="anchored" data-anchor-id="latest-news">Latest news</h2>
 
 
 
+</section>
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="VGVhbQ==" data-listing-date-sort="1789938000000" data-listing-file-modified-sort="1790158185160" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="213">
+<div class="g-col-1" data-index="0" data-categories="VGVhbQ==" data-listing-date-sort="1789938000000" data-listing-file-modified-sort="1792753892810" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="213">
 <a href="./subsite/posts/2026_09_22_krysia_postdoc.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="subsite\fig\posts\2026_09_22\IMG_2262.jpg" style="height: 150px;" title="Krysia on via ferrata in Arco, IT" class="thumbnail-image card-img"/></p>
@@ -612,7 +598,7 @@ Sep 18, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="QWNoaWV2ZW1lbnRzJTJDVGVhbQ==" data-listing-date-sort="1789074000000" data-listing-file-modified-sort="1790158106116" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="374">
+<div class="g-col-1" data-index="2" data-categories="QWNoaWV2ZW1lbnRzJTJDVGVhbQ==" data-listing-date-sort="1789074000000" data-listing-file-modified-sort="1792753892823" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="374">
 <a href="./subsite/posts/2026_09_11_asia_msc.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="subsite\fig\posts\2026_09_11\asia_MSc.png" style="height: 150px;" title="One photo, one big MSc milestone!" class="thumbnail-image card-img"/></p>
@@ -701,7 +687,7 @@ Jun 8, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="UHVibGljYXRpb25z" data-listing-date-sort="1773612000000" data-listing-file-modified-sort="1790158381879" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="578">
+<div class="g-col-1" data-index="5" data-categories="UHVibGljYXRpb25z" data-listing-date-sort="1773612000000" data-listing-file-modified-sort="1792784877401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="598">
 <a href="./subsite/posts/hadex2.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="subsite\fig\tools\hadex.png" style="height: 150px;" title="HaDeX2 - multi-dimensional analysis of HDX-MS data" class="thumbnail-image card-img"/></p>
@@ -759,7 +745,7 @@ Mar 6, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="QWNoaWV2ZW1lbnRz" data-listing-date-sort="1765836000000" data-listing-file-modified-sort="1790157978835" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="258">
+<div class="g-col-1" data-index="7" data-categories="QWNoaWV2ZW1lbnRz" data-listing-date-sort="1765836000000" data-listing-file-modified-sort="1792753892799" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="258">
 <a href="./subsite/posts/2025_12_16_rector_awards.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -848,7 +834,7 @@ Nov 13, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="VGVhbSUyQ0FjaGlldmVtZW50cw==" data-listing-date-sort="1762898400000" data-listing-file-modified-sort="1790157843383" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="392">
+<div class="g-col-1" data-index="10" data-categories="VGVhbSUyQ0FjaGlldmVtZW50cw==" data-listing-date-sort="1762898400000" data-listing-file-modified-sort="1792753892833" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="392">
 <a href="./subsite/posts/2025_11_12_weronika_phd.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -910,7 +896,7 @@ Sep 18, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="12" data-categories="VGVhbSUyQ0FjaGlldmVtZW50cw==" data-listing-date-sort="1758056400000" data-listing-file-modified-sort="1790157756051" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
+<div class="g-col-1" data-index="12" data-categories="VGVhbSUyQ0FjaGlldmVtZW50cw==" data-listing-date-sort="1758056400000" data-listing-file-modified-sort="1792753892844" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
 <a href="./subsite/posts/2025_09_17_mariia_phd_school.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="subsite\fig\posts\2025_09_17\IMG_3619.jpeg" style="height: 150px;" title="Mariia celebrating her PhD acceptance with a big smile 🎉" class="thumbnail-image card-img"/></p>
@@ -939,7 +925,7 @@ Sep 17, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="13" data-categories="VGVhbSUyQ0FjaGlldmVtZW50cw==" data-listing-date-sort="1757970000000" data-listing-file-modified-sort="1790157726236" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="242">
+<div class="g-col-1" data-index="13" data-categories="VGVhbSUyQ0FjaGlldmVtZW50cw==" data-listing-date-sort="1757970000000" data-listing-file-modified-sort="1792753892851" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="242">
 <a href="./subsite/posts/2025_09_16_sonor_msc.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1117,11 +1103,11 @@ Jul 1, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="19" data-categories="VGVhbSUyQ1BvbGFuZA==" data-listing-date-sort="1750626000000" data-listing-file-modified-sort="1790156423207" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="420">
+<div class="g-col-1" data-index="19" data-categories="VGVhbSUyQ1BvbGFuZA==" data-listing-date-sort="1750626000000" data-listing-file-modified-sort="1792786420519" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="419">
 <a href="./subsite/posts/2025_06_23_arboretum.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" data-src="./subsite/fig/posts/2025_06_23/1000051274.jpg " class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./subsite/fig/posts/2025_06_23/1000051274.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1268,7 +1254,7 @@ May 20, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="24" data-categories="TWFyaWUlMjBTayVDNSU4Mm9kb3dza2EtQ3VyaWUlMjBBY3Rpb25zJTJDSG9yaXpvbiUyMEV1cm9wZSUyQ1dJREVSQQ==" data-listing-date-sort="1747602000000" data-listing-file-modified-sort="1790156178975" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="203">
+<div class="g-col-1" data-index="24" data-categories="TWFyaWUlMjBTayVDNSU4Mm9kb3dza2EtQ3VyaWUlMjBBY3Rpb25zJTJDSG9yaXpvbiUyMEV1cm9wZSUyQ1dJREVSQQ==" data-listing-date-sort="1747602000000" data-listing-file-modified-sort="1792753892747" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="203">
 <a href="./subsite/posts/2025_05_19_jarek_fellowship.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1539,7 +1525,7 @@ Jan 9, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="33" data-categories="QWNoaWV2ZW1lbnRz" data-listing-date-sort="1733436000000" data-listing-file-modified-sort="1790155612935" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
+<div class="g-col-1" data-index="33" data-categories="QWNoaWV2ZW1lbnRz" data-listing-date-sort="1733436000000" data-listing-file-modified-sort="1792753892768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
 <a href="./subsite/posts/2024_12_06_rector_award.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' data-src="subsite\fig\posts\2024_12_06\nagrody_rektora.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -2237,7 +2223,7 @@ Apr 30, 2024
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="57" data-categories="UHVibGljYXRpb25z" data-listing-date-sort="1708380000000" data-listing-file-modified-sort="1790158389843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="662">
+<div class="g-col-1" data-index="57" data-categories="UHVibGljYXRpb25z" data-listing-date-sort="1708380000000" data-listing-file-modified-sort="1793008453688" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="682">
 <a href="./subsite/posts/imputomics.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' data-src="subsite\fig\tools\imputomics.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -2291,7 +2277,7 @@ Nov 27, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="59" data-categories="UHVibGljYXRpb25z" data-listing-date-sort="1697403600000" data-listing-file-modified-sort="1790158961006" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="611">
+<div class="g-col-1" data-index="59" data-categories="UHVibGljYXRpb25z" data-listing-date-sort="1697403600000" data-listing-file-modified-sort="1792784877391" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="631">
 <a href="./subsite/posts/amylograph.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' data-src="subsite\fig\tools\amylograph.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -2572,7 +2558,7 @@ Apr 26, 2021
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/biogenies\.info");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

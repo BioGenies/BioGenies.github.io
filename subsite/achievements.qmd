@@ -1,0 +1,11 @@
+---
+title: "Research & impact"
+description: "Discover BioGenies publications, software, conference contributions and scientific recognition."
+aliases: []
+sidebar: false
+toc: false
+include-in-header:
+  text: '<link rel="canonical" href="https://biogenies.info/subsite/research.html">'
+---
+
+Our research and recognition now live together in the [BioGenies Research & impact hub](research.qmd).

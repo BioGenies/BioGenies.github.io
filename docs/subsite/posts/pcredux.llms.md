@@ -261,3 +261,7 @@ And honestly that’s what most pipelines are missing.
 # 🏷️ Keywords
 
 qPCR, machine learning, feature extraction, PCRedux, amplification curves, explainable AI, bioinformatics, R
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

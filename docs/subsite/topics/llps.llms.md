@@ -1,27 +1,39 @@
-# Liquid-liquid phase separation
+# Liquid–liquid phase separation
 
-## Beyond the basics
+Making sense of biomolecular condensates through carefully curated data and more informative benchmarks.
 
-Liquid-liquid phase separation (LLPS) is a fundamental biophysical process that underlies the organization and compartmentalization within cells, without relying on membrane-bound structures. This phenomenon occurs when a homogenous solution of macromolecules, such as proteins and nucleic acids, spontaneously demixes into two coexisting liquid phases: a dense phase enriched in these macromolecules and a dilute phase that is relatively depleted of them. This phase separation is driven by weak, multivalent interactions among the molecules, including electrostatic interactions, hydrophobic effects, and specific binding domains.
+Making sense of biomolecular condensates through carefully curated data and more informative benchmarks.
 
-### Mechanisms of LLPS
+## Organisation without a membrane
 
-The driving forces behind LLPS involve a delicate balance between attractive and repulsive interactions among macromolecules. Key factors influencing LLPS include:
+Cells can concentrate proteins and nucleic acids into assemblies known as biomolecular condensates. Liquid–liquid phase separation is one mechanism that can produce such compartments: interactions among molecules favour a concentrated phase alongside a more dilute one. The behaviour depends on molecular composition and experimental conditions.
 
-Multivalency: Proteins and nucleic acids with multiple interaction sites can engage in many weak interactions simultaneously, promoting phase separation. Intrinsic Disorder: Proteins with intrinsically disordered regions (IDRs) often undergo LLPS due to their flexible, dynamic nature, which allows for transient interactions. Post-translational Modifications: Phosphorylation, methylation, and ubiquitination can modulate protein-protein interactions, thereby influencing LLPS. Environmental Conditions: Changes in temperature, pH, ionic strength, and concentration of macromolecules can trigger or inhibit phase separation.
+For computational studies, the challenge is not simply to decide whether a protein has ever appeared in a condensate. A protein that helps drive phase separation may play a different role from one recruited into an existing assembly. Useful datasets need to preserve those distinctions and the evidence behind them.
 
-### Biological Functions of LLPS
+## Questions we explore
 
-LLPS is pivotal in forming various membrane-less organelles (MLOs) or biomolecular condensates that compartmentalize cellular components to enhance reaction kinetics, protect sensitive molecules, and regulate biological processes. Some key examples include:
+- How should we distinguish proteins that drive phase separation from proteins recruited into condensates?
+- Which negative examples make a benchmark informative?
+- How well do prediction methods generalise across different datasets?
 
-Nucleoli: Sites of ribosomal RNA (rRNA) synthesis and ribosome assembly within the nucleus. Stress Granules: Cytoplasmic aggregates that form in response to cellular stress, sequestering untranslated mRNAs and associated proteins. P-bodies: Cytoplasmic structures involved in mRNA decay and storage. Centrosomes: Organizing centers for microtubule nucleation during cell division.
+## Our approach
 
-### Implications of LLPS in Health and Disease
+Our work focuses on the data used to study and predict phase separation. We bring together curated protein datasets and examine how the choice of positive and negative examples changes the evaluation of prediction tools.
 
-LLPS has profound implications for understanding cellular organization and disease mechanisms. Aberrant phase separation can lead to pathological aggregates associated with diseases such as:
+The aim is to make comparisons easier to interpret and reproduce. Distinguishing drivers, clients and negative examples helps researchers ask more precise questions about what a model has learned, rather than treating every condensate-associated protein as the same kind of example.
 
-Neurodegenerative Diseases: Dysregulated phase separation can contribute to the formation of toxic protein aggregates in diseases like ALS, Alzheimer’s, and Parkinson’s. Cancer: Altered phase separation dynamics can affect signaling pathways and gene expression, contributing to tumorigenesis.
+## Tools, projects & people
 
-## Our aims
+Explore our [publication catalogue](../../subsite/publications.llms.md), [software and data resources](../../subsite/software.llms.md), and the related field of [amyloid aggregation](../../subsite/topics/amyloids.llms.md).
 
-## Projects
+## Publications & research stories
+
+### Better data for condensate research
+
+Our curated protein datasets and comparative evaluation of LLPS prediction tools.
+
+[Read the research story ↗](../../subsite/posts/llps_benchmark.llms.md)
+
+[Original publication ↗](https://doi.org/10.1186/s13059-025-03668-6)
+
+[Explore all research & impact](../../subsite/research.llms.md) · [Full publication catalogue](../../subsite/publications.llms.md)

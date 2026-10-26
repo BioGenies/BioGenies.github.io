@@ -16,6 +16,8 @@ Keywords
 
 HDX-MS, hydrogen deuterium exchange, protein dynamics, mass spectrometry, bioinformatics tool, structural proteomics, R package
 
+[New to this topic? Read the plain-language story →](../../subsite/stories.llms.md#hadex2)
+
 ------------------------------------------------------------------------
 
 📌 **Project highlights**
@@ -141,3 +143,11 @@ We’re excited to see how the community will use **HaDeX2** 🧬✨
 # 🏷️ Keywords
 
 HDX-MS, hydrogen–deuterium exchange, mass spectrometry, protein dynamics, structural proteomics, bioinformatics software, R package, reproducible analysis, multi-dimensional data, protein structure
+
+Explore the [BioGenies publication catalogue](../../subsite/publications.llms.md) and the [software and databases behind our research](../../subsite/software.llms.md).
+
+## Explore related research
+
+- [Explore Protein dynamics with HDX-MS](../../subsite/topics/hdxms.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

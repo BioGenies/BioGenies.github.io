@@ -49,3 +49,9 @@ This project will be carried out in close collaboration with the **OneTick conso
 We’re beyond proud of Mariia’s achievement and thrilled to see her research grow in such an impactful direction 🌟. Tackling tick-borne diseases is no small feat, but with her dedication and skills, we’re sure she’ll make a big difference.
 
 ![](../fig/posts/2025_09_17/IMG_3619.jpeg "Mariia celebrating her PhD acceptance with a big smile 🎉")
+
+## Explore related research
+
+- [Mariia Rutkowska — academic CV and publications](../../subsite/team/mr.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

@@ -235,3 +235,9 @@ should look like
 # 🏷️ Keywords
 
 amyloids, antimicrobial peptides, AMP prediction, machine learning, negative dataset, bioinformatics, experimental validation
+
+## Explore related research
+
+- [Explore Antimicrobial peptides](../../subsite/topics/amp.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

@@ -1,68 +1,34 @@
 ---
-title: "Amyloids"
-editor: 
-  markdown: 
-    wrap: sentence
+title: "Amyloids & protein aggregation"
+description: "How do proteins assemble into amyloid structures, and what happens when different amyloids meet?"
+body-classes: topic-page
+research-topic: amyloids
+sidebar: false
+toc: false
 ---
 
-Amyloids are highly structured, fibrous protein aggregates that are associated with a variety of physiological and pathological processes. These protein assemblies are characterized by their beta-sheet-rich structure, which allows them to form long, unbranched fibrils. Amyloid fibrils can accumulate in tissues and organs, leading to a range of diseases known as amyloidoses. However, not all amyloids are harmful; some play functional roles in normal cellular processes.
+::: {.topic-intro}
+How do proteins assemble into amyloid structures, and what happens when different amyloids meet?
+:::
 
-### Mechanisms of Amyloid Formation
+## Why amyloids matter
 
-Amyloid formation, or amyloidogenesis, involves the misfolding of normally soluble proteins into insoluble, fibrillar structures. Key steps in this process include:
+Amyloids are ordered protein assemblies with a characteristic cross-β structure. They are studied in the context of protein misfolding and disease, but they also have biological functions: bacterial curli, for example, contribute to the extracellular matrix of biofilms. Understanding amyloids means looking at both their molecular structure and the biological setting in which they form.
 
-Nucleation: The initial and rate-limiting step where a few misfolded protein molecules aggregate to form a stable nucleus.
-Fibril Elongation: Once a nucleus is formed, additional misfolded proteins add to the growing fibril, forming long, stable structures.
-Maturation: Fibrils mature into more stable and structurally defined amyloids.
-Factors influencing amyloid formation include:
+Aggregation is also an interaction problem. One protein can alter the aggregation of another, and the outcome depends on the proteins, experimental conditions and the measurements used. Bringing those observations together makes it easier to compare findings that would otherwise remain scattered across the literature.
 
-Protein Concentration: Higher concentrations of amyloidogenic proteins increase the likelihood of nucleation and fibril formation.
-Mutations: Genetic mutations can make proteins more prone to misfolding and aggregation.
-Environmental Conditions: pH, temperature, and ionic strength can affect protein stability and aggregation propensity.
+## Questions we explore
 
-### Biological Functions of Amyloids
+- How can we organise evidence about interactions between different amyloid-forming proteins?
+- What makes an amyloid dataset useful for prediction and comparison?
+- How can computational predictions and experimental measurements inform each other?
 
-While amyloids are often associated with disease, some serve functional roles in normal biology. Examples of functional amyloids include:
+## Our approach
 
-Pmel17: Involved in the formation of melanin in pigment cells.
-Curli: Extracellular fibers produced by bacteria, facilitating adhesion and biofilm formation.
-Sup35: A yeast prion protein that influences translation termination.
+We connect literature curation, databases, computational analysis and experimental evidence. AmyloGraph organises reports of amyloid–amyloid interactions, while our work on prediction and annotation examines how reliably sequence-based models describe amyloid behaviour.
 
-  * β-Amyloid (Aβ): associated with Alzheimer’s disease. 
-  * α-Synuclein: linked to Parkinson’s disease.
-  * CsgA and CsgB: have a role in bacterial biofilm formation. 
-  * Tau: implicated in neurofibrillary tangles seen in Alzheimer’s and other tauopathies. 
-  * Prion Protein (PrP): responsible for prion diseases. 
-  * Islet Amyloid Polypeptide (IAPP): involved in type 2 diabetes. 
-  * Transthyretin (TTR): associated with familial amyloidotic polyneuropathy (FAP) and senile systemic amyloidosis
+We also study the resources and experimental methods used across the field. Clear annotations and complementary measurements help distinguish an observed interaction from a proposed mechanism. Our publication stories below explain the questions, methods and limitations behind these projects.
 
-### Implications of Amyloids in Health and Disease
+## Tools, projects & people
 
-Pathological amyloids are implicated in a variety of diseases, collectively known as amyloidoses. These include:
-
-Neurodegenerative Diseases: Amyloid-beta plaques in Alzheimer's disease, tau tangles in Alzheimer's and other tauopathies, alpha-synuclein aggregates in Parkinson's disease, and huntingtin fibrils in Huntington's disease.
-Systemic Amyloidosis: Deposition of amyloid fibrils in organs and tissues, leading to conditions such as primary amyloidosis (AL), secondary amyloidosis (AA), and familial amyloid polyneuropathy (FAP).
-
-### Diagnostic techniques: 
-
-* Congo red staining and thioflavin-T (ThT) fluorescence are used to detect amyloid deposits. 
-* ThT is used for measuring aggregation kinetics.
-* Imaging techniques (PET scans) help visualize amyloid burden in vivo. 
-
-Remember that while amyloids are often associated with diseases, they also play roles in normal physiological processes. For instance, functional amyloids exist in biofilms, sperm tails, and even memory formation.
-
-## Our aims
-
-## Projects
-
-#### AmyloGraph
-
-website
-publication
-github
-
-#### AmyloGram
-
-website
-publication
-github
+Explore [AmyloGraph2](../projects/AmyloGraph2.qmd), [FIBREA](../../fibrea.qmd), [LIMAD](../projects/LIMAD.qmd), and the [software catalogue](../software.qmd).

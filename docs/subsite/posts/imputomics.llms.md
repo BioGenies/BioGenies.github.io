@@ -16,6 +16,10 @@ Keywords
 
 imputomics, missing data, metabolomics, imputation, bioinformatics tools, machine learning, data preprocessing
 
+[New to this topic? Read the plain-language story →](../../subsite/stories.llms.md#imputomics)
+
+[Try the interactive missing-data demo →](../../subsite/imputation-demo.llms.md)
+
 ------------------------------------------------------------------------
 
 📌 **Project highlights**
@@ -242,3 +246,11 @@ This is exactly our philosophy:
 # 🏷️ Keywords
 
 missing data, metabolomics, imputation, imputomics, machine learning preprocessing, bioinformatics tools, data quality, omics analysis
+
+Explore the [BioGenies publication catalogue](../../subsite/publications.llms.md) and the [software and databases behind our research](../../subsite/software.llms.md).
+
+## Explore related research
+
+- [Explore Missing value imputation](../../subsite/topics/mvi.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

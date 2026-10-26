@@ -50,3 +50,7 @@ We’re beyond proud to see you take on this ambitious project with NCN’s supp
 Stay tuned, we’ll be sharing updates from the LIMAD journey here! 📢🔥
 
 ![](../fig/posts/2025_09_15/valen_ncn.jpg "Happy Valen")
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

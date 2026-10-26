@@ -6,6 +6,7 @@ categories:
   - Team
 # image: "../fig/posts/"
 author: "BioGenies Lab"
+related-people: [kg]
 ---
 
 ---

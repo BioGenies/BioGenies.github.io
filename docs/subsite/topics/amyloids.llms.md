@@ -1,51 +1,71 @@
-# Amyloids
+# Amyloids & protein aggregation
 
-Amyloids are highly structured, fibrous protein aggregates that are associated with a variety of physiological and pathological processes. These protein assemblies are characterized by their beta-sheet-rich structure, which allows them to form long, unbranched fibrils. Amyloid fibrils can accumulate in tissues and organs, leading to a range of diseases known as amyloidoses. However, not all amyloids are harmful; some play functional roles in normal cellular processes.
+How do proteins assemble into amyloid structures, and what happens when different amyloids meet?
 
-### Mechanisms of Amyloid Formation
+How do proteins assemble into amyloid structures, and what happens when different amyloids meet?
 
-Amyloid formation, or amyloidogenesis, involves the misfolding of normally soluble proteins into insoluble, fibrillar structures. Key steps in this process include:
+## Why amyloids matter
 
-Nucleation: The initial and rate-limiting step where a few misfolded protein molecules aggregate to form a stable nucleus. Fibril Elongation: Once a nucleus is formed, additional misfolded proteins add to the growing fibril, forming long, stable structures. Maturation: Fibrils mature into more stable and structurally defined amyloids. Factors influencing amyloid formation include:
+Amyloids are ordered protein assemblies with a characteristic cross-β structure. They are studied in the context of protein misfolding and disease, but they also have biological functions: bacterial curli, for example, contribute to the extracellular matrix of biofilms. Understanding amyloids means looking at both their molecular structure and the biological setting in which they form.
 
-Protein Concentration: Higher concentrations of amyloidogenic proteins increase the likelihood of nucleation and fibril formation. Mutations: Genetic mutations can make proteins more prone to misfolding and aggregation. Environmental Conditions: pH, temperature, and ionic strength can affect protein stability and aggregation propensity.
+Aggregation is also an interaction problem. One protein can alter the aggregation of another, and the outcome depends on the proteins, experimental conditions and the measurements used. Bringing those observations together makes it easier to compare findings that would otherwise remain scattered across the literature.
 
-### Biological Functions of Amyloids
+## Questions we explore
 
-While amyloids are often associated with disease, some serve functional roles in normal biology. Examples of functional amyloids include:
+- How can we organise evidence about interactions between different amyloid-forming proteins?
+- What makes an amyloid dataset useful for prediction and comparison?
+- How can computational predictions and experimental measurements inform each other?
 
-Pmel17: Involved in the formation of melanin in pigment cells. Curli: Extracellular fibers produced by bacteria, facilitating adhesion and biofilm formation. Sup35: A yeast prion protein that influences translation termination.
+## Our approach
 
-- β-Amyloid (Aβ): associated with Alzheimer’s disease.
-- α-Synuclein: linked to Parkinson’s disease.
-- CsgA and CsgB: have a role in bacterial biofilm formation.
-- Tau: implicated in neurofibrillary tangles seen in Alzheimer’s and other tauopathies.
-- Prion Protein (PrP): responsible for prion diseases.
-- Islet Amyloid Polypeptide (IAPP): involved in type 2 diabetes.
-- Transthyretin (TTR): associated with familial amyloidotic polyneuropathy (FAP) and senile systemic amyloidosis
+We connect literature curation, databases, computational analysis and experimental evidence. AmyloGraph organises reports of amyloid–amyloid interactions, while our work on prediction and annotation examines how reliably sequence-based models describe amyloid behaviour.
 
-### Implications of Amyloids in Health and Disease
+We also study the resources and experimental methods used across the field. Clear annotations and complementary measurements help distinguish an observed interaction from a proposed mechanism. Our publication stories below explain the questions, methods and limitations behind these projects.
 
-Pathological amyloids are implicated in a variety of diseases, collectively known as amyloidoses. These include:
+## Tools, projects & people
 
-Neurodegenerative Diseases: Amyloid-beta plaques in Alzheimer’s disease, tau tangles in Alzheimer’s and other tauopathies, alpha-synuclein aggregates in Parkinson’s disease, and huntingtin fibrils in Huntington’s disease. Systemic Amyloidosis: Deposition of amyloid fibrils in organs and tissues, leading to conditions such as primary amyloidosis (AL), secondary amyloidosis (AA), and familial amyloid polyneuropathy (FAP).
+Explore [AmyloGraph2](../../subsite/projects/AmyloGraph2.llms.md), [FIBREA](../../fibrea.llms.md), [LIMAD](../../subsite/projects/LIMAD.llms.md), and the [software catalogue](../../subsite/software.llms.md).
 
-### Diagnostic techniques:
+## Publications & research stories
 
-- Congo red staining and thioflavin-T (ThT) fluorescence are used to detect amyloid deposits.
-- ThT is used for measuring aggregation kinetics.
-- Imaging techniques (PET scans) help visualize amyloid burden in vivo.
+### AmyloGraph: connecting the evidence
 
-Remember that while amyloids are often associated with diseases, they also play roles in normal physiological processes. For instance, functional amyloids exist in biofilms, sperm tails, and even memory formation.
+A curated database for exploring experimentally reported amyloid–amyloid interactions.
 
-## Our aims
+[Read the research story ↗](../../subsite/posts/amylograph.llms.md)
 
-## Projects
+[Original publication ↗](https://doi.org/10.1093/nar/gkac882)
 
-#### AmyloGraph
+### A map of amyloid databases
 
-website publication github
+Our review of aggregation resources and the connections between them.
 
-#### AmyloGram
+[Read the research story ↗](../../subsite/posts/aggregating_resources.llms.md)
 
-website publication github
+[Original publication ↗](https://doi.org/10.1016/j.csbj.2024.10.047)
+
+### Measuring amyloid cross-interactions
+
+A review of experimental approaches and why complementary measurements matter.
+
+[Read the research story ↗](../../subsite/posts/experimental_methods.llms.md)
+
+[Original publication ↗](https://doi.org/10.1002/pro.70151)
+
+### When the labels need another look
+
+Investigating prediction tools and misannotated amyloid training data.
+
+[Read the research story ↗](../../subsite/posts/bioinformatic_methods.llms.md)
+
+[Original publication ↗](https://doi.org/10.1038/s41598-021-86530-6)
+
+### aSynPEP-DB
+
+A resource for exploring candidate peptides predicted to inhibit α-synuclein aggregation.
+
+[Read the research story ↗](../../subsite/posts/asynpep.llms.md)
+
+[Original publication ↗](https://doi.org/10.1093/database/baad084)
+
+[Explore all research & impact](../../subsite/research.llms.md) · [Full publication catalogue](../../subsite/publications.llms.md)

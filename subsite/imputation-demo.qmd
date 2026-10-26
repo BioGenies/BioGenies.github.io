@@ -1,0 +1,56 @@
+---
+title: "What happens when data go missing?"
+description: "Explore missing values with a small interactive dataset: hide measurements, compare estimates and reveal the original values."
+body-classes: subsite-page demo-page
+sidebar: false
+toc: false
+html-table-processing: none
+---
+
+::: {.team-intro}
+A missing measurement is a gap in our knowledge. Try filling a few gaps and see how the choice of method changes the answer.
+:::
+
+1. **Hide measurements** by changing the amount or pattern of missing data.
+2. **Fill the gaps** with a simple method and compare its estimates with the other methods.
+3. **Reveal the original values** to see what the estimates recovered.
+
+```{=html}
+<section id="imputation-demo" class="imputation-lab" aria-label="Interactive missing-data demonstration">
+  <div class="demo-heading"><span class="eyebrow">THE MISSING-DATA SANDBOX</span><span class="demo-data-label">12 samples · 4 features · synthetic data</span></div>
+  <fieldset class="demo-controls" disabled>
+    <legend class="demo-sr">Choose missing data and an estimation method</legend>
+    <div class="demo-control"><label for="missing-rate">Measurements to hide <output id="missing-rate-value" for="missing-rate">25%</output></label><input id="missing-rate" type="range" min="10" max="50" step="5" value="25"></div>
+    <div class="demo-control"><label for="missing-pattern">Which values go missing?</label><select id="missing-pattern"><option value="random">Values chosen at random</option><option value="low">Low values more likely</option></select></div>
+    <div class="demo-control"><label for="imputation-method">Fill gaps using</label><select id="imputation-method"><option value="mean">Feature mean</option><option value="median">Feature median</option><option value="knn">Three nearest samples</option></select></div>
+    <div class="demo-actions"><button id="fill-gaps" class="demo-primary" type="button">Fill the gaps</button><button id="new-missing-set" type="button">Try another set</button><button id="reset-demo" type="button">Reset</button></div>
+    <label class="demo-reveal" for="reveal-original"><input id="reveal-original" type="checkbox"> Reveal the original values behind the gaps</label>
+  </fieldset>
+  <p id="demo-status" class="demo-status" role="status" aria-live="polite">Loading the sample dataset…</p>
+  <div class="demo-workspace">
+    <div>
+      <div class="demo-table-wrap" tabindex="0" role="region" aria-label="Sample measurements; scroll horizontally if needed"><table id="demo-data"><caption>Illustrative measurements in arbitrary units (a.u.). Dashed cells mark hidden or estimated values.</caption><thead><tr><th scope="col">Sample</th><th scope="col">Feature A</th><th scope="col">Feature B</th><th scope="col">Feature C</th><th scope="col">Feature D</th></tr></thead><tbody></tbody></table></div>
+      <p class="demo-legend"><span class="demo-legend-cell" aria-hidden="true"></span> Dashed border = a gap or estimate. Colour indicates the value; every cell also has a number or “?”.</p>
+    </div>
+    <div class="demo-comparison" role="complementary" aria-label="Method comparison">
+      <h2>How close are the estimates?</h2>
+      <p>Average absolute error on the hidden values, in a.u. Lower means closer to the originals.</p>
+      <div id="demo-scores"></div>
+      <p id="demo-insight" class="demo-insight">Fill the gaps to compare the three methods on exactly the same hidden values.</p>
+      <details class="demo-methods"><summary>How do these methods work?</summary><p><strong>Feature mean:</strong> use the average of that feature’s visible measurements.</p><p><strong>Feature median:</strong> use their middle value.</p><p><strong>Three nearest samples:</strong> compare samples using their shared, visible features, scale each feature by its visible range, and average the target values of up to three nearest donors. If there is no comparable donor, use the feature mean.</p></details>
+    </div>
+  </div>
+</section>
+<noscript><p>This demo needs JavaScript. You can still read <a href="stories.html#imputomics">the imputomics story</a> and our <a href="topics/mvi.html">introduction to missing values</a>.</p></noscript>
+<script type="module" src="../assets/imputation-demo.js"></script>
+```
+
+## What does this tell us?
+
+Here we know the original values because we deliberately hid them. That lets us measure the error. In a real experiment, the missing values are unknown, so the reason they are missing and the assumptions behind an algorithm matter.
+
+This is a learning example with synthetic data and three simple methods. Its rankings describe this example and this hidden set. They are not the published imputomics benchmark or a recommendation for analysing a real dataset.
+
+[Read the imputomics story](stories.qmd#imputomics){.research-button} [Explore the full imputomics application ↗](https://biogenies.info/imputomics-ws){.story-resource}
+
+[Missing-value research](topics/mvi.qmd) · [Software catalogue](software.qmd)

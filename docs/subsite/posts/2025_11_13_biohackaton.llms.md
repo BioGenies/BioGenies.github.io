@@ -61,3 +61,7 @@ For BioGenies, joining BioHackathon Europe is a **big deal**:
 - And it helps us make our own tools **more visible, reusable and impactful** across Europe 🌐
 
 Michał is coming back with fresh ideas for **FAIRer, more interoperable data** in our projects, new contacts across the ELIXIR ecosystem and plenty of inspiration to make our workflows even better 😎💡.
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

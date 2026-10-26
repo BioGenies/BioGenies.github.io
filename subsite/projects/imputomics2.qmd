@@ -1,32 +1,66 @@
 ---
 title: "imputomics 2.0"
-description: "Extending imputomics 1.0 from metabolomics to multi-omics: a standardized wrapper around state-of-the-art MVI algorithms, a curated repository, and a rigorous benchmarking suite"
-editor: 
-  markdown: 
-    wrap: sentence
+description: "A common framework for reviewing, integrating and benchmarking missing-value imputation methods across multiomics data."
+body-classes: subsite-page project-page grant-page
+sidebar: false
+toc: true
+toc-title: "In this project"
 ---
 
-## 🧠 Missing values distort multi-omics analyses
+::: {.grant-hero}
+[NCN · MINIATURA 9]{.eyebrow}
 
-**imputomics 2.0: comprehensive framework for missing value imputation in multi-omics data**
+## Better choices when omics data are incomplete.
 
-**PI**: Jarek  
-**Funding agency**: National Science Center Poland  
-**Programme**: Miniatura 9  
-**Grant ID**: 2025/09/X/NZ7/00157  
-**Start date**: 25 Jun 2025  
-**Duration**: 12 months  
-**Budget**: PLN49,999.00   
+A common framework for reviewing, integrating and benchmarking missing-value imputation methods across multiomics data.
 
-Missing values are pervasive in **omics** (genomics, transcriptomics, proteomics, metabolomics) and can compromise downstream analyses. **Missing-value imputation algorithms (MVIAs)** attempt to replace missing entries with plausible estimates. Given the diversity of data types and the sheer number of methods, choosing the right MVIA remains challenging.
+[Multiomics · Missing values · Benchmarking]{.project-topics}
+:::
 
-Building on **imputomics 1.0** (web server + R package) — where we conducted an extensive preliminary benchmark, **imputomics 2.0** generalizes the framework to **multi-omics**, integrates **state-of-the-art MVIAs**, and provides a **curated repository** of methods and datasets.
+```{=html}
+<dl class="grant-facts"><div><dt>Programme</dt><dd>NCN · Miniatura 9</dd></div><div><dt>Grant ID</dt><dd>2025/09/X/NZ7/00157</dd></div><div><dt>Start date</dt><dd>25 Jun 2025</dd></div><div><dt>Duration</dt><dd>12 months</dd></div><div><dt>Budget</dt><dd>PLN49,999.00</dd></div></dl>
+```
 
-### 📌 Project highlights
+## The research question
 
-- 📚 Comprehensive review of missing value imputation algorithms (MVIAs)  
-- 🗂️ Standardized annotation of omics-specific imputation methods  
-- ⚙️ Universal wrapper for seamless integration across genomics, proteomics, metabolomics & more  
-- 📊 Benchmarking with multiple metrics (RMSE, correlation, interpretability, downstream tasks)  
-- 🌐 Building an open **repository** of MVIAs + datasets for the research community   
+Missing values can change the conclusions drawn from omics experiments, yet the best imputation method depends on the dataset and the analytical question. Building on the imputomics web server and R package, this project broadens the framework from metabolomics to multiomics and makes methods easier to compare through common interfaces and curated benchmarks.
 
+## What the project sets out to do
+
+::: {.focus-grid}
+::: {.focus-card}
+[01 / RESEARCH AIM]{.eyebrow}
+
+### Curate methods and datasets
+
+Review imputation algorithms and annotate their assumptions, applications and omics-specific characteristics.
+:::
+::: {.focus-card}
+[02 / RESEARCH AIM]{.eyebrow}
+
+### Build a common interface
+
+Develop a standardised wrapper for methods across genomics, transcriptomics, proteomics and metabolomics.
+:::
+::: {.focus-card}
+[03 / RESEARCH AIM]{.eyebrow}
+
+### Compare what matters
+
+Benchmark methods using error, correlation, interpretability and downstream tasks, and share an open repository of algorithms and datasets.
+:::
+:::
+
+## People & support
+
+**Project lead:** [Jarosław Chilimoniuk](../team/jc.qmd).
+
+```{=html}
+<div class="grant-support"><img src="../fig/ncn_logo.png" alt="National Science Centre Poland logo"><div><p class="eyebrow">National Science Center Poland</p><p><strong>Full project title</strong><br>imputomics 2.0: comprehensive framework for missing value imputation in multi-omics data</p></div></div>
+```
+
+## Explore further
+
+[Related research: missing-value imputation](../topics/mvi.qmd) · [Group publications](../publications.qmd) · [Group news](../../index.qmd)
+
+[Explore our software & databases](../software.qmd)

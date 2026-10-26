@@ -35,3 +35,9 @@ Most recently, she played a **central role in guiding and supporting Asia throug
 We’ll miss having her around, both for the science and for everything that makes working together more than just a collection of projects 🧬💬💚.
 
 ![](../fig/posts/2026_09_22/IMG_2262.jpg "Krysia on via ferrata in Arco, IT")
+
+## Explore related research
+
+- [Krystyna (Krysia) Grzesiak — academic CV and publications](../../subsite/team/kg.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

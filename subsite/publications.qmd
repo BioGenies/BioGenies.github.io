@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+description: "BioGenies research publications in bioinformatics, amyloids, antimicrobial peptides and multiomics, with full citations and links to original papers."
 sidebar: false
 format:
   html:
@@ -8,7 +9,18 @@ format:
       body-width: 1500px
       margin-width: 300px
       gutter-width: 1.5rem
+body-classes: output-page publications-page
 ---
+
+Our publications connect computational methods with biological questions. Meet the [researchers behind this work](team.qmd), explore our [software and databases](software.qmd), and discover [research and impact](research.qmd).
+
+## Research stories
+
+- [AmyloGraph: a database of amyloid–amyloid interactions](posts/amylograph.qmd)
+- [imputomics: missing data imputation for omics research](posts/imputomics.qmd)
+- [HaDeX: analysing hydrogen–deuterium exchange data](posts/hadex2.qmd)
+
+## Publication catalogue
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(openalexR)
@@ -16,18 +28,19 @@ library(tidyverse)
 library(DT)
 
 load('../data/bg_df_data.RData')
+source('../R/resume_fun.R')
 
 bio_df_mod <- left_join(bio_df, full_df %>% select(who, team), by = "who") %>% unique() %>% filter(team == "main")
 
 
 openalex_ids <- bio_df_mod$openalex_id %>% na.omit()
 
-# pub <- openalexR::oa_fetch(entity ="works",
+# pub <- oa_fetch_retry(entity ="works",
 #                    authorships.institutions.id = "I146122375",
 #                    output = "list",
 #                    from_publication_date = "2024-01-01")
 
-pub <- openalexR::oa_fetch(entity ="works",
+pub <- oa_fetch_retry(entity ="works",
                            author.id = c(openalex_ids))
                    # author.id = c("A5015968787", "A5072021711"))
 
@@ -41,7 +54,7 @@ pub <- pub[!(pub$doi %in% c("https://doi.org/10.1007/s00276-025-03680-2",
 pub <- pub[!(pub$source_display_name %in% c("Faculty of 1000 Research Ltd")), ]
 
 
-# pub <- openalexR::oa_fetch(entity ="works", grants.funder = "f4320322511")
+# pub <- oa_fetch_retry(entity ="works", grants.funder = "f4320322511")
 
 pub_mod <- pub$authorships %>% 
   lapply(., function(x){
@@ -52,7 +65,7 @@ pub_mod <- pub$authorships %>%
   tibble(authors = .) %>% 
   cbind(pub, .)
 
-pub_mod %>% 
+catalogue <- pub_mod %>%
   filter(type != "dataset") %>% 
   filter(type != "preprint") %>%
   filter(type != "other") %>%
@@ -60,6 +73,11 @@ pub_mod %>%
   filter(! source_display_name %in% c("Figshare", "Krakowskie Studia Małopolskie")) %>% 
   select(title, authors, doi, publication_date, type, source_display_name, host_organization_name) %>% 
   drop_na(., doi) %>%
+  identity()
+
+publication_bibliography(catalogue)
+
+catalogue %>%
   mutate(doi = paste0('<a  target=_blank href=', doi, '>', doi %>% str_remove(., "https://doi.org/"),'</a>'),
          journal = source_display_name %>% as.factor(),
          publisher = host_organization_name %>% as.factor(),
@@ -69,81 +87,10 @@ pub_mod %>%
   arrange(desc(`publication date`)) %>%
   DT::datatable(escape = F, 
                 # style = "bootstrap4",
-                options = list(pageLength = 50))
+                options = list(pageLength = 10))
 
 ```
 
----
+## Explore the research topics
 
-```{r, echo=FALSE, message=FALSE}
-
-library(wordcloud2)
-
-concept_cloud <- pub_mod %>%
-  select(inst_id = id, concepts) %>%
-  tidyr::unnest(concepts) %>%
-  select(display_name, level, score) %>%
-  filter(score >= 0.7) %>%
-  group_by(display_name)  %>%
-  summarise(count_no = n(),
-            score = median(score))
-
-# concept_cloud <- pub_mod %>%
-#   select(inst_id = id, topics) %>%
-#   tidyr::unnest(topics) %>%
-#   select(display_name, i, score) %>%
-#   # filter(score >= 0.65) %>%
-#   group_by(display_name)  %>%
-#   summarise(count_no = n(),
-#             score = median(score))
-
-wordcloud2::wordcloud2(concept_cloud, size = 1, color = "random-light", widgetsize = c(1500, 1500))
-
-```
----
-
-<!-- <font size="6"> **Our colaborators and former members manuscripts** </font> -->
-
-<!-- ```{r, echo=FALSE, message=FALSE} -->
-<!-- library(openalexR) -->
-<!-- library(tidyverse) -->
-<!-- library(DT) -->
-
-<!-- load('../data/bg_df_data.RData') -->
-
-<!-- bio_df_mod <- left_join(bio_df, full_df %>% select(who, team), by = "who") %>% unique() %>% filter(team != "main") -->
-
-
-<!-- openalex_ids <- bio_df_mod$openalex_id %>% na.omit() -->
-
-<!-- # pub <- openalexR::oa_fetch(entity ="works", -->
-<!-- #                    authorships.institutions.id = "I146122375", -->
-<!-- #                    output = "list", -->
-<!-- #                    from_publication_date = "2024-01-01") -->
-
-<!-- pub <- openalexR::oa_fetch(entity ="works", -->
-<!--                            author.id = c(openalex_ids)) -->
-<!--                    # author.id = c("A5015968787", "A5072021711")) -->
-
-<!-- # pub <- openalexR::oa_fetch(entity ="works", grants.funder = "f4320322511") -->
-
-<!-- pub_mod <- pub$authorships %>% lapply(., function(x) {x$display_name %>% str_flatten(., collapse = ", ")}) %>% unlist() %>% tibble(authors = .) %>% cbind(pub, .) -->
-
-<!-- pub_mod %>% -->
-<!--   filter(type != "dataset") %>% -->
-<!--   filter(type != "preprint") %>% -->
-<!--   filter(type != "dissertation") %>% -->
-<!--   select(title, authors, doi, publication_date, type, source_display_name, host_organization_name) %>% -->
-<!--   # drop_na(., doi) %>% -->
-<!--   mutate(doi = paste0('<a  target=_blank href=', doi, '>', doi %>% str_remove(., "https://doi.org/"),'</a>'), -->
-<!--          journal = source_display_name %>% as.factor(), -->
-<!--          publisher = host_organization_name %>% as.factor(), -->
-<!--          type = type %>% as.factor(), -->
-<!--          `publication date` = publication_date %>% as_date() -->
-<!--   ) %>% -->
-<!--   select(!c(source_display_name, host_organization_name, publication_date)) %>% -->
-<!--   arrange(desc(`publication date`)) %>% -->
-<!--   DT::datatable(escape = F, style = "bootstrap4", -->
-<!--                 options = list(pageLength = 50)) -->
-
-<!-- ``` -->
+[Amyloids](topics/amyloids.qmd) · [Antimicrobial peptides](topics/amp.qmd) · [Phase separation](topics/llps.qmd) · [Missing data](topics/mvi.qmd) · [HDX-MS](topics/hdxms.qmd)

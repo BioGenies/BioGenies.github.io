@@ -1,12 +1,14 @@
 ---
 title: 'Oriol Bárcenas'
+description: "Academic CV and research profile of Oriol Bárcenas, a BioGenies collaborator."
+profile-image: ../fig/ppl/ob.png
 sidebar: false
 format:
   html:
     grid:
       sidebar-width: 0px
-      body-width: 1500px
-      margin-width: 300px
+      body-width: 1050px
+      margin-width: 220px
       gutter-width: 1.5rem
 knitr:
   opts_chunk:
@@ -30,12 +32,11 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
 
-# 📱 **Contact**
+## Contact
 
-------------------------------------------------------------------------
 
-[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:Oriol.Barcenas@uab.cat)
-[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0002-8439-4005)
+[Email](mailto:Oriol.Barcenas@uab.cat)
+[ORCID](https://orcid.org/0000-0002-8439-4005)
 
 
 <!-- # 🚀 **Research stays** -->
@@ -60,20 +61,17 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(education(whois)$new_col)` -->
 
-------------------------------------------------------------------------
 
-# 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
+## Conferences, workshops and training
 
-------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE}
 conf_work(whois)
 ```
 
 
-#  📖 **Publications**
+## Publications
 
-------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE, error=FALSE, warning=FALSE}
 pubs(whois, openalex_id)

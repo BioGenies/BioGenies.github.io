@@ -1,12 +1,16 @@
 ---
 title: 'Weronika Puchała'
+description: "Research profile and academic CV of Weronika Puchała: publications, experience, education and BioGenies news."
+body-classes: researcher-profile
+profile-image: ../fig/ppl/wp.png
+related-news: [2025_11_12_weronika_phd]
 sidebar: false
 format:
   html:
     grid:
       sidebar-width: 0px
-      body-width: 1500px
-      margin-width: 300px
+      body-width: 1050px
+      margin-width: 220px
       gutter-width: 1.5rem
 knitr:
   opts_chunk:
@@ -30,14 +34,13 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
 
-# 📱 **Contact**
+## Contact
 
-------------------------------------------------------------------------
 
-[`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/werpuc)
-[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0003-2163-1429)
-[`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/weronika-pucha%C5%82a-831698a4/)
-[`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/werpuc)
+[GitHub](https://github.com/werpuc)
+[ORCID](https://orcid.org/0000-0003-2163-1429)
+[LinkedIn](https://www.linkedin.com/in/weronika-pucha%C5%82a-831698a4/)
+[X](https://x.com/werpuc)
 
 
 <!-- # 🚀 **Research stays** -->
@@ -62,20 +65,17 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(education(whois)$new_col)` -->
 
-------------------------------------------------------------------------
 
-# 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
+## Conferences, workshops and training
 
-------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE}
 conf_work(whois)
 ```
 
 
-#  📖 **Publications**
+## Publications
 
-------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE, error=FALSE, warning=FALSE}
 pubs(whois, openalex_id)

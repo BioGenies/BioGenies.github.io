@@ -280,3 +280,7 @@ This fits perfectly with what we care about:
 # 🏷️ Keywords
 
 metabolomics, machine learning, clinical decision support, CDSS, biomarkers, precision medicine, AI, pathway analysis, explainable AI
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

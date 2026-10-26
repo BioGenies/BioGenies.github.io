@@ -1,8 +1,9 @@
 ---
 title: "Seminars"
+body-classes: subsite-page seminar-page
 ---
 
-**Are you interested to join our seminars or particular seminar? Just email us.**
+Discuss methods, share work in progress, and learn together. To ask about joining a seminar, [email BioGenies](mailto:biogenies@umb.edu.pl).
 
 ```{r, results='asis', echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
@@ -34,4 +35,16 @@ sem_df <- read_lines(URL)[-c(1:2)] %>% str_flatten() %>%
 
 ``` 
 
-`r stringr::str_flatten(sem_df$rmarkdown)`
+```{r, results='asis', echo=FALSE}
+seminars <- sem_df %>% arrange(desc(date))
+visible <- seq_len(min(5L, nrow(seminars)))
+cat(paste(seminars$rmarkdown[visible], collapse = "\n\n"))
+if (nrow(seminars) > length(visible)) {
+  cat("\n\n<details class='cv-archive'><summary>Earlier seminars</summary>\n\n")
+  for (year in unique(format(seminars$date[-visible], "%Y"))) {
+    items <- seminars[-visible, ] %>% filter(format(date, "%Y") == year)
+    cat(paste0("\n\n### ", year, "\n\n"), paste(items$rmarkdown, collapse = "\n\n"))
+  }
+  cat("\n\n</details>\n")
+}
+```

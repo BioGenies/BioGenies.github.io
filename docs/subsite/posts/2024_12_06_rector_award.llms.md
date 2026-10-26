@@ -25,3 +25,9 @@ The entire **BioGenies** team celebrates this well-deserved recognition and look
 ![](../fig/posts/2024_12_06/nagrody_rektora.png)
 
 photo by MUB
+
+## Explore related research
+
+- [Michał Burdukiewicz — academic CV and publications](../../subsite/team/mb.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

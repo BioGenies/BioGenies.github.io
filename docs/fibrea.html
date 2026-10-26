@@ -109,13 +109,18 @@ cookieconsent.run({
 <link rel="stylesheet" href="navbar_hover.css">
 <link rel="stylesheet" href="sidebar_mods.css">
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="research.css">
 <meta property="og:title" content="Functional Interfaces and Biomolecular Rules for Engineered Amyloids – BioGenies">
-<meta property="og:description" content="">
-<meta property="og:image" content="subsite/fig/graphical_abstracts/FIBREA.png">
+<meta property="og:description" content="BioGenies research in bioinformatics, multiomics, amyloids and machine learning. Meet our team and explore publications, software and research news.">
+<meta property="og:image" content="https://biogenies.info/subsite/fig/graphical_abstracts/FIBREA.png">
 <meta property="og:site_name" content="BioGenies">
+<meta property="og:image:height" content="1467">
+<meta property="og:image:width" content="2687">
 <meta name="twitter:title" content="Functional Interfaces and Biomolecular Rules for Engineered Amyloids – BioGenies">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="subsite/fig/graphical_abstracts/FIBREA.png">
+<meta name="twitter:description" content="BioGenies research in bioinformatics, multiomics, amyloids and machine learning. Meet our team and explore publications, software and research news.">
+<meta name="twitter:image" content="https://biogenies.info/subsite/fig/graphical_abstracts/FIBREA.png">
+<meta name="twitter:image-height" content="1467">
+<meta name="twitter:image-width" content="2687">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -288,6 +293,10 @@ cookieconsent.run({
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./bg_logo.png" alt="BioGenies logo" class="navbar-logo light-content">
+    <img src="./bg_logo.png" alt="BioGenies logo" class="navbar-logo dark-content">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">BioGenies</span>
     </a>
@@ -309,19 +318,19 @@ cookieconsent.run({
     <ul class="dropdown-menu" aria-labelledby="nav-menu-team">    
         <li>
     <a class="dropdown-item" href="./subsite/team.html">
- <span class="dropdown-text">BioGenies team</span></a>
+ <span class="dropdown-text">People behind the science</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/colab.html">
- <span class="dropdown-text">BioGenies collaborators</span></a>
+ <span class="dropdown-text">Working together</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/guest.html">
- <span class="dropdown-text">Guest researchers</span></a>
+ <span class="dropdown-text">Come research with us</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/alumni.html">
- <span class="dropdown-text">Former BioGenies members</span></a>
+ <span class="dropdown-text">Part of our story</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/about.html">
@@ -335,16 +344,20 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-our-projects">    
         <li>
+    <a class="dropdown-item" href="./index_projects.html">
+ <span class="dropdown-text">All projects</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="./subsite/projects/OneTick.html">
  <span class="dropdown-text">OneTick</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/projects/AMI-cryoEM.html">
- <span class="dropdown-text">AMI‑CryoML</span></a>
+ <span class="dropdown-text">AMI-CryoML</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/projects/AmyloGraph2.html">
- <span class="dropdown-text">AmyloGraph&nbsp;2.0</span></a>
+ <span class="dropdown-text">AmyloGraph 2.0</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./subsite/projects/LIMAD.html">
@@ -360,25 +373,40 @@ cookieconsent.run({
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./subsite/software.html"> 
-<span class="menu-text">Software</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research--impact" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Research &amp; impact</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research--impact">    
+        <li>
+    <a class="dropdown-item" href="./subsite/research.html">
+ <span class="dropdown-text">Overview</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./subsite/stories.html">
+ <span class="dropdown-text">Research stories</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./subsite/publications.html">
+ <span class="dropdown-text">Publications</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./subsite/software.html">
+ <span class="dropdown-text">Software &amp; databases</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./subsite/conferences.html">
+ <span class="dropdown-text">Conferences &amp; workshops</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./subsite/theses.html">
+ <span class="dropdown-text">Theses &amp; dissertations</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./subsite/seminars.html"> 
 <span class="menu-text">Seminars</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./subsite/publications.html"> 
-<span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./subsite/conferences.html"> 
-<span class="menu-text">Conferences etc.</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./subsite/theses.html"> 
-<span class="menu-text">Theses and dissertations</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -1028,7 +1056,7 @@ Jana Kilińskiego 1, 15-089 Białystok, Poland</p>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/biogenies\.info");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Integrating cryo‑EM and ML to decode amyloid fibril polymorphism.">
+<meta name="description" content="Connecting aggregation experiments, cryo-electron microscopy and machine learning to understand amyloid polymorphism.">
 
-<title>AMI‑CryoML – BioGenies</title>
+<title>AMI-CryoML – BioGenies</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -109,15 +109,24 @@ cookieconsent.run({
 <link rel="stylesheet" href="../../navbar_hover.css">
 <link rel="stylesheet" href="../../sidebar_mods.css">
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="AMI‑CryoML – BioGenies">
-<meta property="og:description" content="Integrating cryo‑EM and ML to decode amyloid fibril polymorphism.">
+<link rel="stylesheet" href="../../research.css">
+<meta property="og:title" content="AMI-CryoML – BioGenies">
+<meta property="og:description" content="Connecting aggregation experiments, cryo-electron microscopy and machine learning to understand amyloid polymorphism.">
+<meta property="og:image" content="https://biogenies.info/subsite/fig/logo/EN_FundedbytheEU_RGB_POS.png">
 <meta property="og:site_name" content="BioGenies">
-<meta name="twitter:title" content="AMI‑CryoML – BioGenies">
-<meta name="twitter:description" content="Integrating cryo‑EM and ML to decode amyloid fibril polymorphism.">
-<meta name="twitter:card" content="summary">
+<meta property="og:image:alt" content="Funded by the European Union">
+<meta property="og:image:height" content="919">
+<meta property="og:image:width" content="4125">
+<meta name="twitter:title" content="AMI-CryoML – BioGenies">
+<meta name="twitter:description" content="Connecting aggregation experiments, cryo-electron microscopy and machine learning to understand amyloid polymorphism.">
+<meta name="twitter:image" content="https://biogenies.info/subsite/fig/logo/EN_FundedbytheEU_RGB_POS.png">
+<meta name="twitter:image:alt" content="Funded by the European Union">
+<meta name="twitter:image-height" content="919">
+<meta name="twitter:image-width" content="4125">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-sidebar floating nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed subsite-page project-page grant-page quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -286,6 +295,10 @@ cookieconsent.run({
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../bg_logo.png" alt="BioGenies logo" class="navbar-logo light-content">
+    <img src="../../bg_logo.png" alt="BioGenies logo" class="navbar-logo dark-content">
+    </a>
     <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">BioGenies</span>
     </a>
@@ -307,19 +320,19 @@ cookieconsent.run({
     <ul class="dropdown-menu" aria-labelledby="nav-menu-team">    
         <li>
     <a class="dropdown-item" href="../../subsite/team.html">
- <span class="dropdown-text">BioGenies team</span></a>
+ <span class="dropdown-text">People behind the science</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../subsite/colab.html">
- <span class="dropdown-text">BioGenies collaborators</span></a>
+ <span class="dropdown-text">Working together</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../subsite/guest.html">
- <span class="dropdown-text">Guest researchers</span></a>
+ <span class="dropdown-text">Come research with us</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../subsite/alumni.html">
- <span class="dropdown-text">Former BioGenies members</span></a>
+ <span class="dropdown-text">Part of our story</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../subsite/about.html">
@@ -333,16 +346,20 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-our-projects">    
         <li>
+    <a class="dropdown-item" href="../../index_projects.html">
+ <span class="dropdown-text">All projects</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../../subsite/projects/OneTick.html">
  <span class="dropdown-text">OneTick</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../subsite/projects/AMI-cryoEM.html">
- <span class="dropdown-text">AMI‑CryoML</span></a>
+ <span class="dropdown-text">AMI-CryoML</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../subsite/projects/AmyloGraph2.html">
- <span class="dropdown-text">AmyloGraph&nbsp;2.0</span></a>
+ <span class="dropdown-text">AmyloGraph 2.0</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../subsite/projects/LIMAD.html">
@@ -358,25 +375,40 @@ cookieconsent.run({
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="../../subsite/software.html"> 
-<span class="menu-text">Software</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research--impact" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Research &amp; impact</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research--impact">    
+        <li>
+    <a class="dropdown-item" href="../../subsite/research.html">
+ <span class="dropdown-text">Overview</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../../subsite/stories.html">
+ <span class="dropdown-text">Research stories</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../subsite/publications.html">
+ <span class="dropdown-text">Publications</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../subsite/software.html">
+ <span class="dropdown-text">Software &amp; databases</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../subsite/conferences.html">
+ <span class="dropdown-text">Conferences &amp; workshops</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../subsite/theses.html">
+ <span class="dropdown-text">Theses &amp; dissertations</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="../../subsite/seminars.html"> 
 <span class="menu-text">Seminars</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../subsite/publications.html"> 
-<span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../subsite/conferences.html"> 
-<span class="menu-text">Conferences etc.</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../subsite/theses.html"> 
-<span class="menu-text">Theses and dissertations</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -393,105 +425,40 @@ cookieconsent.run({
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">AMI‑CryoML</li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-      <a href="../../index.html" class="sidebar-logo-link">
-      <img src="../../bg_logo.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
-      <img src="../../bg_logo.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
-      </a>
-      </div>
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Our topics</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../subsite/topics/amyloids.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Amyloids</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../subsite/topics/llps.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Liquid-liquid phase separation</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../subsite/topics/amp.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Antimicrobial peptides</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../subsite/topics/mvi.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Missing value imputation</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../subsite/topics/hdxms.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">HDX-MS</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">../../</h2>
+    <h2 id="toc-title">In this project</h2>
    
   <ul>
-  <li><a href="#amicryoml-unraveling-amyloid-polymorphism" id="toc-amicryoml-unraveling-amyloid-polymorphism" class="nav-link active" data-scroll-target="#amicryoml-unraveling-amyloid-polymorphism">🧠 AMI‑CryoML: unraveling amyloid polymorphism</a>
-  <ul class="collapse">
-  <li><a href="#project-highlights" id="toc-project-highlights" class="nav-link" data-scroll-target="#project-highlights">📌 Project highlights</a></li>
-  <li><a href="#related-resources" id="toc-related-resources" class="nav-link" data-scroll-target="#related-resources">📚 Related resources</a></li>
-  </ul></li>
+  <li><a href="#the-research-question" id="toc-the-research-question" class="nav-link active" data-scroll-target="#the-research-question">The research question</a></li>
+  <li><a href="#what-the-project-sets-out-to-do" id="toc-what-the-project-sets-out-to-do" class="nav-link" data-scroll-target="#what-the-project-sets-out-to-do">What the project sets out to do</a></li>
+  <li><a href="#people-support" id="toc-people-support" class="nav-link" data-scroll-target="#people-support">People &amp; support</a></li>
+  <li><a href="#explore-further" id="toc-explore-further" class="nav-link" data-scroll-target="#explore-further">Explore further</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content column-body" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">AMI‑CryoML</h1>
+<h1 class="title">AMI-CryoML</h1>
 </div>
 
 <div>
   <div class="description">
-    Integrating cryo‑EM and ML to decode amyloid fibril polymorphism.
+    Connecting aggregation experiments, cryo-electron microscopy and machine learning to understand amyloid polymorphism.
   </div>
 </div>
 
 
-<div class="quarto-title-meta column-body">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -503,42 +470,57 @@ cookieconsent.run({
 </header>
 
 
-<section id="amicryoml-unraveling-amyloid-polymorphism" class="level2">
-<h2 class="anchored" data-anchor-id="amicryoml-unraveling-amyloid-polymorphism">🧠 AMI‑CryoML: unraveling amyloid polymorphism</h2>
-<p><strong>Cracking the code of amyloid polymorphism: integrating cryoEM and machine learning to unravel impact of small aggregation modulators on amyloid fibril polymorphism</strong></p>
-<p><strong>PI</strong>: Jarek<br>
-<strong>Funding agency</strong>: European Commission | European Research Executive Agency<br>
-<strong>Programme</strong>: Horizon Europe | WIDERA | ERA Fellowships<br>
-<strong>Grant ID</strong>: 101244706<br>
-<strong>Start date</strong>: 1 Feb 2026<br>
-<strong>Duration</strong>: 24 months<br>
-<strong>Budget</strong>: €181,136.16<br>
-<strong>CORDIS - EU research results</strong>: <a href="https://cordis.europa.eu/project/id/101244706">https://cordis.europa.eu/project/id/101244706</a></p>
-<p>Neurodegenerative disorders such as Alzheimer’s, Parkinson’s, and prion diseases are marked by protein misfolding into amyloid fibrils. The structural diversity (polymorphism) of these fibrils critically affects their pathology, yet remains largely unexplored. AMI‑CryoML bridges cryo‑EM and machine learning to probe how small molecule modulators influence aggregation kinetics and amyloid structures.</p>
-<section id="project-highlights" class="level3">
-<h3 class="anchored" data-anchor-id="project-highlights">📌 Project highlights</h3>
-<ul>
-<li>🔍 Systematic collection of aggregation modulators: chemical and mechanistic profiling<br>
-</li>
-<li>🧪 Thioflavin‑T assays to measure kinetic effects across proteins (prions, CsgA, α‑synuclein)<br>
-</li>
-<li>🧬 Cryo‑EM to resolve fibril polymorphs under varied conditions<br>
-</li>
-<li>💾 Extension of the AmyloGraph database to store modulator‑kinetics‑structure data<br>
-</li>
-<li>🤖 Machine learning models to predict modulator effects</li>
-</ul>
-<hr>
+<div class="grant-hero">
+<p><span class="eyebrow">HORIZON EUROPE · ERA FELLOWSHIPS</span></p>
+<section id="how-do-small-molecules-reshape-amyloid-fibrils" class="level2">
+<h2 class="anchored" data-anchor-id="how-do-small-molecules-reshape-amyloid-fibrils">How do small molecules reshape amyloid fibrils?</h2>
+<p>Connecting aggregation experiments, cryo-electron microscopy and machine learning to understand amyloid polymorphism.</p>
+<p><span class="project-topics">Amyloids · Structural biology · Machine learning</span></p>
 </section>
-<section id="related-resources" class="level3">
-<h3 class="anchored" data-anchor-id="related-resources">📚 Related resources</h3>
-<ul>
-<li><a href="https://amylograph.org">AmyloGraph database</a></li>
-</ul>
-<p>📥 Contact us to join the AMI‑CryoML collaboration or for data access.</p>
+</div>
+<dl class="grant-facts"><div><dt>Programme</dt><dd>Horizon Europe · ERA Fellowships</dd></div><div><dt>Grant ID</dt><dd>101244706</dd></div><div><dt>Start date</dt><dd>1 Feb 2026</dd></div><div><dt>Duration</dt><dd>24 months</dd></div><div><dt>Budget</dt><dd>€181,136.16</dd></div></dl>
+<section id="the-research-question" class="level2">
+<h2 class="anchored" data-anchor-id="the-research-question">The research question</h2>
+<p>Amyloid fibrils can adopt different structures, and those differences matter for their biological effects. AMI-CryoML investigates how small aggregation modulators affect both aggregation kinetics and the structures that form. Linking experiments with structural data provides the basis for learning relationships that can be tested in predictive models.</p>
+</section>
+<section id="what-the-project-sets-out-to-do" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-project-sets-out-to-do">What the project sets out to do</h2>
+<div class="focus-grid">
+<div class="focus-card">
+<p><span class="eyebrow">01 / RESEARCH AIM</span></p>
+<section id="map-the-modulators" class="level3">
+<h3 class="anchored" data-anchor-id="map-the-modulators">Map the modulators</h3>
+<p>Collect aggregation modulators and characterise their chemical and mechanistic properties.</p>
+</section>
+</div>
+<div class="focus-card">
+<p><span class="eyebrow">02 / RESEARCH AIM</span></p>
+<section id="measure-and-resolve" class="level3">
+<h3 class="anchored" data-anchor-id="measure-and-resolve">Measure and resolve</h3>
+<p>Use thioflavin-T assays to measure kinetic effects across prions, CsgA and α-synuclein, and cryo-EM to resolve fibril polymorphs.</p>
+</section>
+</div>
+<div class="focus-card">
+<p><span class="eyebrow">03 / RESEARCH AIM</span></p>
+<section id="connect-data-with-prediction" class="level3">
+<h3 class="anchored" data-anchor-id="connect-data-with-prediction">Connect data with prediction</h3>
+<p>Extend AmyloGraph with modulator–kinetics–structure records and train models to predict modulator effects.</p>
+</section>
+</div>
+</div>
+</section>
+<section id="people-support" class="level2">
+<h2 class="anchored" data-anchor-id="people-support">People &amp; support</h2>
+<p><strong>Project lead:</strong> <a href="../../subsite/team/jc.html">Jarosław Chilimoniuk</a>.</p>
+<div class="grant-support"><img src="../fig/logo/EN_FundedbytheEU_RGB_POS.png" alt="Funded by the European Union"><div><p class="eyebrow">European Commission | European Research Executive Agency</p><p><strong>Full project title</strong><br>Cracking the code of amyloid polymorphism: integrating cryoEM and machine learning to unravel impact of small aggregation modulators on amyloid fibril polymorphism</p></div></div>
+</section>
+<section id="explore-further" class="level2">
+<h2 class="anchored" data-anchor-id="explore-further">Explore further</h2>
+<p><a href="../../subsite/topics/amyloids.html">Related research: amyloids &amp; aggregation</a> · <a href="../../subsite/publications.html">Group publications</a> · <a href="../../index.html">Group news</a></p>
+<p><a href="https://amylograph.org">Explore the AmyloGraph database ↗</a></p>
+<p><a href="https://cordis.europa.eu/project/id/101244706">Grant record on CORDIS ↗</a></p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -628,7 +610,7 @@ cookieconsent.run({
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/biogenies\.info");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

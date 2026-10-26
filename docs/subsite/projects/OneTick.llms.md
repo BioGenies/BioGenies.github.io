@@ -1,33 +1,71 @@
 # OneTick
 
-Preventing, detecting and treating tick-borne diseases in urban environments.
+An integrated approach to preventing, detecting and treating tick-borne diseases in urban and peri-urban environments.
 
-## 🧬 OneTick: One Health approach to tick‑borne diseases
+HORIZON EUROPE · MSCA STAFF EXCHANGES
 
-**OneTick: An Integrated One Health Approach for Prevention, Detection and Treatment of Tick‑Borne Diseases in Urban and Peri‑Urban Environments**
+## One Health, connected across disciplines.
 
-**PI**: Michał  
-**Proposal development**: Michał, Jarek, Valen  
-**Funding agency**: European Commission \| European Research Executive Agency  
-**Programme**: Horizon Europe \| Marie Skłodowska Curie Actions (MSCA) Staff Exchanges  
-**Grant ID**: 101236599  
-**Start date**: 1 Jan 2026  
-**Duration**: 48 months  
-**Budget**: €450,900.00  
-**Grant agreement ID**: 101236599  
-**CORDIS - EU research results**: <https://cordis.europa.eu/project/id/101236599>  
-**doi**: [10.3030/101236599](https://doi.org/10.3030/101236599)
+An integrated approach to preventing, detecting and treating tick-borne diseases in urban and peri-urban environments.
 
-Tick‑borne diseases (TBDs) such as Lyme disease and TBE are on the rise in Europe due to shifts in climate and urbanization. In 2022, some 24% of Europeans resided in high‑risk Lyme areas, and the ECDC estimated ~360,000 cases in 2016, costing about €280M annually. OneTick advances prevention, detection and treatment within a One Health framework, targeting urban and peri‑urban areas.
+One Health · Ecology · Predictive modelling
 
-### 📌 Project highlights
+Programme  
+Horizon Europe · MSCA Staff Exchanges
 
-- 🔬 **WP1**: Urban tick ecology — assess abundance, diversity, and pathogens  
-- 📈 **WP2**: Tick–host–pathogen modeling — predictive frameworks for disease spread  
-- 🧪 **WP3**: Biomarker discovery & diagnostic modeling  
-- 📣 **WP4**: Public outreach — guidelines and educational campaigns  
-- 👥 **Secondments**: 90 PM (60 intersectoral, 30 interdisciplinary) to share best practices
+Grant ID  
+101236599
 
-Visit project website for full info. Click on the logo below.
+Start date  
+1 Jan 2026
 
-[![](../fig/logo/OneTick_logo.png)](https://onetick.eu/)
+Duration  
+48 months
+
+Budget  
+€450,900.00
+
+## The research question
+
+OneTick brings ecology, predictive modelling and biomedical research together within a One Health framework. The project connects the study of ticks, hosts and pathogens with biomarker discovery and public outreach, supported by international and interdisciplinary staff exchanges.
+
+## What the project sets out to do
+
+01 / RESEARCH AIM
+
+### Understand urban tick ecology
+
+Assess tick abundance, diversity and pathogens, and model the relationships between ticks, hosts and disease spread (WP1–2).
+
+02 / RESEARCH AIM
+
+### Connect biology and diagnostics
+
+Investigate biomarkers and develop diagnostic models (WP3).
+
+03 / RESEARCH AIM
+
+### Share knowledge and practice
+
+Create public guidelines and educational campaigns (WP4). Support exchange through 90 person-months of secondments: 60 intersectoral and 30 interdisciplinary.
+
+## People & support
+
+**Project lead:** [Michał Burdukiewicz](../../subsite/team/mb.llms.md). **Proposal development:** Michał Burdukiewicz, Jarosław Chilimoniuk and Valentín Iglesias.
+
+![Funded by the European Union](../fig/logo/EN_FundedbytheEU_RGB_POS.png)
+
+European Commission \| European Research Executive Agency
+
+**Full project title**  
+OneTick: An Integrated One Health Approach for Prevention, Detection and Treatment of Tick‑Borne Diseases in Urban and Peri‑Urban Environments
+
+## Explore further
+
+[Group publications](../../subsite/publications.llms.md) · [Group news](../../index.llms.md)
+
+[Grant record on CORDIS ↗](https://cordis.europa.eu/project/id/101236599)
+
+[![OneTick project logo](../fig/logo/OneTick_logo.png)](https://onetick.eu/)
+
+[Visit the OneTick website ↗](https://onetick.eu/) · [Grant DOI](https://doi.org/10.3030/101236599)

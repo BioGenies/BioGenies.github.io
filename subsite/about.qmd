@@ -1,27 +1,85 @@
 ---
 title: "About BioGenies"
+description: "A research collective connecting bioinformatics, multiomics and protein science. Meet BioGenies at the Medical University of Białystok and across our collaborating institutions."
+body-classes: subsite-page about-page
+sidebar: false
+toc: false
 ---
 
-<!-- {{< include ../subsite/content/group_desc.qmd >}} -->
+::: {.about-hero}
+::: {.about-hero-copy}
+[SCIENCE THROUGH CONNECTIONS]{.eyebrow}
 
-## Our group
+## Biological questions. Computational imagination.
 
-BioGenies is an innovative collective of budding scientists dispersed across Europe, united by a shared passion for groundbreaking research. Anchored at the **Bioinformatics and Multiomics Analysis Laboratory** within the **Clinical Research Centre** at the ([Medical University of Białystok](https://www.umb.edu.pl/en/index.php), Poland, our core team operates from the dynamic hub of [Centrum Futuri]((https://www.google.com/maps/place//data=!4m2!3m1!1s0x471ffd0030895721:0xa07505c8604cd77e?sa=X&ved=1t:8290&ictx=111)) (entrances D and E).
+We are BioGenies: a research community bringing together bioinformatics, multiomics, protein science and machine learning. We build methods, data resources and software to connect molecular observations with biological understanding.
 
-We are a dynamic team of passionate individuals driven by a collective vision of advancing scientific discovery. With diverse backgrounds and interests, we form a vibrant community dedicated to exploring a vast array of topics spanning the realms of molecular biology, amyloids, antimicrobial peptides, predictive models, database development, and cutting-edge advancements in machine learning and artificial intelligence. Our collaborative efforts blend expertise from various disciplines, fostering innovative approaches and breakthroughs at the intersection of science and technology.
+[Meet our people](team.qmd){.research-button} [Explore our research](research.qmd){.research-button .secondary}
+:::
 
-Our team's interdisciplinary nature enriches our exploration, allowing us to tackle complex challenges from multiple perspectives and drive progress in diverse fields. Whether unraveling the mysteries of molecular interactions or harnessing the power of AI for predictive modeling, we are united by a shared commitment to pushing the boundaries of knowledge and fostering scientific excellence.
+::: {.about-brand}
+![](../bg_logo.png){fig-alt="BioGenies logo"}
+:::
+:::
 
-If you're curious about our ongoing projects, you can explore them in the Project tab.
+## What brings us together
 
-<!-- #| column: page-inset-right-left -->
+::: {.focus-grid}
+::: {.focus-card}
+[01 / MOLECULES]{.eyebrow}
 
-```{r echo=FALSE, message=FALSE}
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lat=53.12324, lng=23.15935, popup="The BioGenies headquarters") 
-```
+### How do proteins interact and assemble?
 
-{{< include ../subsite/content/city_hq.qmd >}}
+We investigate amyloid aggregation, its modulators and the interactions that shape protein behaviour, connecting sequence and structure with experiments.
 
+[Amyloids & aggregation](topics/amyloids.qmd) · [Phase separation](topics/llps.qmd)
+:::
+::: {.focus-card}
+[02 / DATA]{.eyebrow}
+
+### How can we learn more from omics data?
+
+We develop approaches to missing values and multiomics analysis, with an emphasis on comparing methods and making analyses reproducible.
+
+[Missing-value imputation](topics/mvi.qmd) · [HDX-MS](topics/hdxms.qmd)
+:::
+::: {.focus-card}
+[03 / METHODS]{.eyebrow}
+
+### How do we turn research into useful tools?
+
+We combine curated biological knowledge, statistical modelling and machine learning in resources that other researchers can explore and reuse.
+
+[Software & databases](software.qmd) · [Antimicrobial peptides](topics/amp.qmd)
+:::
+:::
+
+::: {.about-community}
+::: {.about-community-copy}
+[PEOPLE MAKE THE SCIENCE]{.eyebrow}
+
+## A shared curiosity, across institutions.
+
+Our work grows through conversations, shared experiments and the different perspectives of our [team](team.qmd), [collaborators](colab.qmd) and [guest researchers](guest.qmd). Conferences and research exchanges help us build those connections; time together outside the lab matters too.
+
+[Life in the group →](posts/2025_06_23_arboretum.qmd)
+:::
+
+![BioGenies members celebrating together at the 2025 Wrocław retreat.](fig/posts/2025_06_23/1000051274.jpg){.community-photo fig-alt="BioGenies members celebrating together at the 2025 Wrocław retreat."}
+:::
+
+::: {.location-panel}
+![](fig/logo/MUB_logo.png){.location-logo fig-alt="Medical University of Białystok logo"}
+
+::: {.location-copy}
+[OUR HOME BASE]{.eyebrow}
+
+## Find us in Białystok
+
+Our core team is based in the **Bioinformatics and Multiomics Analysis Laboratory**, part of the **Clinical Research Centre** at the **Medical University of Białystok**, Poland.
+
+**Centrum Futuri · entrances D and E**
+
+[Open location in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=53.12324,23.15935) · [University website ↗](https://www.umb.edu.pl/en/index.php)
+:::
+:::

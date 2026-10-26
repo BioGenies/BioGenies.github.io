@@ -1,53 +1,113 @@
-# Former BioGenies members
+# Part of our story
 
-[![](fig/ppl/sonor.jpg "Dawid (Sonor) Kubkowski")](team/sk.llms.md)
+Meet former BioGenies members and explore the people who contributed to our research community.
 
-Sonor Kubkowski ![](fig/logo/UWr_logo.png "University of Wrocław")
+The people who have helped shape BioGenies. Our former members remain part of the group’s story.
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+[Meet the current team](../subsite/team.llms.md) · [Our collaborators](../subsite/colab.llms.md)
 
-Agnieszka Barbach ![](fig/logo/PWr_logo.png "Wrocław University of Science and Technology ­w")
+![Sonor Kubkowski](fig/ppl/sonor.jpg)
 
-[![](fig/ppl/fg.jpeg "Filip Gaj")]()
+### Sonor Kubkowski
 
-Filip Gaj ![](fig/logo/UWr_logo.png "University of Wrocław")
+University of Wrocław
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+![University of Wrocław logo](fig/logo/UWr_logo.png)
 
-Katarzyna Hubicka ![](fig/logo/PWr_logo.png "Wrocław University of Science and Technology ­")
+Research profile ↗
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+AB
 
-Anita Karaszewska ![](fig/logo/UWr_logo.png "University of Wrocław")
+### Agnieszka Barbach
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+Wrocław University of Science and Technology
 
-Dominika Kozakiewicz ![](fig/logo/UWr_logo.png "University of Wrocław")
+![Wrocław University of Science and Technology logo](fig/logo/PWr_logo.png)
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+![Filip Gaj](fig/ppl/fg.jpeg)
 
-Anna Lassota ![](fig/logo/UWr_logo.png "University of Wrocław")
+### Filip Gaj
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+University of Wrocław
 
-Dominik Nowakowski ![](fig/logo/MUB_logo.png "Medical University of Białystok")
+![University of Wrocław logo](fig/logo/UWr_logo.png)
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+KH
 
-Filip Pietluch ![](fig/logo/UWr_logo.png "University of Wrocław")
+### Katarzyna Hubicka
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+Wrocław University of Science and Technology
 
-Natalia Pludra ![](fig/logo/UWr_logo.png "University of Wrocław")
+![Wrocław University of Science and Technology logo](fig/logo/PWr_logo.png)
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+AK
 
-Dominik Rafacz ![](fig/logo/PW_logo.png "Warsaw University of Technology")
+### Anita Karaszewska
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+University of Wrocław
 
-Joanna Sikorska ![](fig/logo/UWr_logo.png "University of Wrocław")
+![University of Wrocław logo](fig/logo/UWr_logo.png)
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+DK
 
-Jadwiga Słowik ![](fig/logo/PW_logo.png "Warsaw University of Technology")
+### Dominika Kozakiewicz
+
+University of Wrocław
+
+![University of Wrocław logo](fig/logo/UWr_logo.png)
+
+AL
+
+### Anna Lassota
+
+University of Wrocław
+
+![University of Wrocław logo](fig/logo/UWr_logo.png)
+
+DN
+
+### Dominik Nowakowski
+
+Medical University of Białystok
+
+![Medical University of Białystok logo](fig/logo/MUB_logo.png)
+
+FP
+
+### Filip Pietluch
+
+University of Wrocław
+
+![University of Wrocław logo](fig/logo/UWr_logo.png)
+
+NP
+
+### Natalia Pludra
+
+University of Wrocław
+
+![University of Wrocław logo](fig/logo/UWr_logo.png)
+
+DR
+
+### Dominik Rafacz
+
+Warsaw University of Technology
+
+![Warsaw University of Technology logo](fig/logo/PW_logo.png)
+
+JS
+
+### Joanna Sikorska
+
+University of Wrocław
+
+![University of Wrocław logo](fig/logo/UWr_logo.png)
+
+JS
+
+### Jadwiga Słowik
+
+Warsaw University of Technology
+
+![Warsaw University of Technology logo](fig/logo/PW_logo.png)

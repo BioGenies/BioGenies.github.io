@@ -217,3 +217,9 @@ This work fits directly into our focus on:
 # 🏷️ Keywords
 
 HDX-MS, protein dynamics, structural proteomics, deuterium exchange, mass spectrometry, protein folding, bioinformatics tools, kinetic modeling
+
+## Explore related research
+
+- [Explore Protein dynamics with HDX-MS](../../subsite/topics/hdxms.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

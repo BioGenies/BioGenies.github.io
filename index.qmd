@@ -1,8 +1,45 @@
 ---
 title: "BioGenies news"
+body-classes: news-page
+sidebar: false
+toc: false
 listing:
   contents: subsite/posts
   sort: "date desc"
   type: grid
   categories: cloud
 ---
+
+::: {.start-here #start-here}
+[NEW TO BIOGENIES?]{.eyebrow}
+
+## Start with what brings you here.
+
+::: {.visitor-routes}
+::: {.visitor-route}
+### I’m a student
+
+Meet the people, explore research questions and see examples of thesis work.
+
+[Find your starting point →](subsite/start.qmd#students)
+:::
+::: {.visitor-route}
+### I’m a researcher
+
+Find shared interests, meet potential collaborators and explore our projects.
+
+[Explore connections →](subsite/start.qmd#collaborate)
+:::
+::: {.visitor-route}
+### I’m looking for a tool
+
+Discover software and databases, or try a small hands-on introduction.
+
+[Find tools you can use →](subsite/start.qmd#tools)
+:::
+:::
+
+[Read the science in plain language](subsite/stories.qmd){.discovery-link}
+:::
+
+## Latest news

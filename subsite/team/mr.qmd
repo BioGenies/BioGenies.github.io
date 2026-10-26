@@ -1,12 +1,16 @@
 ---
 title: 'Mariia Rutkowska'
+description: "Research profile and academic CV of Mariia Rutkowska: publications, experience, education and BioGenies news."
+body-classes: researcher-profile
+profile-image: ../fig/ppl/mr.jpeg
+related-news: [2025_09_17_mariia_phd_school]
 sidebar: false
 format:
   html:
     grid:
       sidebar-width: 0px
-      body-width: 1500px
-      margin-width: 300px
+      body-width: 1050px
+      margin-width: 220px
       gutter-width: 1.5rem
 knitr:
   opts_chunk:
@@ -24,25 +28,22 @@ library(fontawesome)
 
 
 
-# 📝 **Bio**
+## Biography
   
-------------------------------------------------------------------------
 
 `r stringr::str_flatten(basic_info(whois)$bio)`
 
 
-# 📱 **Contact**
-
-------------------------------------------------------------------------
-
-[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:solovianova.mariia@gmail.com)
-[`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/mashasolovey)
-[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0009-0009-5868-6889)
+## Contact
 
 
-# 🚀 **Research stays**
+[Email](mailto:solovianova.mariia@gmail.com)
+[GitHub](https://github.com/mashasolovey)
+[ORCID](https://orcid.org/0009-0009-5868-6889)
 
-------------------------------------------------------------------------
+
+## Research stays
+
 
 ```{r, echo=FALSE, message=FALSE}
 research_stay(whois)
@@ -56,17 +57,16 @@ research_stay(whois)
 <!-- work(whois) -->
 <!-- ``` -->
 
-# 🎓 **Education**
+## Education
   
-------------------------------------------------------------------------
 
-`r stringr::str_flatten(education(whois)$new_col)`
+```{r, echo=FALSE, message=FALSE}
+education_panel(whois)
+```
 
-------------------------------------------------------------------------
 
-# 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
+## Conferences, workshops and training
 
-------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE}
 conf_work(whois)

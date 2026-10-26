@@ -7,6 +7,7 @@ categories:
   - Achievements
 image: "../fig/posts/2025_09_16/sonor.jpg"
 author: "BioGenies Lab"
+related-people: [sk]
 ---
 
 🎉🥳 **Big congratulations to Sonor!** He has just successfully defended his MSc thesis, *Biomedical Text Classification with Pre-trained Language Models*, and scored the **highest possible grade**! 🌟💯👏  

@@ -31,3 +31,7 @@ Huge congrats to **Jarek**, who just received an **NCN Miniatura grant** to **ex
 👏 Join us in celebrating both Mariia’s and Jarek’s achievements. Onward to new discoveries and impactful science! 🌟
 
 ![](../fig/posts/2025_07_04/1000052495.jpg)
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

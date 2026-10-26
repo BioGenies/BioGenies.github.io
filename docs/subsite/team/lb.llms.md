@@ -1,13 +1,53 @@
 # Laura Bąkała
 
-# 📱 **Contact**
+Research profile and academic CV of Laura Bąkała: publications, experience, education and BioGenies news.
 
-------------------------------------------------------------------------
+![Laura Bąkała](../fig/ppl/lb.png)
 
-[![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgcm9sZT0iaW1nIiB2aWV3Ym94PSIwIDAgNDk2IDUxMiIgc3R5bGU9ImhlaWdodDozZW07d2lkdGg6Mi45MWVtO3ZlcnRpY2FsLWFsaWduOi0wLjEyNWVtO21hcmdpbi1sZWZ0OmF1dG87bWFyZ2luLXJpZ2h0OmF1dG87Zm9udC1zaXplOmluaGVyaXQ7ZmlsbDojMjQyOTJlO292ZXJmbG93OnZpc2libGU7cG9zaXRpb246cmVsYXRpdmU7Ij48cGF0aCBkPSJNMTY1LjkgMzk3LjRjMCAyLTIuMyAzLjYtNS4yIDMuNi0zLjMuMy01LjYtMS4zLTUuNi0zLjYgMC0yIDIuMy0zLjYgNS4yLTMuNiAzLS4zIDUuNiAxLjMgNS42IDMuNnptLTMxLjEtNC41Yy0uNyAyIDEuMyA0LjMgNC4zIDQuOSAyLjYgMSA1LjYgMCA2LjItMnMtMS4zLTQuMy00LjMtNS4yYy0yLjYtLjctNS41LjMtNi4yIDIuM3ptNDQuMi0xLjdjLTIuOS43LTQuOSAyLjYtNC42IDQuOS4zIDIgMi45IDMuMyA1LjkgMi42IDIuOS0uNyA0LjktMi42IDQuNi00LjYtLjMtMS45LTMtMy4yLTUuOS0yLjl6TTI0NC44IDhDMTA2LjEgOCAwIDExMy4zIDAgMjUyYzAgMTEwLjkgNjkuOCAyMDUuOCAxNjkuNSAyMzkuMiAxMi44IDIuMyAxNy4zLTUuNiAxNy4zLTEyLjEgMC02LjItLjMtNDAuNC0uMy02MS40IDAgMC03MCAxNS04NC43LTI5LjggMCAwLTExLjQtMjkuMS0yNy44LTM2LjYgMCAwLTIyLjktMTUuNyAxLjYtMTUuNCAwIDAgMjQuOSAyIDM4LjYgMjUuOCAyMS45IDM4LjYgNTguNiAyNy41IDcyLjkgMjAuOSAyLjMtMTYgOC44LTI3LjEgMTYtMzMuNy01NS45LTYuMi0xMTIuMy0xNC4zLTExMi4zLTExMC41IDAtMjcuNSA3LjYtNDEuMyAyMy42LTU4LjktMi42LTYuNS0xMS4xLTMzLjMgMi42LTY3LjkgMjAuOS02LjUgNjkgMjcgNjkgMjcgMjAtNS42IDQxLjUtOC41IDYyLjgtOC41czQyLjggMi45IDYyLjggOC41YzAgMCA0OC4xLTMzLjYgNjktMjcgMTMuNyAzNC43IDUuMiA2MS40IDIuNiA2Ny45IDE2IDE3LjcgMjUuOCAzMS41IDI1LjggNTguOSAwIDk2LjUtNTguOSAxMDQuMi0xMTQuOCAxMTAuNSA5LjIgNy45IDE3IDIyLjkgMTcgNDYuNCAwIDMzLjctLjMgNzUuNC0uMyA4My42IDAgNi41IDQuNiAxNC40IDE3LjMgMTIuMUM0MjguMiA0NTcuOCA0OTYgMzYyLjkgNDk2IDI1MiA0OTYgMTEzLjMgMzgzLjUgOCAyNDQuOCA4ek05Ny4yIDM1Mi45Yy0xLjMgMS0xIDMuMy43IDUuMiAxLjYgMS42IDMuOSAyLjMgNS4yIDEgMS4zLTEgMS0zLjMtLjctNS4yLTEuNi0xLjYtMy45LTIuMy01LjItMXptLTEwLjgtOC4xYy0uNyAxLjMuMyAyLjkgMi4zIDMuOSAxLjYgMSAzLjYuNyA0LjMtLjcuNy0xLjMtLjMtMi45LTIuMy0zLjktMi0uNi0zLjYtLjMtNC4zLjd6bTMyLjQgMzUuNmMtMS42IDEuMy0xIDQuMyAxLjMgNi4yIDIuMyAyLjMgNS4yIDIuNiA2LjUgMSAxLjMtMS4zLjctNC4zLTEuMy02LjItMi4yLTIuMy01LjItMi42LTYuNS0xem0tMTEuNC0xNC43Yy0xLjYgMS0xLjYgMy42IDAgNS45IDEuNiAyLjMgNC4zIDMuMyA1LjYgMi4zIDEuNi0xLjMgMS42LTMuOSAwLTYuMi0xLjQtMi4zLTQtMy4zLTUuNi0yeiIgLz48L3N2Zz4=)](https://github.com/ErdaradunGaztea)
+## Contact
 
-------------------------------------------------------------------------
+[GitHub](https://github.com/ErdaradunGaztea)
 
-# 📖 **Publications**
+## Publications
 
-------------------------------------------------------------------------
+3 publications listed · most recent first
+
+[AmyloGraph: a comprehensive database of amyloid–amyloid interactions](https://doi.org/10.1093/nar/gkac882)
+
+Nucleic Acids Research · 2022-10-16
+
+Authors & citation details
+
+Michał Jan Burdukiewicz, Dominik Rafacz, Agnieszka Barbach, Laura Bąkała, Anna Lassota, Jakub Stecko, Natalia Szymańska, Natalia Szymańska, Natalia Szymańska, Jakub Wiktor Wojciechowski, Dominika Kozakiewicz, Natalia Szulc, Jarosław Chilimoniuk, Izabela Jęśkowiak, Marlena Gąsior‐Głogowska, Małgorzata Kotulska
+
+Authorship: coauthor
+
+<https://doi.org/10.1093/nar/gkac882>
+
+[Benchmarks in antimicrobial peptide prediction are biased due to the selection of negative data](https://doi.org/10.1093/bib/bbac343)
+
+Briefings in Bioinformatics · 2022-08-21
+
+Authors & citation details
+
+Katarzyna Sidorczuk, Przemysław Gagat, Filip Pietluch, Jakub Kała, Dominik Rafacz, Laura Bąkała, Jadwiga Słowik, Rafał Kolenda, Stefan Rödiger, Legana C H W Fingerhut, Ira Cooke, Paweł Mackiewicz, Michał Jan Burdukiewicz
+
+Authorship: coauthor
+
+<https://doi.org/10.1093/bib/bbac343>
+
+[CancerGram: An Effective Classifier for Differentiating Anticancer from Antimicrobial Peptides](https://doi.org/10.3390/pharmaceutics12111045)
+
+Pharmaceutics · 2020-10-31
+
+Authors & citation details
+
+Michał Jan Burdukiewicz, Katarzyna Sidorczuk, Dominik Rafacz, Filip Pietluch, Laura Bąkała, Jadwiga Słowik, Przemysław Gagat
+
+Authorship: coauthor
+
+<https://doi.org/10.3390/pharmaceutics12111045>
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

@@ -35,3 +35,7 @@ The award was presented on **June 27, 2025**, during BTU’s “Kulturcampus Sac
 ------------------------------------------------------------------------
 
 Ronja’s drive and organization have been valuable both during her time with us and beyond. We’re proud to have had her as part of the team. Congratulations, Ronja! 🎉
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

@@ -1,42 +1,50 @@
 ---
-title: "BioGenies collaborators"
+title: "Working together"
+description: "Meet the BioGenies collaborators and explore their research profiles across our partner institutions."
+body-classes: directory-page
+sidebar: false
+toc: false
 ---
 
-### ![](fig/logo/UAB_logo.png){width="15%"} Autonomous University of Barcelona
-::: {layout-ncol=5}
-[![Eva Arribas](fig/ppl/ea.png "Eva Arribas"){}](colab/ea.html)
-
-[![Oriol Bárcenas](fig/ppl/ob.png "Oriol Bárcenas"){}](colab/ob.html)
-
-[![Carlos Pintado-Grima](fig/ppl/cp.png "Carlos Pintado-Grima"){}](colab/cpg.html)
+::: {.team-intro}
+Good questions cross institutional boundaries. Meet the people who bring their expertise, ideas and perspectives to our research.
 :::
 
-### ![](fig/logo/BTU_logo.png){width="15%"} Brandenburg University of Technology Cottbus-Senftenberg
-::: {layout-ncol=5}
-[![Stefan Rödiger](fig/temp_profile.png "temporary profile pic"){}]()
+[Our team](team.qmd) · [Guest researchers](guest.qmd) · [Research & impact](research.qmd)
 
-[![Ronja Tittel](fig/ppl/rt.jpg "Ronja Tittel"){}](colab/rt.html)
-:::
+## [![Autonomous University of Barcelona logo](fig/logo/UAB_logo.png){.directory-institution-logo}](https://www.uab.cat/en/) Autonomous University of Barcelona
 
-### ![](fig/logo/nencki_logo.png){width="15%"} Nencki Institute of Experimental Biology PAS
-::: {layout-ncol=5}
-[![Kinga Nazaruk](fig/temp_profile.png "temporary profile pic"){}]()
-:::
+```{=html}
+<div class="people-grid directory-grid"><article class="person-card"><a class="person-photo" href="colab/ea.html"><img src="fig/ppl/ea.png" alt="Eva Arribas" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="colab/ea.html">Eva Arribas</a></h3><p>Autonomous University of Barcelona</p><a class="person-action" href="colab/ea.html">Research profile <span aria-hidden="true">↗</span></a></div></article><article class="person-card"><a class="person-photo" href="colab/ob.html"><img src="fig/ppl/ob.png" alt="Oriol Bárcenas" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="colab/ob.html">Oriol Bárcenas</a></h3><p>Autonomous University of Barcelona</p><a class="person-action" href="colab/ob.html">Research profile <span aria-hidden="true">↗</span></a></div></article><article class="person-card"><a class="person-photo" href="colab/cpg.html"><img src="fig/ppl/cp.png" alt="Carlos Pintado-Grima" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="colab/cpg.html">Carlos Pintado-Grima</a></h3><p>Autonomous University of Barcelona</p><a class="person-action" href="colab/cpg.html">Research profile <span aria-hidden="true">↗</span></a></div></article></div>
+```
 
-### ![](fig/logo/UP_logo.png){width="15%"} University of Porto
-::: {layout-ncol=5}
-[![Martyna Podlasiak](fig/ppl/mpo.jpg "Martyna Podlasiak"){}](team/mpo.html)
-:::
+## [![Brandenburg University of Technology Cottbus-Senftenberg logo](fig/logo/BTU_logo.png){.directory-institution-logo}](https://www.b-tu.de/en/) Brandenburg University of Technology Cottbus-Senftenberg
 
-### ![](fig/logo/UW_logo.png){width="10%"} University of Warsaw
-::: {layout-ncol=5}
-[![Julia Szkóp](fig/ppl/jsz.jpeg "Julia Szkóp"){}](team/jsz.html)
-:::
+```{=html}
+<div class="people-grid directory-grid"><article class="person-card"><a class="person-photo" href="colab/sr.html"><span class="person-initials" aria-hidden="true">SR</span></a><div class="person-info"><h3><a class="person-name" href="colab/sr.html">Stefan Rödiger</a></h3><p>Brandenburg University of Technology Cottbus-Senftenberg</p><a class="person-action" href="colab/sr.html">Research profile <span aria-hidden="true">↗</span></a></div></article><article class="person-card"><a class="person-photo" href="colab/rt.html"><img src="fig/ppl/rt.jpg" alt="Ronja Tittel" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="colab/rt.html">Ronja Tittel</a></h3><p>Brandenburg University of Technology Cottbus-Senftenberg</p><a class="person-action" href="colab/rt.html">Research profile <span aria-hidden="true">↗</span></a></div></article></div>
+```
 
-### ![](fig/logo/QI_logo.png){width="10%"} Quadram Institute
-::: {layout-ncol=5}
-[![Rafał Kolenda](fig/temp_profile.png "temporary profile pic"){}]()
+## [![Nencki Institute of Experimental Biology PAS logo](fig/logo/nencki_logo.png){.directory-institution-logo}](https://nencki.edu.pl/) Nencki Institute of Experimental Biology PAS
 
-[![Katarzyna (Kasia) Sidorczuk](fig/temp_profile.png "temporary profile pic"){}](colab/ks.html)
-:::
+```{=html}
+<div class="people-grid directory-grid"><article class="person-card"><div class="person-photo"><span class="person-initials" aria-hidden="true">KN</span></div><div class="person-info"><h3>Kinga Nazaruk</h3><p>Nencki Institute of Experimental Biology PAS</p></div></article></div>
+```
+
+## [![University of Porto logo](fig/logo/UP_logo.PNG){.directory-institution-logo}](https://www.up.pt/portal/en/) University of Porto
+
+```{=html}
+<div class="people-grid directory-grid"><article class="person-card"><a class="person-photo" href="colab/mpo.html"><img src="fig/ppl/mpo.jpg" alt="Martyna Podlasiak" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="colab/mpo.html">Martyna Podlasiak</a></h3><p>University of Porto</p><a class="person-action" href="colab/mpo.html">Research profile <span aria-hidden="true">↗</span></a></div></article></div>
+```
+
+## [![University of Warsaw logo](fig/logo/UW_logo.png){.directory-institution-logo}](https://en.uw.edu.pl/) University of Warsaw
+
+```{=html}
+<div class="people-grid directory-grid"><article class="person-card"><a class="person-photo" href="colab/jsz.html"><img src="fig/ppl/jsz.jpeg" alt="Julia Szkóp" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="colab/jsz.html">Julia Szkóp</a></h3><p>University of Warsaw</p><a class="person-action" href="colab/jsz.html">Research profile <span aria-hidden="true">↗</span></a></div></article></div>
+```
+
+## [![Quadram Institute logo](fig/logo/QI_logo.png){.directory-institution-logo}](https://quadram.ac.uk/) Quadram Institute
+
+```{=html}
+<div class="people-grid directory-grid"><article class="person-card"><a class="person-photo" href="colab/rk.html"><span class="person-initials" aria-hidden="true">RK</span></a><div class="person-info"><h3><a class="person-name" href="colab/rk.html">Rafał Kolenda</a></h3><p>Quadram Institute</p><a class="person-action" href="colab/rk.html">Research profile <span aria-hidden="true">↗</span></a></div></article><article class="person-card"><a class="person-photo" href="colab/ks.html"><span class="person-initials" aria-hidden="true">KS</span></a><div class="person-info"><h3><a class="person-name" href="colab/ks.html">Katarzyna (Kasia) Sidorczuk</a></h3><p>Quadram Institute</p><a class="person-action" href="colab/ks.html">Research profile <span aria-hidden="true">↗</span></a></div></article></div>
+```
 

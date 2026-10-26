@@ -1,0 +1,59 @@
+---
+title: "Find your way into BioGenies"
+description: "A starting point for students, research collaborators and users of BioGenies software and databases."
+body-classes: subsite-page start-page
+sidebar: false
+toc: true
+---
+
+::: {.team-intro}
+Whether you have a question, an idea for a collaboration or a dataset to analyse, here is a path into our work.
+:::
+
+## For students {#students}
+
+::: {.visitor-guide}
+[EXPLORE · LEARN · GET IN TOUCH]{.eyebrow}
+
+### Find a question that interests you.
+
+We work where biology, data analysis and programming meet. You can start with the science without already knowing every method.
+
+1. **Explore the questions.** Read our [research stories in plain language](stories.qmd), then explore [research topics](research.qmd#our-research-topics).
+2. **Meet the people and their work.** Browse the [team](team.qmd) and [completed theses and dissertations](theses.qmd) for examples of research directions.
+3. **Start a conversation.** Tell us about your interests, experience and the kind of project you would like to explore. [Email BioGenies](mailto:biogenies@umb.edu.pl?subject=Student%20research%20enquiry) to ask about possibilities.
+
+[Explore the imputomics story →](stories.qmd#imputomics)
+:::
+
+## For researchers & collaborators {#collaborate}
+
+::: {.visitor-guide}
+[SHARED QUESTIONS · COMPLEMENTARY EXPERTISE]{.eyebrow}
+
+### Begin with the question you want to answer.
+
+Our research connects protein aggregation, multiomics, statistical methods and machine learning. Existing projects and publications are a useful starting point for finding common ground.
+
+1. **Find a shared interest.** Explore our [research topics](research.qmd#our-research-topics) and [project portfolio](../index_projects.qmd).
+2. **Find the relevant expertise.** Meet the [team](team.qmd) and [collaborators](colab.qmd), and follow their publication links.
+3. **Bring an idea.** [Email the group](mailto:biogenies@umb.edu.pl?subject=Research%20collaboration) with a short description of your question, available data or experiments, and the expertise you would like to connect.
+
+[Browse our publications →](publications.qmd)
+:::
+
+## For software & database users {#tools}
+
+::: {.visitor-guide}
+[EXPLORE · UNDERSTAND · APPLY]{.eyebrow}
+
+### Find a resource for your next analysis.
+
+Our catalogue includes web applications, R packages and curated biological databases. Each resource has its own scope and documentation.
+
+1. **Find a resource.** Browse [software and databases](software.qmd) for links to applications and source code.
+2. **Understand the research behind it.** Read the [imputomics](stories.qmd#imputomics), [AmyloGraph](stories.qmd#amylograph) and [HaDeX2](stories.qmd#hadex2) stories.
+3. **Try an idea before a full analysis.** Use the [imputomics story](stories.qmd#imputomics) to explore why estimates depend on the method and the missing values.
+
+[Open the software catalogue →](software.qmd)
+:::

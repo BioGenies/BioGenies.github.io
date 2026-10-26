@@ -1,36 +1,20 @@
 ---
-title: "Conferences etc."
+title: "Conferences & workshops"
+body-classes: output-page conferences-page
+description: "BioGenies at scientific conferences, workshops and training schools: event editions, attendees, talks and posters."
 ---
 
+::: {.team-intro}
+Sharing our work. Bringing ideas home.
+:::
+
+Explore the meetings, workshops and training schools attended by our team, former members and collaborators. Each event appears once, with the attendees together; open its contributions to explore individual talks and posters.
+
+[Meet the people](team.qmd) · [Read our publications](publications.qmd) · [Latest group news](../index.qmd)
+
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
-
-library(tidyverse)
-library(DT)
-library(stringr)
-library(googlesheets4)
-
 load('../data/bg_df_data.RData')
-
-# conf <- read_csv("CV/data/conferences.csv", col_types = "cccfffc")
-
-full_df %>% 
-  filter(activity == "conferences") %>% 
-  filter(team == "main") %>% 
-  mutate(dates = paste0(start_date, " - ", end_date),
-                year = str_split_i(start_date, "-", i = 1),
-                place = paste0(city, ", ", country),
-                event = full_name %>% as.factor(),
-                type = type %>% as.factor(),
-                presenting = whois_full_name %>% as.factor(), 
-                start_date = start_date %>% as.Date(., format = "%d.%m.%Y"),
-                end_date = end_date %>% as.Date(., format = "%d.%m.%Y")) %>%
-  arrange(desc(year)) %>% 
-  select(event, year, place, type, title, presenting) %>% 
-  drop_na(presenting) %>% 
-  DT::datatable(height = 1000)
-# %>% 
-#                   str_split_1(., "[.]") %>% 
-#                   last() %>% 
-#                   as.numeric())
-
+source('../R/resume_fun.R')
+events <- conference_events(full_df %>% filter(activity == 'conferences', !is.na(team), team != 'other'))
+conference_cards(events, preview = 8L)
 ```

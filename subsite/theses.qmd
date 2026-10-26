@@ -1,78 +1,44 @@
 ---
-title: "Theses and dissertations"
+title: "Theses & dissertations"
+description: "Explore the theses and dissertations behind BioGenies research, with links to the authors and full documents."
 ---
 
-### 2026
-::: {layout-ncol=3}
-**Joanna Pokora** <br> 
-MSc thesis <br> 
-*["Logistic Adaptive Bayesian SLOPE"](download_files/thesis/jp_msc.pdf)*
-  
-### 2025
-::: {layout-ncol=3}
-**Dawid Sonor Kubkowski** <br> 
-MSc thesis <br> 
-*["Biomedical Text Classification with Pre-trained Language Models"](download_files/thesis/sk_msc.pdf)*
+Academic milestones, and the research behind them. Explore the documents and meet their authors.
 
-**Weronika Puchała** <br> 
-PhD dissertation <br> 
-*["High-resolution analysis of hydrogen/deuterium exchange monitored by mass spectrometry experiment data"](download_files/dissertation/wp_phd.pdf)*
-:::  
-  
-### 2023
-::: {layout-ncol=3}
-**Jarek Chilimoniuk** <br> 
-PhD dissertation <br> 
-*["Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB"](download_files/dissertation/jc_phd.pdf)*
+## 2026
 
-<!-- **Laura Bąkała** <br>  -->
-<!-- MSc thesis <br>  -->
-<!-- *[""](download_files/dissertation/)* -->
-::: 
+::: {.thesis-entry}
+[MSc thesis]{.eyebrow}
 
-<!-- ### 2022 -->
-<!-- ::: {layout-ncol=3} -->
-<!-- **Krysia Grzesiak** <br>  -->
-<!-- MSc thesis <br>  -->
-<!-- *[""](download_files/dissertation/)* -->
+### Logistic Adaptive Bayesian SLOPE
 
-<!-- **Jakub Kołodziejczyk** <br>  -->
-<!-- MSc thesis <br>  -->
-<!-- *[""](download_files/dissertation/)* -->
+[Joanna Pokora](team/jp.qmd) · [Read the thesis ↗](download_files/thesis/jp_msc.pdf)
+:::
 
-<!-- **Dominik Rafacz** <br>  -->
-<!-- MSc thesis <br>  -->
-<!-- *[""](download_files/dissertation/)* -->
+## 2025
 
-<!-- **Jadwiga Słowik** <br>  -->
-<!-- MSc thesis <br>  -->
-<!-- *[""](download_files/dissertation/)* -->
+::: {.thesis-entry}
+[MSc thesis]{.eyebrow}
 
-<!-- **Anita Karaszewska** <br>  -->
-<!-- BSc thesis <br>  -->
-<!-- *[""](download_files/dissertation/)* -->
+### Biomedical Text Classification with Pre-trained Language Models
 
-<!-- **Natalia Pludra** <br>  -->
-<!-- BSc thesis <br>  -->
-<!-- *[""](download_files/dissertation/)* -->
+[Dawid Sonor Kubkowski](team/sk.qmd) · [Read the thesis ↗](download_files/thesis/sk_msc.pdf)
+:::
 
-<!-- **Jan** <br>  -->
-<!-- MSc thesis <br>  -->
-<!-- *[""](download_files/dissertation/)* -->
-<!-- :::  -->
+::: {.thesis-entry}
+[PhD dissertation]{.eyebrow}
 
-<!-- ### 2018 -->
-<!-- ::: {layout-ncol=3} -->
-<!-- **Anna Lassota** <br>  -->
-<!-- BSc thesis <br>  -->
-<!-- *[""](download_files/dissertation/)* -->
+### High-resolution analysis of hydrogen/deuterium exchange monitored by mass spectrometry experiment data
 
-<!-- **Dominika Kozakiewicz** <br>  -->
-<!-- BSc thesis <br>  -->
-<!-- *[""](download_files/dissertation/)* -->
+[Weronika Puchała](team/wp.qmd) · [Read the dissertation ↗](download_files/dissertation/wp_phd.pdf)
+:::
 
-<!-- **Joanna Sikorska** <br>  -->
-<!-- BSc thesis <br>  -->
-<!-- *[""](download_files/dissertation/)* -->
-<!-- :::  -->
+## 2023
 
+::: {.thesis-entry}
+[PhD dissertation]{.eyebrow}
+
+### Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB
+
+[Jarosław Chilimoniuk](team/jc.qmd) · [Read the dissertation ↗](download_files/dissertation/jc_phd.pdf)
+:::

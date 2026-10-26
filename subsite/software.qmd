@@ -1,12 +1,14 @@
 ---
-title: "Software"
+title: "Software & databases"
+body-classes: output-page software-page
+description: "Explore BioGenies web applications, R packages, databases and open research software."
 ---
 
-```{r, echo=FALSE, message=FALSE}
-library("fontawesome")
-```
+Research methods, ready to use. Explore the web applications, databases and R packages developed by our team. Read the [research stories behind the tools](research.qmd#software).
 
-## `r fontawesome::fa("laptop-code", prefer_type = "solid", fill = "black", height = "1.5em")` **Web servers**
+[Read three tool stories in plain language](stories.qmd)
+
+## Web servers
 
 ::: {layout-ncol=4}
 
@@ -32,7 +34,7 @@ library("fontawesome")
 
 :::
 
-## `r fontawesome::fa("database", prefer_type = "solid", fill = "black", height = "1.5em")` **Databases**
+## Databases
 ::: {layout-ncol=4}
 
 [![**AmyloGraph** - amyloid-amyloid interaction database](fig/tools/amylograph.png){width=250}](https://amylograph.com/)
@@ -45,7 +47,7 @@ library("fontawesome")
 
 :::
 
-## `r fontawesome::fa("toolbox", prefer_type = "solid", fill = "black", height = "1.5em")` **Tools**
+## Tools
 ::: {layout-ncol=4}
 
 [![**tidysq** - tidy R package for analysis and manipulation of biological sequences ](fig/tools/tidysq.png){height=200}](https://biogenies.info/tidysq/articles/quick-start.html)
@@ -58,7 +60,7 @@ library("fontawesome")
 
 :::
 
-## `r fontawesome::fa("github", fill = "#24292e", height = "1.5em")` **Code repositories**
+## Code repositories
 
 ::: {layout-ncol=4}
 

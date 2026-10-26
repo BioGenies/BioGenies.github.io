@@ -82,3 +82,9 @@ Weronika, your dedication, persistence and brilliant science have paid off in th
 We’re incredibly happy to celebrate this milestone with you and can’t wait to see what you do next 🚀
 
 **Huge, huge congratulations!** 🥳🍾💚
+
+## Explore related research
+
+- [Weronika Puchała — academic CV and publications](../../subsite/team/wp.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

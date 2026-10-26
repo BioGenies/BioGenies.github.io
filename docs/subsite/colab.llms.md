@@ -1,53 +1,97 @@
-# BioGenies collaborators
+# Working together
 
-### ![](fig/logo/UAB_logo.png) Autonomous University of Barcelona
+Meet the BioGenies collaborators and explore their research profiles across our partner institutions.
 
-[![](fig/ppl/ea.png "Eva Arribas")](colab/ea.llms.md)
+Good questions cross institutional boundaries. Meet the people who bring their expertise, ideas and perspectives to our research.
 
-Eva Arribas
+[Our team](../subsite/team.llms.md) · [Guest researchers](../subsite/guest.llms.md) · [Research & impact](../subsite/research.llms.md)
 
-[![](fig/ppl/ob.png "Oriol Bárcenas")](colab/ob.llms.md)
+## ![Autonomous University of Barcelona logo](fig/logo/UAB_logo.png) Autonomous University of Barcelona
 
-Oriol Bárcenas
+![Eva Arribas](fig/ppl/ea.png)
 
-[![](fig/ppl/cp.png "Carlos Pintado-Grima")](colab/cpg.llms.md)
+### Eva Arribas
 
-Carlos Pintado-Grima
+Autonomous University of Barcelona
 
-### ![](fig/logo/BTU_logo.png) Brandenburg University of Technology Cottbus-Senftenberg
+Research profile ↗
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+![Oriol Bárcenas](fig/ppl/ob.png)
 
-Stefan Rödiger
+### Oriol Bárcenas
 
-[![](fig/ppl/rt.jpg "Ronja Tittel")](colab/rt.llms.md)
+Autonomous University of Barcelona
 
-Ronja Tittel
+Research profile ↗
 
-### ![](fig/logo/nencki_logo.png) Nencki Institute of Experimental Biology PAS
+![Carlos Pintado-Grima](fig/ppl/cp.png)
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+### Carlos Pintado-Grima
 
-Kinga Nazaruk
+Autonomous University of Barcelona
 
-### ![](fig/logo/UP_logo.png) University of Porto
+Research profile ↗
 
-[![](fig/ppl/mpo.jpg "Martyna Podlasiak")](team/mpo.llms.md)
+## ![Brandenburg University of Technology Cottbus-Senftenberg logo](fig/logo/BTU_logo.png) Brandenburg University of Technology Cottbus-Senftenberg
 
-Martyna Podlasiak
+SR
 
-### ![](fig/logo/UW_logo.png) University of Warsaw
+### Stefan Rödiger
 
-[![](fig/ppl/jsz.jpeg "Julia Szkóp")](team/jsz.llms.md)
+Brandenburg University of Technology Cottbus-Senftenberg
 
-Julia Szkóp
+Research profile ↗
 
-### ![](fig/logo/QI_logo.png) Quadram Institute
+![Ronja Tittel](fig/ppl/rt.jpg)
 
-[![](fig/temp_profile.png "temporary profile pic")]()
+### Ronja Tittel
 
-Rafał Kolenda
+Brandenburg University of Technology Cottbus-Senftenberg
 
-[![](fig/temp_profile.png "temporary profile pic")](colab/ks.llms.md)
+Research profile ↗
 
-Katarzyna (Kasia) Sidorczuk
+## ![Nencki Institute of Experimental Biology PAS logo](fig/logo/nencki_logo.png) Nencki Institute of Experimental Biology PAS
+
+KN
+
+### Kinga Nazaruk
+
+Nencki Institute of Experimental Biology PAS
+
+## ![University of Porto logo](fig/logo/UP_logo.PNG) University of Porto
+
+![Martyna Podlasiak](fig/ppl/mpo.jpg)
+
+### Martyna Podlasiak
+
+University of Porto
+
+Research profile ↗
+
+## ![University of Warsaw logo](fig/logo/UW_logo.png) University of Warsaw
+
+![Julia Szkóp](fig/ppl/jsz.jpeg)
+
+### Julia Szkóp
+
+University of Warsaw
+
+Research profile ↗
+
+## ![Quadram Institute logo](fig/logo/QI_logo.png) Quadram Institute
+
+RK
+
+### Rafał Kolenda
+
+Quadram Institute
+
+Research profile ↗
+
+KS
+
+### Katarzyna (Kasia) Sidorczuk
+
+Quadram Institute
+
+Research profile ↗

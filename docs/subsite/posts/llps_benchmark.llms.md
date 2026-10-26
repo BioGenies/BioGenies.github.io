@@ -207,3 +207,9 @@ This project connects directly to our interests in:
 # 🏷️ Keywords
 
 LLPS, liquid-liquid phase separation, biomolecular condensates, protein datasets, bioinformatics, machine learning, benchmarking, intrinsically disordered proteins, protein aggregation
+
+## Explore related research
+
+- [Explore Liquid–liquid phase separation](../../subsite/topics/llps.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

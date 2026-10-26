@@ -1,11 +1,25 @@
 # Eva Arribas
 
-# 📱 **Contact**
+Academic CV and research profile of Eva Arribas, a BioGenies collaborator.
 
-------------------------------------------------------------------------
+## Contact
 
-[![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgcm9sZT0iaW1nIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgc3R5bGU9ImhlaWdodDozZW07d2lkdGg6M2VtO3ZlcnRpY2FsLWFsaWduOi0wLjEyNWVtO21hcmdpbi1sZWZ0OmF1dG87bWFyZ2luLXJpZ2h0OmF1dG87Zm9udC1zaXplOmluaGVyaXQ7ZmlsbDojQTZDRTM5O292ZXJmbG93OnZpc2libGU7cG9zaXRpb246cmVsYXRpdmU7Ij48cGF0aCBkPSJNMjk0Ljc1IDE4OC4xOWgtNDUuOTJWMzQyaDQ3LjQ3YzY3LjYyIDAgODMuMTItNTEuMzQgODMuMTItNzYuOTEgMC00MS42NC0yNi41NC03Ni45LTg0LjY3LTc2Ljl6TTI1NiA4QzExOSA4IDggMTE5IDggMjU2czExMSAyNDggMjQ4IDI0OCAyNDgtMTExIDI0OC0yNDhTMzkzIDggMjU2IDh6bS04MC43OSAzNjAuNzZoLTI5Ljg0di0yMDcuNWgyOS44NHptLTE0LjkyLTIzMS4xNGExOS41NyAxOS41NyAwIDEgMSAxOS41Ny0xOS41NyAxOS42NCAxOS42NCAwIDAgMS0xOS41NyAxOS41N3pNMzAwIDM2OWgtODFWMTYxLjI2aDgwLjZjNzYuNzMgMCAxMTAuNDQgNTQuODMgMTEwLjQ0IDEwMy44NUM0MTAgMzE4LjM5IDM2OC4zOCAzNjkgMzAwIDM2OXoiIC8+PC9zdmc+)](https://orcid.org/0009-0006-3110-0057)
+[ORCID](https://orcid.org/0009-0006-3110-0057)
 
-# 📖 **Publications**
+## Publications
 
-------------------------------------------------------------------------
+1 publications listed · most recent first
+
+[Comprehensive protein datasets and benchmarking for liquid–liquid phase separation studies](https://doi.org/10.1186/s13059-025-03668-6)
+
+Genome biology · 2025-07-08
+
+Authors & citation details
+
+Carlos Pintado‐Grima, Oriol Bárcenas, Valentín Iglesias, Michał Jan Burdukiewicz, Salvador Ventura
+
+<https://doi.org/10.1186/s13059-025-03668-6>
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

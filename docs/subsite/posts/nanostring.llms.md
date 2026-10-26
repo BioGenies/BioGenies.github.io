@@ -266,3 +266,7 @@ And more broadly:
 # 🏷️ Keywords
 
 NanoString, nCounter, gene expression, mRNA, miRNA, bioinformatics pipelines, normalization, differential expression, transcriptomics
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

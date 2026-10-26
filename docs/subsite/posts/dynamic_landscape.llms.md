@@ -312,3 +312,9 @@ BUT ALSO:
 # 🏷️ Keywords
 
 peptides, antimicrobial peptides, machine learning, deep learning, reproducibility, bioinformatics tools, peptide therapeutics, AMP prediction
+
+## Explore related research
+
+- [Explore Antimicrobial peptides](../../subsite/topics/amp.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

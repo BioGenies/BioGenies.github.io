@@ -1,12 +1,14 @@
 ---
 title: 'Martyna Podlasiak'
+description: "Academic CV and research profile of Martyna Podlasiak, a BioGenies collaborator."
+profile-image: ../fig/ppl/mpo.jpg
 sidebar: false
 format:
   html:
     grid:
       sidebar-width: 0px
-      body-width: 1500px
-      margin-width: 300px
+      body-width: 1050px
+      margin-width: 220px
       gutter-width: 1.5rem
 knitr:
   opts_chunk:
@@ -30,12 +32,11 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
 
-# 📱 **Contact**
+## Contact
 
-------------------------------------------------------------------------
 
-[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:martynaannap@gmail.com)
-[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0001-6565-8362)
+[Email](mailto:martynaannap@gmail.com)
+[ORCID](https://orcid.org/0000-0001-6565-8362)
 
 
 <!-- # 🚀 **Research stays** -->
@@ -60,7 +61,6 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(education(whois)$new_col)` -->
 
-------------------------------------------------------------------------
 
 <!-- # 👏🏻 **Conferences, workshops, training schools** 🤝🏻  -->
 

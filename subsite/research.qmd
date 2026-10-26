@@ -1,0 +1,181 @@
+---
+title: "Research & impact"
+description: "Explore BioGenies publications, software and databases, conference contributions, fellowships and scientific recognition."
+body-classes: research-hub
+sidebar: false
+toc: false
+---
+
+::: {.hub-intro}
+From biological questions to tools others can use. Explore the papers, software and shared ideas that grow out of our research.
+:::
+
+```{=html}
+<nav class="hub-index" aria-label="Explore research outputs">
+<a href="#publications">01 / Publications</a><a href="#software">02 / Software</a><a href="#conferences">03 / Conferences</a><a href="#recognition">04 / Recognition</a>
+</nav>
+```
+
+::: {.research-feature #publications}
+::: {.feature-copy}
+[01 / KNOWLEDGE]{.eyebrow}
+
+## Ideas, tested and published.
+
+Our work connects bioinformatics and machine learning with amyloids, antimicrobial peptides and multiomics. Read the papers and discover the methods behind the results.
+
+[Explore our publications ↗](publications.qmd){.feature-link}
+:::
+::: {.feature-aside}
+### A closer look
+
+[Three stories in plain language →](stories.qmd)
+
+[AmyloGraph: mapping amyloid interactions](posts/amylograph.qmd)
+
+[imputomics: handling missing omics data](posts/imputomics.qmd)
+
+[HaDeX: exploring protein dynamics](posts/hadex2.qmd)
+:::
+:::
+
+::: {.research-feature .software-feature #software}
+::: {.feature-copy}
+[02 / OPEN TOOLS]{.eyebrow}
+
+## Built for the next discovery.
+
+We turn research methods into software, web applications and curated databases. Explore resources you can use in your own work.
+
+[All software & databases ↗](software.qmd){.feature-link}
+
+:::
+::: {.tool-tiles}
+[![AmyloGraph logo](fig/tools/amylograph.png){loading=lazy} **AmyloGraph**
+Amyloid interaction database](posts/amylograph.qmd){.tool-tile}
+
+[![imputomics logo](fig/tools/imputomics.png){loading=lazy} **imputomics**
+Missing data imputation](posts/imputomics.qmd){.tool-tile}
+
+[![HaDeX logo](fig/tools/hadex.png){loading=lazy} **HaDeX**
+HDX-MS data analysis](posts/hadex2.qmd){.tool-tile}
+:::
+:::
+
+::: {.research-feature #conferences}
+::: {.feature-copy}
+[03 / SCIENTIFIC EXCHANGE]{.eyebrow}
+
+## Good science travels.
+
+Talks, posters, workshops and research visits connect our group with the wider scientific community. Explore where we share our work and the conversations it starts.
+
+[Conference contributions ↗](conferences.qmd){.feature-link}
+:::
+::: {.feature-aside}
+### Beyond the paper
+
+[Meet the team and explore our mobility](team.qmd#our-mobility)
+
+[Seminars and shared learning](seminars.qmd)
+
+[Stories from the group](../index.qmd)
+:::
+:::
+
+## Our research topics
+
+Explore the questions behind the work, with introductions to each field and links to the relevant publication stories.
+
+```{=html}
+<div class="topic-directory" aria-label="Explore our five research topics">
+<a class="topic-card topic-card-amyloids" href="topics/amyloids.html">
+<div class="topic-card-top"><span class="topic-card-kicker">01 / Protein assembly</span><svg viewBox="0 0 120 64" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 16h96M12 32h96M12 48h96"/><path d="m22 10 12 12m8-12 12 12m8-12 12 12m8-12 12 12M22 26l12 12m8-12 12 12m8-12 12 12m8-12 12 12M22 42l12 12m8-12 12 12m8-12 12 12m8-12 12 12" opacity=".45"/></svg></div>
+<span class="topic-card-title" role="heading" aria-level="3">Amyloids &amp; protein aggregation</span>
+<p>How do proteins assemble into amyloid structures, and what happens when different amyloids meet?</p>
+<span class="topic-card-action">Explore this topic <span aria-hidden="true">↗</span></span>
+</a>
+<a class="topic-card topic-card-amp" href="topics/amp.html">
+<div class="topic-card-top"><span class="topic-card-kicker">02 / Sequence &amp; activity</span><svg viewBox="0 0 120 64" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M8 47h104" opacity=".3"/><path d="M10 21c12-18 18 18 30 0s18 18 30 0 18 18 30 0"/><circle cx="19" cy="47" r="4"/><circle cx="39" cy="47" r="4"/><circle cx="59" cy="47" r="4"/><circle cx="79" cy="47" r="4"/><circle cx="99" cy="47" r="4"/></svg></div>
+<span class="topic-card-title" role="heading" aria-level="3">Antimicrobial peptides</span>
+<p>From peptide sequences to reliable predictions: understanding what models can tell us, and what still needs an experiment.</p>
+<span class="topic-card-action">Explore this topic <span aria-hidden="true">↗</span></span>
+</a>
+<a class="topic-card topic-card-llps" href="topics/llps.html">
+<div class="topic-card-top"><span class="topic-card-kicker">03 / Biomolecular organisation</span><svg viewBox="0 0 120 64" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="45" cy="32" rx="28" ry="23" fill="currentColor" fill-opacity=".1"/><circle cx="36" cy="25" r="3"/><circle cx="51" cy="37" r="3"/><circle cx="53" cy="21" r="3"/><circle cx="30" cy="40" r="3"/><circle cx="84" cy="16" r="2"/><circle cx="101" cy="38" r="2"/><circle cx="87" cy="51" r="2"/></svg></div>
+<span class="topic-card-title" role="heading" aria-level="3">Phase separation</span>
+<p>Making sense of biomolecular condensates through carefully curated data and more informative benchmarks.</p>
+<span class="topic-card-action">Explore this topic <span aria-hidden="true">↗</span></span>
+</a>
+<a class="topic-card topic-card-mvi" href="topics/mvi.html">
+<div class="topic-card-top"><span class="topic-card-kicker">04 / Incomplete data</span><svg viewBox="0 0 120 64" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 9h19v12H16zm23 0h19v12H39zm23 0h19v12H62zm23 0h19v12H85zM16 26h19v12H16zm46 0h19v12H62zm23 0h19v12H85zM16 43h19v12H16zm23 0h19v12H39zm46 0h19v12H85z" fill="currentColor" fill-opacity=".12"/><path d="M39 26h19v12H39zM62 43h19v12H62z" stroke-dasharray="3 3"/></svg></div>
+<span class="topic-card-title" role="heading" aria-level="3">Missing value imputation</span>
+<p>Working with incomplete omics data through reproducible methods, realistic benchmarks and accessible software.</p>
+<span class="topic-card-action">Explore this topic <span aria-hidden="true">↗</span></span>
+</a>
+<a class="topic-card topic-card-hdxms" href="topics/hdxms.html">
+<div class="topic-card-top"><span class="topic-card-kicker">05 / Protein dynamics</span><svg viewBox="0 0 120 64" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8v46h98" opacity=".4"/><path d="M15 48c24-25 42-28 91-29M15 48c27-11 47-14 91-14M15 48c14-34 37-38 91-39"/></svg></div>
+<span class="topic-card-title" role="heading" aria-level="3">Protein dynamics with HDX-MS</span>
+<p>Turning hydrogen–deuterium exchange measurements into interpretable views of protein behaviour.</p>
+<span class="topic-card-action">Explore this topic <span aria-hidden="true">↗</span></span>
+</a>
+</div>
+```
+
+## Recognition & milestones {#recognition}
+
+The people and collaborations behind our research have earned fellowships, awards and academic milestones. Here are a few of their stories.
+
+
+::: {.achievement-grid}
+::: {.achievement-card}
+::: {.eyebrow}
+2025 · Scientific recognition
+:::
+### Rector’s Awards for BioGenies
+
+[Michał Burdukiewicz](team/mb.qmd) and [Jarosław Chilimoniuk](team/jc.qmd) received First Degree Rector’s Awards for publications; [Valentín Iglesias](team/vi.qmd) received a Second Degree award. Michał was also recognised for his SONATA grant.
+
+[Read the Rector’s Awards story →](posts/2025_12_16_rector_awards.qmd)
+:::
+
+::: {.achievement-card}
+::: {.eyebrow}
+2025 · European fellowship
+:::
+### An ERA Fellowship for Jarek
+
+[Jarosław Chilimoniuk](team/jc.qmd) received a Horizon Europe ERA Talents Postdoctoral Fellowship to investigate small molecules and amyloid polymorphism at Vilnius University.
+
+[Explore the fellowship and research plans →](posts/2025_05_19_jarek_fellowship.qmd)
+:::
+
+::: {.achievement-card}
+::: {.eyebrow}
+2024 · Scientific recognition
+:::
+### Recognising research publications
+
+[Michał Burdukiewicz](team/mb.qmd) received the First Degree Award from the Rector of the Medical University of Białystok for his publications from 2023.
+
+[Read about Michał’s award →](posts/2024_12_06_rector_award.qmd)
+:::
+
+::: {.achievement-card}
+::: {.eyebrow}
+2025 · Our wider research community
+:::
+### Ronja’s Women’s Advancement Award
+
+[Ronja Tittel](colab/rt.qmd), who completed a research placement with BioGenies, was honoured at BTU Cottbus-Senftenberg for her work.
+
+[Discover Ronja’s achievement →](posts/2025_07_02_ronja_award.qmd)
+:::
+:::
+
+
+::: {.hub-closing}
+### Science is a collective effort.
+
+[Meet the people behind BioGenies ↗](team.qmd) · [Theses and dissertations ↗](theses.qmd)
+:::

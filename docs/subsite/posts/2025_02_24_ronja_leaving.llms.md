@@ -50,3 +50,7 @@ The train station was **bustling with people**, and in a surprise twist, the **J
 Ronja, **thank you for everything** – your dedication, hard work, and all the fun moments we shared. We’ll miss you, but we know you’ll do amazing things in the future! 💙
 
 ![](../fig/posts/2025_02_24/IMG_8309.jpeg "gift_for_Ronja")
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

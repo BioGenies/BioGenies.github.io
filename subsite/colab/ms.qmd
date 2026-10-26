@@ -1,12 +1,13 @@
 ---
 title: 'Mariia Solovianova'
+description: "Academic CV and research profile of Mariia Solovianova, a BioGenies collaborator."
 sidebar: false
 format:
   html:
     grid:
       sidebar-width: 0px
-      body-width: 1500px
-      margin-width: 300px
+      body-width: 1050px
+      margin-width: 220px
       gutter-width: 1.5rem
 knitr:
   opts_chunk:
@@ -24,24 +25,21 @@ library(fontawesome)
 
 
 
-# 📝 **Bio**
+## Biography
   
-------------------------------------------------------------------------
 
 `r stringr::str_flatten(basic_info(whois)$bio)`
 
 
-# 📱 **Contact**
-
-------------------------------------------------------------------------
-
-[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:solovianova.mariia@gmail.com)
-[`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/mashasolovey)
+## Contact
 
 
-# 🚀 **Research stays**
+[Email](mailto:solovianova.mariia@gmail.com)
+[GitHub](https://github.com/mashasolovey)
 
-------------------------------------------------------------------------
+
+## Research stays
+
 
 ```{r, echo=FALSE, message=FALSE}
 research_stay(whois)
@@ -55,11 +53,12 @@ research_stay(whois)
 <!-- work(whois) -->
 <!-- ``` -->
 
-# 🎓 **Education**
+## Education
   
-------------------------------------------------------------------------
 
-`r stringr::str_flatten(education(whois)$new_col)`
+```{r, echo=FALSE, message=FALSE}
+education_panel(whois)
+```
 
 
 <!-- # 👏🏻 **Conferences, workshops, training schools** 🤝🏻  -->

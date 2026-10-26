@@ -45,3 +45,9 @@ This project promises to push forward our understanding of amyloid structures an
 ------------------------------------------------------------------------
 
 We’re incredibly proud of Jarek for this achievement and perseverance. From nearly missing out to scoring **an amazing opportunity**, this grant will open new doors for international collaboration and career development!
+
+## Explore related research
+
+- [Jarosław (Jarek) Chilimoniuk — academic CV and publications](../../subsite/team/jc.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

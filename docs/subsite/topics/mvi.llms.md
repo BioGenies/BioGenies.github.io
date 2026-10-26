@@ -1,19 +1,41 @@
 # Missing value imputation
 
-## Beyond the basics
+Helping researchers work with incomplete omics data through reproducible methods, realistic benchmarks and accessible software.
 
-Missing value imputation is a critical process in data preprocessing, essential for handling incomplete datasets and ensuring the accuracy and reliability of statistical analyses and machine learning models. Missing data can occur for various reasons, such as data entry errors, sensor malfunctions, or non-responses in surveys. Properly addressing missing values is vital for maintaining the integrity of analyses and improving predictive model performance.
+Helping researchers work with incomplete omics data through reproducible methods, realistic benchmarks and accessible software.
 
-### Mechanisms of Missing Value Imputation
+[Explore missing values in an interactive demo →](../../subsite/imputation-demo.llms.md)
 
-Several techniques are employed for missing value imputation, each with its own strengths and appropriate use cases. Key methods include:
+## What does a missing measurement mean?
 
-Simple Imputation: Replacing missing values with a single statistic, such as the mean, median, or mode of the observed data. This method is straightforward but may introduce bias if the data is not missing completely at random (MCAR). Regression Imputation: Using regression models to predict and replace missing values based on other available variables. This approach can account for relationships between variables but may not fully capture the uncertainty associated with the imputation. Multiple Imputation: Creating several imputed datasets by replacing missing values with multiple plausible estimates, analyzing each dataset separately, and then combining the results. This method provides a robust estimate of the uncertainty due to missing data. Machine Learning Imputation: Utilizing machine learning algorithms such as k-nearest neighbors (KNN), random forests, or neural networks to predict and impute missing values. These methods can handle complex patterns in the data but require careful tuning and validation.
+An empty value in an omics dataset can have several explanations. A signal may fall below a measurement threshold, an instrument may not detect a feature consistently, or a value may be absent for another reason. Those differences matter when deciding how to analyse the data.
 
-### Functions of Imputation
+Imputation replaces missing entries with estimates. Different methods make different assumptions about the data and its missingness, so replacing every gap with the same simple value can change relationships among measurements. A useful evaluation considers both reconstruction and the consequences for subsequent analysis.
 
-In biological and medical research, accurate missing value imputation is crucial for:
+## Questions we explore
 
-Genomics: Imputing missing genotypic data to enable comprehensive genome-wide association studies (GWAS) and other genetic analyses. Clinical Trials: Ensuring the validity of trial results by appropriately handling missing patient data. Epidemiology: Accurately estimating disease prevalence and risk factors when faced with incomplete survey data.
+- How do different patterns of missingness influence imputation performance?
+- How can researchers compare algorithms within a reproducible workflow?
+- What happens to downstream analysis after missing values are replaced?
 
-## Projects
+## Our approach
+
+We develop software that lets researchers compare imputation methods within a common workflow. The imputomics web application and R package bring multiple algorithms together and support benchmarking under different missingness scenarios.
+
+Our focus is on making the comparison reproducible and accessible. Instead of treating one method as universally best, we examine performance in the context of a dataset, the simulated missingness and the question being asked. The linked publication story introduces the software and its evaluation framework.
+
+## Tools, projects & people
+
+Read about the [imputomics2 project](../../subsite/projects/imputomics2.llms.md) and find the application in our [software catalogue](../../subsite/software.llms.md).
+
+## Publications & research stories
+
+### Introducing imputomics
+
+A web server and R package for comparing and applying missing value imputation methods in metabolomics.
+
+[Read the research story ↗](../../subsite/posts/imputomics.llms.md)
+
+[Original publication ↗](https://doi.org/10.1093/bioinformatics/btae098)
+
+[Explore all research & impact](../../subsite/research.llms.md) · [Full publication catalogue](../../subsite/publications.llms.md)

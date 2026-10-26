@@ -197,3 +197,9 @@ This is basically our playground:
 # 🏷️ Keywords
 
 amyloids, protein aggregation, databases, bioinformatics, amyloid prediction, aggregation-prone regions, protein misfolding, data integration
+
+## Explore related research
+
+- [Explore Amyloids & protein aggregation](../../subsite/topics/amyloids.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

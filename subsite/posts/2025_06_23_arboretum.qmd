@@ -5,7 +5,7 @@ date: "06/23/2025"
 categories:
   - Team
   - Poland
-image: "../fig/posts/2025_06_23/1000051274.jpg "
+image: "../fig/posts/2025_06_23/1000051274.jpg"
 author: "BioGenies Lab"
 ---
 
@@ -78,7 +78,7 @@ Highlights included:
 ## 🎂 Birthday twist on day  
 We also celebrated **Valen’s and Eva’s birthdays** 🎉 with cake and warm wishes—lots of smiles and shared joy! 🎂
 
-![](../fig/posts/2025_06_23/1000051274.jpg "bday")
+![](../fig/posts/2025_06_23/1000051274.jpg"bday")
 
 ---
 

@@ -69,16 +69,5 @@
       "/subsite/posts/pcredux.html",
       "/subsite/posts/bioinformatic_methods.html"
     ]
-  },
-  {
-    "listing": "/index_projects.html",
-    "items": [
-      "/subsite/projects/AMI-cryoEM.html",
-      "/subsite/projects/AmyloGraph2.html",
-      "/subsite/projects/FIBREA.html",
-      "/subsite/projects/imputomics2.html",
-      "/subsite/projects/LIMAD.html",
-      "/subsite/projects/OneTick.html"
-    ]
   }
 ]

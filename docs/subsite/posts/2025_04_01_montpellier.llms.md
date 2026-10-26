@@ -85,3 +85,7 @@ Landed in **Cracow**, where we were greeted by **Pope John Paul II** 🧳🇵�
 ------------------------------------------------------------------------
 
 This spontaneous journey was the perfect mix of **adventure, fun, and relaxation**, and a great reminder that BioGenies know how to balance science and life 💙.
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

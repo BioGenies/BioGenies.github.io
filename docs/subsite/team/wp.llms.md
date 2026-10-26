@@ -1,17 +1,277 @@
 # Weronika Puchała
 
-# 📱 **Contact**
+Research profile and academic CV of Weronika Puchała: publications, experience, education and BioGenies news.
 
-------------------------------------------------------------------------
+![Weronika Puchała](../fig/ppl/wp.png)
 
-[![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgcm9sZT0iaW1nIiB2aWV3Ym94PSIwIDAgNDk2IDUxMiIgc3R5bGU9ImhlaWdodDozZW07d2lkdGg6Mi45MWVtO3ZlcnRpY2FsLWFsaWduOi0wLjEyNWVtO21hcmdpbi1sZWZ0OmF1dG87bWFyZ2luLXJpZ2h0OmF1dG87Zm9udC1zaXplOmluaGVyaXQ7ZmlsbDojMjQyOTJlO292ZXJmbG93OnZpc2libGU7cG9zaXRpb246cmVsYXRpdmU7Ij48cGF0aCBkPSJNMTY1LjkgMzk3LjRjMCAyLTIuMyAzLjYtNS4yIDMuNi0zLjMuMy01LjYtMS4zLTUuNi0zLjYgMC0yIDIuMy0zLjYgNS4yLTMuNiAzLS4zIDUuNiAxLjMgNS42IDMuNnptLTMxLjEtNC41Yy0uNyAyIDEuMyA0LjMgNC4zIDQuOSAyLjYgMSA1LjYgMCA2LjItMnMtMS4zLTQuMy00LjMtNS4yYy0yLjYtLjctNS41LjMtNi4yIDIuM3ptNDQuMi0xLjdjLTIuOS43LTQuOSAyLjYtNC42IDQuOS4zIDIgMi45IDMuMyA1LjkgMi42IDIuOS0uNyA0LjktMi42IDQuNi00LjYtLjMtMS45LTMtMy4yLTUuOS0yLjl6TTI0NC44IDhDMTA2LjEgOCAwIDExMy4zIDAgMjUyYzAgMTEwLjkgNjkuOCAyMDUuOCAxNjkuNSAyMzkuMiAxMi44IDIuMyAxNy4zLTUuNiAxNy4zLTEyLjEgMC02LjItLjMtNDAuNC0uMy02MS40IDAgMC03MCAxNS04NC43LTI5LjggMCAwLTExLjQtMjkuMS0yNy44LTM2LjYgMCAwLTIyLjktMTUuNyAxLjYtMTUuNCAwIDAgMjQuOSAyIDM4LjYgMjUuOCAyMS45IDM4LjYgNTguNiAyNy41IDcyLjkgMjAuOSAyLjMtMTYgOC44LTI3LjEgMTYtMzMuNy01NS45LTYuMi0xMTIuMy0xNC4zLTExMi4zLTExMC41IDAtMjcuNSA3LjYtNDEuMyAyMy42LTU4LjktMi42LTYuNS0xMS4xLTMzLjMgMi42LTY3LjkgMjAuOS02LjUgNjkgMjcgNjkgMjcgMjAtNS42IDQxLjUtOC41IDYyLjgtOC41czQyLjggMi45IDYyLjggOC41YzAgMCA0OC4xLTMzLjYgNjktMjcgMTMuNyAzNC43IDUuMiA2MS40IDIuNiA2Ny45IDE2IDE3LjcgMjUuOCAzMS41IDI1LjggNTguOSAwIDk2LjUtNTguOSAxMDQuMi0xMTQuOCAxMTAuNSA5LjIgNy45IDE3IDIyLjkgMTcgNDYuNCAwIDMzLjctLjMgNzUuNC0uMyA4My42IDAgNi41IDQuNiAxNC40IDE3LjMgMTIuMUM0MjguMiA0NTcuOCA0OTYgMzYyLjkgNDk2IDI1MiA0OTYgMTEzLjMgMzgzLjUgOCAyNDQuOCA4ek05Ny4yIDM1Mi45Yy0xLjMgMS0xIDMuMy43IDUuMiAxLjYgMS42IDMuOSAyLjMgNS4yIDEgMS4zLTEgMS0zLjMtLjctNS4yLTEuNi0xLjYtMy45LTIuMy01LjItMXptLTEwLjgtOC4xYy0uNyAxLjMuMyAyLjkgMi4zIDMuOSAxLjYgMSAzLjYuNyA0LjMtLjcuNy0xLjMtLjMtMi45LTIuMy0zLjktMi0uNi0zLjYtLjMtNC4zLjd6bTMyLjQgMzUuNmMtMS42IDEuMy0xIDQuMyAxLjMgNi4yIDIuMyAyLjMgNS4yIDIuNiA2LjUgMSAxLjMtMS4zLjctNC4zLTEuMy02LjItMi4yLTIuMy01LjItMi42LTYuNS0xem0tMTEuNC0xNC43Yy0xLjYgMS0xLjYgMy42IDAgNS45IDEuNiAyLjMgNC4zIDMuMyA1LjYgMi4zIDEuNi0xLjMgMS42LTMuOSAwLTYuMi0xLjQtMi4zLTQtMy4zLTUuNi0yeiIgLz48L3N2Zz4=)](https://github.com/werpuc) [![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgcm9sZT0iaW1nIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgc3R5bGU9ImhlaWdodDozZW07d2lkdGg6M2VtO3ZlcnRpY2FsLWFsaWduOi0wLjEyNWVtO21hcmdpbi1sZWZ0OmF1dG87bWFyZ2luLXJpZ2h0OmF1dG87Zm9udC1zaXplOmluaGVyaXQ7ZmlsbDojQTZDRTM5O292ZXJmbG93OnZpc2libGU7cG9zaXRpb246cmVsYXRpdmU7Ij48cGF0aCBkPSJNMjk0Ljc1IDE4OC4xOWgtNDUuOTJWMzQyaDQ3LjQ3YzY3LjYyIDAgODMuMTItNTEuMzQgODMuMTItNzYuOTEgMC00MS42NC0yNi41NC03Ni45LTg0LjY3LTc2Ljl6TTI1NiA4QzExOSA4IDggMTE5IDggMjU2czExMSAyNDggMjQ4IDI0OCAyNDgtMTExIDI0OC0yNDhTMzkzIDggMjU2IDh6bS04MC43OSAzNjAuNzZoLTI5Ljg0di0yMDcuNWgyOS44NHptLTE0LjkyLTIzMS4xNGExOS41NyAxOS41NyAwIDEgMSAxOS41Ny0xOS41NyAxOS42NCAxOS42NCAwIDAgMS0xOS41NyAxOS41N3pNMzAwIDM2OWgtODFWMTYxLjI2aDgwLjZjNzYuNzMgMCAxMTAuNDQgNTQuODMgMTEwLjQ0IDEwMy44NUM0MTAgMzE4LjM5IDM2OC4zOCAzNjkgMzAwIDM2OXoiIC8+PC9zdmc+)](https://orcid.org/0000-0003-2163-1429) [![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgcm9sZT0iaW1nIiB2aWV3Ym94PSIwIDAgNDQ4IDUxMiIgc3R5bGU9ImhlaWdodDozZW07d2lkdGg6Mi42MmVtO3ZlcnRpY2FsLWFsaWduOi0wLjEyNWVtO21hcmdpbi1sZWZ0OmF1dG87bWFyZ2luLXJpZ2h0OmF1dG87Zm9udC1zaXplOmluaGVyaXQ7ZmlsbDojMDA3N2I1O292ZXJmbG93OnZpc2libGU7cG9zaXRpb246cmVsYXRpdmU7Ij48cGF0aCBkPSJNNDE2IDMySDMxLjlDMTQuMyAzMiAwIDQ2LjUgMCA2NC4zdjM4My40QzAgNDY1LjUgMTQuMyA0ODAgMzEuOSA0ODBINDE2YzE3LjYgMCAzMi0xNC41IDMyLTMyLjNWNjQuM2MwLTE3LjgtMTQuNC0zMi4zLTMyLTMyLjN6TTEzNS40IDQxNkg2OVYyMDIuMmg2Ni41VjQxNnptLTMzLjItMjQzYy0yMS4zIDAtMzguNS0xNy4zLTM4LjUtMzguNVM4MC45IDk2IDEwMi4yIDk2YzIxLjIgMCAzOC41IDE3LjMgMzguNSAzOC41IDAgMjEuMy0xNy4yIDM4LjUtMzguNSAzOC41em0yODIuMSAyNDNoLTY2LjRWMzEyYzAtMjQuOC0uNS01Ni43LTM0LjUtNTYuNy0zNC42IDAtMzkuOSAyNy0zOS45IDU0LjlWNDE2aC02Ni40VjIwMi4yaDYzLjd2MjkuMmguOWM4LjktMTYuOCAzMC42LTM0LjUgNjIuOS0zNC41IDY3LjIgMCA3OS43IDQ0LjMgNzkuNyAxMDEuOVY0MTZ6IiAvPjwvc3ZnPg==)](https://www.linkedin.com/in/weronika-pucha%C5%82a-831698a4/) [![](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgcm9sZT0iaW1nIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgc3R5bGU9ImhlaWdodDozZW07d2lkdGg6M2VtO3ZlcnRpY2FsLWFsaWduOi0wLjEyNWVtO21hcmdpbi1sZWZ0OmF1dG87bWFyZ2luLXJpZ2h0OmF1dG87Zm9udC1zaXplOmluaGVyaXQ7ZmlsbDojMjQyOTJlO292ZXJmbG93OnZpc2libGU7cG9zaXRpb246cmVsYXRpdmU7Ij48cGF0aCBkPSJNMzg5LjIgNDhoNzAuNkwzMDUuNiAyMjQuMiA0ODcgNDY0SDM0NUwyMzMuNyAzMTguNiAxMDYuNSA0NjRIMzUuOEwyMDAuNyAyNzUuNSAyNi44IDQ4SDE3Mi40TDI3Mi45IDE4MC45IDM4OS4yIDQ4ek0zNjQuNCA0MjEuOGgzOS4xTDE1MS4xIDg4aC00MkwzNjQuNCA0MjEuOHoiIC8+PC9zdmc+)](https://x.com/werpuc)
+## Contact
 
-------------------------------------------------------------------------
+[GitHub](https://github.com/werpuc) [ORCID](https://orcid.org/0000-0003-2163-1429) [LinkedIn](https://www.linkedin.com/in/weronika-pucha%C5%82a-831698a4/) [X](https://x.com/werpuc)
 
-# 👏🏻 **Conferences, workshops, training schools** 🤝🏻
+## Conferences, workshops and training
 
-------------------------------------------------------------------------
+10 conference and training events
 
-# 📖 **Publications**
+HUPO
 
-------------------------------------------------------------------------
+2024-10-20 – 2024-10-24
+
+### Human Proteome Organisation World Congress
+
+![](../fig/flags/de.svg) Dresden, Germany
+
+Talks, posters & participation (1)
+
+- Poster
+
+  hadexversum: tools for HDX-MS analysis
+
+PTBI
+
+2024-09-11 – 2024-09-13
+
+### Symposium of the Polish Bioinformatics Society
+
+![](../fig/flags/pl.svg) Warsaw, Poland
+
+Talks, posters & participation (1)
+
+- Poster
+
+  hadexversum: HDX-MS analysis made easy
+
+ISMB
+
+2024-07-12 – 2024-07-16
+
+### Intelligent Systems For Molecular Biology
+
+![](../fig/flags/ca.svg) Montreal, Canada
+
+Talks, posters & participation (1)
+
+- Poster
+
+  hadexversum: the family of HDX-MS tools
+
+Earlier activities (7)
+
+2022 1
+
+HUPO
+
+2022-12-04 – 2022-12-08
+
+### Human Proteome Organisation World Congress
+
+![](../fig/flags/mx.svg) Cancún, Mexico
+
+Talks, posters & participation (1)
+
+- Poster
+
+2019 6
+
+SSP
+
+2019-11-03 – 2019-11-06
+
+### Symposium on Structural Proteomics
+
+![](../fig/flags/de.svg) Göttingen, Germany
+
+Talks, posters & participation (1)
+
+- Poster
+
+  HaDeX: tool for analysis of HDX-MS data
+
+Why R?
+
+2019-09-26 – 2019-09-29
+
+### Why R? Conference
+
+![](../fig/flags/pl.svg) Warszawa, Poland
+
+Talks, posters & participation (1)
+
+- Talk
+
+  R for experimentalists: HDX-MS example
+
+IMSS
+
+2019-09-15 – 2019-09-20
+
+### International Mass Spectrometry School
+
+![](../fig/flags/es.svg) Sitges, Spain
+
+Talks, posters & participation (2)
+
+- Poster
+
+  HaDeX - web-server for analysis of data from hydrogen-deuterium exchange-mass spectrometry experiments
+
+- Talk
+
+  HaDeX - web-server for analysis of data from hydrogen-deuterium exchange-mass spectrometry experiments
+
+EMBO \| EMBL
+
+2019-09-11 – 2019-09-13
+
+### Symposium: Multiomics to Mechanisms - Challenges in Data Integration
+
+![](../fig/flags/de.svg) Heidelberg, Germany
+
+Talks, posters & participation (1)
+
+- Poster
+
+  Analysis of data from hydrogen-deuterium exchange mass spectrometry experiments
+
+ISMB \| ECCB
+
+2019-07-21 – 2019-07-25
+
+### Intelligent Systems For Molecular Biology and the European Conference on Computational Biology
+
+![](../fig/flags/ch.svg) Basel, Switzerland
+
+Talks, posters & participation (1)
+
+- Poster
+
+  HaDeX - analysis of data from hydrogen-deuterium exchange-mass spectrometry experiments
+
+SatRday
+
+2019-05-17 – 2019-05-18
+
+### Conference for users of the R Language
+
+![](../fig/flags/pl.svg) Gdańsk, Poland
+
+Talks, posters & participation (1)
+
+- Talk
+
+  HaDeX - analysis of HDX-MS data
+
+## Publications
+
+8 publications listed · most recent first
+
+[Figures from: Copper ion binding to S100B dimer leads to increased structural dynamics of the protein and dimerization interface, facilitating formation of a non-canonical disulphide-bonded dimer](https://doi.org/10.5281/zenodo.22661493)
+
+Zenodo (CERN European Organization for Nuclear Research) · 2026-09-08
+
+Authors & citation details
+
+Michał Kistowski, Weronika Puchała, Kamil Steczkiewicz, Igor Zhukov, Wojciech Bal, Michał Dadlez
+
+Authorship: coauthor
+
+<https://doi.org/10.5281/zenodo.22661493>
+
+[A closely related pair of superoxide dismutase isozymes from Staphylococcus aureus show distinct stabilities and proton-exchange dynamics](https://doi.org/10.1016/j.jbc.2026.113226)
+
+Journal of Biological Chemistry · 2026-06-05
+
+Authors & citation details
+
+Mariam Esmaeeli, Lorna Nikolic, Rafał Mazgaj, Lilia Zhukova, Weronika Puchała, Michał Dadlez, Kevin John Waldron
+
+Authorship: coauthor
+
+<https://doi.org/10.1016/j.jbc.2026.113226>
+
+[HaDeX2: multi-dimensional analysis of hydrogen–deuterium exchange mass spectrometry data](https://doi.org/10.1093/bioinformatics/btag128)
+
+Bioinformatics · 2026-02-28
+
+Authors & citation details
+
+Weronika Puchała, Krystyna Grzesiak, Dominik Rafacz, Michał Kistowski, Jochem H. Smit, Julien Marcoux, Michał Dadlez, Michał Jan Burdukiewicz
+
+Authorship: first
+
+<https://doi.org/10.1093/bioinformatics/btag128>
+
+Earlier publications (5)
+
+2026 2
+
+[hadexversum/HRaDeX: HRaDeX 1.0 release](https://doi.org/10.5281/zenodo.18718114)
+
+Zenodo (CERN European Organization for Nuclear Research) · 2026-02-20
+
+Authors & citation details
+
+Weronika Puchała, Michał Jan Burdukiewicz
+
+Authorship: first
+
+<https://doi.org/10.5281/zenodo.18718114>
+
+[HaDeX2 1.0: Analysis and Visualisation of Hydrogen/Deuterium Exchange Mass Spectrometry Data](https://doi.org/10.5281/zenodo.18543702)
+
+Zenodo (CERN European Organization for Nuclear Research) · 2026-02-09
+
+Authors & citation details
+
+Michał Jan Burdukiewicz, Weronika Puchała
+
+Authorship: last
+
+<https://doi.org/10.5281/zenodo.18543702>
+
+2025 1
+
+[HRaDeX: R Package and Web Server for Computing High-Resolution Deuterium Uptake Rates for HDX–MS Data](https://doi.org/10.1021/acs.jproteome.4c00700)
+
+Journal of Proteome Research · 2025-03-19
+
+Authors & citation details
+
+Weronika Puchała, Michał Kistowski, Lilia Zhukova, Michał Jan Burdukiewicz, Michał Dadlez
+
+Authorship: first
+
+<https://doi.org/10.1021/acs.jproteome.4c00700>
+
+2020 1
+
+[HaDeX: an R package and web-server for analysis of data from hydrogen–deuterium exchange mass spectrometry experiments](https://doi.org/10.1093/bioinformatics/btaa587)
+
+Bioinformatics · 2020-06-16
+
+Authors & citation details
+
+Weronika Puchała, Michał Jan Burdukiewicz, Michał Kistowski, Katarzyna Dąbrowska, Aleksandra Elzbieta Badaczewska-Dawid, Dominik Cysewski, Michał Dadlez
+
+Authorship: first
+
+<https://doi.org/10.1093/bioinformatics/btaa587>
+
+2019 1
+
+[HaDeX – an R package and web-server for analysis of data from hydrogen-deuterium exchange-mass spectrometry experiments](https://doi.org/10.7490/f1000research.1117436.1)
+
+2019-08-30
+
+Authors & citation details
+
+Weronika Puchała, Michał Jan Burdukiewicz, Michał Kistowski, Katarzyna Dąbrowska, Aleksandra Elzbieta Badaczewska-Dawid, Dominik Cysewski, Michał Dadlez
+
+Authorship: first, corresponding
+
+<https://doi.org/10.7490/f1000research.1117436.1>
+
+## Explore related research
+
+- [Weronika defends her PhD with distinction! 🎓🌟](../../subsite/posts/2025_11_12_weronika_phd.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

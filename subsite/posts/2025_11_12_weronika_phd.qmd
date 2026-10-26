@@ -7,6 +7,7 @@ categories:
   - Achievements
 image: "../fig/posts/2025_11_12/IMG_4815.jpg"
 author: "BioGenies Lab"
+related-people: [wp]
 ---
 
 🎉 **Massive congratulations to Weronika!** on **4 November 2025** she successfully defended her PhD thesis:  

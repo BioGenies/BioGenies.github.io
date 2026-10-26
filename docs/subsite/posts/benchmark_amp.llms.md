@@ -281,3 +281,9 @@ And more importantly:
 # 🏷️ Keywords
 
 antimicrobial peptides, machine learning, benchmarking, dataset bias, negative sampling, reproducibility, bioinformatics
+
+## Explore related research
+
+- [Explore Antimicrobial peptides](../../subsite/topics/amp.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

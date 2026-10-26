@@ -1,12 +1,16 @@
 ---
 title: '(Dawid) Sonor Kubkowski'
+description: "Research profile and academic CV of Dawid Sonor Kubkowski: publications, experience, education and BioGenies news."
+body-classes: researcher-profile
+profile-image: ../fig/ppl/sonor.jpg
+related-news: [2025_09_16_sonor_msc]
 sidebar: false
 format:
   html:
     grid:
       sidebar-width: 0px
-      body-width: 1500px
-      margin-width: 300px
+      body-width: 1050px
+      margin-width: 220px
       gutter-width: 1.5rem
 knitr:
   opts_chunk:
@@ -58,7 +62,6 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(education(whois)$new_col)` -->
 
-------------------------------------------------------------------------
 
 <!-- # 👏🏻 **Conferences, workshops, training schools** 🤝🏻  -->
 

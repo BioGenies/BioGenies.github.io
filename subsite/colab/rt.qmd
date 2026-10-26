@@ -1,12 +1,15 @@
 ---
 title: 'Ronja Tittel'
+description: "Academic CV and research profile of Ronja Tittel, a BioGenies collaborator."
+related-news: [2025_07_02_ronja_award]
+profile-image: ../fig/ppl/rt.jpg
 sidebar: false
 format:
   html:
     grid:
       sidebar-width: 0px
-      body-width: 1500px
-      margin-width: 300px
+      body-width: 1050px
+      margin-width: 220px
       gutter-width: 1.5rem
 knitr:
   opts_chunk:
@@ -24,25 +27,22 @@ library(fontawesome)
 
 
 
-# 📝 **Bio**
+## Biography
   
-------------------------------------------------------------------------
 
 `r stringr::str_flatten(basic_info(whois)$bio)`
 
 
-# 📱 **Contact**
-
-------------------------------------------------------------------------
-
-[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:ronja.tittel@b-tu.de)
-[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'grey', height = '3em')`](mailto:ronja.tittel@web.de)
-[`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/RonjaTittel)
+## Contact
 
 
-# 🚀 **Research stays**
+[Email](mailto:ronja.tittel@b-tu.de)
+[Email](mailto:ronja.tittel@web.de)
+[GitHub](https://github.com/RonjaTittel)
 
-------------------------------------------------------------------------
+
+## Research stays
+
 
 ```{r, echo=FALSE, message=FALSE}
 research_stay(whois)
@@ -62,7 +62,6 @@ research_stay(whois)
 
 <!-- `r stringr::str_flatten(education(whois)$new_col)` -->
 
-------------------------------------------------------------------------
 
 <!-- # 👏🏻 **Conferences, workshops, training schools** 🤝🏻  -->
 

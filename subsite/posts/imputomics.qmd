@@ -8,6 +8,10 @@ keywords: ["imputomics", "missing data", "metabolomics", "imputation", "bioinfor
 author: "BioGenies Lab"
 ---
 
+[New to this topic? Read the plain-language story →](../stories.qmd#imputomics)
+
+
+
 
 ---
 
@@ -242,3 +246,5 @@ This is exactly our philosophy:
 missing data, metabolomics, imputation, imputomics, machine learning preprocessing, bioinformatics tools, data quality, omics analysis
 
 :::
+
+Explore the [BioGenies publication catalogue](../publications.qmd) and the [software and databases behind our research](../software.qmd).

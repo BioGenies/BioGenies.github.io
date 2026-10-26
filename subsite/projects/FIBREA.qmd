@@ -1,17 +1,11 @@
 ---
 title: "FIBREA"
-description: "Functional Interfaces and Biomolecular Rules for Engineered Amyloids"
-editor: 
-  markdown: 
-    wrap: sentence
+description: "Functional Interfaces and Biomolecular Rules for Engineered Amyloids."
+canonical-url: https://biogenies.info/fibrea.html
 ---
 
-**PI**:  
-**Funding agency**:  
-**Programme**:  
-**Grant ID**: 
-**Start date**:  
-**Duration**:   
-**Budget**:   
+## Functional Interfaces and Biomolecular Rules for Engineered Amyloids
 
+Designing programmable, curli-based amyloid materials through molecular grammar, simulations and biofabrication.
 
+[Explore the full FIBREA project →](../../fibrea.qmd){.research-button}

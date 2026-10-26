@@ -27,3 +27,7 @@ Some new Japanese food
 ![](../fig/posts/2024_06_21/IMG_5477.jpeg) and original Takoyaki from Osaka.
 
 ![](../fig/posts/2024_06_21/IMG_5480.jpeg)
+
+## Explore related research
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

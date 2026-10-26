@@ -1,5 +1,31 @@
 # BioGenies news
 
+NEW TO BIOGENIES?
+
+## Start with what brings you here.
+
+### I’m a student
+
+Meet the people, explore research questions and see examples of thesis work.
+
+[Find your starting point →](subsite/start.llms.md#students)
+
+### I’m a researcher
+
+Find shared interests, meet potential collaborators and explore our projects.
+
+[Explore connections →](subsite/start.llms.md#collaborate)
+
+### I’m looking for a tool
+
+Discover software and databases, or try a small hands-on introduction.
+
+[Find tools you can use →](subsite/start.llms.md#tools)
+
+[Read the science in plain language](subsite/stories.llms.md)
+
+## Latest news
+
 ##### Next stop, Geneva! Krysia is heading for a postdoc 🇨🇭🎓🚀
 
 Krysia will soon begin a postdoc at the University of Geneva, working with Jeffrey Näf 🇨🇭📊! We’re celebrating her next scientific chapter, while trying to work out how to…

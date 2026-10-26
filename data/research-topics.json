@@ -1,0 +1,99 @@
+{
+  "amyloids": {
+    "title": "Amyloids & protein aggregation",
+    "stories": [
+      {
+        "slug": "amylograph",
+        "title": "AmyloGraph: connecting the evidence",
+        "description": "A curated database for exploring experimentally reported amyloid–amyloid interactions.",
+        "doi": "https://doi.org/10.1093/nar/gkac882"
+      },
+      {
+        "slug": "aggregating_resources",
+        "title": "A map of amyloid databases",
+        "description": "Our review of aggregation resources and the connections between them.",
+        "doi": "https://doi.org/10.1016/j.csbj.2024.10.047"
+      },
+      {
+        "slug": "experimental_methods",
+        "title": "Measuring amyloid cross-interactions",
+        "description": "A review of experimental approaches and why complementary measurements matter.",
+        "doi": "https://doi.org/10.1002/pro.70151"
+      },
+      {
+        "slug": "bioinformatic_methods",
+        "title": "When the labels need another look",
+        "description": "Investigating prediction tools and misannotated amyloid training data.",
+        "doi": "https://doi.org/10.1038/s41598-021-86530-6"
+      },
+      {
+        "slug": "asynpep",
+        "title": "aSynPEP-DB",
+        "description": "A resource for exploring candidate peptides predicted to inhibit α-synuclein aggregation.",
+        "doi": "https://doi.org/10.1093/database/baad084"
+      }
+    ]
+  },
+  "amp": {
+    "title": "Antimicrobial peptides",
+    "stories": [
+      {
+        "slug": "benchmark_amp",
+        "title": "A closer look at AMP benchmarks",
+        "description": "How negative data selection can bias the evaluation of antimicrobial peptide predictors.",
+        "doi": "https://doi.org/10.1093/bib/bbac343"
+      },
+      {
+        "slug": "ampgram",
+        "title": "Putting predictions to the test",
+        "description": "Experimental testing of selected short amyloids predicted to have antimicrobial activity.",
+        "doi": "https://doi.org/10.3390/ijms24010804"
+      },
+      {
+        "slug": "dynamic_landscape",
+        "title": "The peptide prediction landscape",
+        "description": "A review of peptide activity prediction tools, availability and reproducibility.",
+        "doi": "https://doi.org/10.1016/j.csbj.2022.11.043"
+      }
+    ]
+  },
+  "llps": {
+    "title": "Liquid–liquid phase separation",
+    "stories": [
+      {
+        "slug": "llps_benchmark",
+        "title": "Better data for condensate research",
+        "description": "Our curated protein datasets and comparative evaluation of LLPS prediction tools.",
+        "doi": "https://doi.org/10.1186/s13059-025-03668-6"
+      }
+    ]
+  },
+  "mvi": {
+    "title": "Missing value imputation",
+    "stories": [
+      {
+        "slug": "imputomics",
+        "title": "Introducing imputomics",
+        "description": "A web server and R package for comparing and applying missing value imputation methods in metabolomics.",
+        "doi": "https://doi.org/10.1093/bioinformatics/btae098"
+      }
+    ]
+  },
+  "hdxms": {
+    "title": "Protein dynamics with HDX-MS",
+    "stories": [
+      {
+        "slug": "hadex2",
+        "title": "HaDeX2: exploring the full experiment",
+        "description": "Statistical analysis and visualisation across the dimensions of HDX-MS data.",
+        "doi": "https://doi.org/10.1093/bioinformatics/btag128"
+      },
+      {
+        "slug": "hradex",
+        "title": "HRaDeX: a higher-resolution view",
+        "description": "Reconstructing deuterium uptake rates from peptide-level measurements.",
+        "doi": "https://doi.org/10.1021/acs.jproteome.4c00700"
+      }
+    ]
+  }
+}

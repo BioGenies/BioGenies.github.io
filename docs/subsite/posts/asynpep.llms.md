@@ -265,3 +265,9 @@ Instead of one model:
 # 🏷️ Keywords
 
 alpha-synuclein, Parkinson’s disease, peptides, AMP, neuropeptides, microbiome, bioinformatics, database, aggregation inhibition
+
+## Explore related research
+
+- [Explore Amyloids & protein aggregation](../../subsite/topics/amyloids.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

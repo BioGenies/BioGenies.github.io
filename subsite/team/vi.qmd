@@ -1,12 +1,16 @@
 ---
 title: 'Valentín Iglesias'
+description: "Research profile and academic CV of Valentín Iglesias: publications, experience, education and BioGenies news."
+body-classes: researcher-profile
+profile-image: ../fig/ppl/vi.png
+related-news: [2025_12_16_rector_awards]
 sidebar: false
 format:
   html:
     grid:
       sidebar-width: 0px
-      body-width: 1500px
-      margin-width: 300px
+      body-width: 1050px
+      margin-width: 220px
       gutter-width: 1.5rem
 knitr:
   opts_chunk:
@@ -30,54 +34,49 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
 
-# 📱 **Contact**
-
-------------------------------------------------------------------------
-
-[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:valentin.iglesias@umb.edu.pl)
-[`r fontawesome::fa('github', fill = '#24292e', height = '3em')`](https://github.com/ValentinIglesias)
-[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0000-0002-6133-0869)
-[`r fontawesome::fa('linkedin', fill = '#0077b5', height = '3em')`](https://www.linkedin.com/in/valent%C3%ADn-iglesias-mas-06a6473b/)
-[`r fontawesome::fa('x-twitter', fill = '#24292e', height = '3em')`](https://x.com/ValentnIglesias)
+## Contact
 
 
-# 🚀 **Research stays**
+[Email](mailto:valentin.iglesias@umb.edu.pl)
+[GitHub](https://github.com/ValentinIglesias)
+[ORCID](https://orcid.org/0000-0002-6133-0869)
+[LinkedIn](https://www.linkedin.com/in/valent%C3%ADn-iglesias-mas-06a6473b/)
+[X](https://x.com/ValentnIglesias)
 
-------------------------------------------------------------------------
+
+## Research stays
+
 
 ```{r, echo=FALSE, message=FALSE}
 research_stay(whois)
 ```
 
-# 💻🧫 **Experience**
+## Experience
 
-------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE}
 work(whois)
 ```
 
 
-# 🎓 **Education**
+## Education
   
-------------------------------------------------------------------------
 
-`r stringr::str_flatten(education(whois)$new_col)`
+```{r, echo=FALSE, message=FALSE}
+education_panel(whois)
+```
 
-------------------------------------------------------------------------
 
-# 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
+## Conferences, workshops and training
 
-------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE}
 conf_work(whois)
 ```
 
 
-#  📖 **Publications**
+## Publications
 
-------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE, error=FALSE, warning=FALSE}
 pubs(whois, openalex_id)

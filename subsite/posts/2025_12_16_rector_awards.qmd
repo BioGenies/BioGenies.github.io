@@ -6,6 +6,7 @@ categories:
   - Achievements
 image: "../fig/posts/2025_12_16/rector_merged.jpg"
 author: "BioGenies Lab"
+related-people: [jc, mb, vi]
 ---
 
 🎉 **What a moment for BioGenies!** This year’s **Rector’s Awards** brought fantastic news for our team — a true celebration of hard work, great science, and persistence 🧬💚.

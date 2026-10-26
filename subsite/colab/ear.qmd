@@ -1,12 +1,13 @@
 ---
 title: 'Eva Arribas'
+description: "Academic CV and research profile of Eva Arribas, a BioGenies collaborator."
 sidebar: false
 format:
   html:
     grid:
       sidebar-width: 0px
-      body-width: 1500px
-      margin-width: 300px
+      body-width: 1050px
+      margin-width: 220px
       gutter-width: 1.5rem
 knitr:
   opts_chunk:
@@ -31,11 +32,10 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
 
-# 📱 **Contact**
+## Contact
 
-------------------------------------------------------------------------
 
-[`r fontawesome::fa('orcid', fill = '#A6CE39', height = '3em')`](https://orcid.org/0009-0006-3110-0057)
+[ORCID](https://orcid.org/0009-0006-3110-0057)
 
 
 <!-- # 🚀 **Research stays** -->
@@ -68,9 +68,8 @@ library(fontawesome)
 <!-- conf_work(whois) -->
 <!-- ``` -->
 
-#  📖 **Publications**
+## Publications
 
-------------------------------------------------------------------------
 
 ```{r, echo=FALSE, message=FALSE}
 pubs(whois, openalex_id)

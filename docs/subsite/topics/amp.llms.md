@@ -1,29 +1,55 @@
 # Antimicrobial peptides
 
-## Beyond the basics
+From peptide sequences to reliable predictions: understanding what our models can tell us, and what still needs an experiment.
 
-Antimicrobial peptides (AMPs) are a diverse group of small, naturally occurring molecules that play a crucial role in the innate immune response by targeting a wide range of pathogens, including bacteria, fungi, viruses, and even cancer cells. These peptides are found across all domains of life, from humans to plants and microorganisms, and are recognized for their broad-spectrum antimicrobial properties and their potential as therapeutic agents.
+From peptide sequences to reliable predictions: understanding what our models can tell us, and what still needs an experiment.
 
-### Mechanisms of AMP Action
+## Small molecules, complex questions
 
-AMPs exert their antimicrobial effects through various mechanisms, primarily targeting microbial membranes but also affecting intracellular processes. Key mechanisms include:
+Antimicrobial peptides are a diverse group of molecules studied for their ability to act against microorganisms. Their activity depends on sequence and molecular properties, but also on the organism and the conditions in which a peptide is tested. A single activity label can hide much of that context.
 
-Membrane Disruption: AMPs can insert into microbial membranes, forming pores or disrupting membrane integrity, leading to cell lysis. Intracellular Targeting: Some AMPs can penetrate microbial cells and interfere with vital intracellular functions such as DNA, RNA, and protein synthesis. Immunomodulation: AMPs can modulate the host immune response by recruiting immune cells to infection sites and enhancing phagocytosis. Factors influencing AMP activity include:
+Computational tools can help prioritise sequences for further investigation. To be useful, however, their predictions need to hold up beyond the dataset used to build the model. That makes the choice of training examples, negative data and evaluation strategy central to the biological question.
 
-Sequence and Structure: The amino acid composition, charge, hydrophobicity, and secondary structure (e.g., alpha-helices, beta-sheets) determine AMP activity and specificity. Environmental Conditions: Factors such as pH, ionic strength, and presence of serum proteins can affect AMP stability and activity.
+## Questions we explore
 
-### Biological Functions of AMPs
+- What distinguishes a useful peptide predictor from a model that performs well only on a familiar dataset?
+- How does the choice of negative examples influence a benchmark?
+- Where do predictions agree with experimental observations, and where do they fail?
 
-AMPs are integral to the defense mechanisms of organisms, providing a first line of defense against infections. They are involved in:
+## Our approach
 
-Direct Antimicrobial Action: Killing or inhibiting the growth of pathogens. Immune System Modulation: Enhancing the immune response by promoting the activation and recruitment of immune cells. Wound Healing: Facilitating tissue repair and regeneration by promoting cell migration and angiogenesis.
+We develop and examine computational methods for peptide research, with a particular focus on fair evaluation and reproducibility. Our benchmarking work asks how the construction of negative datasets influences apparent model performance.
 
-### Implications of AMPs in Health and Disease
+We also connect predictions with experimental testing. Our study of selected short amyloids predicted to be antimicrobial illustrates why a model score alone does not establish biological activity. Together, these projects help explain both the possibilities and the limits of sequence-based prediction.
 
-AMPs have significant potential in clinical applications due to their broad-spectrum activity and unique mechanisms of action. They are being explored for their therapeutic potential in:
+## Tools, projects & people
 
-Infectious Diseases: As alternatives to traditional antibiotics, particularly in the face of rising antibiotic resistance. Cancer Therapy: Some AMPs have demonstrated anti-cancer properties by selectively targeting cancer cells. Inflammatory Diseases: AMPs can modulate inflammatory responses, offering potential treatments for conditions like sepsis and chronic inflammatory diseases.
+Find AmpGram and AMPBenchmark in our [software and databases catalogue](../../subsite/software.llms.md), or explore the [full publication list](../../subsite/publications.llms.md).
 
-## Our aims
+## Publications & research stories
 
-## Projects
+### A closer look at AMP benchmarks
+
+How negative data selection can bias the evaluation of antimicrobial peptide predictors.
+
+[Read the research story ↗](../../subsite/posts/benchmark_amp.llms.md)
+
+[Original publication ↗](https://doi.org/10.1093/bib/bbac343)
+
+### Putting predictions to the test
+
+Experimental testing of selected short amyloids predicted to have antimicrobial activity.
+
+[Read the research story ↗](../../subsite/posts/ampgram.llms.md)
+
+[Original publication ↗](https://doi.org/10.3390/ijms24010804)
+
+### The peptide prediction landscape
+
+A review of peptide activity prediction tools, availability and reproducibility.
+
+[Read the research story ↗](../../subsite/posts/dynamic_landscape.llms.md)
+
+[Original publication ↗](https://doi.org/10.1016/j.csbj.2022.11.043)
+
+[Explore all research & impact](../../subsite/research.llms.md) · [Full publication catalogue](../../subsite/publications.llms.md)

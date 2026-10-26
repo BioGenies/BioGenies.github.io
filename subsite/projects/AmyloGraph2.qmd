@@ -1,27 +1,66 @@
 ---
-title: "AmyloGraph 2.0"
-description: "Expanding AmyloGraph with interacion modulators database and ML prediction models."
+title: "AmyloGraph 2.0"
+description: "Expanding the evidence on amyloid self-assembly modulators, and using that evidence to build prediction and generative models."
+body-classes: subsite-page project-page grant-page
+sidebar: false
+toc: true
+toc-title: "In this project"
 ---
 
-## 🧬 AmyloGraph 2.0: Taming aggregation
+::: {.grant-hero}
+[NCN · SONATA 19]{.eyebrow}
 
-**Taming aggregation with AmyloGraph 2.0: a database and prediction models of amyloid self‑assembly modulators**
+## From aggregation data to predictive models.
 
-**PI**: Michał  
-**Funding agency**: National Science Center Poland  
-**Programme**: Sonata 19  
-**Project ID**: 2023/51/D/NZ7/02847  
-**Start date**: 10 Jul 2024  
-**Duration**: 36 months  
-**Budget**: 1,797,914.00 PLN (~ €423,300.00) 
+Expanding the evidence on amyloid self-assembly modulators, and using that evidence to build prediction and generative models.
 
+[Amyloids · Data curation · Machine learning]{.project-topics}
+:::
 
-Neurodegenerative diseases like Alzheimer's (~5.8 M U.S. cases in 2019, projected 13.8 M by 2050) and Parkinson's are proteinopathies marked by harmful amyloid aggregation. Existing tools, Cordax, PASTA 2.0, WALTZ, AmyloGram, predict single-protein aggregation but don’t model modulation by experimental conditions or small molecules.
+```{=html}
+<dl class="grant-facts"><div><dt>Programme</dt><dd>NCN · Sonata 19</dd></div><div><dt>Grant ID</dt><dd>2023/51/D/NZ7/02847</dd></div><div><dt>Start date</dt><dd>10 Jul 2024</dd></div><div><dt>Duration</dt><dd>36 months</dd></div><div><dt>Budget</dt><dd>1,797,914.00 PLN (~ €423,300.00)</dd></div></dl>
+```
 
-AmyloGraph 1.0 cataloged amyloid–amyloid interactions, though limited to protein–protein modulators without context. The more recent aSynPEP‑DB collects peptide inhibitors of α‑synuclein aggregation, yet is constrained to peptides, inhibitors and a single target.
+## The research question
 
-### 📌 Project highlights
+AmyloGraph began as a resource for amyloid–amyloid interactions. This project extends its scope to a wider range of self-assembly modulators and the experimental context in which they act. The resulting curated evidence supports models that go beyond predicting whether a protein aggregates, towards understanding how its aggregation can be changed.
 
-- ➕ Expand the database to include non-protein modulators with experimental metadata  
-- 🧠 Train ML models to predict aggregation modulation  
-- 🧬 Build generative models for novel modulators and validate them computationally and experimentally
+## What the project sets out to do
+
+::: {.focus-grid}
+::: {.focus-card}
+[01 / RESEARCH AIM]{.eyebrow}
+
+### Expand the evidence base
+
+Extend AmyloGraph to non-protein modulators, including experimental conditions and other essential metadata.
+:::
+::: {.focus-card}
+[02 / RESEARCH AIM]{.eyebrow}
+
+### Predict modulation
+
+Train machine learning models to predict how a modulator affects amyloid aggregation.
+:::
+::: {.focus-card}
+[03 / RESEARCH AIM]{.eyebrow}
+
+### Explore new modulators
+
+Develop generative models and assess proposed modulators computationally and experimentally.
+:::
+:::
+
+## People & support
+
+**Project lead:** [Michał Burdukiewicz](../team/mb.qmd).
+
+```{=html}
+<div class="grant-support"><img src="../fig/ncn_logo.png" alt="National Science Centre Poland logo"><div><p class="eyebrow">National Science Center Poland</p><p><strong>Full project title</strong><br>Taming aggregation with AmyloGraph 2.0: a database and prediction models of amyloid self‑assembly modulators</p></div></div>
+```
+
+## Explore further
+
+[Related research: amyloids & aggregation](../topics/amyloids.qmd) · [Group publications](../publications.qmd) · [Group news](../../index.qmd)
+
+[Explore the AmyloGraph database ↗](https://amylograph.org)

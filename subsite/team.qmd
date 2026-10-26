@@ -1,68 +1,48 @@
 ---
-title: "BioGenies team"
+title: "People behind the science"
+description: "Meet the BioGenies team: researchers working across bioinformatics, multiomics and machine learning. Explore their academic CVs, publications and collaborations."
+body-classes: team-page
+sidebar: false
+toc: false
 ---
 
-### 🥸 BioGenies
-::: {layout-ncol=4}
-
-[![Laura Bąkała](fig/ppl/lb.png "Laura Bąkała"){}](team/lb.html)
-
-[![Michał Burdukiewicz ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'} ![](fig/logo/VU_logo.png "Vilnius University"){width='80'}](fig/ppl/mb.jpeg "Michał Burdukiewicz"){}](team/mb.html)
-
-[![Jarosław (Jarek) Chilimoniuk ![](fig/logo/VU_logo.png "Vilnius University"){width='80'} ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/jc.png "Jarosław (Jarek) Chilimoniuk}"){}](team/jc.html)
-
-[![Krystyna (Krysia) Grzesiak ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'} ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/kg.jpeg "Krystyna (Krysia) Grzesiak with Czarek"){}](team/kg.html)
-
-[![Valentín Iglesias ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/vi.png "Valentín Iglesias"){}](team/vi.html)
-
-[![Jakub Kołodziejczyk ![](fig/logo/G_logo.png "Google"){width='70'}](fig/ppl/jk.jpeg "Jakub Kołodziejczyk"){}](team/jk.html)
-
-[![Joanna Pokora ![](fig/logo/UWr_logo.png "University of Wrocław"){width='40'}](fig/ppl/jp.jpeg "Joanna Pokora"){}](team/jp.html)
-
-[![Weronika Puchała ![](fig/logo/IBB_logo.png "Institute of Biochemistry and Biophysics Polish Academy of Sciences"){width='100'}](fig/ppl/wp.png "Weronika Puchała with Lusia"){}](team/wp.html)
-
-[![Mariia Rutkowska ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/ppl/mr.jpeg "Mariia Solovianova"){}](team/mr.html)
-
-[![Damian Wilary ![](fig/logo/MUB_logo.png "Medical University of Białystok"){width='40'}](fig/temp_profile.png "temporary profile pic"){}]()
+::: {.team-intro}
+Different backgrounds. Shared curiosity. We bring together biological questions, computational thinking and a collaborative spirit.
 :::
 
-```{r, include=FALSE}
-# source("../R/bg_df.R")
+[Meet our collaborators](colab.qmd){.team-inline-link} · [Explore our research](research.qmd){.team-inline-link}
+
+```{=html}
+<div class="people-grid">
+<article class="person-card"><a class="person-photo" href="team/lb.html"><img src="fig/ppl/lb.png" alt="Laura Bąkała" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="team/lb.html">Laura Bąkała</a></h3><p>BioGenies</p><a class="person-action" href="team/lb.html">Research profile <span aria-hidden="true">↗</span></a></div></article>
+<article class="person-card"><a class="person-photo" href="team/mb.html"><img src="fig/ppl/mb.jpeg" alt="Michał Burdukiewicz" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="team/mb.html">Michał Burdukiewicz</a></h3><p>Medical University of Białystok · Vilnius University</p><div class="affiliation-logos"><a class="affiliation-link" href="https://www.umb.edu.pl/en" title="Medical University of Białystok"><img src="fig/logo/MUB_logo.png" alt="Medical University of Białystok logo" loading="lazy"></a><a class="affiliation-link" href="https://www.vu.lt/en/" title="Vilnius University"><img src="fig/logo/VU_logo.png" alt="Vilnius University logo" loading="lazy"></a></div><a class="person-action" href="team/mb.html">Research profile <span aria-hidden="true">↗</span></a></div></article>
+<article class="person-card"><a class="person-photo" href="team/jc.html"><img src="fig/ppl/jc.png" alt="Jarosław (Jarek) Chilimoniuk" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="team/jc.html">Jarosław (Jarek) Chilimoniuk</a></h3><p>Vilnius University · Medical University of Białystok</p><div class="affiliation-logos"><a class="affiliation-link" href="https://www.vu.lt/en/" title="Vilnius University"><img src="fig/logo/VU_logo.png" alt="Vilnius University logo" loading="lazy"></a><a class="affiliation-link" href="https://www.umb.edu.pl/en" title="Medical University of Białystok"><img src="fig/logo/MUB_logo.png" alt="Medical University of Białystok logo" loading="lazy"></a></div><a class="person-action" href="team/jc.html">Research profile <span aria-hidden="true">↗</span></a></div></article>
+<article class="person-card"><a class="person-photo" href="team/kg.html"><img src="fig/ppl/kg.jpeg" alt="Krystyna (Krysia) Grzesiak" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="team/kg.html">Krystyna (Krysia) Grzesiak</a></h3><p>University of Geneva · University of Wrocław</p><div class="affiliation-logos"><a class="affiliation-link" href="https://www.unige.ch/en/" title="University of Geneva"><img src="fig/logo/UdGe_logo.png" alt="University of Geneva logo" loading="lazy"></a><a class="affiliation-link" href="https://uwr.edu.pl/en/" title="University of Wrocław"><img src="fig/logo/UWr_logo.png" alt="University of Wrocław logo" loading="lazy"></a></div><a class="person-action" href="team/kg.html">Research profile <span aria-hidden="true">↗</span></a></div></article>
+<article class="person-card"><a class="person-photo" href="team/vi.html"><img src="fig/ppl/vi.png" alt="Valentín Iglesias" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="team/vi.html">Valentín Iglesias</a></h3><p>Medical University of Białystok</p><div class="affiliation-logos"><a class="affiliation-link" href="https://www.umb.edu.pl/en" title="Medical University of Białystok"><img src="fig/logo/MUB_logo.png" alt="Medical University of Białystok logo" loading="lazy"></a></div><a class="person-action" href="team/vi.html">Research profile <span aria-hidden="true">↗</span></a></div></article>
+<article class="person-card"><a class="person-photo" href="team/jk.html"><img src="fig/ppl/jk.jpeg" alt="Jakub Kołodziejczyk" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="team/jk.html">Jakub Kołodziejczyk</a></h3><p>Google</p><div class="affiliation-logos"><a class="affiliation-link" href="https://about.google/" title="Google"><img src="fig/logo/G_logo.png" alt="Google logo" loading="lazy"></a></div><a class="person-action" href="team/jk.html">Research profile <span aria-hidden="true">↗</span></a></div></article>
+<article class="person-card"><a class="person-photo" href="team/jp.html"><img src="fig/ppl/jp.jpeg" alt="Joanna Pokora" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="team/jp.html">Joanna Pokora</a></h3><p>University of Wrocław</p><div class="affiliation-logos"><a class="affiliation-link" href="https://uwr.edu.pl/en/" title="University of Wrocław"><img src="fig/logo/UWr_logo.png" alt="University of Wrocław logo" loading="lazy"></a></div><a class="person-action" href="team/jp.html">Research profile <span aria-hidden="true">↗</span></a></div></article>
+<article class="person-card"><a class="person-photo" href="team/wp.html"><img src="fig/ppl/wp.png" alt="Weronika Puchała" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="team/wp.html">Weronika Puchała</a></h3><p>Institute of Biochemistry and Biophysics, Polish Academy of Sciences</p><div class="affiliation-logos"><a class="affiliation-link" href="https://ibb.edu.pl/en/" title="Institute of Biochemistry and Biophysics, Polish Academy of Sciences"><img src="fig/logo/IBB_logo.png" alt="Institute of Biochemistry and Biophysics, Polish Academy of Sciences logo" loading="lazy"></a></div><a class="person-action" href="team/wp.html">Research profile <span aria-hidden="true">↗</span></a></div></article>
+<article class="person-card"><a class="person-photo" href="team/mr.html"><img src="fig/ppl/mr.jpeg" alt="Mariia Rutkowska" loading="lazy"></a><div class="person-info"><h3><a class="person-name" href="team/mr.html">Mariia Rutkowska</a></h3><p>Medical University of Białystok</p><div class="affiliation-logos"><a class="affiliation-link" href="https://www.umb.edu.pl/en" title="Medical University of Białystok"><img src="fig/logo/MUB_logo.png" alt="Medical University of Białystok logo" loading="lazy"></a></div><a class="person-action" href="team/mr.html">Research profile <span aria-hidden="true">↗</span></a></div></article>
+<article class="person-card"><div class="person-photo"><img src="fig/temp_profile.png" alt="Damian Wilary" loading="lazy"></div><div class="person-info"><h3>Damian Wilary</h3><p>Medical University of Białystok</p><div class="affiliation-logos"><a class="affiliation-link" href="https://www.umb.edu.pl/en" title="Medical University of Białystok"><img src="fig/logo/MUB_logo.png" alt="Medical University of Białystok logo" loading="lazy"></a></div></div></article>
+</div>
+```
+
+## A group in motion {#our-mobility}
+
+Conferences, workshops and research stays connect our team and collaborators across institutions and borders. This overview summarises the activities recorded in our academic CVs.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 load("../data/bg_df_data.RData")
-
-library(openalexR)
-library(tidyverse)
-
-full_df_mod <- full_df %>% 
-  filter(team != "other") %>% 
-  mutate(end_date = as.Date(end_date, "%Y-%m-%d"))
-         # end_date = if_else(is.na(end_date), today(), end_date))
-
-source("../R/map_dumbbell.R")
+source("../R/resume_fun.R")
+source("../R/mobility_summary.R")
+team_mobility(full_df)
 ```
 
-### 🚀 Our mobility
-```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width=12, fig.height=8}
-pw_plot
+## The extended team
+
+Our four-legged colleagues, and an important part of life around the lab.
+
+
+```{=html}
+<div class="pet-grid"><figure><img src="fig/ppl/Czarson.jpeg" alt="Czarek" loading="lazy"><figcaption>Czarek</figcaption></figure><figure><img src="fig/ppl/Delma.jpeg" alt="Delma" loading="lazy"><figcaption>Delma</figcaption></figure><figure><img src="fig/ppl/piksel.jpeg" alt="Piksel" loading="lazy"><figcaption>Piksel</figcaption></figure><figure><img src="fig/ppl/invi.jpg" alt="Invi" loading="lazy"><figcaption>Invi</figcaption></figure><figure><img src="fig/ppl/Lusia.jpeg" alt="Lusia" loading="lazy"><figcaption>Lusia</figcaption></figure><figure><img src="fig/ppl/elis.jpeg" alt="Elis" loading="lazy"><figcaption>Elis</figcaption></figure></div>
 ```
-
-### 🗺️ Countries visited
-```{r, echo=FALSE, message=FALSE}
-inter_plot
-```
-
-### 🐶 Our doggos and cattos 😼
-::: {layout-ncol=3}
-[![Czarek](fig/ppl/Czarson.jpeg "Climbing dog"){}]()
-
-[![Delma](fig/ppl/Delma.jpeg "Cuddly dog"){}]()
-
-[![Piksel](fig/ppl/piksel.jpeg "Hot dog"){}]()
-
-[![Invi](fig/ppl/invi.jpg "Tiny dog"){}]()
-
-[![Lusia](fig/ppl/Lusia.jpeg "Sleepy dog"){}]()
-
-[![Elis](fig/ppl/elis.jpeg "Tricolored cat"){}]()
-:::
-

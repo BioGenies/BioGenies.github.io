@@ -1,23 +1,35 @@
-# Theses and dissertations
+# Theses & dissertations
 
-### 2026
+Explore the theses and dissertations behind BioGenies research, with links to the authors and full documents.
 
-**Joanna Pokora**  
-MSc thesis  
-*[“Logistic Adaptive Bayesian SLOPE”](download_files/thesis/jp_msc.pdf)*
+Academic milestones, and the research behind them. Explore the documents and meet their authors.
 
-### 2025
+## 2026
 
-**Dawid Sonor Kubkowski**  
-MSc thesis  
-*[“Biomedical Text Classification with Pre-trained Language Models”](download_files/thesis/sk_msc.pdf)*
+MSc thesis
 
-**Weronika Puchała**  
-PhD dissertation  
-*[“High-resolution analysis of hydrogen/deuterium exchange monitored by mass spectrometry experiment data”](download_files/dissertation/wp_phd.pdf)*
+### Logistic Adaptive Bayesian SLOPE
 
-### 2023
+[Joanna Pokora](../subsite/team/jp.llms.md) · [Read the thesis ↗](download_files/thesis/jp_msc.pdf)
 
-**Jarek Chilimoniuk**  
-PhD dissertation  
-*[“Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB”](download_files/dissertation/jc_phd.pdf)*
+## 2025
+
+MSc thesis
+
+### Biomedical Text Classification with Pre-trained Language Models
+
+[Dawid Sonor Kubkowski](../subsite/team/sk.llms.md) · [Read the thesis ↗](download_files/thesis/sk_msc.pdf)
+
+PhD dissertation
+
+### High-resolution analysis of hydrogen/deuterium exchange monitored by mass spectrometry experiment data
+
+[Weronika Puchała](../subsite/team/wp.llms.md) · [Read the dissertation ↗](download_files/dissertation/wp_phd.pdf)
+
+## 2023
+
+PhD dissertation
+
+### Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB
+
+[Jarosław Chilimoniuk](../subsite/team/jc.llms.md) · [Read the dissertation ↗](download_files/dissertation/jc_phd.pdf)

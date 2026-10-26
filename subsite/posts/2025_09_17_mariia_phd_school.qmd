@@ -7,6 +7,7 @@ categories:
   - Achievements
 # image: "../fig/posts/"
 author: "BioGenies Lab"
+related-people: [mr]
 ---
 
 🥳 **Fantastic news, Mariia is now officially a PhD student!** She has joined the **international doctoral programme** at the Medical University of Białystok 🌍🎓. We couldn’t be more excited to see her continue her journey with us and take on such an important project! 💚🧬

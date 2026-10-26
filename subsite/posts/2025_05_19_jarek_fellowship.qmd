@@ -8,6 +8,7 @@ categories:
   - WIDERA
 image: "../fig/posts/2025_05_19/era_jc.jpg"
 author: "BioGenies Lab"
+related-people: [jc]
 ---
 
 # 🚀 Jarek awarded his first Horizon Europe ERA Fellowship! 🇪🇺🎓

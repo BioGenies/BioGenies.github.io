@@ -10,19 +10,21 @@ create_ppl_page <- function(whois_full_name, whois, file_name){
 qmd_header <- paste0(
 "---
 title: '", whois_full_name, "'\n",
-"sidebar: false
+"description: 'Academic CV, research experience and publications of ", whois_full_name, " at BioGenies.'
+body-classes: researcher-profile
+sidebar: false
 format:
   html:
     grid:
       sidebar-width: 0px
-      body-width: 1500px
-      margin-width: 300px
+      body-width: 1050px
+      margin-width: 220px
       gutter-width: 1.5rem
 knitr:
   opts_chunk:
     out.width: '95%'
 ---
-    
+
 ```{r, echo=FALSE, message=FALSE,include=FALSE}
 load('../../data/bg_df_data.RData')
 whois <- '", whois, "'\n\n",
@@ -39,7 +41,7 @@ contact_txt <- if_else((bio_df %>% filter(who == whois) %>% .[3:8] %>% janitor::
 
 ------------------------------------------------------------------------
 
-", stringr::str_flatten(contact_info(whois)$new_col), "\n"), 
+", stringr::str_flatten(contact_info(whois)$new_col), "\n"),
                        paste0("<!-- # 📱 **Contact** -->
 
 <!-- ------------------------------------------------------------------------ -->
@@ -54,7 +56,7 @@ bio_txt <- if_else(basic_info(whois)$bio %>% is.na(), paste0("<!-- # 📝 **Bio*
 
 <!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->", "\n")
 , "# 📝 **Bio**
-  
+
 ------------------------------------------------------------------------
 
 `r stringr::str_flatten(basic_info(whois)$bio)`
@@ -88,9 +90,9 @@ work(whois)
 ```
 \n"), paste0(
 "<!-- # 💻🧫 **Experience** -->
-  
+
 <!-- ------------------------------------------------------------------------ -->
-    
+
 <!-- ```{r, echo=FALSE, message=FALSE} -->
 <!-- work(whois) -->
 <!-- ``` -->", "\n"
@@ -100,12 +102,14 @@ work(whois)
 
 education_txt <- if_else((full_df %>% filter(who == whois & cat == "education") %>% nrow()) != 0, paste0(
 "# 🎓 **Education**
-  
+
 ------------------------------------------------------------------------
 
-`r stringr::str_flatten(education(whois)$new_col)`
+```{r, echo=FALSE, message=FALSE}
+education_panel(whois)
+```
 
-------------------------------------------------------------------------", "\n"), 
+------------------------------------------------------------------------", "\n"),
 paste0(
 "<!-- # 🎓 **Education** -->
 
@@ -118,7 +122,7 @@ paste0(
 
 
 conference_txt <- if_else((full_df %>% filter(who == whois & cat == "conferences") %>% nrow()) != 0, paste0(
-"# 👏🏻 **Conferences, workshops, training schools** 🤝🏻 
+"# 👏🏻 **Conferences, workshops, training schools** 🤝🏻
 
 ------------------------------------------------------------------------
 
@@ -161,7 +165,7 @@ other_act_txt <- if_else((other_act(whois) %>% filter(who == whois) %>% nrow()) 
 ------------------------------------------------------------------------
 
 `r stringr::str_flatten(other_act(whois)$new_col)`
-\n"), 
+\n"),
 paste0("<!-- # 🧑🏻‍🔬 **Other activities** -->
 
 <!-- ------------------------------------------------------------------------ -->
@@ -169,6 +173,14 @@ paste0("<!-- # 🧑🏻‍🔬 **Other activities** -->
 <!-- `r stringr::str_flatten(other_act(whois)$new_col)` -->", "\n"))
 
 
-write_lines(c(qmd_header, bio_txt, contact_txt, research_txt, employment_txt, education_txt, conference_txt, publication_txt, other_act_txt), 
-            file = paste0(file_name, ".qmd"))
+profile_path <- paste0(file_name, ".qmd")
+if (file.exists(profile_path)) {
+  old_lines <- readLines(profile_path, warn = FALSE)
+  curated <- old_lines[grepl("^(profile-image|related-news):", old_lines)]
+  qmd_header <- sub("body-classes: researcher-profile", paste(c("body-classes: researcher-profile", curated), collapse = "\n"), qmd_header, fixed = TRUE)
+}
+profile_text <- paste(c(qmd_header, bio_txt, contact_txt, research_txt, employment_txt, education_txt, conference_txt, publication_txt, other_act_txt), collapse = "\n")
+profile_text <- gsub("(?m)^# [^\n]*\\*\\*([^*]+)\\*\\*[^\n]*$", "## \\1", profile_text, perl = TRUE)
+profile_text <- gsub("(?m)^-{10,}\\s*$", "", profile_text, perl = TRUE)
+write_lines(profile_text, file = profile_path)
 }

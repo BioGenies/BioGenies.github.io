@@ -1,12 +1,14 @@
 ---
 title: 'Julia Szkóp'
+description: "Academic CV and research profile of Julia Szkóp, a BioGenies collaborator."
+profile-image: ../fig/ppl/jsz.jpeg
 sidebar: false
 format:
   html:
     grid:
       sidebar-width: 0px
-      body-width: 1500px
-      margin-width: 300px
+      body-width: 1050px
+      margin-width: 220px
       gutter-width: 1.5rem
 knitr:
   opts_chunk:
@@ -30,11 +32,10 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(basic_info(whois)$bio)` -->
 
-# 📱 **Contact**
+## Contact
 
-------------------------------------------------------------------------
 
-[`r fontawesome::fa('envelope', prefer_type = 'regular', fill = 'pink', height = '3em')`](mailto:jm.szkop@student.uw.edu.pl)
+[Email](mailto:jm.szkop@student.uw.edu.pl)
 
 
 <!-- # 🚀 **Research stays** -->
@@ -59,7 +60,6 @@ library(fontawesome)
 
 <!-- `r stringr::str_flatten(education(whois)$new_col)` -->
 
-------------------------------------------------------------------------
 
 <!-- # 👏🏻 **Conferences, workshops, training schools** 🤝🏻  -->
 

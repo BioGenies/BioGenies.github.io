@@ -62,3 +62,11 @@ These awards are a powerful reminder that teamwork, curiosity, and perseverance 
 Huge congratulations to **Michał**, **Jarek**, and **Valen**, and a big thank-you to everyone who collaborates, supports, reviews and challenges our work every day 💚🧬.
 
 Onward to more science, more papers, and more reasons to celebrate! 🥳🎉
+
+## Explore related research
+
+- [Jarosław (Jarek) Chilimoniuk — academic CV and publications](../../subsite/team/jc.llms.md)
+- [Michał Burdukiewicz — academic CV and publications](../../subsite/team/mb.llms.md)
+- [Valentín Iglesias — academic CV and publications](../../subsite/team/vi.llms.md)
+
+[BioGenies publications](../../subsite/publications.llms.md) · [Research & impact](../../subsite/research.llms.md) · [All research news](../../index.llms.md)

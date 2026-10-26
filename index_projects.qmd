@@ -1,8 +1,68 @@
 ---
-title: "BioGenies grants"
-listing:
-  contents: subsite/projects
-  sort: "date desc"
-  type: default
-  categories: cloud
+title: "Research projects"
+description: "Explore BioGenies projects in amyloids, multiomics, machine learning and One Health."
+body-classes: subsite-page projects-overview
+sidebar: false
+toc: false
 ---
+
+::: {.team-intro}
+From molecular questions to shared research resources. Explore the projects bringing our ideas into focus.
+:::
+
+::: {.project-catalog}
+::: {.project-tile}
+[Horizon Europe · ERA Fellowships]{.eyebrow}
+
+## [AMI-CryoML](subsite/projects/AMI-cryoEM.qmd)
+
+Connecting aggregation experiments, cryo-electron microscopy and machine learning to understand amyloid polymorphism.
+
+[Explore project →](subsite/projects/AMI-cryoEM.qmd)
+:::
+::: {.project-tile}
+[NCN · Sonata 19]{.eyebrow}
+
+## [AmyloGraph 2.0](subsite/projects/AmyloGraph2.qmd)
+
+Expanding the evidence on amyloid self-assembly modulators, and using that evidence to build prediction and generative models.
+
+[Explore project →](subsite/projects/AmyloGraph2.qmd)
+:::
+::: {.project-tile}
+[NCN · Miniatura 9]{.eyebrow}
+
+## [LIMAD](subsite/projects/LIMAD.qmd)
+
+Identifying microbial proteins with amyloid potential and investigating their interactions with human Aβ42 and α-synuclein.
+
+[Explore project →](subsite/projects/LIMAD.qmd)
+:::
+::: {.project-tile}
+[NCN · Miniatura 9]{.eyebrow}
+
+## [imputomics 2.0](subsite/projects/imputomics2.qmd)
+
+A common framework for reviewing, integrating and benchmarking missing-value imputation methods across multiomics data.
+
+[Explore project →](subsite/projects/imputomics2.qmd)
+:::
+::: {.project-tile}
+[Horizon Europe · MSCA Staff Exchanges]{.eyebrow}
+
+## [OneTick](subsite/projects/OneTick.qmd)
+
+An integrated approach to preventing, detecting and treating tick-borne diseases in urban and peri-urban environments.
+
+[Explore project →](subsite/projects/OneTick.qmd)
+:::
+::: {.project-tile}
+[M-ERA.NET · FUNCTIONAL MATERIALS]{.eyebrow}
+
+## [FIBREA](fibrea.qmd)
+
+Designing programmable, curli-based amyloid materials through molecular grammar, simulations and biofabrication.
+
+[Explore project →](fibrea.qmd)
+:::
+:::
