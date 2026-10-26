@@ -4,6 +4,12 @@ From peptide sequences to reliable predictions: understanding what our models ca
 
 From peptide sequences to reliable predictions: understanding what our models can tell us, and what still needs an experiment.
 
+[Open AmpGram ↗](http://biongram.biotech.uni.wroc.pl/AmpGram)
+
+[Explore AMPBenchmark ↗](https://github.com/BioGenies/AMPBenchmark)
+
+[Read the benchmark story →](../../subsite/posts/benchmark_amp.llms.md)
+
 ## Small molecules, complex questions
 
 Antimicrobial peptides are a diverse group of molecules studied for their ability to act against microorganisms. Their activity depends on sequence and molecular properties, but also on the organism and the conditions in which a peptide is tested. A single activity label can hide much of that context.

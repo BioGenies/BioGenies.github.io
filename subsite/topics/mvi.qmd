@@ -11,7 +11,11 @@ toc: false
 Helping researchers work with incomplete omics data through reproducible methods, realistic benchmarks and accessible software.
 :::
 
+::: {.topic-actions}
+[Open imputomics ↗](https://biogenies.info/imputomics-ws){.research-button}
+
 [Read the imputomics story →](../stories.qmd#imputomics){.research-button}
+:::
 
 ## What does a missing measurement mean?
 

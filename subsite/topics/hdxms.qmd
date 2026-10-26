@@ -11,6 +11,12 @@ toc: false
 Turning hydrogen–deuterium exchange measurements into interpretable views of protein behaviour.
 :::
 
+::: {.topic-actions}
+[Open HaDeX2 ↗](https://hadex2.mslab-ibb.pl/){.research-button}
+
+[Open HRaDeX ↗](https://hradex.mslab-ibb.pl/){.research-button}
+:::
+
 ## Proteins in motion
 
 Protein function depends on more than a single structure. Hydrogen–deuterium exchange mass spectrometry, or HDX-MS, measures changes in deuterium uptake over time and helps researchers investigate protein dynamics and differences between experimental states.

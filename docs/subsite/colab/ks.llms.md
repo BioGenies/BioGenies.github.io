@@ -18,7 +18,7 @@ Currently, I’m a postdoc in the Hildebrand group at the Quadram Institute, whe
 
 13 conference and training events
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2024-09-11 – 2024-09-13
 
@@ -126,7 +126,7 @@ Talks, posters & participation (1)
 
 2019 3
 
-Why R?
+[![Why R? conference series logo](../fig/logo/conferences/why-r.png)](https://whyr.pl/ "Why R? conference series logo")
 
 2019-09-26 – 2019-09-29
 
@@ -140,7 +140,7 @@ Talks, posters & participation (1)
 
   PepBay: Implementation of Bayesian inference in the analysis of peptide arrays
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2019-09-19 – 2019-09-21
 
@@ -184,7 +184,7 @@ Talks, posters & participation (1)
 
   PepBay: a Bayesian framework for analysis of peptide arrays
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2018-09-05 – 2018-09-07
 
@@ -294,7 +294,7 @@ Authorship: coauthor
 
 [Deep Learning and feature selection in the bioinformatic modelling of functionally annotated microbial communities in aquaculture](https://doi.org/10.31274/wcgalp.23784)
 
-2026-02-26
+World Congress on Genetics Applied to Livestock Production (WCGALP) · 2026-02-26
 
 Authors & citation details
 

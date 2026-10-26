@@ -12,7 +12,7 @@ Research profile and academic CV of Weronika Puchała: publications, experience,
 
 10 conference and training events
 
-HUPO
+[![Human Proteome Organization (HUPO) logo](../fig/logo/conferences/hupo.png)](https://hupo.org/ "Human Proteome Organization (HUPO) logo")
 
 2024-10-20 – 2024-10-24
 
@@ -26,7 +26,7 @@ Talks, posters & participation (1)
 
   hadexversum: tools for HDX-MS analysis
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2024-09-11 – 2024-09-13
 
@@ -40,7 +40,7 @@ Talks, posters & participation (1)
 
   hadexversum: HDX-MS analysis made easy
 
-ISMB
+[![ISMB 2024 Montréal conference logo](../fig/logo/conferences/ismb-2024-banner.png)](https://www.iscb.org/ismb2024/home "ISMB 2024 Montréal conference logo")
 
 2024-07-12 – 2024-07-16
 
@@ -58,7 +58,7 @@ Earlier activities (7)
 
 2022 1
 
-HUPO
+[![Human Proteome Organization (HUPO) logo](../fig/logo/conferences/hupo.png)](https://hupo.org/ "Human Proteome Organization (HUPO) logo")
 
 2022-12-04 – 2022-12-08
 
@@ -86,7 +86,7 @@ Talks, posters & participation (1)
 
   HaDeX: tool for analysis of HDX-MS data
 
-Why R?
+[![Why R? conference series logo](../fig/logo/conferences/why-r.png)](https://whyr.pl/ "Why R? conference series logo")
 
 2019-09-26 – 2019-09-29
 
@@ -132,7 +132,7 @@ Talks, posters & participation (1)
 
   Analysis of data from hydrogen-deuterium exchange mass spectrometry experiments
 
-ISMB \| ECCB
+[![International Society for Computational Biology (ISCB), conference organiser logo](../fig/logo/conferences/iscb.png)](https://www.iscb.org/conferences-events "International Society for Computational Biology (ISCB), conference organiser logo")
 
 2019-07-21 – 2019-07-25
 

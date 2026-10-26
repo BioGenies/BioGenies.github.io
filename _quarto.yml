@@ -68,8 +68,6 @@ website:
         menu:
           - text: "Overview"
             href: subsite/research.qmd
-          - text: "Research stories"
-            href: subsite/stories.qmd
           - text: "Publications"
             href: subsite/publications.qmd
           - text: "Software & databases"
@@ -78,6 +76,8 @@ website:
             href: subsite/conferences.qmd
           - text: "Theses & dissertations"
             href: subsite/theses.qmd
+      - text: "Science for everyone"
+        href: subsite/stories.qmd
       - text: "Seminars"
         href: subsite/seminars.qmd
     tools:

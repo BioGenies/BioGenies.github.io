@@ -96,7 +96,7 @@ ongoing · Girona, Spain
 
 16 conference and training events
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2026-09-16 – 2026-09-18
 
@@ -110,7 +110,7 @@ Talks, posters & participation (1)
 
   The AmyloGraph amyloid-antibody database: data acquisition, curation, extraction for amyloid-antibody interactions
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2025-09-15 – 2025-09-17
 
@@ -124,7 +124,7 @@ Talks, posters & participation (1)
 
   A4D Antibody Aggregation Database (A4D-ABDB): identifying and optimizing aggregation propensity for ttherapeutic antibodies
 
-![ML4NGP logo](../fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](../fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2025-05-20 – 2025-05-23
 
@@ -142,7 +142,7 @@ Earlier activities (13)
 
 2024 1
 
-![ML4NGP logo](../fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](../fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2024-05-14 – 2024-05-17
 
@@ -186,7 +186,7 @@ Talks, posters & participation (1)
 
   A3D Model Organism Database (A3D-MODB): a database for proteome aggregation predictions in model organisms.
 
-![ML4NGP logo](../fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](../fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2023-07-05 – 2023-07-07
 
@@ -380,7 +380,7 @@ Authors & citation details
 
 Valentín Iglesias, Javier García‐Pardo, Salvador Ventura
 
-Authorship: first
+Authorship: first, corresponding
 
 <https://doi.org/10.1042/bio_2024_928>
 

@@ -12,7 +12,7 @@ Research profile and academic CV of Joanna Pokora: publications, experience, edu
 
 1 conference and training events
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2025-09-15 – 2025-09-17
 

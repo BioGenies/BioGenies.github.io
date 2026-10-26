@@ -272,7 +272,7 @@ Biotechnology
 
 21 conference and training events
 
-![ML4NGP logo](../fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](../fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2026-02-17 – 2026-02-20
 
@@ -286,7 +286,7 @@ Talks, posters & participation (1)
 
   Introduction to Machine learning for Non-globular proteins
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2025-09-15 – 2025-09-17
 
@@ -300,7 +300,7 @@ Talks, posters & participation (1)
 
   Aggregating amyloid resources: comprehensive list of amyloid-like aggregation databases
 
-Metabolomics
+[![Metabolomics Society logo](../fig/logo/conferences/metabolomics-society.png)](https://metabolomicssociety.org/ "Metabolomics Society logo")
 
 2025-06-22 – 2025-06-26
 
@@ -318,7 +318,7 @@ Earlier activities (18)
 
 2025 1
 
-![ML4NGP logo](../fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](../fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2025-05-20 – 2025-05-23
 
@@ -334,7 +334,7 @@ Talks, posters & participation (1)
 
 2024 3
 
-HUPO
+[![Human Proteome Organization (HUPO) logo](../fig/logo/conferences/hupo.png)](https://hupo.org/ "Human Proteome Organization (HUPO) logo")
 
 2024-10-20 – 2024-10-24
 
@@ -348,7 +348,7 @@ Talks, posters & participation (1)
 
   imputomics 2.0: bridging data gaps in proteomics with missing value imputation algorithms and their benchmark
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2024-09-11 – 2024-09-13
 
@@ -362,7 +362,7 @@ Talks, posters & participation (1)
 
   imputomics 2.0: comprehensive R package for missing data imputation in proteomics data
 
-![ML4NGP logo](../fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](../fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2024-05-14 – 2024-05-17
 
@@ -422,7 +422,7 @@ Talks, posters & participation (1)
 
   countfitteR: count data analysis for precision medicine
 
-Why R?
+[![Why R? conference series logo](../fig/logo/conferences/why-r.png)](https://whyr.pl/ "Why R? conference series logo")
 
 2020-09-24 – 2020-09-27
 
@@ -452,7 +452,7 @@ Talks, posters & participation (1)
 
 2019 4
 
-Why R?
+[![Why R? conference series logo](../fig/logo/conferences/why-r.png)](https://whyr.pl/ "Why R? conference series logo")
 
 2019-09-26 – 2019-09-29
 
@@ -538,7 +538,7 @@ Talks, posters & participation (1)
 
   CsgA, CsgB and CsgC - evolutionary Interplay in curli biogenesis
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2018-09-05 – 2018-09-07
 

@@ -4,6 +4,12 @@ How do proteins assemble into amyloid structures, and what happens when differen
 
 How do proteins assemble into amyloid structures, and what happens when different amyloids meet?
 
+[Open AmyloGraph ↗](https://amylograph.com/)
+
+[Open AmyloGram ↗](http://biongram.biotech.uni.wroc.pl/AmyloGram)
+
+[Read the AmyloGraph story →](../../subsite/stories.llms.md#amylograph)
+
 ## Why amyloids matter
 
 Amyloids are ordered protein assemblies with a characteristic cross-β structure. They are studied in the context of protein misfolding and disease, but they also have biological functions: bacterial curli, for example, contribute to the extracellular matrix of biofilms. Understanding amyloids means looking at both their molecular structure and the biological setting in which they form.

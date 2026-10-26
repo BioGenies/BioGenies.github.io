@@ -232,7 +232,7 @@ Bioinformatics and systems biology
 
 55 conference and training events
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2026-09-16 – 2026-09-18
 
@@ -260,7 +260,7 @@ Talks, posters & participation (1)
 
   Aggregating amyloid resources
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2025-09-15 – 2025-09-17
 
@@ -278,7 +278,7 @@ Earlier activities (52)
 
 2025 2
 
-Metabolomics
+[![Metabolomics Society logo](../fig/logo/conferences/metabolomics-society.png)](https://metabolomicssociety.org/ "Metabolomics Society logo")
 
 2025-06-22 – 2025-06-26
 
@@ -292,7 +292,7 @@ Talks, posters & participation (1)
 
   MetaboCrates: An open-source pipeline for quality-aware analysis of targeted metabolomics data
 
-![ML4NGP logo](../fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](../fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2025-05-20 – 2025-05-23
 
@@ -308,7 +308,7 @@ Talks, posters & participation (1)
 
 2024 3
 
-HUPO
+[![Human Proteome Organization (HUPO) logo](../fig/logo/conferences/hupo.png)](https://hupo.org/ "Human Proteome Organization (HUPO) logo")
 
 2024-10-20 – 2024-10-24
 
@@ -322,7 +322,7 @@ Talks, posters & participation (1)
 
   Confident protein datasets for liquid-liquid phase separation studies
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2024-09-11 – 2024-09-13
 
@@ -336,7 +336,7 @@ Talks, posters & participation (1)
 
   Confident datasets of client, driver and negative proteins in liquid-liquid phase separation
 
-![ML4NGP logo](../fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](../fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2024-05-14 – 2024-05-17
 
@@ -366,7 +366,7 @@ Talks, posters & participation (1)
 
   AmyloGraph: mapping the landscape of amyloid-amyloid interactions
 
-![ML4NGP logo](../fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](../fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2023-07-05 – 2023-07-07
 
@@ -526,7 +526,7 @@ Talks, posters & participation (1)
 
   Just give me a p-value: statistical analysis of deuterium uptake curves in HDX-MS
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2019-09-19 – 2019-09-21
 
@@ -540,7 +540,7 @@ Talks, posters & participation (1)
 
   HaDeX: an R package and web-server for analysis of data from hydrogen-deuterium exchange mass spectrometry experiments
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2019-09-19 – 2019-09-21
 
@@ -616,7 +616,7 @@ Talks, posters & participation (2)
 
   PCRedux: machine learning helper tool for sigmoid curves
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2018-09-05 – 2018-09-07
 
@@ -702,7 +702,7 @@ Talks, posters & participation (1)
 
   Challenges in the computational prediction of peptide amyloidogenicity
 
-ISMB \| ECCB
+[![International Society for Computational Biology (ISCB), conference organiser logo](../fig/logo/conferences/iscb.png)](https://www.iscb.org/conferences-events "International Society for Computational Biology (ISCB), conference organiser logo")
 
 2017-07-21 – 2017-07-25
 
@@ -778,7 +778,7 @@ Talks, posters & participation (1)
 
   N-gram analysis of biological sequences in R
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2016-09-28 – 2016-09-30
 
@@ -924,7 +924,7 @@ Talks, posters & participation (1)
 
   N-gram analysis of amyloid data
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2015-09-17 – 2015-09-19
 

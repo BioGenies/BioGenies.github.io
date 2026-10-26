@@ -208,7 +208,7 @@ Authorship: coauthor
 
 [Open-Source Software, Fediverse and Custom ROMs as Tools for a Sustainable Internet](https://doi.org/10.23919/egg62010.2024.10631179)
 
-2024-06-18
+Electronics Goes Green · 2024-06-18
 
 Authors & citation details
 

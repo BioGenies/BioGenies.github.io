@@ -11,83 +11,20 @@ From biological questions to tools others can use. Explore the papers, software 
 :::
 
 ```{=html}
-<nav class="hub-index" aria-label="Explore research outputs">
-<a href="#publications">01 / Publications</a><a href="#software">02 / Software</a><a href="#conferences">03 / Conferences</a><a href="#recognition">04 / Recognition</a>
+<nav class="hub-toc" aria-label="On this page">
+<p class="hub-toc-label">On this page</p>
+<div class="hub-toc-links">
+<a href="#our-research-topics"><span aria-hidden="true">01</span> Research topics</a>
+<a href="#publications"><span aria-hidden="true">02</span> Publications</a>
+<a href="#software"><span aria-hidden="true">03</span> Software &amp; databases</a>
+<a href="#conferences"><span aria-hidden="true">04</span> Conferences</a>
+<a href="#recognition"><span aria-hidden="true">05</span> Recognition &amp; milestones</a>
+</div>
 </nav>
-```
 
-::: {.research-feature #publications}
-::: {.feature-copy}
-[01 / KNOWLEDGE]{.eyebrow}
-
-## Ideas, tested and published.
-
-Our work connects bioinformatics and machine learning with amyloids, antimicrobial peptides and multiomics. Read the papers and discover the methods behind the results.
-
-[Explore our publications ↗](publications.qmd){.feature-link}
-:::
-::: {.feature-aside}
-### A closer look
-
-[Three stories in plain language →](stories.qmd)
-
-[AmyloGraph: mapping amyloid interactions](posts/amylograph.qmd)
-
-[imputomics: handling missing omics data](posts/imputomics.qmd)
-
-[HaDeX: exploring protein dynamics](posts/hadex2.qmd)
-:::
-:::
-
-::: {.research-feature .software-feature #software}
-::: {.feature-copy}
-[02 / OPEN TOOLS]{.eyebrow}
-
-## Built for the next discovery.
-
-We turn research methods into software, web applications and curated databases. Explore resources you can use in your own work.
-
-[All software & databases ↗](software.qmd){.feature-link}
-
-:::
-::: {.tool-tiles}
-[![AmyloGraph logo](fig/tools/amylograph.png){loading=lazy} **AmyloGraph**
-Amyloid interaction database](posts/amylograph.qmd){.tool-tile}
-
-[![imputomics logo](fig/tools/imputomics.png){loading=lazy} **imputomics**
-Missing data imputation](posts/imputomics.qmd){.tool-tile}
-
-[![HaDeX logo](fig/tools/hadex.png){loading=lazy} **HaDeX**
-HDX-MS data analysis](posts/hadex2.qmd){.tool-tile}
-:::
-:::
-
-::: {.research-feature #conferences}
-::: {.feature-copy}
-[03 / SCIENTIFIC EXCHANGE]{.eyebrow}
-
-## Good science travels.
-
-Talks, posters, workshops and research visits connect our group with the wider scientific community. Explore where we share our work and the conversations it starts.
-
-[Conference contributions ↗](conferences.qmd){.feature-link}
-:::
-::: {.feature-aside}
-### Beyond the paper
-
-[Meet the team and explore our mobility](team.qmd#our-mobility)
-
-[Seminars and shared learning](seminars.qmd)
-
-[Stories from the group](../index.qmd)
-:::
-:::
-
-## Our research topics
-
-Explore the questions behind the work, with introductions to each field and links to the relevant publication stories.
-
-```{=html}
+<section id="our-research-topics" class="level2">
+<h2 class="anchored" data-anchor-id="our-research-topics">Our research topics</h2>
+<p>Explore the questions behind the work, with introductions to each field and links to the relevant publication stories.</p>
 <div class="topic-directory" aria-label="Explore our five research topics">
 <a class="topic-card topic-card-amyloids" href="topics/amyloids.html">
 <div class="topic-card-top"><span class="topic-card-kicker">01 / Protein assembly</span><svg viewBox="0 0 120 64" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 16h96M12 32h96M12 48h96"/><path d="m22 10 12 12m8-12 12 12m8-12 12 12m8-12 12 12M22 26l12 12m8-12 12 12m8-12 12 12m8-12 12 12M22 42l12 12m8-12 12 12m8-12 12 12m8-12 12 12" opacity=".45"/></svg></div>
@@ -120,7 +57,75 @@ Explore the questions behind the work, with introductions to each field and link
 <span class="topic-card-action">Explore this topic <span aria-hidden="true">↗</span></span>
 </a>
 </div>
+</section>
 ```
+
+::: {.research-feature #publications}
+::: {.feature-copy}
+[02 / KNOWLEDGE]{.eyebrow}
+
+## Ideas, tested and published.
+
+Our work connects bioinformatics and machine learning with amyloids, antimicrobial peptides and multiomics. Read the papers and discover the methods behind the results.
+
+[Explore our publications ↗](publications.qmd){.feature-link}
+:::
+::: {.feature-aside}
+### A closer look
+
+[Three stories in plain language →](stories.qmd)
+
+[AmyloGraph: mapping amyloid interactions](posts/amylograph.qmd)
+
+[imputomics: handling missing omics data](posts/imputomics.qmd)
+
+[HaDeX: exploring protein dynamics](posts/hadex2.qmd)
+:::
+:::
+
+::: {.research-feature .software-feature #software}
+::: {.feature-copy}
+[03 / OPEN TOOLS]{.eyebrow}
+
+## Built for the next discovery.
+
+We turn research methods into software, web applications and curated databases. Explore resources you can use in your own work.
+
+[All software & databases ↗](software.qmd){.feature-link}
+
+:::
+::: {.tool-tiles}
+[![AmyloGraph logo](fig/tools/amylograph.png){loading=lazy} **AmyloGraph**
+Amyloid interaction database](posts/amylograph.qmd){.tool-tile}
+
+[![imputomics logo](fig/tools/imputomics.png){loading=lazy} **imputomics**
+Missing data imputation](posts/imputomics.qmd){.tool-tile}
+
+[![HaDeX logo](fig/tools/hadex.png){loading=lazy} **HaDeX**
+HDX-MS data analysis](posts/hadex2.qmd){.tool-tile}
+:::
+:::
+
+::: {.research-feature #conferences}
+::: {.feature-copy}
+[04 / SCIENTIFIC EXCHANGE]{.eyebrow}
+
+## Good science travels.
+
+Talks, posters, workshops and research visits connect our group with the wider scientific community. Explore where we share our work and the conversations it starts.
+
+[Conference contributions ↗](conferences.qmd){.feature-link}
+:::
+::: {.feature-aside}
+### Beyond the paper
+
+[Meet the team and explore our mobility](team.qmd#our-mobility)
+
+[Seminars and shared learning](seminars.qmd)
+
+[Stories from the group](../index.qmd)
+:::
+:::
 
 ## Recognition & milestones {#recognition}
 

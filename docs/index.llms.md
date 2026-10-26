@@ -22,7 +22,13 @@ Discover software and databases, or try a small hands-on introduction.
 
 [Find tools you can use →](subsite/start.llms.md#tools)
 
-[Read the science in plain language](subsite/stories.llms.md)
+SCIENCE FOR EVERYONE
+
+**Curious about our research? Start with the story.**
+
+Explore the questions behind our work in plain language, from missing measurements to interacting proteins. No specialist background needed.
+
+[Explore the stories →](subsite/stories.llms.md)
 
 ## Latest news
 

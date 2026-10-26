@@ -39,7 +39,17 @@ Discover software and databases, or try a small hands-on introduction.
 :::
 :::
 
-[Read the science in plain language](subsite/stories.qmd){.discovery-link}
+::: {.public-science-note}
+::: {.public-science-copy}
+[SCIENCE FOR EVERYONE]{.eyebrow}
+
+**Curious about our research? Start with the story.**
+
+Explore the questions behind our work in plain language, from missing measurements to interacting proteins. No specialist background needed.
+:::
+
+[Explore the stories →](subsite/stories.qmd){.discovery-link}
+:::
 :::
 
 ## Latest news

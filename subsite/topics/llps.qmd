@@ -11,6 +11,12 @@ toc: false
 Making sense of biomolecular condensates through carefully curated data and more informative benchmarks.
 :::
 
+::: {.topic-actions}
+[Explore LLPS datasets ↗](https://llpsdatasets.ppmclab.com){.research-button}
+
+[Read the LLPS story →](../posts/llps_benchmark.qmd){.research-button}
+:::
+
 ## Organisation without a membrane
 
 Cells can concentrate proteins and nucleic acids into assemblies known as biomolecular condensates. Liquid–liquid phase separation is one mechanism that can produce such compartments: interactions among molecules favour a concentrated phase alongside a more dilute one. The behaviour depends on molecular composition and experimental conditions.

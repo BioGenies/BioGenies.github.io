@@ -4,7 +4,9 @@ Helping researchers work with incomplete omics data through reproducible methods
 
 Helping researchers work with incomplete omics data through reproducible methods, realistic benchmarks and accessible software.
 
-[Explore missing values in an interactive demo →](../../subsite/imputation-demo.llms.md)
+[Open imputomics ↗](https://biogenies.info/imputomics-ws)
+
+[Read the imputomics story →](../../subsite/stories.llms.md#imputomics)
 
 ## What does a missing measurement mean?
 

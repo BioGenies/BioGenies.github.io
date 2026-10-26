@@ -62,7 +62,7 @@ Biotechnology
 
 3 conference and training events
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2026-09-16 – 2026-09-18
 
@@ -76,7 +76,7 @@ Talks, posters & participation (1)
 
   TickPacket
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2025-09-15 – 2025-09-17
 
@@ -90,7 +90,7 @@ Talks, posters & participation (1)
 
   Development of AmyloGraph Antibody database
 
-![ML4NGP logo](../fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](../fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2025-05-20 – 2025-05-23
 

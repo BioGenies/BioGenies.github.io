@@ -6,51 +6,51 @@ Good questions cross institutional boundaries. Meet the people who bring their e
 
 [Our team](../subsite/team.llms.md) · [Guest researchers](../subsite/guest.llms.md) · [Research & impact](../subsite/research.llms.md)
 
-## ![Autonomous University of Barcelona logo](fig/logo/UAB_logo.png) Autonomous University of Barcelona
+## [![Autonomous University of Barcelona logo](fig/logo/UAB_logo.png)](https://www.uab.cat/en/) Autonomous University of Barcelona
 
-![Eva Arribas](fig/ppl/ea.png)
+[![Eva Arribas](fig/ppl/ea.png)](colab/ea.llms.md)
 
-### Eva Arribas
-
-Autonomous University of Barcelona
-
-Research profile ↗
-
-![Oriol Bárcenas](fig/ppl/ob.png)
-
-### Oriol Bárcenas
+### [Eva Arribas](colab/ea.llms.md)
 
 Autonomous University of Barcelona
 
-Research profile ↗
+[Research profile ↗](colab/ea.llms.md)
 
-![Carlos Pintado-Grima](fig/ppl/cp.png)
+[![Oriol Bárcenas](fig/ppl/ob.png)](colab/ob.llms.md)
 
-### Carlos Pintado-Grima
+### [Oriol Bárcenas](colab/ob.llms.md)
 
 Autonomous University of Barcelona
 
-Research profile ↗
+[Research profile ↗](colab/ob.llms.md)
 
-## ![Brandenburg University of Technology Cottbus-Senftenberg logo](fig/logo/BTU_logo.png) Brandenburg University of Technology Cottbus-Senftenberg
+[![Carlos Pintado-Grima](fig/ppl/cp.png)](colab/cpg.llms.md)
 
-SR
+### [Carlos Pintado-Grima](colab/cpg.llms.md)
 
-### Stefan Rödiger
+Autonomous University of Barcelona
+
+[Research profile ↗](colab/cpg.llms.md)
+
+## [![Brandenburg University of Technology Cottbus-Senftenberg logo](fig/logo/BTU_logo.png)](https://www.b-tu.de/en/) Brandenburg University of Technology Cottbus-Senftenberg
+
+[SR](colab/sr.llms.md)
+
+### [Stefan Rödiger](colab/sr.llms.md)
 
 Brandenburg University of Technology Cottbus-Senftenberg
 
-Research profile ↗
+[Research profile ↗](colab/sr.llms.md)
 
-![Ronja Tittel](fig/ppl/rt.jpg)
+[![Ronja Tittel](fig/ppl/rt.jpg)](colab/rt.llms.md)
 
-### Ronja Tittel
+### [Ronja Tittel](colab/rt.llms.md)
 
 Brandenburg University of Technology Cottbus-Senftenberg
 
-Research profile ↗
+[Research profile ↗](colab/rt.llms.md)
 
-## ![Nencki Institute of Experimental Biology PAS logo](fig/logo/nencki_logo.png) Nencki Institute of Experimental Biology PAS
+## [![Nencki Institute of Experimental Biology PAS logo](fig/logo/nencki_logo.png)](https://nencki.edu.pl/) Nencki Institute of Experimental Biology PAS
 
 KN
 
@@ -58,40 +58,40 @@ KN
 
 Nencki Institute of Experimental Biology PAS
 
-## ![University of Porto logo](fig/logo/UP_logo.PNG) University of Porto
+## [![University of Porto logo](fig/logo/UP_logo.PNG)](https://www.up.pt/portal/en/) University of Porto
 
-![Martyna Podlasiak](fig/ppl/mpo.jpg)
+[![Martyna Podlasiak](fig/ppl/mpo.jpg)](colab/mpo.llms.md)
 
-### Martyna Podlasiak
+### [Martyna Podlasiak](colab/mpo.llms.md)
 
 University of Porto
 
-Research profile ↗
+[Research profile ↗](colab/mpo.llms.md)
 
-## ![University of Warsaw logo](fig/logo/UW_logo.png) University of Warsaw
+## [![University of Warsaw logo](fig/logo/UW_logo.png)](https://en.uw.edu.pl/) University of Warsaw
 
-![Julia Szkóp](fig/ppl/jsz.jpeg)
+[![Julia Szkóp](fig/ppl/jsz.jpeg)](colab/jsz.llms.md)
 
-### Julia Szkóp
+### [Julia Szkóp](colab/jsz.llms.md)
 
 University of Warsaw
 
-Research profile ↗
+[Research profile ↗](colab/jsz.llms.md)
 
-## ![Quadram Institute logo](fig/logo/QI_logo.png) Quadram Institute
+## [![Quadram Institute logo](fig/logo/QI_logo.png)](https://quadram.ac.uk/) Quadram Institute
 
-RK
+[RK](colab/rk.llms.md)
 
-### Rafał Kolenda
-
-Quadram Institute
-
-Research profile ↗
-
-KS
-
-### Katarzyna (Kasia) Sidorczuk
+### [Rafał Kolenda](colab/rk.llms.md)
 
 Quadram Institute
 
-Research profile ↗
+[Research profile ↗](colab/rk.llms.md)
+
+[KS](colab/ks.llms.md)
+
+### [Katarzyna (Kasia) Sidorczuk](colab/ks.llms.md)
+
+Quadram Institute
+
+[Research profile ↗](colab/ks.llms.md)

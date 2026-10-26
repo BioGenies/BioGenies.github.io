@@ -12,7 +12,7 @@ Academic CV and research profile of Oriol Bárcenas, a BioGenies collaborator.
 
 2 conference and training events
 
-![ML4NGP logo](../fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](../fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2025-05-20 – 2025-05-23
 
@@ -26,7 +26,7 @@ Talks, posters & participation (1)
 
   StriFi: Comprehensive database of Fibril Structures
 
-HUPO
+[![Human Proteome Organization (HUPO) logo](../fig/logo/conferences/hupo.png)](https://hupo.org/ "Human Proteome Organization (HUPO) logo")
 
 2024-10-20 – 2024-10-24
 

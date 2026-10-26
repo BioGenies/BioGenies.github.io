@@ -4,7 +4,7 @@ Explore BioGenies web applications, R packages, databases and open research soft
 
 Research methods, ready to use. Explore the web applications, databases and R packages developed by our team. Read the [research stories behind the tools](../subsite/research.llms.md#software).
 
-[Try our missing-data demo](../subsite/imputation-demo.llms.md) · [Read three tool stories in plain language](../subsite/stories.llms.md)
+[Read three tool stories in plain language](../subsite/stories.llms.md)
 
 ## Web servers
 

@@ -12,7 +12,7 @@ Research profile and academic CV of Krystyna (Krysia) Grzesiak: publications, ex
 
 9 conference and training events
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2026-09-16 – 2026-09-18
 
@@ -40,7 +40,7 @@ Talks, posters & participation (1)
 
   imputomics: how to impute metabolomics data
 
-Metabolomics
+[![Metabolomics Society logo](../fig/logo/conferences/metabolomics-society.png)](https://metabolomicssociety.org/ "Metabolomics Society logo")
 
 2025-06-22 – 2025-06-26
 
@@ -58,7 +58,7 @@ Earlier activities (6)
 
 2024 4
 
-HUPO
+[![Human Proteome Organization (HUPO) logo](../fig/logo/conferences/hupo.png)](https://hupo.org/ "Human Proteome Organization (HUPO) logo")
 
 2024-10-20 – 2024-10-24
 
@@ -72,7 +72,7 @@ Talks, posters & participation (1)
 
   Feature screening and model regularization for k-mer representations of biological sequences
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](../fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2024-09-11 – 2024-09-13
 
@@ -86,7 +86,7 @@ Talks, posters & participation (1)
 
   Feature screening and model regularization for k-mer representations of biological sequences
 
-ISMB
+[![ISMB 2024 Montréal conference logo](../fig/logo/conferences/ismb-2024-banner.png)](https://www.iscb.org/ismb2024/home "ISMB 2024 Montréal conference logo")
 
 2024-07-12 – 2024-07-16
 
@@ -100,7 +100,7 @@ Talks, posters & participation (1)
 
   imputomics: web server and R package for missing values imputation in metabolomics data
 
-Metabolomics
+[![Metabolomics Society logo](../fig/logo/conferences/metabolomics-society.png)](https://metabolomicssociety.org/ "Metabolomics Society logo")
 
 2024-06-16 – 2024-06-20
 

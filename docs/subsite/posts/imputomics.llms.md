@@ -18,8 +18,6 @@ imputomics, missing data, metabolomics, imputation, bioinformatics tools, machin
 
 [New to this topic? Read the plain-language story →](../../subsite/stories.llms.md#imputomics)
 
-[Try the interactive missing-data demo →](../../subsite/imputation-demo.llms.md)
-
 ------------------------------------------------------------------------
 
 📌 **Project highlights**

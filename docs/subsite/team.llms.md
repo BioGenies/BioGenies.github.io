@@ -6,101 +6,101 @@ Different backgrounds. Shared curiosity. We bring together biological questions,
 
 [Meet our collaborators](../subsite/colab.llms.md) · [Explore our research](../subsite/research.llms.md)
 
-![Laura Bąkała](fig/ppl/lb.png)
+[![Laura Bąkała](fig/ppl/lb.png)](team/lb.llms.md)
 
-### Laura Bąkała
+### [Laura Bąkała](team/lb.llms.md)
 
 BioGenies
 
-Research profile ↗
+[Research profile ↗](team/lb.llms.md)
 
-![Michał Burdukiewicz](fig/ppl/mb.jpeg)
+[![Michał Burdukiewicz](fig/ppl/mb.jpeg)](team/mb.llms.md)
 
-### Michał Burdukiewicz
+### [Michał Burdukiewicz](team/mb.llms.md)
 
 Medical University of Białystok · Vilnius University
 
-![Medical University of Białystok logo](fig/logo/MUB_logo.png)![Vilnius University logo](fig/logo/VU_logo.png)
+[![Medical University of Białystok logo](fig/logo/MUB_logo.png)](https://www.umb.edu.pl/en "Medical University of Białystok")[![Vilnius University logo](fig/logo/VU_logo.png)](https://www.vu.lt/en/ "Vilnius University")
 
-Research profile ↗
+[Research profile ↗](team/mb.llms.md)
 
-![Jarosław (Jarek) Chilimoniuk](fig/ppl/jc.png)
+[![Jarosław (Jarek) Chilimoniuk](fig/ppl/jc.png)](team/jc.llms.md)
 
-### Jarosław (Jarek) Chilimoniuk
+### [Jarosław (Jarek) Chilimoniuk](team/jc.llms.md)
 
 Vilnius University · Medical University of Białystok
 
-![Medical University of Białystok logo](fig/logo/MUB_logo.png)![Vilnius University logo](fig/logo/VU_logo.png)
+[![Vilnius University logo](fig/logo/VU_logo.png)](https://www.vu.lt/en/ "Vilnius University")[![Medical University of Białystok logo](fig/logo/MUB_logo.png)](https://www.umb.edu.pl/en "Medical University of Białystok")
 
-Research profile ↗
+[Research profile ↗](team/jc.llms.md)
 
-![Krystyna (Krysia) Grzesiak](fig/ppl/kg.jpeg)
+[![Krystyna (Krysia) Grzesiak](fig/ppl/kg.jpeg)](team/kg.llms.md)
 
-### Krystyna (Krysia) Grzesiak
+### [Krystyna (Krysia) Grzesiak](team/kg.llms.md)
 
-University of Wrocław · Medical University of Białystok
+University of Geneva · University of Wrocław
 
-![Medical University of Białystok logo](fig/logo/MUB_logo.png)![University of Wrocław logo](fig/logo/UWr_logo.png)
+[![University of Geneva logo](fig/logo/UdGe_logo.png)](https://www.unige.ch/en/ "University of Geneva")[![University of Wrocław logo](fig/logo/UWr_logo.png)](https://uwr.edu.pl/en/ "University of Wrocław")
 
-Research profile ↗
+[Research profile ↗](team/kg.llms.md)
 
-![Valentín Iglesias](fig/ppl/vi.png)
+[![Valentín Iglesias](fig/ppl/vi.png)](team/vi.llms.md)
 
-### Valentín Iglesias
+### [Valentín Iglesias](team/vi.llms.md)
 
 Medical University of Białystok
 
-![Medical University of Białystok logo](fig/logo/MUB_logo.png)
+[![Medical University of Białystok logo](fig/logo/MUB_logo.png)](https://www.umb.edu.pl/en "Medical University of Białystok")
 
-Research profile ↗
+[Research profile ↗](team/vi.llms.md)
 
-![Jakub Kołodziejczyk](fig/ppl/jk.jpeg)
+[![Jakub Kołodziejczyk](fig/ppl/jk.jpeg)](team/jk.llms.md)
 
-### Jakub Kołodziejczyk
+### [Jakub Kołodziejczyk](team/jk.llms.md)
 
 Google
 
-![Google logo](fig/logo/G_logo.png)
+[![Google logo](fig/logo/G_logo.png)](https://about.google/ "Google")
 
-Research profile ↗
+[Research profile ↗](team/jk.llms.md)
 
-![Joanna Pokora](fig/ppl/jp.jpeg)
+[![Joanna Pokora](fig/ppl/jp.jpeg)](team/jp.llms.md)
 
-### Joanna Pokora
+### [Joanna Pokora](team/jp.llms.md)
 
 University of Wrocław
 
-![University of Wrocław logo](fig/logo/UWr_logo.png)
+[![University of Wrocław logo](fig/logo/UWr_logo.png)](https://uwr.edu.pl/en/ "University of Wrocław")
 
-Research profile ↗
+[Research profile ↗](team/jp.llms.md)
 
-![Weronika Puchała](fig/ppl/wp.png)
+[![Weronika Puchała](fig/ppl/wp.png)](team/wp.llms.md)
 
-### Weronika Puchała
+### [Weronika Puchała](team/wp.llms.md)
 
 Institute of Biochemistry and Biophysics, Polish Academy of Sciences
 
-![Institute of Biochemistry and Biophysics, Polish Academy of Sciences logo](fig/logo/IBB_logo.png)
+[![Institute of Biochemistry and Biophysics, Polish Academy of Sciences logo](fig/logo/IBB_logo.png)](https://ibb.edu.pl/en/ "Institute of Biochemistry and Biophysics, Polish Academy of Sciences")
 
-Research profile ↗
+[Research profile ↗](team/wp.llms.md)
 
-![Mariia Rutkowska](fig/ppl/mr.jpeg)
+[![Mariia Rutkowska](fig/ppl/mr.jpeg)](team/mr.llms.md)
 
-### Mariia Rutkowska
+### [Mariia Rutkowska](team/mr.llms.md)
 
 Medical University of Białystok
 
-![Medical University of Białystok logo](fig/logo/MUB_logo.png)
+[![Medical University of Białystok logo](fig/logo/MUB_logo.png)](https://www.umb.edu.pl/en "Medical University of Białystok")
 
-Research profile ↗
+[Research profile ↗](team/mr.llms.md)
 
-![Damian Wilary](fig/temp_profile.png)
+DW
 
 ### Damian Wilary
 
 Medical University of Białystok
 
-![Medical University of Białystok logo](fig/logo/MUB_logo.png)
+[![Medical University of Białystok logo](fig/logo/MUB_logo.png)](https://www.umb.edu.pl/en "Medical University of Białystok")
 
 ## A group in motion
 
@@ -118,7 +118,7 @@ Conferences, workshops and research stays connect our team and collaborators acr
 
 One card per event edition, with everyone who attended listed together. Includes current and former members and collaborators.
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2026-09-16 – 2026-09-18
 
@@ -146,7 +146,7 @@ Talks, posters & participation (4)
 
   TickPacket
 
-![ML4NGP logo](fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2026-02-17 – 2026-02-20
 
@@ -186,7 +186,7 @@ Earlier events (87)
 
 2025 4
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2025-09-15 – 2025-09-17
 
@@ -234,7 +234,7 @@ Talks, posters & participation (1)
 
   imputomics: how to impute metabolomics data
 
-Metabolomics
+[![Metabolomics Society logo](fig/logo/conferences/metabolomics-society.png)](https://metabolomicssociety.org/ "Metabolomics Society logo")
 
 2025-06-22 – 2025-06-26
 
@@ -258,7 +258,7 @@ Talks, posters & participation (3)
 
   imputomics evolved: expanding imputation methods and redesigning benchmarks for missing data imputation
 
-![ML4NGP logo](fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2025-05-20 – 2025-05-23
 
@@ -292,7 +292,7 @@ Talks, posters & participation (5)
 
 2024 5
 
-HUPO
+[![Human Proteome Organization (HUPO) logo](fig/logo/conferences/hupo.png)](https://hupo.org/ "Human Proteome Organization (HUPO) logo")
 
 2024-10-20 – 2024-10-24
 
@@ -324,7 +324,7 @@ Talks, posters & participation (5)
 
   Confident protein datasets for liquid-liquid phase separation studies
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2024-09-11 – 2024-09-13
 
@@ -356,7 +356,7 @@ Talks, posters & participation (5)
 
   Strain-resolved metagenomics in analysis of gut microbiota dynamics within families
 
-ISMB
+[![ISMB 2024 Montréal conference logo](fig/logo/conferences/ismb-2024-banner.png)](https://www.iscb.org/ismb2024/home "ISMB 2024 Montréal conference logo")
 
 2024-07-12 – 2024-07-16
 
@@ -376,7 +376,7 @@ Talks, posters & participation (2)
 
   hadexversum: the family of HDX-MS tools
 
-Metabolomics
+[![Metabolomics Society logo](fig/logo/conferences/metabolomics-society.png)](https://metabolomicssociety.org/ "Metabolomics Society logo")
 
 2024-06-16 – 2024-06-20
 
@@ -392,7 +392,7 @@ Talks, posters & participation (1)
 
   Imputomics: Simplifying Metabolomics Data Imputation with All-in-One Access
 
-![ML4NGP logo](fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2024-05-14 – 2024-05-17
 
@@ -486,7 +486,7 @@ Talks, posters & participation (1)
 
   Imputomics: comprehensive missing value imputation for metabolomics data
 
-![ML4NGP logo](fig/logo/ml4ngp_logo.png)
+[![ML4NGP research network logo](fig/logo/ml4ngp_logo.png)](https://ml4ngp.eu/ "ML4NGP research network logo")
 
 2023-07-05 – 2023-07-07
 
@@ -540,7 +540,7 @@ Talks, posters & participation (1)
 
 2022 10
 
-HUPO
+[![Human Proteome Organization (HUPO) logo](fig/logo/conferences/hupo.png)](https://hupo.org/ "Human Proteome Organization (HUPO) logo")
 
 2022-12-04 – 2022-12-08
 
@@ -806,7 +806,7 @@ Talks, posters & participation (1)
 
   Reproducible analytic workflows in R with drake and renv
 
-Why R?
+[![Why R? conference series logo](fig/logo/conferences/why-r.png)](https://whyr.pl/ "Why R? conference series logo")
 
 2020-09-24 – 2020-09-27
 
@@ -872,7 +872,7 @@ Talks, posters & participation (1)
 
   Just give me a p-value: statistical analysis of deuterium uptake curves in HDX-MS
 
-Why R?
+[![Why R? conference series logo](fig/logo/conferences/why-r.png)](https://whyr.pl/ "Why R? conference series logo")
 
 2019-09-26 – 2019-09-29
 
@@ -900,7 +900,7 @@ Talks, posters & participation (4)
 
   AmyloGram 2.0: MBO in the prediction of amyloid proteins
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2019-09-19 – 2019-09-21
 
@@ -928,7 +928,7 @@ Talks, posters & participation (4)
 
   In silico identification and phylogeny of components responsible for protein import into thylakoids of Paulinella photosynthetic species
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2019-09-19 – 2019-09-21
 
@@ -996,7 +996,7 @@ Talks, posters & participation (1)
 
   Analysis of data from hydrogen-deuterium exchange mass spectrometry experiments
 
-ISMB \| ECCB
+[![International Society for Computational Biology (ISCB), conference organiser logo](fig/logo/conferences/iscb.png)](https://www.iscb.org/conferences-events "International Society for Computational Biology (ISCB), conference organiser logo")
 
 2019-07-21 – 2019-07-25
 
@@ -1154,7 +1154,7 @@ Talks, posters & participation (1)
 
   Evaluation of mutational impact on prion-like proteins aggregation propensity.
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2018-09-05 – 2018-09-07
 
@@ -1328,7 +1328,7 @@ Talks, posters & participation (1)
 
   Challenges in the computational prediction of peptide amyloidogenicity
 
-ISMB \| ECCB
+[![International Society for Computational Biology (ISCB), conference organiser logo](fig/logo/conferences/iscb.png)](https://www.iscb.org/conferences-events "International Society for Computational Biology (ISCB), conference organiser logo")
 
 2017-07-21 – 2017-07-25
 
@@ -1430,7 +1430,7 @@ Talks, posters & participation (1)
 
   N-gram analysis of biological sequences in R
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2016-09-28 – 2016-09-30
 
@@ -1626,7 +1626,7 @@ Talks, posters & participation (1)
 
   N-gram analysis of amyloid data
 
-PTBI
+[![Polish Bioinformatics Society (PTBI) logo](fig/logo/conferences/ptbi.jpg)](https://www.ptbi.org.pl/website/ "Polish Bioinformatics Society (PTBI) logo")
 
 2015-09-17 – 2015-09-19
 
